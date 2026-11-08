@@ -1,5 +1,37 @@
 [
   {
+    "id": "f8288a15-1299-5cf8-9502-12e80b58de92",
+    "title": "Keep Driving – v1.4.3.2d",
+    "slug": "keep-driving",
+    "categories": [
+      "Adventure",
+      "Driving",
+      "Side",
+      "2D",
+      "Retro look"
+    ],
+    "size_original": "703 MB",
+    "size_repack": "337 MB",
+    "description": "A long, slow summer lies ahead. Hearing about a festival on the other side of the country, you fire up your engine, plot a course on your map, and hit the road. How, if you get there at all, is up to you.\n\nKeep Driving is a management RPG about slowly making your way through a procedurally generated pixel art open world. Pick up hitchhikers with their own personalities and stories; upgrade, customize and repair your car. Solve challenges on the road using a unique turn-based ‘combat’ system, using your own skills and whatever’s lying around in the glovebox to make it through.\n\nAt the end of your road trip, return back to the beginning and see what happens if you had followed a different path. There are multiple endings, with each taking about 1-4 hours to complete. Immerse yourself in the land through its highways, dirt tracks, and calm country roads. And remember to enjoy the ride. You’re young and don’t have much to lose.\n\n**Repack Features**\n\n- Based on Keep.Driving.v1.4.3.2d-TENOKE ISO release: tenoke-keep.driving.v1.4.3.2d.iso (737,538,048 bytes)\n- Game version: v1.4.3.2d\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 703 to 337 MB)\n- Installation takes half-a-minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 703 MB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A procedurally generated pixel art world to explore one road at a time.\n- A nostalgic early 2000s setting with an emphasis on the analogue.\n- Use turn-based ‘combat’ to solve situations (like getting stuck behind a tractor).\n- Pick up misfits, oddballs and lost souls as you go.\n- Collect songs and listen to a mix CD of local Swedish indie bands.\n- Multiple endings to unlock when you return to the road.\n- Inspired by Oregon Trail II, FTL, Two Lane Blacktop, Paris Texas, Jalopy, Gloom Haven, The 7th Continent, and the developer’s lives.",
+    "cover_url": "https://i6.imageban.ru/out/2025/02/08/2d2b8dd1f61be0046db3b1ea3789e638.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/86/f2/86f2dc17-1a9a-4c07-8bb4-17938219d20f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/17/f5/17f5a2cb-92a3-4050-80b2-4eab5d688289.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/d4/1ed408ee-1e96-4bba-afd8-5ce3521e3648.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/99/a799ce42-a8a2-4ca1-b024-f0d7c83165e0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c1/12/c11236a1-4f90-4ad3-b786-189d96bf1dd9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c6/a0/c6a0afd9-dd52-42b2-9b5f-f08458268e0d.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2756920/extras/kd_steam_1c.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-keep-driving",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T10:55:52.290931+00:00"
+  },
+  {
     "id": "acef4b51-ee51-55ae-e7eb-dac41ed19f5c",
     "title": "Stygian: Outer Gods – v05b68d5f",
     "slug": "stygian-outer-gods",
