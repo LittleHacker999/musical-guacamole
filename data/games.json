@@ -1,5 +1,37 @@
 [
   {
+    "id": "c75b6fbc-e0e5-5348-b237-06f8467910a4",
+    "title": "Victoria 3: Ultimate Bundle, v1.15.0 + 20 DLCs/Bonuses + Windows 7 Fix",
+    "slug": "victoria-3",
+    "categories": [
+      "Strategy",
+      "Grand strategy",
+      "Pausable real-time",
+      "Isometric",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "10.4 GB",
+    "size_repack": "from 5.7 GB",
+    "description": "SHAPE A GRAND TOMORROW:\nParadox Development Studio invites you to build your ideal society in the tumult of the exciting and transformative 19th century. Balance the competing interests in your society and earn your place in the sun in Victoria 3, one of the most anticipated games in Paradox’s history.\n\nThis repack IS partially backwards compatible with my previous V3 repack. You can rehash fg-optional-bonus-soundtracks.bin to save 352 MB of traffic.\n\n**Repack Features**\n\n- Based on Victoria.3.State.and.Revolution-RUNE ISO release: rune-victoria.3.state.and.revolution.iso (11,181,752,320 bytes)\n- Game version: v1.15.0; 20 DLCs/bonuses are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OSTs in FLAC format ripped, NOTHING re-encoded\n- Selective download feature: you may skip downloading and installing of bonus soundtracks in MP3 format\n- Significantly smaller archive size (compressed from 10.4 to 5.7~6.1 GB, depending on selected components)\n- Installation takes 3-13 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 16.8 GB\n- Language can be changed in game settings\n- To avoid game crash on launch, remove or rename “binaries/dbghelp.dll” file\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Lead dozens of world nations from 1836-1936. Agrarian or Industrial, Traditional or Radical, Peaceful or Expansionist… the choice is yours.\n- Detailed population groups with their own economic needs and political desires.\n- Reform your government and constitution to take advantage of new social innovations, or preserve the stability of your nation by holding fast to tradition in the face of revolutionaries.\n- Research transformative new technology or ideas to improve your national situation.\n- Expand your industry to take advantage of lucrative goods, taxing the profits to improve national prosperity.\n- Import cheap raw materials to cover your basic needs while finding new markets for your finished goods.\n- Secure vital goods to fuel your advanced economy and control the fate of empires.\n- Balance employing available labor force with the needs for new types of workers.\n- Use your diplomatic wiles to weave a tangled global web of pacts, relations, alliances, and rivalries to secure your diplomatic position on the world stage.\n- Employ threats, military prowess and bluffs to persuade enemies to back down in conflicts.\n- Increase your economic and military strength at the expense of rivals.\n- Accumulate prestige and the respect of your rivals as you build an industrial giant at home or an empire abroad.\n- Victoria II Remastered Songs\n- American Buildings Pack\n- Voice of the People – Immersion Pack\n- Melodies for the Masses – Music Pack\n- French Agitators Bonus Pack\n- Dawn of Wonder – Art Pack\n- Sphere of Influence – Expansion\n- Colossus of the South – Region Pack\n- Trains – Bonus Pack\n- Pivot of Empire – Immersion Pack\n- Charters of Commerce – Mechanics Pack\n- National Awakening – Immersion Pack\n- Songs of the Homeland – Music Pack\n- Iberian Twilight – Immersion Pack\n- Trade Ships – Bonus Pack\n- Ultimate Bundle\n- Volume 3\n- Warships – Bonus Pack\n- The Great Wave – Expansion\n- State and Revolution – Immersion Pack\n- Run “KexSetup_x64Rel.exe” from “_Windows 7 Fix” folder and install that extension\n- Open “binaries/victoria3.exe” file properties in Explorer, then “VxKex” tab\n- Check “Enable VxKex for this program” and “Report a different version of Windows, Windows 10” checkboxes, Apply, OK\n- Run the game as usual",
+    "cover_url": "https://i1.imageban.ru/out/2025/09/24/f2310b8fa0a653e4d01de2a49159c8cf.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b8/81/b8817928-02e4-4bb6-a299-0fc6b4ef8ef1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/13/71/1371307f-b942-49a4-9ab4-fcdea4381d9c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/49/63/49637f0b-e9f4-4ac1-a71a-83465563ef49.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/4a/8c4a372b-d7e7-4626-8602-96a432528b5d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/48/b34881d5-edbc-4b6c-a698-24363f810bb9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/fe/aafe95e7-2836-458d-972c-a71731d8ab60.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-victoria-3",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T08:20:42.993471+00:00"
+  },
+  {
     "id": "b56c5900-5e7e-5983-edd8-cb59ddc9a3a3",
     "title": "Lightyear Frontier & Soundtrack Bundle – v1.0.2540 + 2 DLCs/Bonuses",
     "slug": "lightyear-frontier",
