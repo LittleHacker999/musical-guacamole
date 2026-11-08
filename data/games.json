@@ -1,5 +1,36 @@
 [
   {
+    "id": "c2ac0e82-a483-53b1-ac68-331977a0ed99",
+    "title": "Crusader Kings III: Collection, v1.20.0.2 (Crozier) + 35 DLCs + Windows 7 Fix",
+    "slug": "crusader-kings-3",
+    "categories": [
+      "Strategy",
+      "Grand strategy",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "8.4 GB",
+    "size_repack": "5.2 GB",
+    "description": "**Repack Features**\n\n- Based on Crusader.Kings.III.By.God.Alone-RUNE scene ISO release: rune-crusader.kings.iii.by.god.alone.iso (9,027,682,304 bytes)\n- Game version is v1.20.0.2 (Crozier); 35 DLCs are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 8.4 to 5.2 GB)\n- Installation takes 5-15 minutes (depending on your system, mostly on drive speed – the game has more than 52000 files and installs slowly on HDDs)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 18.3 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Choose a royal or noble house from a number of realms on a map that stretches from Iceland to India, from the Arctic Circle to Central Africa.\n- Guide a dynasty through the centuries, ensuring the security and power of each new generation. Gather new lands and titles to cement your legacy.\n- Be a pious king to bring the religious powers to your side, or strike out on your own, designing your own splinter religion and earning everlasting fame or eternal damnation.\n- Knights, peasant revolts, pilgrimages, Viking raiders… experience the drama and pageantry of the Middle Ages.\n- Adopt one of five different lifestyles, perfecting your skills in military strategy or kingdom management.\n- Acquire character traits that will guide your actions, but beware if you act against your nature! The stress from denying your truest self could bring a new host of troubles!\n- Choose appropriate guardians for your heirs, or train them yourself. But what do you do if the legal heir is not quite up to the job?\n- Violent characters may develop a fearsome reputation, cowering your timid subjects into obedience with the dread you inspire.\n- Recruit men-at-arms units and powerful knights to supplement your royal levies.\n- Research new technologies to increase the wealth and military might of your realm.\n- Hire mercenaries and Holy Orders for your major wars.\n- Supplement your income with ransomed prisoners or raiding parties on neighboring realms.\n- Use your spymaster to discover plots against your dynasty and your rule.\n- Recruit agents to assist your schemes to undermine or murder anyone who stands between you and power.\n- Seduce other characters for love or political power.\n- Gather information for blackmailing purposes or call in favors whenever your plans need an extra bit of influence.\n- All Under Heaven\n- By God Alone\n- Chapter III\n- Chapter IV\n- Chapter V\n- Coronations\n- Couture of the Capets\n- Creator Pack: Arctic Attire\n- Creator Pack: Celestial Court Attire\n- Creator Pack: East Asian Wonders\n- Creator Pack: High Medieval Warfare Attire\n- Creator Pack: Holy Buildings\n- Creator Pack: Medieval Monuments\n- Creator Pack: North African Attire\n- Creator Pack: North Pacific Attire\n- Creator Pack: West Slavic Attire\n- Crowns of the World\n- Elegance of the Empire\n- Fashion of the Abbasid Court\n- Fate of Iberia\n- Friends & Foes\n- Garments of the Holy Roman Empire\n- Khans of the Steppe\n- Legacy of Persia\n- Legends of the Dead\n- Many Roads to Power – Comic Book\n- Northern Lords\n- Roads to Power\n- Royal Court\n- Songs of the Realm\n- Subscription\n- Symbols of Authority\n- Tours & Tournaments\n- Wandering Nobles\n- Wards & Wardens\n- Run “KexSetup_x64Rel.exe” from “_Windows 7 Fix” folder and install that extension\n- Open “binariesck3.exe” file properties in Explorer, then “VxKex” tab\n- Check “Enable VxKex for this program” and “Report a different version of Windows, Windows 10” checkboxes, Apply, OK\n- Run the game as usual",
+    "cover_url": "https://i5.imageban.ru/out/2022/02/09/18a576382318c489d76b7c456e70dd33.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/be/25/be25f2eb-30c6-457e-bcec-7daba120f3d2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/87/48/87487878-bb7a-4ccf-b776-8dfba161580b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/ed/2cedc97a-ea57-4d0a-a196-f1dbaaae0425.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/af/9e/af9e262b-213d-4670-81e0-9d2c03339f44.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5f/7f/5f7ffbd9-7da8-4a6f-a16a-fa01287d5476.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/b6/8bb65e6f-3fbd-4cd3-859b-d47b99b52a9e.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/extras/4s.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-crusader-kings-3",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T23:32:15.229172+00:00"
+  },
+  {
     "id": "9ff215ba-08b1-51bc-9dc1-35bede583097",
     "title": "Nivalis Nights",
     "slug": "nivalis-nights",
