@@ -1,5 +1,35 @@
 [
   {
+    "id": "cd16fe3a-07f1-576b-6033-000e97ff3aa8",
+    "title": "God of War III Remastered – v1.01/v1.02 (Recompiled for PC v2.3.0)",
+    "slug": "god-of-war-3-remastered",
+    "categories": [
+      "Action",
+      "Slasher",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "50.7 GB",
+    "size_repack": "from 9.8 GB",
+    "description": "Set in the realm of brutal Greek mythology, God of War III Remastered is the critically acclaimed single-player game that allows players to take on the fearless role of ex-Spartan warrior, Kratos, as he rises from the darkest depths of Hades to scale the very heights of Mt Olympus and seek his bloody revenge on those who have betrayed him. Armed with double-chained blades and an array of new weapons and magic, Kratos must take on mythology’s deadliest creatures while solving intricate puzzles throughout his merciless quest to destroy Olympus.\n\n**Repack Features**\n\n- Based on PS4 CUSA01715 MULTi10 release with v1.01 patch: 50.5 GB\n- “gow3_pc” v2.3.0 by FelipePrado0 installed over\n- Currently the recompiled game have issues with patch v1.02 installed, so I put it into “_Update to v1.02” folder. You can copy it’s content to the game root, when recompile mature\n- Check this page for newer builds if you have issues: https://github.com/FelipePrado0/gow3_pc\n- When you run the game the first time, select the “game” folder inside the installed repack folder. This folder contains “eboot.bin”, which is required for the recompiler to work\n- Adjust all needed settings (graphics, controls, etc) and play. On next runs you can use “gow3-windows\\Play God of War III.exe” instead of the “God of War III.exe” to run the game without a launcher\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of optional credits/bonus videos and voiceover packs you don’t need. English VOs are included by default\n- Significantly smaller archive size (compressed from cumulative 50.7 to 9.8~28 GB, depending on selected components)\n- Installation takes 2-20 minutes (depending on your drive speed & selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 50.7 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2026/10/16/386560b64fe7181e2b5b0be7362735fa.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/69/a9/69a92c41-051f-4638-9c3e-e0e078e45523.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0c/1d/0c1d63c1-8307-4f8c-8901-9a1c8d580a1b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/79/65/79657878-27c0-4e0e-a496-c7ed37da48ef.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a6/eb/a6ebfaed-59b7-4896-98f4-37e99f8fe258.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/05/ef/05ef5691-957b-4fe5-943c-b296426aa1d7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/24/fc24f1ca-dc3d-420f-945e-36e2c09fcd7a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-god-of-war-3-remastered",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T17:47:13.523260+00:00"
+  },
+  {
     "id": "698b9f87-e96f-5d78-b808-2e8e483e4d7d",
     "title": "Foundation: Supporter Edition – v1.12.0.12 + 3 DLCs/Bonuses",
     "slug": "foundation",
