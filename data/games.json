@@ -1,5 +1,36 @@
 [
   {
+    "id": "c3d4ad58-5173-59df-bda1-1533b6476a4b",
+    "title": "Frosthaven – v1.0.34024",
+    "slug": "frosthaven",
+    "categories": [
+      "Strategy",
+      "Tactics",
+      "Top-down",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "28.5 GB",
+    "size_repack": "14.9 GB",
+    "description": "An evolution of the FROSTHAVEN board game experience, the dark fantasy tactical RPG serves as a spiritual successor to Gloomhaven and is developed by Snapshot Games. Players can expect deep mechanics and challenging yet immensely satisfying gameplay both in Single Player and Co-Op Online Multiplayer. Seasoned veterans of the original board game or Gloomhaven will feel right at home venturing into the unforgiving and treacherous northern frontier of FROSTHAVEN. Newcomers can start their first adventure with difficulty modes tailored to their skill level. Improved UX and quality-of-life features will ensure all players can enjoy their experience.\n\nThe brand-new character classes, each featuring unique playstyles and abilities, makes it so that every decision matters. Players must balance risk and reward, working towards the best synergies between the classes comprising their party. Carefully managing resources is paramount to progress through a gripping campaign, set in a vast world filled with menacing enemies and diverse environments.\n\n**Repack Features**\n\n- Based on Frosthaven-RUNE ISO release: rune-frosthaven.iso (30,597,283,840 bytes)\n- Game version: v1.0.34024\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 28.5 to 14.9 GB)\n- Installation takes 7-20 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 39 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- UNIQUE CHARACTERS – Choose from six starting character classes—including the Banner Spear, Boneshaper, Drifter, Geminate, Blinkblade, and Deathwalker\n- Additional classes will be unlocked as you progress your campaign\n- Each class features its own unique abilities and playstyle to master\n- DEEP, TACTICAL COMBAT – Engage in deep, tactical turn-based combat, testing your skills against an array of new enemies and formidable bosses\n- Utilize an ability card system that requires careful planning to unleash devastating attacks, execute powerful combos, and try keeping your party members alive\n- BUILD YOUR OUTPOST – Manage the Outpost, constructing and upgrading various buildings, unlocking new game features and mechanics\n- A STUNNING WORLD TO EXPLORE – A stunning art style, highly detailed models and textures, and expressive animations all bring the world of FROSTHAVEN to life\n- Be ready to explore diverse biomes, changing seasons, and dynamic environments as your adventure progresses",
+    "cover_url": "https://i2.imageban.ru/out/2026/10/17/3d18f33b138ba30040585fee5bd87148.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/56/59/56592f82-99f0-4aa6-8a66-392f94e3ce93.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/27/7e/277e99e2-0f13-45ff-8765-b80277c827d3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/16/97/1697f764-f96a-42e8-9179-bb6b7bb55673.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/f2/a2f281e2-bbe4-4836-979c-2a3623adc622.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9a/32/9a3259ab-aa66-419e-aa4a-f732e3f0c06d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e2/74/e2749a71-84b7-4196-8c7c-fa3d03df9331.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-frosthaven",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T17:32:16.137728+00:00"
+  },
+  {
     "id": "67b7dcbb-a4e8-54f0-cf11-21e54572cfef",
     "title": "Bloodborne: Game of the Year Edition, v1.09 + All DLCs + Online (Recompiled for PC v1.9.6)",
     "slug": "bloodborne",
