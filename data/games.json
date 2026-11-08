@@ -1,5 +1,36 @@
 [
   {
+    "id": "ce33c4cf-8b5d-56f1-894f-7967c2b5b6e3",
+    "title": "Phantom Blade Zero: Deluxe Edition – v301524-17219 + 2 DLCs",
+    "slug": "phantom-blade-zero",
+    "categories": [
+      "RPG",
+      "Action RPG",
+      "Third-person",
+      "3D",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "140.6 GB",
+    "size_repack": "110.8 GB",
+    "description": "Phantom_Blade_Zero_Update_from_v301524_to_v302256_Hypervisor-ElAmigos.rar (Source: ElAmigos)\n\nPlease read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\nThrough rain and blood, kindness and vengeance, he embarks on a journey where love and hatred intertwine in search of a heart.\n\nExplore the mysterious Phantom World, where shifting light and shadow conceal mysteries at every turn.\n\nMemory Flowers, the Wulin and the Discordance, Transcension, the Lady of the Veil, Inanis’ Dreamscape…\n\nWhen one path ends, another begins. Hidden passages and intricate mechanisms await those who dare to explore.\n\nMaster over 30 primary weapons and more than 20 unique Phantom Edges, wrested from the hands of fallen foes.\n\nRooted in traditional martial arts, combat flows through seamless combos that are easy to learn yet rewarding to master. Only true masters will uncover the deadly intricacies within every technique.\n\nBlades clash in showers of sparks. Dodge, deflect, counter, and strike in one seamless flow, where victory and defeat are decided in an instant.\n\nWill the next turn leave the sands stained with blood, or lead you back from the brink of death?\n\nMartial arts, cold steel, mechanical prosthetics, crumbling industrial ruins, traditional Chinese aesthetics, and modern rock music.\n\nPowered by Unreal Engine 5 and cutting-edge motion capture technology, renowned martial arts choreographers from the golden age of wuxia cinema collaborated to bring authentic Chinese kungfu to life. Every strike and stance in Phantom Blade Zero is rooted in real martial techniques.\n\nExperience the timeless allure of Chinese kungfu through breathtaking cinematic action.\n\n**Repack Features**\n\n- Based on Steam BuildID 26266538 release: 140.6 GB\n- Hypervisor Bypass (INTEL & AMD) by ARTIFACT + Goldberg emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v2.0 added\n- Custom launcher added for easier HV steps processing\n- Game version: v301524-17219; 2 DLCs (Pre-Purchase Bonus & Deluxe Edition Upgrade) are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 140.6 GB to 110.8 GB)\n- Installation takes from 70 minutes (on 32-threads CPU) up to ~3 hours (on 8-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 140.6 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 3 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2026/10/31/73dca9b0ed13f92c8f1a83af09fcf3ac.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/90/b7/90b794cc-aad5-4cf7-93be-4b4e46b8868f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/44/9f44af58-1e37-4ddc-8996-6f1cb22a19b7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/51/d4/51d4b2d8-b5c0-4992-a1a9-ee2438cf639b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/25/81/25816a12-17a7-4c60-9521-e8912c08fd36.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3c/16/3c16fa1a-4817-4ad7-88f1-28671375bd93.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/18/2c183b90-e0be-4600-9771-b0bea51c41cd.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-phantom-blade-zero",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T10:40:47.082783+00:00"
+  },
+  {
     "id": "3b0ad594-172e-5211-251f-e9566debb54e",
     "title": "Risk of Rain 2 Bundle, v1.5.0 #1210 + 7 DLCs/Bonuses",
     "slug": "risk-of-rain-2",
