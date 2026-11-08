@@ -1,5 +1,35 @@
 [
   {
+    "id": "6ea595a1-0ad2-5300-db83-cf54234ed46d",
+    "title": "DinoBones: Tidy Up the Museum – v5.9.2",
+    "slug": "dinobones-tidy-up-the-museum",
+    "categories": [
+      "Lifestyle",
+      "Physics-based",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "2.5 GB",
+    "size_repack": "807 MB",
+    "description": "Collect – Pick up bones from the floor, the stairs, and wherever the crates spilled them\n\nIdentify – Every bone starts as “Unknown”. Figure out which skeleton it belongs to\n\nOpen crates, tip them over, or just throw them, and start rebuilding. Each dinosaur’s bones have their own look, color, texture, wear, and the more you place them, the faster you recognize them. No skill trees, no upgrades. Just you getting better.\n\nAs skeletons come together, you’ll trigger special events around the museum. Each one leaves something behind: little rewards, toys, and surprises that make the place feel like yours.\n\n**Repack Features**\n\n- Based on DinoBones.Tidy.Up.the.Museum-TENOKE ISO release: tenoke-dinobones.tidy.up.the.museum.iso (2,685,915,136 bytes)\n- Game version: v5.9.2\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.5 GB to 807 MB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.5 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2026/10/06/f252a063c0c36dd9f5cc121c2e69abf3.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/09/f5/09f5158f-f2b9-4ad0-ba46-5bbf57480f49.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/06/1d/061d3bb9-f0eb-434d-ac94-042f16e9b02e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b1/3b/b13b5067-4ec7-44d1-ac93-11d60baeae88.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/14/60/1460686d-42a1-444a-a59c-8e18ff8e495e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/86/03/8603b1b8-4702-4157-85d0-caf946a8f028.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/b8/8eb8b8ee-53c5-4c04-86cd-657be71642a0.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dinobones-tidy-up-the-museum",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T21:47:14.619458+00:00"
+  },
+  {
     "id": "94e6ad99-00fe-5b72-2889-7fa688795d99",
     "title": "Mini Airways: Ultimate Edition, v1.3.43 + 2 DLCs",
     "slug": "mini-airways",
