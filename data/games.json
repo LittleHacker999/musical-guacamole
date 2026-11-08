@@ -1,5 +1,36 @@
 [
   {
+    "id": "041934b2-e9c9-5741-c8ec-b75c64766044",
+    "title": "ASPIS",
+    "slug": "aspis",
+    "categories": [
+      "Action",
+      "Shooter",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "18 GB",
+    "size_repack": "from 10.9 GB",
+    "description": "Among them is Andrey, an engineer who agreed to the experiment for a single chance to see his deceased wife, Anna, and daughter, Liza, once more. But instead of generating a controlled simulation, ASPIS opens a path to places its creators never intended to reach.\n\nAndrey’s journey begins at the Institute of Cybernetics and gradually leads him far from familiar reality: toward distorted versions of recognizable places, ancient structures, and worlds that existed long before ASPIS was ever launched.\n\nExplore the environment, find documents and records, interface with OGAS terminals, and piece together the events of the experiment. The story unfolds gradually through the world itself, character encounters, and cinematic scenes.\n\nExploration eventually gives way to chases and confrontations. The Guardian cannot simply be shot and killed: it pursues Andrey through corridors and rooms, forcing him to keep moving and find a way out under constant pressure.\n\nOther opponents can be fought using a Makarov pistol and melee combat, while ammunition and other resources must be found along the way.\n\nThe PEP-01 allows you to interact with Energy X: capturing and transferring it, powering machinery, and changing the state of specific mechanisms.\n\nWith its help, Andrey also opens astral windows between different layers of reality. Objects unreachable in one state of the world can be seen and extracted from another, using this mechanic for exploration and solving spatial puzzles.\n\nAndrey is not alone inside ASPIS. Along the way, he encounters other volunteers, the Institute Director, and beings who seem far more familiar with the worlds opened by the machine than Andrey is.\n\nA talking Cat knows the ancient pathways and clearly understands what is happening better than he is willing to share. In one of the worlds, Andrey also meets the Devil — but none of them gives Andrey the whole picture.\n\nThe further Andrey goes, the more deeply the experiment becomes tied to the reason he agreed to enter ASPIS in the first place.\n\nIn the finale, the player will have to make a single choice that will determine Andrey’s fate and lead to one of two endings.\n\n**Repack Features**\n\n- Based on ASPIS-RUNE ISO release: rune-aspis.iso (19,326,074,880 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing Russian and/or MP4-format videos\n- Significantly smaller archive size (compressed from 18 GB to 10.9~12.4 GB, depending on selected components)\n- Installation takes 3-10 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 18.3 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2026/10/27/3e5a67252f9bb52daf95e6aa5a8e85dc.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/c0/a7/c0a7cdf2-65ee-4c7e-90fc-55320faea849.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ee/c2/eec2d99b-ccb5-4267-9c13-4cd80dd36c97.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/4b/664b078c-6b92-4e1c-aa24-08072dd14d64.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c8/ee/c8ee27ec-76da-42eb-9487-3a8b713a2624.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/39/b5/39b58fad-7a1d-40fa-b719-a1fb69ab2429.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b4/fa/b4fae581-8f10-484e-b9fd-e2b78f7bee22.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-aspis",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T12:25:54.807040+00:00"
+  },
+  {
     "id": "1c572ee4-5f70-569a-83a5-a339d0b9a855",
     "title": "over the hill: Supporter Pack Bundle – v26.10.22 + 2 Bonus DLCs",
     "slug": "over-the-hill",
