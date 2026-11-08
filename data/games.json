@@ -1,5 +1,34 @@
 [
   {
+    "id": "43a03222-f5d9-55ca-6745-a5d8637d745c",
+    "title": "Hubert",
+    "slug": "hubert",
+    "categories": [
+      "Lifestyle",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "12 GB",
+    "size_repack": "9.4 GB",
+    "description": "Open desktop icon properties and add -full parameter in the Target input field, so it would like this:\n\nWarning: This game contains mild mischief, stubborn sheep, and a dog who thinks he’s the main character (He might be right.)\n\n**Repack Features**\n\n- Based on Hubert-RUNE ISO release: rune-hubert.iso (12,884,082,688 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 12 to 9.4 GB)\n- Installation takes 6-18 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 12.2 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Meet Hubert, a fluffy and overconfident dog with a nose for trouble. He sees the world through movement, scent, instinct, and curiosity.\n- You experience the journey entirely from Hubert’s perspective, as a devoted working dog learning his place in a quiet world that slowly proves less predictable than it seems.\n- Hubert is not alone. By his side is Lily, a sharp-witted kid who just convinced the grumpiest farmer in the valley to give them a job.\n- Their relationship grows through shared routines, small moments, and quiet trust.\n- As the world around them changes, that bond is tested in subtle ways, shaping how Hubert sees the world and why he keeps going.\n- Their mission is to herd dozens of mildly chaotic sheep across pastures. Easy, right?\n- Well, not when the sheep have the attention span of a goldfish and the farmer has zero patience.\n- Herding With Heart (and Fur): Commander Hubert is leading a battalion of sheep.\n- A Story Full of Barks and Blunders: Navigate farm life, forge unlikely friendships, and try to stay on the farmer’s good side, or at least out of range of his angry voice.\n- Beyond the fence line, the land grows quieter and stranger.\n- There is something in the woods? Something is out there. It is not just a threat, but a call Hubert understands in ways he cannot fully explain.\n- Brush-Painted Charm: Explore a countryside that feels warm and inviting on the surface, yet hides moments of unease, mystery, and the occasional howling at the moon.",
+    "cover_url": "https://i2.imageban.ru/out/2026/10/18/4fdd3673204fdd2b911ce533386db6d4.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/1f/91/1f91954c-5208-4079-8773-307b825f7292.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/ba/d2baac2a-e792-49d6-9b5b-268f0d9eac27.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b7/ba/b7ba0c16-bbaf-4803-8445-2aea06318112.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/34/5d/345dc40c-77ab-4c98-bf29-f16cc0c4980a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/77/aa/77aa950c-6deb-45b8-98d0-1069f379934f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/76/aa/76aa18d2-a5a7-4433-a3fb-59b56c8f1cfb.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-hubert",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T17:02:15.136098+00:00"
+  },
+  {
     "id": "10306c80-03df-5f84-644e-6ff4d97d2f29",
     "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Ultimate Edition, v1.83 + 22 DLCs",
     "slug": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-pc",
