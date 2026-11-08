@@ -1,5 +1,77 @@
 [
   {
+    "id": "0329b577-528c-5d18-5edd-f283c8bf350a",
+    "title": "DRIVECLUB – v1.28 EU/US + All DLCs (Recompiled for PC v0.2.5)",
+    "slug": "driveclub",
+    "categories": [
+      "Arcade",
+      "Racing",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "35.1 GB",
+    "size_repack": "9 GB",
+    "description": "The core experience revolves around the concept of clubs, allowing up to six players to band together to form cohesive racing teams. Within these clubs, members work collaboratively to complete distinct challenges, earn Accrued Fame points, and level up to unlock exclusive vehicles and rewards. The game seamlessly integrates synchronous and asynchronous multiplayer elements, constantly pushing real-time “Faceoffs” and dynamically generated community challenges onto the player’s screen, ensuring that every corner turned contributes to their team’s global standing.\n\nUpon its initial launch, Driveclub suffered from severe server instability that overshadowed its release; however, subsequent updates transformed it into a critical success and a visual showcase for the PlayStation 4. The developers introduced an industry-leading dynamic weather system and an expansive photo mode that highlighted the game’s stunning graphical fidelity. Despite its eventual redemption and strong post-launch support, Sony officially shut down the game’s online servers in March 2020 and removed the title from digital storefronts, leaving it accessible today only through physical disc copies for offline play.\n\n**Repack Features**\n\n- Based on two PS4 releases: CUSA00003 (European) & CUSA00093 (US), both updated to v1.28 and bundled with all released DLCs\n- You can switch between versions by running “Switch to European Version.bat” or “Switch to US Version.bat”, though it doesn’t change anything but saves location – builds are almost identical\n- driveclub-recomp” v0.2.5 by OverkillLabs3 installed over\n- Check this page for newer builds if you have issues: https://github.com/OverkillLabs3/driveclub-recomp\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 35.1 to 9 GB)\n- Installation takes 2-10 minutes (depending on system, mostly on your drive speed)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 35.1 GB (up to 47.1 GB during installation)\n- Language can be changed in the launcher settings (not all languages are available in the included dumps)\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2026/10/22/77811887065427c23d6183b9fa426a89.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/da/29/da29c9e7-f640-4126-9afd-8ca9b1aecc13.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/a2/8ea27141-1a3e-4fa9-87b5-6ac5df4c30a3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b1/c4/b1c42fb5-d976-4048-b788-e75d8e1f3309.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/12/a4/12a4b591-fa2c-45a0-a2e8-84d8a31ac68e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/5f/fb5f8ae2-0ae4-4655-b738-19dee07d05d6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/e0/69e07c81-2317-472e-9cda-4cde4ac8bf3c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-driveclub",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T15:32:16.841524+00:00"
+  },
+  {
+    "id": "958b435b-241f-49ca-be95-8f29efbdf6ee",
+    "title": "Fallout 2",
+    "slug": "fallout-2",
+    "categories": [
+      "Role-playing",
+      "Turn-based",
+      "Sci-fi",
+      "Story Rich",
+      "Atmospheric",
+      "Exploration",
+      "Classic",
+      "Science",
+      "Tactical",
+      "Open World",
+      "Isometric",
+      "Post-apocalyptic",
+      "Tactical RPG",
+      "CRPG",
+      "Good Old Game"
+    ],
+    "size_original": "2 GB",
+    "size_repack": "720 MB",
+    "description": "## About Game\r\n- **Release Date**: September 30, 1998\r\n- **Genre**: Role-playing - Turn-based - Sci-fi\r\n- **Developer**: Interplay\r\n- **Publisher**: Bethesda Softworks LLC\r\n\r\n## Overview\r\nFallout is a post-apocalyptic, isometric, tactical role-playing game. The player assumes the role of the Chosen One, a descendant of the original Vault Dweller from the first Fallout game. Set in the year 2161, the story begins in the tribal village of Arroyo, which has suffered through a decade-long drought. The tribe's water reserves are exhausted, and the only hope for survival lies in the mythical Garden of Eden Creation Kit (GECK), an advanced piece of Vault technology capable of turning the wasteland into a paradise. The protagonist must journey into the unforgiving wasteland to locate Vault 13—the same vault that exiled their ancestor 80 years prior—to retrieve the GECK and secure the future of their people.\r\n\r\n## Features\r\n- **Open World Exploration**: Vast, seamless isometric world to explore filled with danger, secrets, and diverse characters.\r\n- **Tactical, Turn-Based Combat**: Engage in strategic combat using the V.A.T.S.-style targeting system (applied to the original turn-based mechanics) or standard attacks, with a heavy emphasis on action point management.\r\n- **Extensive Character Customization**: Deep S.P.E.C.I.A.L. character creation system, allowing players to define strengths, weaknesses, and skills.\r\n- **Player Choice and Consequence**: Dialogue and actions significantly impact the world state, faction relationships, and the ultimate fate of the tribe and the wasteland.\r\n- **The GECK**: The central artifact that provides the power to irrigate land and fundamentally change the environment.\r\n- **Rich Lore and Humor**: A darkly humorous take on the post-apocalyptic genre with deep references to classic sci-fi and 1950s culture.",
+    "cover_url": "https://images.gog-statics.com/f745671bed8f43f4205ad4ede0b3edabcfe1fa8d72cbdce0206b75deab50895b.jpg",
+    "screenshots": [
+      "https://images.gog-statics.com/a058006131c8f614b631b4a8c48b5cd052841f6ad91122ad0b65b187560b0b9a.jpg",
+      "https://images.gog-statics.com/a6addcb9ebe3ec7b77674278471b3a3d4eb406c97ba188385eece7f71b3ddf51.jpg",
+      "https://images.gog-statics.com/bca70bf73f4d73e2a52cd737c92fa15721fc864687f18fe40a4ed8875f59ca1b.jpg",
+      "https://images.gog-statics.com/2f7e0492ce906ca99aba8b6b04484ebb7e2c2fb8b98a33469341c3ca31a1aa45.jpg",
+      "https://images.gog-statics.com/deba5f16dceb8a50d70377845d796ca80116b1b47167a165295989e09eb9e9ea.jpg",
+      "https://images.gog-statics.com/823ac086c93086d3c88ad7fef88502e0104b0284dbe0406f2d64970562f55805.jpg"
+    ],
+    "system_requirements": "MINIMUM:\nOS: Windows 10\nCPU: 1.8 GHz\nRAM: 2 GB RAM\nGPU: 3D graphics card compatible with DirectX 9.0c",
+    "repacker": "GOG",
+    "download_url": "https://repack-x-database.vercel.app/fallout-2",
+    "featured": false,
+    "is_published": true,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T15:13:53.965Z"
+  },
+  {
     "id": "46f8a36f-19bf-53c6-42f8-4ac866f876cc",
     "title": "PROHIBEAST: Soundtrack Edition, v1.0.5 + Bonus OST",
     "slug": "prohibeast",
@@ -2957,46 +3029,5 @@
     "featured": true,
     "downloads_count": 9,
     "created_at": "2026-09-19T17:37:31.261358+00:00"
-  },
-  {
-    "id": "958b435b-241f-49ca-be95-8f29efbdf6ee",
-    "title": "Fallout 2",
-    "slug": "fallout-2",
-    "categories": [
-      "Role-playing",
-      "Turn-based",
-      "Sci-fi",
-      "Story Rich",
-      "Atmospheric",
-      "Exploration",
-      "Classic",
-      "Science",
-      "Tactical",
-      "Open World",
-      "Isometric",
-      "Post-apocalyptic",
-      "Tactical RPG",
-      "CRPG",
-      "Good Old Game"
-    ],
-    "size_original": "2 GB",
-    "size_repack": "720 MB",
-    "description": "## About Game\r\n- **Release Date**: September 30, 1998\r\n- **Genre**: Role-playing - Turn-based - Sci-fi\r\n- **Developer**: Interplay\r\n- **Publisher**: Bethesda Softworks LLC\r\n\r\n## Overview\r\nFallout is a post-apocalyptic, isometric, tactical role-playing game. The player assumes the role of the Chosen One, a descendant of the original Vault Dweller from the first Fallout game. Set in the year 2161, the story begins in the tribal village of Arroyo, which has suffered through a decade-long drought. The tribe's water reserves are exhausted, and the only hope for survival lies in the mythical Garden of Eden Creation Kit (GECK), an advanced piece of Vault technology capable of turning the wasteland into a paradise. The protagonist must journey into the unforgiving wasteland to locate Vault 13—the same vault that exiled their ancestor 80 years prior—to retrieve the GECK and secure the future of their people.\r\n\r\n## Features\r\n- **Open World Exploration**: Vast, seamless isometric world to explore filled with danger, secrets, and diverse characters.\r\n- **Tactical, Turn-Based Combat**: Engage in strategic combat using the V.A.T.S.-style targeting system (applied to the original turn-based mechanics) or standard attacks, with a heavy emphasis on action point management.\r\n- **Extensive Character Customization**: Deep S.P.E.C.I.A.L. character creation system, allowing players to define strengths, weaknesses, and skills.\r\n- **Player Choice and Consequence**: Dialogue and actions significantly impact the world state, faction relationships, and the ultimate fate of the tribe and the wasteland.\r\n- **The GECK**: The central artifact that provides the power to irrigate land and fundamentally change the environment.\r\n- **Rich Lore and Humor**: A darkly humorous take on the post-apocalyptic genre with deep references to classic sci-fi and 1950s culture.",
-    "cover_url": "https://images.gog-statics.com/f745671bed8f43f4205ad4ede0b3edabcfe1fa8d72cbdce0206b75deab50895b.jpg",
-    "screenshots": [
-      "https://images.gog-statics.com/a058006131c8f614b631b4a8c48b5cd052841f6ad91122ad0b65b187560b0b9a.jpg",
-      "https://images.gog-statics.com/a6addcb9ebe3ec7b77674278471b3a3d4eb406c97ba188385eece7f71b3ddf51.jpg",
-      "https://images.gog-statics.com/bca70bf73f4d73e2a52cd737c92fa15721fc864687f18fe40a4ed8875f59ca1b.jpg",
-      "https://images.gog-statics.com/2f7e0492ce906ca99aba8b6b04484ebb7e2c2fb8b98a33469341c3ca31a1aa45.jpg",
-      "https://images.gog-statics.com/deba5f16dceb8a50d70377845d796ca80116b1b47167a165295989e09eb9e9ea.jpg",
-      "https://images.gog-statics.com/823ac086c93086d3c88ad7fef88502e0104b0284dbe0406f2d64970562f55805.jpg"
-    ],
-    "system_requirements": "MINIMUM:\nOS: Windows 10\nCPU: 1.8 GHz\nRAM: 2 GB RAM\nGPU: 3D graphics card compatible with DirectX 9.0c",
-    "repacker": "GOG",
-    "download_url": "https://repack-x-database.vercel.app/fallout-2",
-    "featured": false,
-    "is_published": true,
-    "downloads_count": 0,
-    "created_at": "2026-11-08T15:13:53.965Z"
   }
 ]
