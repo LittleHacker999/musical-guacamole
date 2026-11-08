@@ -82,7 +82,7 @@
       "http://s01.riotpixels.net/data/f6/83/f683cbcb-9276-4974-a12c-c8d184eeaba2.jpg.240p.jpg",
       "http://s01.riotpixels.net/data/23/f3/23f32d82-e4f4-457b-87dd-08ba48a581ee.jpg.240p.jpg"
     ],
-    "system_requirements": "Not Found",
+    "system_requirements": "MINIMUM:\nOS: Windows 10\nCPU: with a clock frequency of 2.6 GHz\nRAM: 1000 MB RAM\nGPU: 1 Gb Video Memory, capable of Shader Model 2.0\nStorage: 5 GB available space\n\nRECOMMENDED:\nOS: Windows 10/11\nCPU: Dual Core 3.0 Ghz\nRAM: 8 GB RAM\nGPU: 2 Gb Video Memory, capable of Shader Model 2.0\nStorage: 5 GB available space\nNetwork: Broadband Internet connection",
     "repacker": "Fitgirl",
     "download_url": "https://repack-x-database.vercel.app/fg-cop-bastard",
     "is_published": true,
