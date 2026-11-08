@@ -1,5 +1,34 @@
 [
   {
+    "id": "334ae77f-fdb8-51d2-275c-c36cfb64dcf3",
+    "title": "Decktamer – v1.9.4",
+    "slug": "decktamer",
+    "categories": [
+      "Card game",
+      "2D",
+      "Turn-based"
+    ],
+    "size_original": "4.3 GB",
+    "size_repack": "599 MB",
+    "description": "In Decktamer, you’ll encounter creatures that have adapted to their strange environment: the abyss. Rumor has it that anyone brave enough to reach the bottom of the giant crater will find great fortune. But watch out, as you dive deeper, the creatures only get more and more bizarre and dangerous…\n\n**Repack Features**\n\n- Based on Decktamer.v1.9.4-TENOKE ISO release: tenoke-decktamer.v1.9.4.iso (4,564,652,032 bytes)\n- Game version: v1.9.4\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4.3 GB to 599 MB)\n- Installation takes 1-2 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.3 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- ROGUELIKE DECK-TAMING – In this game, cards are not simply handed out to you, you have to tame your enemies to add them to your deck! But be careful, when one of your creature dies, the card is gone forever!\n- STRATEGIZE EACH TURN – Every turn, each one of your cards can use a move. Try to think about the optimal play to win your battle in this turn-based combat system! Will the turn plan out as you expected?\n- EXPERIMENT WITH MUTAGENS – The Abyss is filled with mutant creatures that possess abilities they shouldn’t normally have. Use that to your advantage and transfer abilities from one creature to another to create unique and devastating combos!",
+    "cover_url": "https://i4.imageban.ru/out/2025/11/01/4265efd908bf56e99d0df4d42f6d5000.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ec/44/ec44635b-28c9-410b-a4db-9a44ad14ce32.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/49/7c/497cded5-c478-4110-bcf3-4be59662201e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/92/58924f0f-c7fa-4cb2-9df7-fcb84c98b883.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/2a/a22a8d24-2ddd-4991-ae1c-b14b6f750067.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/41/f4/41f4986a-1d4d-49d2-a4a4-97e5f8437471.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/90/ea/90ea8801-dd0c-4588-b8e6-7dfb5f8a5a48.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-decktamer",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T08:00:42.691391+00:00"
+  },
+  {
     "id": "1f083683-70b0-5737-e011-ed9540da692e",
     "title": "Sort The Capybaras – v1.02",
     "slug": "sort-the-capybaras",
