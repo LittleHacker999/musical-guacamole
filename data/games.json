@@ -1,5 +1,34 @@
 [
   {
+    "id": "0836ae89-dd68-5ee7-ec37-0a43a99110db",
+    "title": "Ship Explorer – Build 26115786 + 3 DLCs",
+    "slug": "ship-explorer",
+    "categories": [
+      "Exploration",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "14.1 GB",
+    "size_repack": "8.9 GB",
+    "description": "Join Oceanliner Designs’ host and producer Mike Brady as he invites you to explore and learn about some of history’s most beloved ships in a completely new way. Stroll the storied decks of ships like SS United States, Morro Castle, and more and discover the design secrets that allowed the mighty ocean liner to rule the waves for over a century.\n\n**Repack Features**\n\n- Based on Ship.Explorer.Lusitania.A.Monarch.Fallen-TENOKE ISO release: tenoke-ship.explorer.lusitania.a.monarch.fallen.iso (15,107,518,464 bytes)\n- Game version: Build 26115786; 3 DLCs (Bismarck, Lusitania: A Monarch Fallen, HMS Captain) are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 14.1 to 8.9 GB)\n- Installation takes 8-25 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 13.9 GB\n- Repack uses XTool library by Razor12911\n- At least 3 GB of free RAM (inc. virtual) required for installing this repack\n- Step back in time to wander the decks of some of the most iconic vessels featured in popular Oceanliner Designs documentaries.\n- Interact with objects on board each ship for special dialogue that explains how these great machines worked.\n- Engage with horns, guns and more to see the ships’ most impressive features come to vivid, animated life.\n- Freely control weather, time of day, season, and more – dial in your perfect vibe!\n- Rewind the clock and experience pivotal moments in the ship’s history, or take in views of areas on board not seen for decades\n- Chronicle your journey with photo mode to capture memorable moments or your favorite awesome views!",
+    "cover_url": "https://i8.imageban.ru/out/2025/08/03/afd68608893f998fa0b60f619c589194.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f6/3e/f63eecc7-84e8-46e5-b685-10a84f0759ae.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d4/35/d435496c-9620-4582-9e65-36333d0d0b25.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f9/fe/f9fe5c61-818f-42bf-8835-f0de4c3edbd4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/50/4d/504d6655-5ee5-49ca-96b9-86906333cd64.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/69/97693144-cba1-4dbb-b961-d842baa56058.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fd/ea/fdeab845-99db-4204-9382-21d2dc3f4d81.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ship-explorer",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T11:55:52.793125+00:00"
+  },
+  {
     "id": "2c87f22f-05a5-59d6-0457-07ecb4f7d727",
     "title": "Remothered: Red Nun’s Legacy – v74e0052.7 + Bonus Content",
     "slug": "remothered-red-nuns-legacy",
