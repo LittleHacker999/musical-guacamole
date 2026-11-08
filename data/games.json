@@ -1,5 +1,35 @@
 [
   {
+    "id": "698b9f87-e96f-5d78-b808-2e8e483e4d7d",
+    "title": "Foundation: Supporter Edition – v1.12.0.12 + 3 DLCs/Bonuses",
+    "slug": "foundation",
+    "categories": [
+      "Management",
+      "Strategy",
+      "3D"
+    ],
+    "size_original": "3.9 GB",
+    "size_repack": "1.7/1.9 GB",
+    "description": "BUILD THE ORGANIC MEDIEVAL CITY OF YOUR DREAMS – Foundation combines free-building tools and procedural generation to create the ultimate organic city-building experience.\n\nMANAGE YOUR VILLAGE AND MAKE IT COME TO LIFE – Assign jobs, create production chains, establish trade. In Foundation, your creations come to life!\n\nPLAY AT YOUR PACE, RELAX AND ENJOY THE VIEW! – Foundation offers various difficulty levels, so you can play the way you want! Choose an Aspiration to discover new ways to play, or just play in Creative mode, relax and enjoy the view!\n\n**Repack Features**\n\n- Based on Foundation.Harvest.Festival-RUNE ISO release: rune-foundation.harvest.festival.iso (4,199,219,200 bytes)\n- Game version: v1.12.0.12; Guivre Garden, Harvest Festival & Soundtrack DLCs are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST in MP3 format\n- Significantly smaller archive size (compressed from 3.9 to 1.7/1.9 GB)\n- Installation takes 2-5 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 4.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- An advanced gridless City Building experience, with unlimited generated maps and almost no construction constraints.\n- Free-building tool: Create modular buildings from individual parts, beautify and transform them into majestic monuments!\n- Organic development with our unique Painting tool: Guide your villagers by defining areas for building homes, decide where to pave roads and set patrols, designate forest extraction zones, and more!\n- Manage your village: Develop production chains, tax your villagers, trade with neighboring villages, or fight for the King. There are multiple ways to create a successful economy!\n- Progress with the three Estates of the Realm: Three distinct progress paths await you: Labor, Clergy or Kingdom. You can either specialize in one or combine all three.\n- Tailor your gaming experience: Select an Aspiration, adjust the difficulty level or build without constraints by playing in Creative Mode.\n- Full modding integration!\n- Foundation Original Soundtrack: Immerse yourself in over 100 minutes of atmospheric medieval music crafted by the award-winning composers at Audinity.\n- …and much more!",
+    "cover_url": "https://i1.imageban.ru/out/2025/02/01/0ff7303df051ad7c11233fac5997bb90.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ab/3f/ab3f0976-a9de-40f7-8cbd-a6ab938f5bf3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/16/a3166fde-0cf2-4c4e-bfae-6449321b6b71.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7a/a3/7aa3deae-f6ca-4c91-a6c5-a782cff13575.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a9/90/a9903926-b81b-4a79-b3fb-dce0a198e8ca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e1/a1/e1a10333-3a1d-47b1-a3fb-8e55fd0880f9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c2/e9/c2e99af1-7ce0-473e-b8d9-ee8193c06a0d.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/690830/extras/gif_villagers.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-foundation",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T17:42:18.626161+00:00"
+  },
+  {
     "id": "3d39192d-fd05-5905-9a9c-0d0826fbba5d",
     "title": "Enshrouded: Deluxe Edition – v1.0 (Build 1265863) + 3 DLCs/Bonuses",
     "slug": "enshrouded",
