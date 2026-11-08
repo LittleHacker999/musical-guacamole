@@ -1,5 +1,37 @@
 [
   {
+    "id": "05002eb3-7afd-5c5a-fd03-5b2e1b930074",
+    "title": "Crackdown 3: Ultimate Edition, v1.0.3162.2 + All DLCs + Multiplayer",
+    "slug": "crackdown-3-ultimate-edition",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Driving",
+      "Open world",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "21.1 GB",
+    "size_repack": "from 10.7 GB",
+    "description": "Time to step up your boom and stop crime as a super-powered Agent in Crackdown 3’s open-world sandbox of mayhem and destruction. Explore the heights of New Providence, tear up the streets in iconic vehicles, and use your powerful abilities to stop a ruthless criminal empire.\n\n**Repack Features**\n\n- Based on Crackdown.3.v1.0.3162.2-RUNE ISO release: rune-crackdown.3.v1.0.3162.2.iso (22,634,823,680 bytes)\n- Game version: v1.0.3162.2; 3 DLCs are included and activated\n- Installer makes all necessary steps to register the game upon installation, but it it fails, run “InstallApp.exe” in the installed game folder\n- To run the game find it with Windows search, desktop icon won’t work\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of optional voiceover packs & 4K Videos. English VOs are included by default\n- Significantly smaller archive size (compressed from 21.1 to 10.7~17.2 GB, depending on selected components)\n- Installation takes 3-20 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 21.8 GB\n- Language can be changed in “uwp_emu.xml” file\n- Repack uses XTool library by Razor12911\n- After installation, first run the crack installer from desktop icon. After that you can use an actual game desktop icon to run the game\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Level Up Your Agent: Level up your super-Agent skills to move as fast as lightning, jump over skyscrapers, hurl trucks at your enemies and protect the city from cold-blooded criminals.\n- Dangerous Open-World Playground: Play solo or with a friend in co-op mode to explore an expansive, vertical world to infiltrate crime lords and take down their syndicates.\n- Take a BOOM Out of Crime: Lure vindictive crime lords out of hiding by completing objectives, attacking criminal operations and taking out high-value captains.\n- Bonus Pack (1 new weapon, 1 new suit & 1 new vehicle)\n- Keys to the City\n- Flying High",
+    "cover_url": "https://i4.imageban.ru/out/2022/03/21/ef5f645399f539b9675955c81ee45c27.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/88/7b/887bce76-8996-4d0a-a7eb-695d172ca945.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/df/55/df55b692-84b8-4a32-8c95-39534f8cef7d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/91/ab/91ab22ec-d66f-4c62-8af0-c1a8fb469aac.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/5c/b35c7915-69a2-445a-a11d-5db65748cc68.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/f4/58f40bc4-cd16-405d-bce0-9d6df381a8e4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2f/ef/2fef9540-aaa8-4290-9cee-941a00a69b6f.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-crackdown-3-ultimate-edition",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T09:30:44.486722+00:00"
+  },
+  {
     "id": "a9b2ef6f-af04-5e1d-48a2-3cf3c4381fff",
     "title": "Hunting Simulator 3: Apex Predator Edition – v1.0.0-451.118880 + 2 DLCs",
     "slug": "hunting-simulator-3",
