@@ -1,5 +1,34 @@
 [
   {
+    "id": "821ec3e2-6e32-5892-ff17-d805c1a628c9",
+    "title": "REKA: Deluxe Edition – v1.0.21 + Bonus OST",
+    "slug": "reka",
+    "categories": [
+      "Adventure",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "3.6 GB",
+    "size_repack": "1.2 GB",
+    "description": "Step into an evocative world shaped by rich Eastern European folk tales. Play as Reka, apprentice to the mysterious Baba Jaga, as you meet local villagers, complete quests, and immerse yourself in a story steeped in authentic Slavic mythology.\n\nLearn the old ways under the tutelage of Baba Jaga. Forage for herbs, brew potions, form bonds with animals, and practice quiet witchery. Choose how your powers affect the lives of the people and creatures you meet.\n\nExplore wherever your curiosity takes you. Drift through foggy forests and quiet villages where old spirits linger. Free from danger or pressure, tread an unhurried path steeped in mood, music, and a dark fairytale charm.\n\n**Repack Features**\n\n- Based on REKA-RUNE ISO release: rune-reka.iso (3,821,731,840 bytes)\n- Game version: v1.0.21\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format ripped, NOTHING re-encoded; Bonus OST in MP3 format is included by default\n- Significantly smaller archive size (compressed from 3.6 to 1.2 GB)\n- Installation takes 2-6 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.3 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Build Without Limits: Design and furnish your very own chicken-legged moving house with your choice of materials, furniture and flourishes to make it feel like home.\n- Cozy, Combat-Free Gameplay: Enjoy a stress-free adventure focused on decorating, crafting, foraging, and gentle questing.\n- Rich Slavic Atmosphere: Immerse yourself in authentic myths and legends, beautiful environments, and an acclaimed original musical score.\n- Woodland Crafts & Cooking: Forage wild flora, brew potions, cook traditional recipes, and practice witchcraft the old way.\n- Animal Companionship: Befriend forest wildlife – cats, foxes and more – and bring them back to live in your traveling home.\n- Craft Your Identity: Design your apprentice witch and carve out your own peaceful path through the wilderness.",
+    "cover_url": "https://i3.imageban.ru/out/2026/10/28/40d4cecf9be6c290dbefbca53b494ec2.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/29/89/29890626-e670-449e-8076-9e1e2841c67c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b6/23/b6233e69-1899-4c23-ab35-e351903843ab.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/55/be/55be4caf-29f9-461c-94c6-104746d32f27.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5f/28/5f284f61-415f-46e1-9281-b1e29dba0c96.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/81/e3/81e35f8b-4675-4777-a7df-9ea32c740f0c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/59/a8/59a883ef-fdd9-48f3-925f-fb6161e6c2c8.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-reka",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T12:10:47.985150+00:00"
+  },
+  {
     "id": "3384dfc9-3307-57e6-f844-263df5c0dff1",
     "title": "Dying Light 2: Stay Human – Ultimate Edition – v1.30.0 + 31 DLCs + Bonus Content + Windows 7 Fix",
     "slug": "dying-light-2-stay-human",
