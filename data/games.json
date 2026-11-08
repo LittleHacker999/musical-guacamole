@@ -1,5 +1,39 @@
 [
   {
+    "id": "063b5719-bfbb-59b5-e602-230aa2ac9a63",
+    "title": "Silica – v1.0.15 (Release)",
+    "slug": "silica",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Strategy",
+      "RTS",
+      "Open world",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "26 GB",
+    "size_repack": "17.9 GB",
+    "description": "Take Part in Epic Combined Arms Warfare\nImmerse yourself in epic battles where humans and aliens fight for ultimate domination.\n\nTake control of both land and air vehicles to assert power over the sandy dunes of planet Baltarus\n\nLead as RTS Commander!\nTake charge as RTS commander over battles of epic scale. Use your tactical prowess to dominate the battlefield, coordinating complex operations from a top-down perspective.\n\nExperience Realistic Unit Scale\nWitness the impressive scale of units, from small infantry squads to colossal harvesters and massive buildings. Each unit type is meticulously designed to reflect its size, providing an immersive and realistic experience on the battlefield.\n\n**Repack Features**\n\n- Based on Silica-RUNE ISO release: rune-silica.iso (27,933,048,832 bytes)\n- Game version: v1.0.15 (Release)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 26 to 17.9 GB)\n- Installation takes 3-12 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 43.2 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2026/11/05/a7efa88c8b96f651603fd562476b1d03.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d8/07/d807c246-05e3-4795-91ad-8b657f998795.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/76/03/7603a8eb-f702-4ac9-b7d5-f8fde5d2477b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/66/9f66d3f4-4455-454d-9ec4-a5b32f0d5f3f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0f/de/0fde518a-fb8a-4f87-b878-b726a37846ed.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/43/50/43503bb7-a227-4708-b855-baa56f73f535.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a0/d0/a0d06ed3-5b82-4b6d-abe3-1d7f856037f9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-silica",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T08:35:47.087797+00:00"
+  },
+  {
     "id": "6ef761a0-0a13-5b6f-1b71-109b2e806561",
     "title": "RoadCraft: 1-Year Anniversary Edition, v8.0.772884/772978 + 9 DLCs",
     "slug": "roadcraft",
