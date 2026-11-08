@@ -1,5 +1,36 @@
 [
   {
+    "id": "a86cc81d-36bf-5082-a4de-e38c215e504d",
+    "title": "Tales of Eternia Remastered: Deluxe Edition – v2.0.0 + 4 DLCs/Bonuses",
+    "slug": "tales-of-eternia-remastered",
+    "categories": [
+      "RPG",
+      "Isometric",
+      "3D",
+      "Japanese",
+      "Real-time"
+    ],
+    "size_original": "7.3 GB",
+    "size_repack": "from 4.2 GB",
+    "description": "Journey to Eternia, a world split into two isolated realms, Inferia and Celestia.\n\nIn the remote Inferian village of Rasheans, Reid Hershel and his childhood friend Farah Oersted meet a mysterious girl named Meredy. During their journey to discover Meredy’s origins, the group discovers that a collision called the “Great Fall” threatens both Inferia and Celesita.\n\nHarnessing the power of elemental spirits known as the Greater Craymels, Reid and his companions embark on an epic journey to save the two realms from catastrophe.• Exhilarating Battle Action with Speed and Freedom\n\nFeaturing the Aggressive Linear Motion Battle System (A-LMBS), which enables diverse Arte usage, continued combos, and coordination with each unique party member.\n\nExperience thrilling combat as you outmaneuver enemies and defeat them one after another with fast-paced, dynamic 2D battle action.• The Same Moving Experience, Now Easier to Play\n\nGameplay is better than ever with the quality-of-life features that have been added, including destination markers, the ability to disable enemy encounters, and high-speed mode during auto-battle.\n\nAdditionally, graphics and SFX can be toggled between modes, allowing you to experience the nostalgic atmosphere of the original game.\n\n**Repack Features**\n\n- Based on Tales.of.Eternia.Remastered-RUNE ISO release: rune-tales.of.eternia.remastered.iso (7,850,524,672 bytes)\n- Game version: v2.0.0; 4 DLCs/Bonuses (Super Growth Support Item Set, Battle BGM pack, Deluxe Upgrade Pack, Digital Artbook & Soundtrack) are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus content application & Japanese localization\n- Significantly smaller archive size (compressed from 7.3 to 4.2~5.8 GB, depending on selected components)\n- Installation takes 2-5 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 9 GB\n- Language can be changed in “Tales of Eternia Remastered_Data/Plugins/x86_64/steam_emu.ini”\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2026/10/22/91cd49ba847a2b620c47c3828f967c6b.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f0/36/f036527a-5c1b-4453-9df3-21ef10a35f50.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/18/73/18732d0c-9a65-4248-9fff-d020ca47ca76.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f2/c7/f2c76597-d4ba-4f63-abad-621f3fdc4433.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/54/63/54638e4a-a931-44da-8f3b-1ecb92e0c951.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/19/e619ff6c-d1ce-4a81-839b-17b3c0f4998d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/9a/bc9a33ea-017b-4aa4-ae0b-62f9aabfe085.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-tales-of-eternia-remastered",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T14:59:30.625315+00:00"
+  },
+  {
     "id": "19e7a08b-d921-5fa4-d5e0-6baa2164184e",
     "title": "Mycopunk: Supporter Edition – v2.0 Build 911 + 2 DLCs/Bonuses",
     "slug": "mycopunk",
