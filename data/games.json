@@ -1,5 +1,37 @@
 [
   {
+    "id": "a323a9f8-f40e-5d48-3889-c53c4e16e0e6",
+    "title": "Atomfall: Complete Edition – v1.2.2 + 5 DLCs",
+    "slug": "atomfall",
+    "categories": [
+      "Action",
+      "Item crafting",
+      "Survival",
+      "First-person",
+      "3D",
+      "Post-apocalypse"
+    ],
+    "size_original": "53.9 GB",
+    "size_repack": "36.3 GB",
+    "description": "Explore the fictional quarantine zone, scavenge, craft, barter, fight and talk your way through a British countryside setting filled with bizarre characters, mysticism, cults, and rogue government agencies.\n\nFrom Rebellion, the studio behind Sniper Elite and Zombie Army, Atomfall will challenge you to solve the dark mystery of what really happened.\n\nThis repack IS EXTREMELY backwards compatible with my previous Atomfall repack. You can rehash all files but setup.exe and fg-04.bin and save 36.1 GB of traffic. Don’t forget to rename “Atomfall [FitGirl HV Repack]” folder to “Atomfall [FitGirl Repack]” before rehashing.\n\n**Repack Features**\n\n- Based on P2P Atomfall-voices38 ISO release: voices38-atomfall.iso (57,842,397,184 bytes)\n- Game version: v1.2.2; 5 DLCs are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 53.9 to 36.3 GB)\n- Installation takes 10-35 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 73.6 GB\n- Language can be changed in “steam_settings/configs.user.ini” file\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Player Driven Mystery: Unravel a tapestry of interwoven narratives through exploration, conversation, investigation, and combat, where every choice you make has consequences.\n- Search, Scavenge, Survive: You’ll need to scavenge for supplies, craft weapons and items, and fight desperately to make it out alive!\n- Desperate Combat: With weapons and ammunition scarce, each frenetic engagement will see you blend marksmanship with vicious hand-to-hand combat. Manage your heart rate to hold a steady aim and ensure you have the energy you need to reach for your cricket bat and land the killer blow.\n- Green and Unpleasant Land: The picturesque British countryside, with rolling green hills, lush valleys, and rural villages belie the dangers that await you. Navigate cult-controlled ruins, natural caves, nuclear bunkers and more as you explore this dense, foreboding world.\n- Reimagining Windscale: A fictional reimagining of a real-world event, Atomfall draws from science fiction, folk horror, and Cold War influences to create a world that is eerily familiar yet completely alien.\n- Story Expansion Pack: Wicked Isle\n- Story Expansion Pack: The Red Strain\n- Basic Supply Bundle\n- Enhanced Supply Bundle\n- Deluxe Upgrade\n- Based on Steam BuildID 20373765 release: 73.9 GB\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Goldberg emu applied over\n- VBS.cmd script v1.4 added\n- Custom launcher added for easier HV steps processing\n- Game version: v1.2.2; 4 DLCs are included and activated\n- Significantly smaller archive size (compressed from 73.9 to 36.3 GB)\n- HDD space after installation: 73.9 GB\n- Language can be changed in “bin\\coldclient\\steam_settings\\configs.user.ini” file",
+    "cover_url": "https://i7.imageban.ru/out/2026/10/08/1c9f41fdf5655f50a1a27869e9efe2e2.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6f/4b/6f4b6eb6-6695-467f-8915-b3dae53dff24.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/8d/028d7848-da8c-4fe1-b23a-185c15b38b8a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/40/7d/407d71ac-97c1-46ee-a632-7b46457d8bc6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/c9/e3c928c2-3b63-4c16-b1ed-68fc6d7222e6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/d6/b3d6bd53-0996-46ba-8d2a-c07ec4bc9a15.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/14/c8/14c8f1b0-919f-4206-a225-fe2dd4a92aee.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-atomfall",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T21:07:15.405050+00:00"
+  },
+  {
     "id": "c9ad45cb-8f44-5554-86da-a3caab9606b9",
     "title": "STUNTBOOST + Supporter Pack DLC",
     "slug": "stuntboost",
