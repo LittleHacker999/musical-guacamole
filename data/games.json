@@ -1,5 +1,38 @@
 [
   {
+    "id": "be006386-79e1-5166-b553-1cd097c4d31f",
+    "title": "MechWarrior 5: Mercenaries – Succession Wars Edition, v1.15.398 + 10 DLCs/Bonuses",
+    "slug": "mechwarrior-5-mercenaries",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Pirate/Privateer",
+      "First-person",
+      "Third-person",
+      "3D",
+      "Mecha"
+    ],
+    "size_original": "47.2 GB",
+    "size_repack": "from 31.2 GB",
+    "description": "Humanity has colonized thousands of star systems spanning a vast region of space known as the Inner Sphere. The golden age of cooperation and advancement is now a distant memory, and humanity has once again splintered into disparate factions all vying for supremacy.\n\nIn the midst of these Succession Wars, power hungry Mercenaries like yourself are in a privileged position to capitalize big time. It’s dangerous work but that’s why you’re here, right? If you’ve got an itch to blast, wreck, stomp and go all out ballistic, step inside and become your own weapon of war!\n\nSTORY:\nAs the inheritor of a once-prominent Mercenary company, reborn in the flames of its near destruction at the hands of conspiring factions, your quest for glory and revenge will stretch light-years as you chase threads of interstellar intrigue along your journey to becoming an elite MechWarrior and mercenary commander.\n\nTHE INNER SPHERE:\nHome to thousands of star systems and an array of stunning biomes, the Inner Sphere is alive with activity, purpose, consequence, and variety. Systems will be captured and reclaimed, major events will unfold, and new technologies will come to light.\n\nThe rigors of war will be seen with each passing week as your relationships with the various factions fluctuate according to the relentless Succession Wars and your choices as the leader of a Mercenary outfit.\n\nThis repack is slightly backwards compatible with my previous MW5 repack. You can rehash fg-optional-videos.bin to save 435 MB of traffic.\n\n**Repack Features**\n\n- Based on MechWarrior.5.Mercenaries.Ashes.and.Ascension-RUNE ISO release: rune-mechwarrior.5.mercenaries.ashes.and.ascension.iso (50,665,521,152 bytes)\n- Game version is: v1.15.398; 10 DLCs and bonuses are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Unused Japanese videos ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading of optional videos back (contains credits background video& Xbox tutorial videos) and bonus content (8 Soundtracks, Technical Manual and Wallpapers)\n- Significantly smaller archive size (compressed from 47.2 to 31.2~32.4 GB, depending on selected components)\n- Installation takes 7-50 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 112.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- The battlefields of the future are dominated by BattleMechs, hulking machines of war capable of leveling entire cities. As a BattleMech pilot you’ll rain havoc upon enemy ‘Mechs and targets, including tanks, ground vehicles, aircraft, advanced defenses, and reinforced bases.\n- Few things can withstand the power of a ‘Mech for long, and the worlds of the Inner Sphere are veritable playgrounds of destruction awaiting your shielding defense or crushing devastation.\n- “With over 50 unique ‘Mech chassis and hundreds of sub-variants, all fully-realized with high-fidelity models, damage states, and equipment, no two ‘Mechs are the same!\n- Whether acquired from scouring the markets of the Inner Sphere for rare and valuable chassis and equipment, or salvaging directly from the wreckage of your annihilated enemies and the spoils of war, the maintenance and operation of your BattleMechs will be vital to your success both as a MechWarrior and a Mercenary outfit commander.”\n- Off the battlefield, as the leader of a Mercenary company you will need to manage all the key components of running a unit.\n- You’ll need to maintain and acquire ‘Mechs and equipment, hire and field MechWarriors from throughout the Inner Sphere to join you on the battlefield, and manage your relationships with the Great Houses of the Inner Sphere, all of whom are vying for your contribution to their staggering war efforts. Of course, with each Contract comes negotiation, and with each victory comes consequence.\n- With the vast scope of the Inner Sphere and its complex system of world generation providing huge variety and replayability, the MechWarrior 5: Mercenaries experience offers no end. Outside the campaign, a fully-featured Instant Action system will allow you to customize and kick off isolated missions at any time, free from campaign restrictions.\n- With four-player co-op supported both within the campaign and the Instant Action system, you can experience the full breadth of the MechWarrior 5: Mercenaries universe alongside your friends.\n- Mods extend your game even further! Unlock the boundless creativity of the community to alter and expand the game in amazing ways. With a full editor and interface supporting gameplay mods out of the box your creativity will know no limits.\n- Digital Extras Content\n- Heroes of the Inner Sphere\n- Legend of the Kestrel Lancers\n- Call to Arms\n- Rise of Rasalhague\n- The Dragon’s Gambit\n- Solaris Showdown\n- Shadow of Kerensky\n- Chaos Reign\n- Ashes and Ascension",
+    "cover_url": "https://i1.imageban.ru/out/2021/09/23/a9129dbd0dbbfde9e7c0e89f5f36b82c.jpg",
+    "screenshots": [
+      "https://s01.riotpixels.net/data/52/b6/52b6702d-9372-4ddf-80e4-9a38907c5e82.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/56/14/5614a1b5-8582-4352-bd96-75d973b7cfca.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/51/f2/51f29664-0341-4451-a5b2-879fe21542b0.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/0f/c4/0fc451d9-5580-4be8-a17c-63ecb516a70e.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/2c/42/2c42a682-736e-43f9-bc91-05fffc154973.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/be/b1/beb110f3-8b72-4574-bb9c-988f45148021.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-mechwarrior-5-mercenaries",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T18:42:15.341828+00:00"
+  },
+  {
     "id": "579ba3e0-ea1e-504a-72f6-90ba95ec9c76",
     "title": "Towerfolk – v1.0 (Release)",
     "slug": "towerfolk",
