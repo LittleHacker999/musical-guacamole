@@ -803,7 +803,7 @@
       "http://s01.riotpixels.net/data/b8/ef/b8ef6b75-396f-4d1c-a06e-bf4fdf8fba8d.jpg.240p.jpg",
       "http://s01.riotpixels.net/data/c1/77/c17716f0-8822-401d-91d6-31a9594122ad.jpg.240p.jpg"
     ],
-    "system_requirements": "Not Found",
+    "system_requirements": "MINIMUM:\nOS: Windows 10/11 64-bit\nCPU: Ryzen 5 3600X / Core i5 11600K\nRAM: 16 GB RAM\nGPU: Nvidia 2070 Super / Amd 5700 XT\nStorage: 50 GB available space\n\nRECOMMENDED:\nOS: Windows 10/11 64-bit\nCPU: Ryzen 7 5800X / Core i5-12600K\nRAM: 24 GB RAM\nGPU: Nvidia 3080ti / Amd RX 6900 XT\nStorage: 50 GB available space",
     "repacker": "Fitgirl",
     "download_url": "https://repack-x-database.vercel.app/fg-remothered-red-nuns-legacy",
     "is_published": true,
