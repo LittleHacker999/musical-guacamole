@@ -1,5 +1,35 @@
 [
   {
+    "id": "3df26a05-169b-5083-9cd9-bf3fd782070d",
+    "title": "Denizen – v1.0.2",
+    "slug": "denizen",
+    "categories": [
+      "Lifestyle",
+      "Open world",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "4.6 GB",
+    "size_repack": "2.2 GB",
+    "description": "Make Yourself at Home\nChoose from a variety of residences to make your own, from suburban houses to city apartments, and personalize every detail with your selection of furniture and finishes.\n\nClimb to the Top\nTake on new challenges, make connections, and shape your journey in a  world where your ambitions set the pace.\n\nUnwind in Style\nPick out a new ride at a local car dealership, refresh your wardrobe, connect with friends, and relax after work at the casino, club, or in the comfort of your own home.\n\nStep Into the Action\nExplore diverse activities from cooking and high-speed racing to DJing, fishing, and underground ventures. Pursue your passions and uncover new adventures!\n\n**Repack Features**\n\n- Based on Denizen-RUNE ISO release: rune-denizen.iso (4,960,288,768 bytes)\n- Game version: v1.0.2\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4.6 to 2.2 GB)\n- Installation takes 2-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 11.2 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2026/10/21/83922552174fd8fde92c5a55bc6fe669.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/93/b2/93b2aa16-d7e8-4f3a-ac6c-bf71516e10f8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0f/d0/0fd052ef-c15f-458a-9645-53e6ea063020.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/46/60/46607687-8c9f-4756-b482-736444877f14.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b7/02/b70269d5-bd5a-4dc7-bcef-586f8fd4836f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c7/4d/c74dd042-1c0e-46e7-9990-cacd65206932.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/e9/f5e9fe40-132f-4bf8-ae09-8ed88ab6094c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-denizen",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T15:37:14.247422+00:00"
+  },
+  {
     "id": "0329b577-528c-5d18-5edd-f283c8bf350a",
     "title": "DRIVECLUB – v1.28 EU/US + All DLCs (Recompiled for PC v0.2.5)",
     "slug": "driveclub",
