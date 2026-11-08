@@ -1,5 +1,36 @@
 [
   {
+    "id": "98ee1475-3c8b-5612-301a-586c9c7f2e22",
+    "title": "Battleplan – v1.0.4",
+    "slug": "battleplan",
+    "categories": [
+      "Strategy",
+      "World War II",
+      "Top-down",
+      "3D",
+      "Real-time"
+    ],
+    "size_original": "2.4 GB",
+    "size_repack": "1.6 GB",
+    "description": "Create elaborate plans\nCreate elaborate, multi-step and multi-unit plans intuitively by directly drawing on the map. Employ varied tactics such as defence in depth, counterattacks, planned withdrawals and more. Perform preparatory bombardments before large set-piece attacks, then split the division to capture multiple objectives.\n\nRealistic army\nEach division is realistically modeled with headquarters, regiments, battalions and companies. Watch your infantry, tanks, engineers, anti-tank guns, artillery and scouts work together and perform tasks autonomously. Customize the entire chain of command and order of battle of your entire army. Combine divisions into corps, or split units down to companies. Requisition and upgrade units throughout the campaign. Hire and fire officers for your divisions. Listen to their advice – or don’t! Keep your officers alive so they gain veterancy (and quirks).\n\nMassive battlefields\nFight across thousands of kilometers modeled using real-world geographic data. Each road, town, forest and swamp is exactly where they are in real-life. Place your artillery on the high-ground by examining real-world elevation maps.\n\nReal-time missions\nEach mission is simulated second-by-second, allowing you to pause, play in real-time or fast-forward at will. Mission lengths range from one week to a month.\n\nMaster logistics\nStarve the enemy by cutting their supply lines. Fuel your advance by capturing supply depots. Pull back when your units run low on supplies. Supply is realistically simulated, with terrain dictating supply flow.\n\nWin the war\nPlay 10+ massive historical battles set on World War II specifically in  the Western Front, from 1944 onward. Upgrade your divisions with new attachments and promote officers. Let wounded divisions rest and recuperate. Gain powerful air support assets such recon, fighter-bomber and heavy bomber aircraft.\n\nRelive history\nLearn real-world history by examining geo-tagged historical photos and videos where they were taken in real-life.\n\n**Repack Features**\n\n- Based on Battleplan-RUNE ISO release: rune-battleplan.iso (2,585,231,360 bytes)\n- Game version: v1.0.4\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.4 to 1.6 GB)\n- Installation takes 1-3 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.5 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2026/10/28/f10f3dc6007e69b9aa06cce6c4cf5eeb.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/4b/42/4b42574f-a528-42b6-9470-bb0356bc05aa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/64/e6/64e67947-e6df-4cf8-bf6d-7ee1f855ae7c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/93/dc/93dcbe99-7eb4-4d41-a912-c3ebd50e7e3b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/10/70/107075a1-089e-4672-9836-ee5753825b66.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/9b/9f9b5f3f-4807-4707-8585-de75a13d62ed.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/07/03/0703e518-f4b7-4c43-9b3d-886e409e297e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-battleplan",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T12:00:45.384219+00:00"
+  },
+  {
     "id": "0836ae89-dd68-5ee7-ec37-0a43a99110db",
     "title": "Ship Explorer – Build 26115786 + 3 DLCs",
     "slug": "ship-explorer",
