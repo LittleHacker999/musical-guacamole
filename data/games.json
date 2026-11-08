@@ -1,5 +1,36 @@
 [
   {
+    "id": "27c00b47-7bc0-534a-bc3e-76056da128a0",
+    "title": "ABSOLUTELY NOTHING GOOD",
+    "slug": "absolutely-nothing-good",
+    "categories": [
+      "Adventure",
+      "Lifestyle",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "5.8 GB",
+    "size_repack": "3.2 GB",
+    "description": "ABSOLUTELY NOTHING GOOD is a first-person game created for Halloween, combining everyday work at a roadside store, supernatural events, elements of psychological horror, and dark humor.\n\nHalloween is approaching — the one night of the year when the boundary between the worlds of the living and the dead grows thinner.\n\nThe night before Halloween was supposed to be business as usual: holiday preparations, routine chores, and the occasional late-night customer. But this time, the silence outside the store is disturbed by the presence of someone who should still be locked away.\n\n**Repack Features**\n\n- Based on ABSOLUTELY.NOTHING.GOOD-TENOKE ISO release: tenoke-absolutely.nothing.good.iso (6,186,336,256 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.8 GB to 3.2 GB)\n- Installation takes 1-3 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.6 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- An atmospheric first-person game with elements of psychological horror and shop simulation\n- Night shifts filled with everyday tasks and unusual customers\n- A gradually unfolding supernatural story with no combat\n- Comic-inspired visuals with adjustable pixelation\n- Atmospheric sound design\n- Average playtime: approximately 60 minutes\n- The 2D mini-game is available under “Select Level” in the main menu",
+    "cover_url": "https://i2.imageban.ru/out/2026/11/01/5639d1c2dbf72c6a66a31096c117b98c.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/fc/02/fc022457-b909-4552-baf1-657772910614.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/47/38/4738c54a-e815-4267-9619-2a70ccb74ac3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/68/c7/68c70d57-4b9d-4d0d-83b8-0eacb1f88432.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c3/56/c356836e-03c8-446e-b75a-8f0317597f44.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/12/11/1211e010-180b-4bcd-8122-6dc5657f5099.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b1/35/b1359de4-7e62-43f9-8f0d-2e1b7e9d7eaf.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-absolutely-nothing-good",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T10:00:44.888285+00:00"
+  },
+  {
     "id": "9f066f77-d5e3-5088-6383-f4978ac69adf",
     "title": "Ravenswatch: Year One Edition – v1.06.00.04.27511 + 12 DLCs/Bonuses",
     "slug": "ravenswatch",
