@@ -122,7 +122,7 @@
       "http://s01.riotpixels.net/data/73/8c/738c6342-7b82-4a1f-a5e8-90997862fe5f.jpg.240p.jpg",
       "http://s01.riotpixels.net/data/66/17/661706d6-230e-4d5c-954a-63034cf1c804.jpg.240p.jpg"
     ],
-    "system_requirements": "Not Found",
+    "system_requirements": "MINIMUM:\nOS: Windows 10, Windows 11 64Bit\nCPU: Intel Core i5-4440 or equivalent\nRAM: 8 GB RAM\nGPU: GeForce GTX 1060 or equivalent\nDirectX: Version 11\nStorage: 30 GB available space\nSound: DirectX Compatible Sound Card\nOther: Requires a 64-bit processor and operating system\n\nRECOMMENDED:\nOS: Windows 10, Windows 11 64Bit\nCPU: Intel Core i7-4770k or equivalent\nRAM: 8 GB RAM\nGPU: GeForce RTX 3060 or equivalent\nDirectX: Version 11\nStorage: 30 GB available space\nSound: DirectX Compatible Sound Card\nOther: Requires a 64-bit processor and operating system",
     "repacker": "Fitgirl",
     "download_url": "https://repack-x-database.vercel.app/fg-fire-and-ashes",
     "is_published": true,
