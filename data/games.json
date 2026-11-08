@@ -111,7 +111,7 @@
       "http://s01.riotpixels.net/data/df/d3/dfd3e44b-550d-4916-8482-6b85dbf03420.jpg.240p.jpg",
       "http://s01.riotpixels.net/data/11/fe/11feacc8-f85d-47a2-b02d-11562c744b23.jpg.240p.jpg"
     ],
-    "system_requirements": "Not Found",
+    "system_requirements": "MINIMUM:\nOS: Windows 10\nCPU: 1.8 GHz\nRAM: 2 GB RAM\nGPU: 3D graphics card compatible with DirectX 9.0c\nDirectX: 9.0c\nStorage: 2 GB of available space",
     "repacker": "Fitgirl",
     "download_url": "https://repack-x-database.vercel.app/fg-wing-commander-ii-vengeance-of-the-kilrathi-35th-anniversary-edition",
     "is_published": true,
