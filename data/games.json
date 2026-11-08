@@ -1,5 +1,36 @@
 [
   {
+    "id": "1efce71d-f569-5201-c8fb-f83d6dc7f8a1",
+    "title": "The Thaumaturge: Deluxe Edition – v1.2.0 (79.743) + 2 DLCs/Bonus Content",
+    "slug": "the-thaumaturge",
+    "categories": [
+      "RPG",
+      "Isometric",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "23.6 GB",
+    "size_repack": "from 13.9 GB",
+    "description": "The Thaumaturge is an isometric, story-rich RPG with a unique take on turn-based combat, character development features, and investigation mechanics, facing you with morally ambiguous choices – set in a world teeming with mysterious powers and strange ethereal beings called salutors.\n\nThe year is 1905. Warsaw lives under the yoke of imperial Russian tsardom. Its inhabitants constitute a diverse group of different ancestries, views, and beliefs with often conflicting interests: Russian soldiers, Jewish merchants, Polish townspeople, and more. Despite the circumstances, the city is a buzzing metropolis, where one can attend a breathtaking party with the high society, and later get robbed in one of the dark alleys of the Praga district. A city of great hopes and dreams on one hand and dark desires on the other.\n\nA thaumaturge bears both a gift and a burden at the same time. This parallel holds true for Wiktor Szulski, the game’s titular protagonist, who is drawn back to the tumultuous streets of 20th-century Warsaw by family matters. The gift of thaumaturgy is intertwined with family legacy, passed down through one’s ancestors. This mystical inheritance significantly shapes Wiktor’s life journey tied around a pursuit of unearthly entities and their hosts. As only a thaumaturge can tame these ethereal entities – known to a select few as salutors – utilizing their mystical abilities to discover secrets hidden within the human soul and speak to the Darkness, no one understands quite like Wiktor how everyone suffers their own demons.\n\n**Repack Features**\n\n- Based on The.Thaumaturge.v1.2.0-RUNE ISO release: rune-the.thaumaturge.v1.2.0.iso (25,321,177,088 bytes)\n- Game version: v1.2.0 (79.743); Deluxe Edition DLC in-game content included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of optional videos in VP9 format, useless PDB debugging files and Bonus Content (OST in MP3, Wallpapers, etc.)\n- Significantly smaller archive size (compressed from 23.6 to just 13.9~15.6 GB, depending on selected components)\n- Installation takes from 8 minutes (on 32-threads CPU) up to 30 minutes (on 8-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 22.9 GB\n- Language can be changed in game settings\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Shape your story – as a full-fledged RPG, it allows you to alternate your choices and make you deal with the aftermath.\n- Develop your character – creating your own version of the thaumaturge will allow you to approach situations in different ways.\n- Experience unique turn-based combat and defeat your foes using human attacks and skills as well as psychic strikes delivered by salutors.\n- Influence and manipulate the temperaments of other characters to bend their will to your liking.\n- Tame the power of salutors – use the unique set of their skills to gain an advantage while exploring the world and when bringing your adversaries to their knees.\n- See the world that’s inevitably gone – explore the uncommon, heavily researched historic period of the early XX century Warsaw, where crime and luxury are often two sides of the same coin. Meet historical figures and learn about their involvement in the story.\n- Created in Unreal Engine 5 to deliver a detailed & beautifully crafted world.",
+    "cover_url": "https://i1.imageban.ru/out/2024/03/05/6763c0835d5b96bc64a5ef18d254a102.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/2c/52/2c52c59a-9558-4eb9-baa8-0874739c760a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/47/fb47a9de-984f-49eb-84c2-56dfd2f443de.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0c/9d/0c9d7dc4-1757-406d-b244-823a592b82d1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/99/0299ea0f-f33d-4e54-b9f5-8c2ff056b0f8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8a/16/8a16ad26-4f29-4990-9317-33298a03ef02.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/32/c432bbb1-e801-48f2-9be4-90de9bf06042.jpg.240p.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1684350/extras/Buka_2.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-thaumaturge",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T16:27:13.446772+00:00"
+  },
+  {
     "id": "ecbd9ef2-ee3e-5249-9eb2-2fd776181bb2",
     "title": "Among the Trolls",
     "slug": "among-the-trolls",
