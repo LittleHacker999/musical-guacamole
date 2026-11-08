@@ -1,5 +1,34 @@
 [
   {
+    "id": "579ba3e0-ea1e-504a-72f6-90ba95ec9c76",
+    "title": "Towerfolk – v1.0 (Release)",
+    "slug": "towerfolk",
+    "categories": [
+      "Managerial",
+      "Strategy",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "5.8 GB",
+    "size_repack": "3.1 GB",
+    "description": "Expand your lands and shape your city the way you imagine. Gather resources like stone, wood, and iron, establish production sites, and strengthen your economy. Outbuild your rivals, gain the upper hand, and transform your city into a thriving trade hub.\n\nGovernance and People’s Happiness\nBuilding a city is not just about raising structures it’s about caring for your people. Provide food, housing, health, and security, while fulfilling royal demands to maintain order. A happy and healthy population is the true foundation of prosperity.\n\nOrder and Economy\nYour threats aren’t only from outside danger lurks within as well. Keep thieves in check, prevent quarrels among soldiers, and protect your people from hunger. Balance food, shelter, and economy to maintain order and earn the trust of your citizens.\n\n**Repack Features**\n\n- Based on Towerfolk-TENOKE ISO release: tenoke-towerfolk.iso (6,191,323,136 bytes)\n- Game version: v1.0 (Release)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.8 to 3.1 GB)\n- Installation takes 3-10 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.6 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2026/10/14/5d2082c6498493e698c2d743ba1a16e4.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/df/9e/df9ee9f2-e7d6-4c29-bfbc-323e6a3155f9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e9/87/e9876ec6-5bc4-401a-b6cb-38e2b7d25915.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/46/e7/46e7d770-b0b7-4980-916f-7d29d864340b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ef/9b/ef9bdc0d-db55-490e-be05-e4e112d8d653.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0c/1a/0c1adf0c-8d1c-47ca-b655-3a5f3e5d7c96.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-towerfolk",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T18:37:14.141136+00:00"
+  },
+  {
     "id": "e791cc74-2109-5564-4731-864c6f23de4f",
     "title": "Invincible VS, Season 2 Patch + 22 DLCs",
     "slug": "invincible-vs",
