@@ -1,5 +1,36 @@
 [
   {
+    "id": "4d26f97f-f4c0-5d8c-8ae8-a0982c657eaf",
+    "title": "Dragon’s Dogma 2: Deluxe Edition* – v4.0.0.0 + All DLCs* + Bonus OST",
+    "slug": "dragons-dogma-2-de",
+    "categories": [
+      "RPG",
+      "Action RPG",
+      "Open world",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "88 GB",
+    "size_repack": "from 53.7/54 GB",
+    "description": "Dragon’s Dogma is a single player, narrative driven action-RPG series that challenges the players to choose their own experience – from the appearance of their Arisen, their vocation, their party, how to approach different situations and more. Now, in this long-awaited sequel, the deep, explorable fantasy world of Dragon’s Dogma 2 awaits.\n\nOn your journey, you’ll be joined by Pawns, mysterious otherworldly beings, in an adventure so unique you will feel as if accompanied by other players while on your own adventure.\n\nAll of these elements are elevated further through physics technology, artificial intelligence (AI) and the latest in graphics, to create a truly immersive fantasy world in Dragon’s Dogma 2.\n\nThis repack IS slightly backwards compatible with my previous DD2 repack. You can rehash fg-optional-bonus-soundtrack.bin and save 317 MB of traffic.\n\n**Repack Features**\n\n- Based on scene Dragons.Dogma.2.Dark.Arisen-RUNE ISO release: rune-dragons.dogma.2.dark.arisen.iso (94,476,894,208 bytes)\n- Missing DLC file added, thanks to machine4578!\n- Game version: v4.0.0.0; *All offline parts of DLCs are included and activated. Some consumables tied to online and do not work\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of Bonus OST\n- Significantly smaller archive size (compressed from 88 to 53.7/54 GB, depending on selected components)\n- Installation takes 15-50 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 90.7 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 4 GB of free RAM (inc. virtual) required for installing this repack\n- Action that challenges your creativity – Wield swords, bows, and chant magick. The vocations in Dragon’s Dogma 2 give you the ability to approach combat the way you want.\n- Company in your single-player experience – Players can customize their own main Pawn, who will always accompany your Arisen, and enter a covenant with up to 2 additional Pawns from other players through the network.\n- Facing the monsters in this world – Beyond the town borders, you will encounter diverse monsters that inhabit the lands. You will need to decide between engaging in battles or finding alternatives; so be aware of your party’s setup, the terrain around you, and the monsters you face.\n- Inhabitants of this world – Travelers, merchants, soldiers and other folk go about their daily lives. Preoccupied by their own objectives and motives, they all exhibit different emotions. At times, they may lead you to a quest by approaching you and asking for a favor.\n- Superior Weapons Quartet – A Boon in Early Battles\n- Ring of Assurance – Adventurer’s Safeguard\n- Explorer’s Camping Kit – Camping Gear\n- Dragon’s Dogma Music & Sound Collection – Custom Sounds\n- Harpysnare Smoke Beacons – Harpy Lure Item\n- Heartfelt Pendant – A Thoughtful Gift\n- Ambivalent Rift Incense – Change Pawn Inclinations\n- Makeshift Gaol Key – Escape from gaol!\n- Art of Metamorphosis – Character Editor\n- 1500 Rift Crystals – Points to Spend Beyond the Rift (A)\n- Wakestone – Restore the dead to life! (A)\n- Portcrystal – Warp Location Marker\n- Dark Arisen: Norgan Fashion Set – Northern Attire\n- Dark Arisen Expansion\n- Wakestone – Restore the dead to life! (B)\n- Wakestone – Restore the dead to life! (C)\n- Wakestone – Restore the dead to life! (D)\n- Wakestone – Restore the dead to life! (E)\n- 500 Rift Crystals – Points to Spend Beyond the Rift (A)\n- 500 Rift Crystals – Points to Spend Beyond the Rift (B)\n- 500 Rift Crystals – Points to Spend Beyond the Rift (C)\n- 1500 Rift Crystals – Points to Spend Beyond the Rift (B)\n- 1500 Rift Crystals – Points to Spend Beyond the Rift (C)\n- 1500 Rift Crystals – Points to Spend Beyond the Rift (D)\n- 2500 Rift Crystals – Points to Spend Beyond the Rift (A)\n\nAll offline parts of DLCs are included and activated. Some consumables tied to online and do not work.",
+    "cover_url": "https://i2.imageban.ru/out/2026/09/02/ec37c1103f3fc337419a5b0ef3be8523.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/51/ba/51ba7327-3bdd-4d05-83d0-72639e4bba19.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/80/33/8033e94a-c7db-4547-bd18-f2be8f6c2554.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dd/8a/dd8af8b1-6dbb-46be-862d-08b4abfbd90b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/8a/e68a68db-d535-4fb2-b5a0-e13cbdd72d8a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3a/62/3a62aef8-6a1e-43ce-b947-6544bfbf0448.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/92/18/92189c01-249b-45bd-bd11-80ffaefc3f7f.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dragons-dogma-2-de",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T20:12:17.531166+00:00"
+  },
+  {
     "id": "8f2238a7-3756-5197-ca77-3b182e30dbcb",
     "title": "Forever Ago – v1642 (MS Store)",
     "slug": "forever-ago",
