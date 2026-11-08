@@ -1,5 +1,36 @@
 [
   {
+    "id": "871d6905-ed57-568c-e736-7bd482932a62",
+    "title": "Allogloom – v1.21",
+    "slug": "allogloom",
+    "categories": [
+      "Adventure",
+      "Point-and-click",
+      "Side",
+      "2D",
+      "Horror"
+    ],
+    "size_original": "6.5 GB",
+    "size_repack": "2 GB",
+    "description": "With a note pointing her somewhere forbidden as her only clue, Nora must piece together what happened and why, before there’s no one left to save. She’ll encounter the town’s revered (and ravenous) moths, and navigate the displaced monsters left wandering the wreckage of her home. The deeper she goes, the less certain it is she’ll make it out with everyone she loves.\n\nThe Gruesome Grove she grew up in has gone. To bring it back, she’ll have to break every rule standing in her way.\n\n**Repack Features**\n\n- Based on Allogloom-Razor1911 ISO release: rzr-allogloom.iso (6,932,267,008 bytes)\n- Game version: v1.21\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 6.5 to 2 GB)\n- Installation takes 3-8 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 7.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A hand-crafted point-and-click adventure, inspired by the classics\n- A lush, detailed world brought to life through art nouveau-inspired illustration\n- A charming cast of characters, human, monster, and animal alike\n- Combine items and negotiate with characters to solve inventive puzzles\n- An intriguing story full of twists and turns, laced with dark humour\n- An original soundtrack by Kim Miller",
+    "cover_url": "https://i6.imageban.ru/out/2026/10/18/5cbdbf6065982f236377972b7af55617.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e4/b0/e4b0bcbc-302f-4458-9ee8-49b20b43f676.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/53/c7/53c7a9b3-13cd-471b-9d84-56b9245c9f62.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/77/a277bcd5-8f5d-4315-a8e6-fda9a71d4b61.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/74/30/7430b55d-d63f-41f9-996d-3792edcc5820.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/29/e1/29e1de3d-a43c-4b94-84a1-c4772be0cc04.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/28/71/287184ad-596a-4abc-bf7a-91bc58dcffdd.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-allogloom",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T16:52:15.334924+00:00"
+  },
+  {
     "id": "6cc8bf58-9d81-5469-8738-6f55822a5be7",
     "title": "Forza Horizon 3: Ultimate Edition – v1.0.125.2 + 79 DLCs",
     "slug": "forza-horizon-3",
