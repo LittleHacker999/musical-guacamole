@@ -1,5 +1,37 @@
 [
   {
+    "id": "01586627-13ce-51af-9a24-a533e0c0517c",
+    "title": "FIRE AND ASHES",
+    "slug": "fire-and-ashes",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Survival",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "26.4 GB",
+    "size_repack": "18.4 GB",
+    "description": "Your main weapon, and your fatal vulnerability, is sound. Thanks to advanced voice recognition, the game detects your breathing, whispers, and panic. Control your emotions. Be quiet if you want to survive!\n\nDescent Into Madness \nIn 1977, Henry comes to in a bathtub inside the psychiatric ward. He gasps for air, breaking the surface. The tub is filled with blood. Not his…\n\nBecome the protagonist of this surreal journey. You must escape into the bleak locations of Henry’s past, where the line between reality and morbid delusion completely dissolves.\n\nYou are hunted by crazed guards, deranged psychopaths, cannibals, former patients, victims of inhumane experiments, cybernetic creations, and other entities that shouldn’t even exist. But the most terrifying enemies aren’t always hiding in the dark corridors. Sometimes, they wait inside Henry himself.\n\nFight using whatever resources you can find, solve puzzles, and piece together the truth behind the tragedy that shattered the hero’s life.\n\nChilling Uncertainty \nEvery solved puzzle, every clue found, and every defeated enemy brings you closer to the truth. But are you ready for it?\n\nAs you venture deeper into secret laboratories and the eerie corners of Henry’s memory, you will realize that someone unseen is guiding you down this path of madness. Is it a friend, or a hidden enemy who wants you dead?\n\nA microphone is highly recommended for maximum immersion, but the game can be fully completed without one.\n\nFight external threats, face your inner demons, and remember: in this world, nothing can be fully trusted.\n\n**Repack Features**\n\n- Based on FIRE_AND_ASHES-Razor1911 ISO release: rzr-fireandashes.iso (28,393,177,088 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 26.4 to 18.4 GB)\n- Installation takes 6-18 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 26.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Hold your breath to avoid giving away your position;\n- Scream to distract enemies or buy precious seconds to escape;\n- Taunt opponents with your voice to create openings for an attack;\n- Use sound as a survival tool.",
+    "cover_url": "https://i6.imageban.ru/out/2026/10/24/c301ea7afa4b475f0e458d00c4e68401.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b6/1b/b61bd65b-e73e-470a-aa18-489e475774cb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3e/43/3e4397a0-3000-4cb6-b1e3-3baee877da6b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ff/84/ff84fa0c-20bf-4bba-8bac-3a68001d7039.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cd/7c/cd7c3286-f942-4e47-a9e9-46f4da3e2e7d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/73/8c/738c6342-7b82-4a1f-a5e8-90997862fe5f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/17/661706d6-230e-4d5c-954a-63034cf1c804.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-fire-and-ashes",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T14:14:28.625510+00:00"
+  },
+  {
     "id": "aca54a54-3d17-5834-b799-778c45acd383",
     "title": "iRacing Arcade – v1.1.c0",
     "slug": "iracing-arcade",
