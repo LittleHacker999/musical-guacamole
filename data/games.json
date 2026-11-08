@@ -1,5 +1,35 @@
 [
   {
+    "id": "032b8359-bc94-5606-8d3a-06f7f01f6c17",
+    "title": "SnowRunner: 4-Year Anniversary Edition, v44.0 (Season 19 Update) + 50 DLCs + Chill Nature Beats Soundtrack",
+    "slug": "snowrunner",
+    "categories": [
+      "Driving",
+      "Open world",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "54.3 GB",
+    "size_repack": "36.5/37.3 GB",
+    "description": "In SnowRunner you control powerful vehicles and conquer extreme environments in an open game world in the most advanced terrain simulation so far. Drive 40 Ford, Chevrolet or Freightliner vehicles and leave your mark in an untamed, open game world.\n\nOvercome mud, raging waters, snow, and frozen lakes as you complete dangerous missions and missions. Expand and personalize your fleet with numerous upgrades and accessories, such as an exhaust snorkel for deep water or snow chains for snowy areas.\n\nThis repack is slightly backwards compatible with my previous SR repack. You can rehash fg-optional-bonus-soundtracks.bin and save 738 MB of traffic\n\n**Repack Features**\n\n- Based on SnowRunner.Research.and.Restore-RUNE ISO release: rune-snowrunner.research.and.restore.iso (57,448,628,224 bytes)\n- Bonus Chill Nature Beats Soundtrack (774 MB) added, thanks to NoeRIη!\n- Game version is v44.0 (Season 19 Update); 50 DLCs are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST\n- Significantly smaller archive size (compressed from cumulative 54.3 GB to 36.5/37.3 GB)\n- Installation takes 16-42 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 71.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Anniversary DLC\n- Burning Bright Vinyl Wrap Pack\n- Clasico Pack\n- Crocodile Pack\n- Dragon Wagons Dual Pack\n- Freightliner & Western Star Dual Pack\n- GMC Brigadier\n- High Roller Pack\n- Jack of All Treads Tire Pack\n- Jeep Dual Pack\n- Kenworth Dual Pack\n- Kenworth W990\n- Land Rover Dual Pack\n- Loaded Dice Vinyl Wrap\n- Mack Dual Pack\n- Mercedes-Benz Trucks Dual Pack 1\n- Mercedes-Benz Trucks Dual Pack 2\n- Navistar 5000-MV Tractor\n- Pathfinders Vinyl Wrap Pack\n- Rezvani Hercules\n- Rezvani Tank\n- Sabertooth Livery\n- Salt of the Earth Vinyl Wrap Pack\n- Save the Day Vinyl Wrap Pack\n- Scorched Vinyl Wrap\n- Season 1: Search & Recover\n- Season 2: Explore & Expand\n- Season 3: Locate & Deliver\n- Season 4: New Frontiers\n- Season 5: Build & Dispatch\n- Season 6: Haul & Hustle\n- Season 7: Compete & Conquer\n- Season 8: Grand Harvest\n- Season 9: Renew & Rebuild\n- Season 10: Fix & Connect\n- Season 11: Lights & Cameras\n- Season 12: Public Energy\n- Season 13: Dig & Drill\n- Season 14: Reap & Sow\n- Season 15: Oil & Dirt\n- Season 16: High Voltage\n- Season 17: Repair & Rescue\n- Season 18: Patch & Power\n- Season 19: Research & Restore\n- TATRA Dual Pack\n- The Atom\n- The Mastodon\n- True Colors Vinyl Wrap\n- Western Star 49X\n- Western Star Wolf Pack",
+    "cover_url": "https://i7.imageban.ru/out/2021/09/12/ee148f62e7f90ad30b93bb89ee72a51c.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a0/a4/a0a4d78a-68ca-4d4d-b110-52d7274cf2be.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/05/59/055988bc-1b3e-4235-99ba-d654dd8f26cb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0a/b7/0ab77084-d140-4199-a016-0ed8baec8bca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e4/22/e422a141-fb3e-4d51-8081-ea956395f7ce.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/35/cd/35cd6059-b7c9-4694-807f-9e689b46387f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/db/09/db099fba-45d0-4050-ab70-8d3c9afdd4d5.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-snowrunner",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T15:42:15.649129+00:00"
+  },
+  {
     "id": "3df26a05-169b-5083-9cd9-bf3fd782070d",
     "title": "Denizen – v1.0.2",
     "slug": "denizen",
