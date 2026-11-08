@@ -246,7 +246,7 @@
       "http://s01.riotpixels.net/data/c3/30/c330c6d6-d6a3-4380-8b93-20587896307f.jpg.240p.jpg",
       "http://s01.riotpixels.net/data/25/71/25713521-7285-45fe-ac5f-e2bfe6c4eb19.jpg.240p.jpg"
     ],
-    "system_requirements": "Not Found",
+    "system_requirements": "MINIMUM:\nOS: 64-bit Windows 11\nCPU: Core i7-6700 or Ryzen 5 1600\nRAM: 12 GB RAM\nGPU: GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380\nDirectX: Version 12\nStorage: 70 GB SSD\n\nRECOMMENDED:\nOS: 64-bit Windows 11\nRAM: 16 GB RAM\nGPU: GeForce RTX 2060 SUPER or Radeon RX 5700 or Arc A770\nDirectX: Version 12\nStorage: 70 GB SSD",
     "repacker": "Fitgirl",
     "download_url": "https://repack-x-database.vercel.app/fg-cyberpunk-2077",
     "is_published": true,
