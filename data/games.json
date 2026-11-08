@@ -53,7 +53,7 @@
       "http://s01.riotpixels.net/data/6e/af/6eaf4be5-eb75-41b0-99e5-edadb1b857a4.jpg.240p.jpg",
       "http://s01.riotpixels.net/data/01/83/01833257-a955-4c4b-8637-8a8edeaf69a1.jpg.240p.jpg"
     ],
-    "system_requirements": "Not Found",
+    "system_requirements": "MINIMUM:\nOS: Windows 10\nCPU: 1.8 GHz\nRAM: 2 GB RAM\nGPU: 3D graphics card compatible with DirectX 9.0c\nDirectX: DirectX 9.0c",
     "repacker": "Fitgirl",
     "download_url": "https://repack-x-database.vercel.app/fg-deus-ex-go",
     "is_published": true,
