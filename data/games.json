@@ -1,5 +1,35 @@
 [
   {
+    "id": "30332cca-af89-5a2e-af6a-7321b392f427",
+    "title": "End of Abyss – v22954",
+    "slug": "end-of-abyss",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "4.8 GB",
+    "size_repack": "3.5 GB",
+    "description": "Enter the Abyss\nDescend into the halls of a sprawling complex, where broken machines whisper to you from the depths, and nothing you encounter is fully human.\n\nFight to Survive\nOutmatched by the twisted horrors you face, you must upgrade your gear and adapt, pushing your limits just to stay alive against the crushing pressure of the facility you’re trapped within.\n\nExplore Lost Paths\nNavigate branching paths and uncover hidden areas using your Scanner and the tools you unlock along the way. Pathways open as you grow stronger, allowing you to return to forgotten corridors and secrets once sealed away.\n\nDeveloped by Section 9\nEnd of Abyss delivers a focused and immersive experience shaped by a small team in Malmö Sweden, led by experienced developers known for crafting hit games.\n\n**Repack Features**\n\n- Based on End.of.Abyss-RUNE ISO release: rune-end.of.abyss.iso (5,105,483,776 bytes)\n- Game version: v22954\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 4.8 to 3.5 GB)\n- Installation takes 3-10 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i8.imageban.ru/out/2026/10/07/00e1c65d951763503d3d5a8c4ff97daa.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/fb/89/fb896145-e6c2-4baa-859b-7f17414a42b9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/1d/aa1db04c-775b-4957-9d12-21129728eb4e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/70/ca/70ca17e3-d0cb-4866-98e6-4cd8a7b285cb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/df/62/df6280b0-7729-43cf-ad33-5c8f4009cfd8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8d/4c/8d4c30aa-5278-4c1e-bdcf-55933e02b2d9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7e/ff/7eff540d-2dcc-4b1e-b71c-b7d65a29ea19.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-end-of-abyss",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T21:17:13.708186+00:00"
+  },
+  {
     "id": "abe538fb-65aa-5fa9-cc8e-56e47859a0fb",
     "title": "Gamer Stop Simulator – v1.0 (Release)",
     "slug": "gamer-stop-simulator",
