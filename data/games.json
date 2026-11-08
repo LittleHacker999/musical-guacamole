@@ -1,5 +1,35 @@
 [
   {
+    "id": "d3a5ef51-8872-5cba-fc0a-c53e0773b850",
+    "title": "TOEM 2: Game & Soundtrack Bundle, v1.0.5 + Bonus OST",
+    "slug": "toem-2",
+    "categories": [
+      "Arcade",
+      "Platform adventure",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "2.9 GB",
+    "size_repack": "429 MB",
+    "description": "Run, jump, and climb your way through all-new cozy environments, uncovering hidden paths, scenic viewpoints, and small details waiting to be discovered. The world is built to reward curiosity, so take your time and wander wherever your camera leads you.\n\nEncounter a cast of new quirky characters and adorable critters along your journey. Lend a hand to new faces, create lasting friendships, and catalogue your memories as you go along.\n\nYour camera has gotten an upgrade! Not only can you snap pictures to solve puzzles, uncover secrets, and document your discoveries, you can also use them in more unconventional ways, with new attachments letting you overcome various problems in each region.\n\nFill your journal with stamps as you complete quests, document discoveries, and expand your critter compendium. Each stamp is not only a reminder of the little wonders you’ve uncovered along the way — they’re also your ticket to unlocking the next region.\n\nTOEM 2 is built to be experienced at your own pace with no time limits or tricky requirements for full completion. Listen to music on a bench, smell the flowers, admire the sights and enjoy.\n\n**Repack Features**\n\n- Based on TOEM.2-TENOKE ISO release: tenoke-toem.2.iso (3,146,258,432 bytes)\n- Game version: v1.0.5; Bonus OST in MP3 format is included by default\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format nullified, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.9 GB to 429 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.8 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i8.imageban.ru/out/2026/10/25/6e81e39fbc21be2b3dea78d6ad2e66c0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/94/53/9453c674-1f3b-451f-97bd-84809c62d04b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6e/d2/6ed27afa-b9ae-4402-a4d5-7432b2108462.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/38/3d/383de348-8866-419f-97d7-12a71fa5b1bc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/70/c6/70c6e2a3-9462-4a55-b4e2-f3771c2a8b8a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3f/a1/3fa12b23-c4a6-4c85-9aea-479d6288a92a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9a/a7/9aa77356-b6f0-49ca-beee-b6607330f746.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-toem-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T13:49:41.726745+00:00"
+  },
+  {
     "id": "810db688-7806-5b3a-96b1-cb7970df13f2",
     "title": "MEMORIAPOLIS: Fish & Ships Pack, v1.7.67 + DLC",
     "slug": "memoriapolis",
