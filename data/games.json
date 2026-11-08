@@ -1,5 +1,40 @@
 [
   {
+    "id": "b5bd3259-717a-5353-6883-d3c6c7f10c3c",
+    "title": "Borderlands 4: Super Deluxe Edition – v1.11 (Denuvoless) + 17 DLCs + Bonus OST",
+    "slug": "borderlands-4",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Driving",
+      "RPG",
+      "Action RPG",
+      "Open world",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "184.9 GB",
+    "size_repack": "from 42.5 GB",
+    "description": "Crash into Kairos as one of four new Vault Hunters seeking wealth and glory. Wield powerful Action Skills, customize your build with deep skill trees, and dominate enemies with dynamic movement abilities.\n\nBreak free from the oppressive Timekeeper, a ruthless dictator who dominates the masses from on high. Now a world-altering catastrophe threatens his perfect Order, unleashing Mayhem across the planet.\n\nThis repack IS slightly backwards compatible with my previous BL4 repack. You can rehash fg-optional-bonus-soundtrack.bin and save 160 MB of traffic.\n\n**Repack Features**\n\n- Based on scene Borderlands.4-RUNE ISO release: rune-borderlands.4.iso (198,354,206,720 bytes)\n- Bonus Soundtrack in MP3 format (227 MB) added\n- Game version: v1.11 (Denuvoless); 17 DLCs are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST and voiceover packs you don’t need. English VOs are included by default\n- Significantly smaller archive size (compressed from cumulative 184.9 to 42.5~94.3 GB, depending on selected components)\n- Installation takes from 32 minutes (on 32-threads CPU) up to 120 minutes (on 8-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 189.4 GB\n- Language can be changed in “OakGame/Binaries/Win64/steam_emu.ini” file\n- Repack uses XTool library by Razor12911\n- At least 6 GB of free RAM (inc. virtual) required for installing this repack\n- BE A BADASS – Become an unstoppable force of battle, blasting through enemies with an all-new arsenal of outrageous weaponry. Move across the Borderlands like never before—double jumping, gliding, dodging, grappling, and more—dealing death from every direction. Explode each encounter with devastating Action Skills that unleash your Vault Hunter’s unique abilities. Craft your perfect build with branching skill trees and a deep, rewarding loot chase full of wild weapons and powerful gear.\n- FIGHT SOLO OR CO-OP – Wreaking havoc across Kairos is awesome alone and even better with friends in 4-player online co-op. Borderlands 4 is designed for co-op from the ground up; whether you’re hunting for loot, tackling missions, or wandering freely, level scaling and individual difficulty keeps the party together and having fun.\n- LESS BORDERS, MORE LANDS – Freely explore a vast and dangerous world rife with warring factions. Hop on your hover bike and ride through lush fields, towering peaks, and deadly deserts full of fearsome enemies, dynamic events, and engaging quests with unforgettable characters. Unite the people of Kairos and ignite a revolution, tackling this adventure however you see fit in a seamless Borderlands experience.\n- Bounty Pack 2: Legend of the Stone Demon\n- Bounty Pack 2: Vault Card 2\n- Bounty Pack 3: A Zane to Kill For\n- Bounty Pack 3: Vault Card 3\n- Bounty Pack 4: Murders and Acquisitions\n- Bounty Pack 4: Vault Card 4\n- Bounty Pack 5: Amara and the Vile Shadows\n- Bounty Pack 5: Vault Card 5\n- Bounty Pack Bundle\n- C4SH the Rogue\n- Firehawk’s Fury Weapon Skin\n- Gilded Glory Pack\n- Loveless the Hacker\n- Ornate Order Pack\n- Story Pack 1: Mad Ellie and the Vault of the Damned\n- Story Pack 2: FL4K and the Last Resort\n- Vault Hunter Pack",
+    "cover_url": "https://i3.imageban.ru/out/2026/10/24/227719158184b12d474c5348b9cc4470.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/fb/40/fb402060-e180-4198-84a6-ef4dfd4888ca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/85/1e/851e1c27-5b19-47d2-8364-ec5c7890a710.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/30/30/30308c7a-0ca3-4eda-972c-db8a5ebcdf15.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1d/63/1d636d5e-1f3f-42a5-a399-2fe5cb3d2e7f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7e/06/7e067105-0bd7-49ab-b7a4-23305a067adb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cc/47/cc47502b-b9c3-4940-9cf5-1fe8946e183c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-borderlands-4",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T14:19:31.925836+00:00"
+  },
+  {
     "id": "01586627-13ce-51af-9a24-a533e0c0517c",
     "title": "FIRE AND ASHES",
     "slug": "fire-and-ashes",
