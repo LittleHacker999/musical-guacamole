@@ -1,5 +1,38 @@
 [
   {
+    "id": "3d39192d-fd05-5905-9a9c-0d0826fbba5d",
+    "title": "Enshrouded: Deluxe Edition – v1.0 (Build 1265863) + 3 DLCs/Bonuses",
+    "slug": "enshrouded",
+    "categories": [
+      "RPG",
+      "Action RPG",
+      "Item crafting",
+      "Open world",
+      "Survival",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "32.9 GB",
+    "size_repack": "23.3/23.6 GB",
+    "description": "EXPLORE A VAST WORLD OF WILD BEAUTY\nDiscover breathtaking landscapes and the secrets of a fallen civilization. Journey through lush forests, sun-scorched dunes, snow-capped peaks, and ruins swallowed by the Shroud. Swing across chasms with your grappling hook, glide from dizzying heights, and dive beneath the waters to reach places no road will ever lead to.\n\nSURVIVE AND GROW\nLive off the land – hunt, farm, fish, and scavenge rare materials. Rescue survivors from the Shroud, and your lonely hut grows into a bustling settlement of craftspeople and townsfolk, unlocking new recipes and gear. Survival here rewards preparation and creativity.\n\nFIGHT YOUR WAY\nGrow strong enough to face what hunts you. Wield greatswords, channel devastating magic, specialize deeply or mix archetypes through skill-based combat and a talent system that is both easy to pick up and deep to master.\n\nBUILD WITHOUT LIMITS\nClaim your place in Embervale – if you can dream it, you can build it. Raise towering fortresses, carve homes into mountainsides, reshape the terrain, and furnish every room down to the smallest detail. Voxel-based building gives you extraordinary freedom to make this world your home.\n\nCONQUER THE SHROUD\nTake the fight back to the enemy. Descend into the deadly fog that threatens all life. Face its most fearsome creatures, claim materials found nowhere else, and free Embervale from the Shroud’s grip.\n\nFORGE YOUR LEGEND – SOLO OR WITH FRIENDS\nWalk this path alone or in co-op with up to 16 players. Fight, build, farm, or explore: every role matters in rebuilding the kingdom.\n\nDISCOVER ENDLESS ADVENTURES\nWhen the campaign ends, your story doesn’t. Dive into worlds and dungeons created by millions of players, or share your own through our Adventure Sharing feature.\n\n**Repack Features**\n\n- Based on Enshrouded-RUNE ISO release: rune-enshrouded.iso (35,291,398,144 bytes)\n- Game version: v1.0 (Build 1265863); 3 DLCs/Bonuses (Deluxe Upgrade Pack, First Flameborn Reward Pack, Original Soundtrack)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus content (OST in MP3 format + ArtBook)\n- Significantly smaller archive size (compressed from 32.9 to 23.3/23.6 GB)\n- Installation takes 2-15 minutes (depending on your drive speed)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 48.7 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i3.imageban.ru/out/2026/10/17/4b90732c35ac8ac19de6621581353ec5.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ca/50/ca50f0d8-fed3-429f-ad48-8a74afe85df8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1f/ef/1fefcefa-9f91-43ef-bd64-2c06a00e502e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/03/02/03027dd8-8bfc-44ef-97cd-9ff267df20b6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/59/88/5988b8bc-0f96-4716-8924-f5a2311e63a5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/63/7a/637a6e1b-126b-4049-8283-d49a70a17bb3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d8/67/d8674216-9c24-4d45-8e5c-6582887808f1.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-enshrouded",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T17:37:13.536663+00:00"
+  },
+  {
     "id": "c3d4ad58-5173-59df-bda1-1533b6476a4b",
     "title": "Frosthaven – v1.0.34024",
     "slug": "frosthaven",
