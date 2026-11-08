@@ -1,5 +1,38 @@
 [
   {
+    "id": "b56c5900-5e7e-5983-edd8-cb59ddc9a3a3",
+    "title": "Lightyear Frontier & Soundtrack Bundle – v1.0.2540 + 2 DLCs/Bonuses",
+    "slug": "lightyear-frontier",
+    "categories": [
+      "Lifestyle",
+      "Item crafting",
+      "Open world",
+      "First-person",
+      "Third-person",
+      "3D",
+      "Agricultural machinery"
+    ],
+    "size_original": "4.7 GB",
+    "size_repack": "3.2 GB",
+    "description": "Work at scale using your powerful mech. Plant vast fields using the rapid-firing Seed Shooter and haul dozens of logs on one shoulder. Crop rotation and fertilizer reward the farmers who plan ahead.\n\nBuild your ideal farm, whether that’s a cozy homestead or the ultimate resource generator. Decorate a home to call your own and unlock useful effects. Improve your quality of life by laying down roads and automating upkeep, like crafting and watering.\n\nUp to three friends can join you on your farm. Pool your resources to create the perfect homestead, and share the rewarding feeling of a good harvest with your pals. Use the Shared Saves system to keep playing even while the host is away.\n\nNo enemy raids, no hunger, no lost progress – no pressure. Kick back, get creative, or challenge yourself, with lots of tweakable options to fit your unique playstyle.\n\nUpgrade and tune the capabilities and look of your trusty mech. Take care of it through repairs and fuel, and it’ll take care of you.\n\n**Repack Features**\n\n- Based on Lightyear.Frontier-RUNE ISO release: rune-lightyear.frontier.iso (5,073,403,904 bytes)\n- Game version: v1.0.2540; 2 DLCs/Bonuses (Pioneer’s Bundle & Soundtrack MP3) are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in FLAC format ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 4.7 to 3.2 GB)\n- Installation takes 4-12 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2026/11/05/5bd8f453e7a4a21f4f3f75b420ac2799.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/8f/cc/8fcc223d-9a82-4faf-be05-e03b3d138aa0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/86/8a/868a14a0-2c5b-4fde-b51d-249c26c62c18.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2d/25/2d25d56d-22e7-4e98-a9bc-1ed307230374.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9c/c3/9cc33546-218a-49a3-98fe-4a071c3736e7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dd/f8/ddf8e500-146c-4d39-8d7b-bcbd818b1bcb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3a/b0/3ab07b24-c9f2-4c8a-b2fe-a8e9d8145dd9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-lightyear-frontier",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T08:15:46.590719+00:00"
+  },
+  {
     "id": "cb718a05-1c78-5414-4a25-e6d2b1537fc8",
     "title": "Age of Wonders 4: 2026 Collector’s Bundle – v1.017.001.126767 + 18 DLCs",
     "slug": "age-of-wonders-4",
