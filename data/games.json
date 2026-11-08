@@ -1,5 +1,34 @@
 [
   {
+    "id": "6165a94f-0aff-520d-6611-74b59e82592c",
+    "title": "Plan B: Terraform – v1.1.0 Build 1348 + 2 DLCs/Bonuses",
+    "slug": "plan-b-terraform",
+    "categories": [
+      "Managerial",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "2.3 GB",
+    "size_repack": "618 MB",
+    "description": "Plan B: Terraform is a calm and contemplative sci-fi simulation game set in a near future where humanity must look beyond Earth for survival. Your mission: shape a newly discovered planet into a habitable world. Explore a vast, hex-based terrain with over a million tiles and harness a full ecosystem simulation.\n\nRaise global temperatures with greenhouse gas generators, unlock underground ice to form flowing rivers and vast oceans, and restore vegetation across the land. Experience dynamic weather systems, including evaporation, wind patterns, and rainfall. Turn a lifeless rock into a living world covered in forests, rivers, and oceans.\n\nExtract minerals, manufacture goods, and move them with trucks, trains, drones, and ships. Establish automated supply lines to support expanding cities, transforming small outposts into thriving metropolises with populations in the millions. Every stage of growth depends on your ability to manage logistics, optimize infrastructure, and keep automation running smoothly.\n\n**Repack Features**\n\n- Based on Plan.B.Terraform.Worlds.of.Fire.and.Water-TENOKE ISO release: tenoke-plan.b.terraform.worlds.of.fire.and.water.iso (2,480,953,344 bytes)\n- Game version: v1.1.0 Build 1348; 2 DLCs/Bonuses (Worlds of Fire and Water + Soundtrack in MP3 format) are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format nullified, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.3 GB to 618 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.2 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2026/10/20/711c08b01a65a7b6fc0480e4a61fff93.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/04/91/04914b0a-c28b-4b37-af51-9e92138a1a84.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/79/9d/799d82e2-7775-4aa1-b5b4-7be8c1a1b3f7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3d/a7/3da78ca4-c7e1-49c1-8742-074039f9304c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f6/4f/f64fa7fa-407b-46de-9f70-146b7212c6d2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/da/edda3efb-ce25-4d6c-bf9b-a6bc0646630e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3b/cb/3bcb2544-80ba-4af0-99cb-b61271bf3079.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-plan-b-terraform",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T16:02:16.619226+00:00"
+  },
+  {
     "id": "d42bb586-7956-5650-8863-b59fdc5bb959",
     "title": "Heroes of Science and Fiction – v1.0.11.1 + 3 DLCs/Bonuses",
     "slug": "heroes-of-science-and-fiction",
