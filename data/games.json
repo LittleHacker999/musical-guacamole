@@ -1,5 +1,37 @@
 [
   {
+    "id": "966d2fb5-f07d-5673-ff1f-0ff3557b3c1b",
+    "title": "Tempest Rising: Gold Edition – v2.0.0+60710 + 6 DLCs/Bonuses",
+    "slug": "tempest-rising",
+    "categories": [
+      "Strategy",
+      "RTS",
+      "Isometric",
+      "3D",
+      "Real-time"
+    ],
+    "size_original": "57.4 GB",
+    "size_repack": "from 33.6 GB",
+    "description": "Take on the role of Commander in the highly mobile and advanced peacekeeping corps of the Global Defense Forces or the hard-hitting and desperate Tempest Dynasty in 2 11-mission campaigns that allow the player to customize their army for each mission, as both armies seek to understand and control the mysterious but beneficial Tempest vines that grow unchecked across the war-torn planet Earth. Other dangers wait in the shadows, as the origin of the Tempest is revealed…\n\n**Repack Features**\n\n- Based on Tempest.Rising.The.Vetis.Wrath-RUNE ISO release: rune-tempest.rising.the.vetis.wrath.iso (61,604,462,592 bytes)\n- Game version: v2.0.0+60710; 6 DLCs/Bonuses are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded. Tempest Server & Editor files are included by default\n- Selective Download feature: you may skip downloading and installing of optional videos (menu animated backgrounds, credits, trailers) and bonus content (OST + ArtBook)\n- Significantly smaller archive size (compressed from 57.4 to 33.6~35.8 GB, depending on selected components)\n- Installation takes from 7 minutes (on 32-threads CPU + SSD) up to 45 minutes (on 8-threads CPU + HDD)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 66.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 3 GB of free RAM (inc. virtual) required for installing this repack\n- Classic RTS base building with fast and fluid hard-hitting combat\n- 3 asymmetrical factions, (2 playable at launch), each featuring distinct economy and play styles.\n- Each faction offers a unique roster of units.\n- 2 epic single player campaigns with between-mission cutscenes.\n- Skirmish, custom games, and ranked multiplayer matchmaking with Glicko-2 rating.\n- Soundtrack\n- Digital Artbook\n- Pre-order DLC\n- Deluxe Pre-order Bonus Pack\n- The Veti’s Wrath\n- Map Editor",
+    "cover_url": "https://i1.imageban.ru/out/2025/04/18/89e353a1ec176e55209737fd72800993.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/92/15/9215e392-23a0-4a04-ab5a-ecfc01be8468.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/80/02/8002c8d3-4d60-42fc-a48d-d346d3136bb9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/95/6995c1b3-df60-42fe-a8b6-d7a92a4a0cdf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/38/09/38094ce3-5f48-4831-9d72-f061a5815d4a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/30/bb/30bb7bf4-6fbd-4e4b-9717-06824a8b55c5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bb/e6/bbe63717-6e86-4a0a-bbb2-1fe01c810e3b.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1486920/extras/shotmontage.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-tempest-rising",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T22:57:14.128436+00:00"
+  },
+  {
     "id": "4b90a2b8-6c95-5792-393f-f2b2a6b837b0",
     "title": "Reus 2: Complete Edition , v1.12.0 + 5 DLCs",
     "slug": "reus-2",
