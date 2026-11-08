@@ -1,5 +1,35 @@
 [
   {
+    "id": "67b7dcbb-a4e8-54f0-cf11-21e54572cfef",
+    "title": "Bloodborne: Game of the Year Edition, v1.09 + All DLCs + Online (Recompiled for PC v1.9.6)",
+    "slug": "bloodborne",
+    "categories": [
+      "RPG",
+      "Third-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "29.8 GB",
+    "size_repack": "14.1 GB",
+    "description": "From the studio behind Demon’s Souls™ and Dark Souls™ comes the critically acclaimed action RPG beloved by 2 million players worldwide.\n\nA lone traveller. A cursed town. A deadly mystery that swallows everything it touches. Face your fears as you enter the decaying city of Yharnam, a forsaken place ravaged by a terrible, all-consuming illness. Can you survive the night?\n\nYou’ll find multiple outfits and new transformable weapons to add to your arsenal, including Simon’s Bowblade for a new experience with ranged combat. Play with dark spells and transform yourself into a horrific beast. Welcome back to Yharnam…\n\n**Repack Features**\n\n- Based on PS4 CUSA-03173 MULTi14 release with v1.09 applied over: 29.3 GB\n- “bloodborne_pc” v1.9.6 fork by Supermedo/Jgamrot installed over\n- Check this page for newer builds if you have issues: https://github.com/Jgamrot/bloodborne_pc. Also use this page for getting instructions on online play, they change over time\n- When you run the game the first time, select the “game” folder inside the installed repack folder. This folder contains “eboot.bin”, which is required for the recompiler to work\n- Adjust all needed settings (graphics, controls, etc) and play. On next runs the game will lanuch directly. To call settings, press “Shift” on your keyboard after the launch when the corresponding message appears\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from cumulative 29.8 to 14.1 GB)\n- Installation takes 11-30 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 29.8 GB\n- Language can be changed in the launcher settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2026/10/17/ef851eda6aaae88156a5b1e513661b29.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/32/e2/32e242eb-701a-4765-a886-04377708744e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dc/d0/dcd0e486-77ed-4e9e-83a8-ea8e251c58db.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/23/ac/23acde7c-4254-450e-85f6-c48a02fedab1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9b/38/9b384a92-de5d-4045-b6bd-9f7883de2b66.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/63/75/6375edb8-97fa-409c-b3c3-c6609bdbf6a5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4d/e1/4de15449-2248-411d-bf27-03026de311e1.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-bloodborne",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T17:27:13.616871+00:00"
+  },
+  {
     "id": "43992b46-eba9-5b65-6f6e-d0c45c2592e2",
     "title": "Vellum – v1.3.3",
     "slug": "vellum",
