@@ -115,7 +115,7 @@
       "http://s01.riotpixels.net/data/55/63/5563cb78-eebf-4173-ae70-72e7cea0be8c.jpg.240p.jpg",
       "http://s01.riotpixels.net/data/1a/d8/1ad83912-04ec-4305-b976-2d4e07ce8f99.jpg.240p.jpg"
     ],
-    "system_requirements": "Not Found",
+    "system_requirements": "MINIMUM:\nOS: Windows 10\nCPU: Intel Core i3-4100, AMD A8-6600K\nRAM: 8 GB\nGPU: Nvidia GTX 960, AMD Radeon R9 380\nDirectX: 12\nStorage: 12 GB\nNetwork: Recommened for optional online play\n\nRECOMMENDED:\nOS: Windows 10\nCPU: Intel Core i3-10100, AMD Ryzen 3 4300G\nRAM: 16 GB\nGPU: Nvidia GTX 1050, AMD RX 560\nDirectX: 12\nStorage: 12 GB\nNetwork: Recommened for optional online play",
     "repacker": "Fitgirl",
     "download_url": "https://repack-x-database.vercel.app/fg-alien-breed-35th-anniversary-collection",
     "is_published": true,
