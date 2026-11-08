@@ -1,5 +1,37 @@
 [
   {
+    "id": "6fd9ecc0-9f0e-51e8-df40-720876283e47",
+    "title": "Eastern Era – v1.2.0",
+    "slug": "eastern-era",
+    "categories": [
+      "Management",
+      "Strategy",
+      "Item crafting",
+      "Top",
+      "3D",
+      "Middle Ages"
+    ],
+    "size_original": "13.1 GB",
+    "size_repack": "6.4 GB",
+    "description": "Navigate challenges posed by food shortages and harsh weather, hunt dangerous beasts, lift the spirits of your disciples, and manually construct all necessary facilities brick by brick. Recruit talents from the wilderness or cities to become your disciples, train their martial skills, and gradually restore your sect’s strength, rebuilding your unique sect headquarters.\n\nForge alliances or sow discord among other sects, stirring up turbulent conflicts in this martial-dominated world. Seize power, defeat century-old formidable sects, conquer the JiangHu, and become the new legend.\n\n**Repack Features**\n\n- Based on Eastern.Era.Realms.Unveiled-RUNE ISO release: rune-eastern.era.realms.unveiled.iso (14,082,113,536 bytes)\n- Game version: v1.2.0\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 13.1 to 6.4 GB)\n- Installation takes 1-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 16.1 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Detailed Interactive World – Explore vast forests, snowy plains, and deserts where every plant and tree can be collected and processed into resources for crafting and constructing everything necessary for survival. Your ultimate goal is to revive your sect. Travel through the Central Plains, explore other sects and ancient ruins, and seek clues to legendary martial arts manuals and mythical weapons. Train exceptional disciples and command them to defend, attack, and compete against other sects. They can bring back rare treasures for you. Or you can appoint them to manage your sect, or even swiftly seize other sects’ headquarters and participate in establishing new branch sects.\n- Flesh and Reality – In the desolate yet vibrant primal landscapes, disciples will be challenged by needs such as hunger, sleep, and entertainment. They must also withstand the ever-changing weather and natural disasters, maintaining morale against the elements to avoid breakdowns. Disciples not yet trained in martial arts must tread carefully, as even a single beast can leave lifelong scars on their bodies. However, the body is the foundation of martial arts. As disciples master internal skills and techniques, their health and physical strength enhance their martial capabilities. Some extreme individuals even replace arms or organs with parts of mythical beasts to seek greater power.\n- Martial Arts and Combining Techniques – The ultimate pursuit of martial arts mastery is the greatest desire for those in the martial world. Each disciple begins their journey by reinforcing their foundation and enduring the arduous process of opening their dantian, before training in coveted internal skills and techniques. However, mastering martial arts is just the first step; diligent practice forms only the foundation of progress. Advancing on the martial path requires providing disciples with rooms that complement their skills, along with the right elixirs and supportive items for rapid advancement. Combat is also a crucial aspect of enhancing strength. To truly stand unrivaled in the martial world, one must seek out powerful internal skills for disciples, pair them with appropriate techniques, and equip them with mythical weapons.\n- Building Your Unique Sect – Collect resources and study construction, manufacturing, and art to choose a cultivation path that aligns with your sect’s development. Leverage architectural knowledge to build grand halls, lofts, and pavilions, integrating them with disciples’ daily life facilities to exhibit your appreciation for Eastern architecture. Ensure thoughtful design of storage spaces to prevent damage to materials under poor conditions and high temperatures. Provide suitable living quarters for disciples to boost their morale. Of course, don’t forget to construct defensive structures such as walls and arrow towers to eliminate greedy bandits and ill-intentioned martial world rogues.\n- Competition or Cooperation – Develop independently in the martial world, or seek reliable allies. By engaging with other factions, you can influence events across the martial landscape, gaining advantages in both offense and defense. You can dispatch disciples to attack other sects’ bases and cities, conquering them openly through the prowess of your skilled disciples amidst the bloody turmoil for power. Alternatively, use strategic diplomacy to safeguard your interests, or manipulate other sects from the shadows, watching the chaos unfold with delight. Whether you choose to become the dominant force in the martial world, a shrewd diplomat, or a mastermind behind the scenes, the choice is yours.",
+    "cover_url": "https://i8.imageban.ru/out/2026/04/13/b80bb1f3dfb93956665544d50eff0fd3.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/dc/5a/dc5a7073-0174-4d0e-86ae-d72ee0b3e2a8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/81/8381e593-5071-49ee-bc96-d6e03ecfdace.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/b1/7db177dd-7726-4743-be30-abb90f007d23.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/bf/09bff904-ba7b-4e4e-a0ed-b143a3911077.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b0/82/b082d087-8a40-475c-baa8-7172a126ba91.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9c/6b/9c6b5217-e01c-4f75-8f56-eda3620f4273.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-eastern-era",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T23:42:15.231506+00:00"
+  },
+  {
     "id": "e71a7482-62d0-5cc4-5197-78dbfab73dd6",
     "title": "CODEX MORTIS – v3.6.757",
     "slug": "codex-mortis",
