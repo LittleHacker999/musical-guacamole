@@ -1,5 +1,37 @@
 [
   {
+    "id": "43aa0359-71d1-5984-5927-bd28979d9c04",
+    "title": "Forza Horizon 2: Ultimate Edition, v1.0.0.64 + All DLCs + (Azimuth Recompilation for PC v0.9.10)",
+    "slug": "forza-horizon-2",
+    "categories": [
+      "Racing",
+      "Open world",
+      "Cars",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "57.1 GB",
+    "size_repack": "from 14.5 GB",
+    "description": "**Repack Features**\n\n- Based on Xbox One v1.0.0.64 releases with all DLCs included: 57.1 GB\n- Azimuth Recompilation/Wrapper v0.9.10 by Almost There Games installed over\n- Check this page for newer builds if you have issues: https://almost-there-games.itch.io/azimuth\n- You can switch between main game with Storm Island Expansion and Fast and Furious pack in the launcher settings\n- Azimuth Mapper Keypad Companion v1.7 by Sam added for proper keyboard/mouse support: https://bigdamnhero6.itch.io/azimuth-mapper-keypad-companion\n- ExtraOptions v0.2.88 applied over\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of optional voiceovers. English VOs are included by default\n- Significantly smaller archive size (compressed from 57.1 to 14.5~16.8 GB, depending on selected components)\n- Installation takes 6-25 minutes (depending on system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 57.1 GB\n- Language can be changed in the launcher settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2026/10/24/18633544657f0237103f882c1f177ece.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/88/ca/88cacd78-37a8-4c5d-b900-d622270946f5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/75/03/7503d096-0e89-4bb4-89bb-c7878fa3f329.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/60/02/60029984-bf10-4a88-baba-b19e1ca27482.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f3/91/f391b6ff-f8d3-4193-87a6-5eb65622e05e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1c/8d/1c8dfcaf-c14f-4fc3-8ff2-8ed49a984dc3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/42/45/4245ed29-f227-4322-a8ce-a95291172dd3.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-forza-horizon-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T14:29:30.024878+00:00"
+  },
+  {
     "id": "0521bc0f-b4b1-5a34-1c6b-f695d65b72c3",
     "title": "DEMONS’ NIGHT FEVER – v1.0.1",
     "slug": "demons-night-fever",
