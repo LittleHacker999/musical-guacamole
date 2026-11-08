@@ -1,5 +1,35 @@
 [
   {
+    "id": "810db688-7806-5b3a-96b1-cb7970df13f2",
+    "title": "MEMORIAPOLIS: Fish & Ships Pack, v1.7.67 + DLC",
+    "slug": "memoriapolis",
+    "categories": [
+      "Management",
+      "Strategy",
+      "3D"
+    ],
+    "size_original": "6.8 GB",
+    "size_repack": "1.9 GB",
+    "description": "Your ultimate goal? Stay in power until the end of the Age of Enlightenment… and leave your mark in history by building a grand City’s Fair during the Industrial Revolution.\n\nBut beware – your citizens have needs, factions grow in influence, and historical events can shake everything up. Lose control, and it’s game over!\n\n**Repack Features**\n\n- Based on MEMORIAPOLIS.Fish.and.Ships-TENOKE ISO release: tenoke-memoriapolis.fish.and.ships.iso (7,273,312,256 bytes)\n- Game version: v1.7.67; Fish & Ships DLC is included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 6.8 to 1.9 GB)\n- Installation takes around one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Time moves forward – whether you’re ready or not. Your adventure spans five historical eras: Antiquity – Middle Ages – Renaissance – Age of Enlightenment and Industrial Revolution.\n- Each age lasts a number of in-game cycles before transitioning automatically. As your city evolves, so must your strategy. Some buildings can be upgraded to match a new era… others may need to go.\n- Think carefully: what will you preserve, and what will you sacrifice to shape the future?\n- In Memoriapolis, there’s no fixed grid or rigid control.  Your city grows organically, and your citizens decide where they settle. This makes each playthrough feel natural, dynamic, and unique. You’ll need to adapt to their choices – while gently guiding them.\n- Use cultural buildings to influence the surrounding area and attract more people to grow your districts smartly.\n- There are 6 cultures in game (Military – Religion – Trade – Education –  Production –  Politics).\n- These cultures shape not just the buildings but also the citizens in your city. Over time, citizens will form factions. And as your city grows, so do these factions – and they’ll become your political partners… or rivals.\n- A strong faction unlocks new buildings and boosts growth. But if a faction becomestoo powerful, it may block your key decisions or worse… remove you from power. Stay smart. Stay flexible. And always keep your influence in check.\n- Build Wonders that stand the test of time – from the Library of Alexandria to the Notre-Dame, the Leaning Tower of Pisa, and beyond.\n- Each Age holds its iconic masterpiece, tied to a culture, offering powerful bonuses to shape your legacy.\n- Let your city be remembered for centuries to come!",
+    "cover_url": "https://i3.imageban.ru/out/2025/05/03/e9a564887e6f1c0665e18e1546cf3cc6.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/50/7c/507c674c-02f6-4141-8b02-34de2a817de0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1d/d6/1dd61eba-7ad9-4d9f-b84f-2c2c739af657.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c2/7a/c27a5477-dd10-41d0-b578-b8ec1e12fb35.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/4d/c44dad41-86aa-469a-9cd3-e28fb3a743a0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ca/c9/cac9ff24-350b-4af4-9288-e77417e21cb1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/7a/a27ae48e-49d8-4ed2-99b1-9bc35069dae2.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2228280/extras/00_New_Gif_Ville.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-memoriapolis",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T13:10:45.491779+00:00"
+  },
+  {
     "id": "919ee910-9b70-586d-4725-e6e5ebf19e96",
     "title": "Deus Ex GO – v2.1.88971",
     "slug": "deus-ex-go",
