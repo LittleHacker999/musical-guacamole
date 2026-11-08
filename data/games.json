@@ -1,5 +1,36 @@
 [
   {
+    "id": "c58be1be-9132-5f46-b261-6a6b1ca3766f",
+    "title": "Ecstatica (Remastered) + Bonus OST",
+    "slug": "ecstatica",
+    "categories": [
+      "Adventure",
+      "Survival",
+      "Third-person",
+      "3D models on 2D backgrounds",
+      "Horror"
+    ],
+    "size_original": "10.6 GB",
+    "size_repack": "from 866 MB",
+    "description": "Survive nightmarish encounters, as absurd as only British humour can make them, and solve puzzles by the most ingenious means to free Tirich, and yourself, from mortal danger.\n\nAN IMMERSIVE EXPERIENCE WITH A UNIQUE ART STYLE\nThere’s no health bar, no map and no quest log. There’s only this terrifyingly beautiful, rounded world, waiting to be experienced. While other games were built from polygons, this one went all in on ellipsoids: a unique and, for its time, remarkably realistic way to render 3D graphics.\n\nRELIVE IT LIKE NEVER BEFORE\nOriginally released in 1994, Ecstatica is a cult survival-horror adventure game. It’s now available digitally for the first time, with a full suite of enhancements. Not only does it run smoothly on current systems, but it also includes full controller support and the ability to switch between three graphics modes – DOS, Windows 95 and modern Software offering high-resolution graphics.\n\n**Repack Features**\n\n- Based on Ecstatica-I_KnoW ISO release: ik-ecti8.iso (11,435,147,264 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in FLAC format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST in MP3 format and prerendered backgrounds for 8K resolution. Prerendered backgrounds for all resolutions up to 4K are included by default\n- Significantly smaller archive size (compressed from 10.6 GB to 866 MB/5.6 GB)\n- Installation without 8K backgrounds takes 2-5 minutes (depending on your system)\n- Installation with 8K backgrounds takes ~20 times more time and is not recommended if you don’t have 8K display\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 9.9 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A pioneering survival-horror adventure – guide the hero through fixed-camera scenes where puzzles, not combat, drive progress\n- A unique mix of horror and absurd British humour\n- Immersive, movie-like experience – no UI, no prompts, no quest log\n- Graphics built entirely from ellipsoids – a one-of-a-kind approach to 3D\n- Play as a male or female protagonist\n- Over 200 animated sequences, detailed 3D backgrounds, cinematic cuts and camera angles\n- Runs smoothly on modern hardware\n- Three graphics modes: DOS (the original DOS 1994 release), Windows 95 (based on the 1997 re-release) and Software (real-time high resolution render)\n- Switch graphics modes on the fly to compare them in real time\n- No GPU needed! The game runs on the CPU alone\n- Intuitive modern controls\n- Full controller support\n- Optional settings, including “Shaking Legs” that brings back the leg jitter from the DOS version and “DOS Ceilings” restoring the original release’s lower door frames and ceilings\n- Three soundtrack versions – the same tracks sound different depending on the setting",
+    "cover_url": "https://i7.imageban.ru/out/2026/11/02/178dde57ddedf2ab9d95cfcd74f6f74e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/4e/08/4e08fa12-b115-4d0e-853c-fab2dd85e0d8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6c/0a/6c0a93f5-1703-4aa2-b0af-f4ec5aeceb13.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/08/df/08dfd3a4-cd07-4642-be22-0b67c560e708.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9b/cf/9bcfd3fb-3e72-4738-a29f-88bc15ba2e92.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/84/86/848624cf-b1cd-4904-9862-753dc8b26e78.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/29/e6/29e6b71b-c9af-4cf5-820f-06a9856e6e60.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ecstatica",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T09:40:44.789857+00:00"
+  },
+  {
     "id": "f4442f19-c172-5cc2-ab5b-b2d874ca7f7c",
     "title": "Static Dread: The Submarine – Deluxe Edition, Build 20260917T1313Z + 3 DLCs/Bonuses",
     "slug": "static-dread-the-submarine",
