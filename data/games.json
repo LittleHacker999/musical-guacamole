@@ -1,5 +1,39 @@
 [
   {
+    "id": "3384dfc9-3307-57e6-f844-263df5c0dff1",
+    "title": "Dying Light 2: Stay Human – Ultimate Edition – v1.30.0 + 31 DLCs + Bonus Content + Windows 7 Fix",
+    "slug": "dying-light-2-stay-human",
+    "categories": [
+      "Action",
+      "Open world",
+      "Horror",
+      "Post-apocalyptic",
+      "Zombies",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "121.8 GB",
+    "size_repack": "from 32.6 GB",
+    "description": "You are a wanderer with the power to change the fate of The City. But your exceptional abilities come at a price. Haunted by memories you cannot decipher, you set out to learn the truth… and find yourself in a combat zone. Hone your skills, as to defeat your enemies and make allies, you’ll need both fists and wits. Unravel the dark secrets behind the wielders of power, choose sides and decide your destiny. But wherever your actions take you, there’s one thing you can never forget—stay human.\n\n**Repack Features**\n\n- Based on scene Dying.Light.2.Stay.Human.Reloaded.Edition.v1.30.0-TENOKE ISO release: tenoke-dying.light.2.stay.human.reloaded.edition.v1.30.0.iso (79,425,716,224 bytes)\n- Missing language files, bonus content and DevTools added (47.8 GB total)\n- Windows 7 Fix is available in “_Windows 7 Fix” folder after installation, thanks to DXVK team and CGAlover!\n- Game version: v1.30.0; 31 released DLCs are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading of voiceover packs you don’t need, DevTools, bonus content (OST, ArtBook, etc) and 4K Videos (1080p videos will be copied instead, if this pack is not installed)\n- Significantly smaller archive size (compressed from cumulative 121.8 to 32.6~73.3 GB, depending on selected components)\n- Installation takes 8-35 minutes for any single language (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 121.6 GB\n- Language can be changed in “engine\\source\\bin\\x64\\tenoke.ini” file\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- VAST OPEN WORLD: Participate in the life of a city engulfed in a new dark era. Discover different paths and hidden passages, as you explore its multiple levels and locations.\n- CREATIVE & BRUTAL COMBAT: Take advantage of your parkour skills to tip the scales of even the most brutal encounter. Clever thinking, traps and creative weapons will be your best friends.\n- DAY AND NIGHT CYCLE: Wait for night to venture into dark hideouts of the Infected. Sunlight keeps them at bay, but once it’s gone, monsters begin the hunt, leaving their lairs free to explore.\n- CHOICES & CONSEQUENCES: Shape the future of The City with your actions and watch how it changes. Determine the balance of power by making choices in a growing conflict and forge your own experience.\n- 2-4 PLAYER CO-OP GAMEPLAY: Play in up to four-player co-op. Host your own games or join others and see how their choices have played out differently than yours.\n- 1500 DLP One-off Offer\n- 2300 DLP For Summer Edition\n- Authority Pack—Part 1/3\n- Authority Pack—Part 2/3\n- Authority Pack—Part 3/3\n- Bloody Ties\n- Brecken Bundle\n- Chicken Bundle\n- Deluxe Pack\n- Deluxe Upgrade\n- Developer Tools\n- Dying Laugh Bundle\n- G.R.E. Hazmat Bundle\n- Goodies Pack—Arts\n- Gunslinger Bundle\n- Hakon Bundle\n- Nightrunner Bundle\n- Nutcracker Bundle\n- Post-apo Bundle\n- Pre-order pack\n- Rahim Bundle\n- Rais Bundle\n- Ronin Pack—Part 1/3\n- Ronin Pack—Part 2/3\n- Ronin Pack—Part 3/3\n- Soundtrack\n- The Aristocrat Pack\n- The Walking Dead Bundle\n- Ultimate pack\n- Ultimate Upgrade\n- Welcome Offer: Essential Starter Kit",
+    "cover_url": "https://i2.imageban.ru/out/2023/02/02/a1b3cfd6460c2971fa25f7bae85b6249.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f4/06/f4063787-56d2-47ff-a98c-03def755b501.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/25/95/2595886b-156b-4e3d-868d-83da253bac25.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/92/1c/921c1db9-8e5b-4a27-97ee-6567d97645f6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/90/8d/908dd237-8d23-481d-9870-a8495acc9c2a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6d/2e/6d2e5982-a20f-4cab-9072-0a50a3f687c7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6b/b2/6bb2e49a-f3d6-4f7a-b60a-cffb1b3c85de.jpg.240p.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/extras/05_GET_CREATIVE_BE_BRUTA.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dying-light-2-stay-human",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T12:05:52.288098+00:00"
+  },
+  {
     "id": "98ee1475-3c8b-5612-301a-586c9c7f2e22",
     "title": "Battleplan – v1.0.4",
     "slug": "battleplan",
