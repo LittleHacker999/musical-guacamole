@@ -1,5 +1,37 @@
 [
   {
+    "id": "d9b2e5f5-c22e-54b8-66b4-c1284a495fb4",
+    "title": "ACE COMBAT 8: WINGS OF THEVE + ACZ:TBW DLC",
+    "slug": "ace-combat-8-wings-of-theve",
+    "categories": [
+      "Action",
+      "First-person",
+      "Third-person",
+      "3D",
+      "Combat aircraft",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "140.2 GB",
+    "size_repack": "from 117.9 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\nCampaign Mode showcases stunning visuals with dynamic multi-layered cloudscapes that capture the majesty of living skies. Feel the rush of fast-paced arcade-style gameplay while deploying powerful weapons to dominate the battlefield.\n\nBeyond the chaos in the air, exhilarating first-person scenes reveal your pilot’s story through breathtaking cinematics. Experience the pressure of command, the weight of decisions, and the bonds forged in battle. Between missions, bond with your squad members, rise to meet adversity, and prove yourself as a true ace.\n\n**Repack Features**\n\n- Based on Steam BuildID 25201480 release: 137 GB (main game) + 3.2 GB (standalone DLC game)\n- Hypervisor Bypass ACE.COMBAT.8.WINGS.OF.THEVE.Crack.Only-ARTIFACT + Goldberg emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.9 added\n- Custom launcher added for easier HV steps processing\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: ACE COMBAT ZERO: THE BELKAN WAR DLC has a separate repack inside the main repack folder, so you can download/install it with or without AC8\n- Slightly smaller archive size (compressed from cumulative 140.2 to 117.9/120.4 GB)\n- Installation takes 40-70 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 137 GB + 3.2 GB\n- Language can be changed in “Engine/Binaries/ThirdParty/Steamworks/Steamv157/Win64/steam_settings/configs.user.ini”\n- Repack uses XTool library by Razor12911\n- At least 4 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2026/09/29/27ec209e21ff6aeaf68759bed39c5744.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/14/88/1488f84c-f7d3-40a9-acd8-8018db4fecfe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/f5/a3f50923-9fb3-47f8-91b7-430cb54c8795.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/45/83/45833010-2b82-4f24-ad28-93d58ebacbea.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/48/71/487168ae-b617-4a63-8e19-a3ad41deb8de.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/55/31/5531a57a-0a55-499d-85a4-d699c0687f4a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/36/eb368ae9-6c27-4274-8f15-ef79d485daf1.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ace-combat-8-wings-of-theve",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T23:57:15.914270+00:00"
+  },
+  {
     "id": "19e3544f-53b6-5baa-ca13-4e0c862f8051",
     "title": "Rivage – v1.1.6",
     "slug": "rivage",
