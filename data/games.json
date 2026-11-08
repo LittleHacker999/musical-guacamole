@@ -1,5 +1,36 @@
 [
   {
+    "id": "4084fb1a-c241-526c-c4f5-c9cdaa7d2425",
+    "title": "Dragon Shelter – v0.0.58",
+    "slug": "dragon-shelter",
+    "categories": [
+      "Lifestyle",
+      "Managerial",
+      "Item crafting",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "2.1 GB",
+    "size_repack": "425 MB",
+    "description": "Befriend cheerful dragons, each with unique traits and special powers that assist you on the farm and beyond. Care for them with love and playtime, and they’ll become loyal companions who sense people’s needs and lend their magic wherever it’s needed.\n\nRebuild your grandpa’s abandoned farm into a thriving sanctuary. Grow crops, harvest resources, and craft valuable goods while your dragon helpers support every step. Watch the land come back to life as your care turns a forgotten place into a haven of joy.\n\nCooking is the heart of crafting in Dragon Shelter. Meals strengthen bonds with neighbors, lift spirits, and unlock new opportunities. Every harvest can be used in cooking, crafting, alchemy, or trade – making each recipe meaningful and rewarding.\n\nA nearby town has fallen into gloom, but hope remains. With the help of your dragons, reconnect with the townsfolk, uncover their stories, and rekindle their sense of joy and community.\n\nVenture into a vibrant fantasy world filled with magical biomes, curious creatures, and hidden secrets. Every journey offers delightful surprises and the chance to restore life to forgotten lands.\n\n**Repack Features**\n\n- Based on Dragon.Shelter-TENOKE ISO release: tenoke-dragon.shelter.iso (2,269,050,880 bytes)\n- Game version: v0.0.58\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.1 GB to 425 MB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.1 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i2.imageban.ru/out/2026/10/04/b2f03ad999153f2dbbbbd994eb350e38.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/9f/95/9f95d096-75f3-4b83-badb-e77ec249f31a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d6/db/d6db39b5-353d-4acd-b412-108b210ccb09.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/82/d282e66c-9957-4241-9c25-c776f64de364.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2e/6a/2e6a544e-5147-41e6-9a4d-b6d0b30db265.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/21/c0/21c0b927-eef9-4be8-ae4d-5556d2941706.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/41/59/4159eb26-36dc-4ad3-902b-2e8e873bcbe9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dragon-shelter",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T22:27:14.614380+00:00"
+  },
+  {
     "id": "4ce73797-d797-5c2c-18c0-08915f93111f",
     "title": "Heads Will Roll: Reforged – Complete Edition, v3.07c + 10 DLCs/Bonuses",
     "slug": "heads-will-roll-reforged",
