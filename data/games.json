@@ -2957,5 +2957,46 @@
     "featured": true,
     "downloads_count": 9,
     "created_at": "2026-09-19T17:37:31.261358+00:00"
+  },
+  {
+    "id": "958b435b-241f-49ca-be95-8f29efbdf6ee",
+    "title": "Fallout 2",
+    "slug": "fallout-2",
+    "categories": [
+      "Role-playing",
+      "Turn-based",
+      "Sci-fi",
+      "Story Rich",
+      "Atmospheric",
+      "Exploration",
+      "Classic",
+      "Science",
+      "Tactical",
+      "Open World",
+      "Isometric",
+      "Post-apocalyptic",
+      "Tactical RPG",
+      "CRPG",
+      "Good Old Game"
+    ],
+    "size_original": "2 GB",
+    "size_repack": "720 MB",
+    "description": "## About Game\r\n- **Release Date**: September 30, 1998\r\n- **Genre**: Role-playing - Turn-based - Sci-fi\r\n- **Developer**: Interplay\r\n- **Publisher**: Bethesda Softworks LLC\r\n\r\n## Overview\r\nFallout is a post-apocalyptic, isometric, tactical role-playing game. The player assumes the role of the Chosen One, a descendant of the original Vault Dweller from the first Fallout game. Set in the year 2161, the story begins in the tribal village of Arroyo, which has suffered through a decade-long drought. The tribe's water reserves are exhausted, and the only hope for survival lies in the mythical Garden of Eden Creation Kit (GECK), an advanced piece of Vault technology capable of turning the wasteland into a paradise. The protagonist must journey into the unforgiving wasteland to locate Vault 13—the same vault that exiled their ancestor 80 years prior—to retrieve the GECK and secure the future of their people.\r\n\r\n## Features\r\n- **Open World Exploration**: Vast, seamless isometric world to explore filled with danger, secrets, and diverse characters.\r\n- **Tactical, Turn-Based Combat**: Engage in strategic combat using the V.A.T.S.-style targeting system (applied to the original turn-based mechanics) or standard attacks, with a heavy emphasis on action point management.\r\n- **Extensive Character Customization**: Deep S.P.E.C.I.A.L. character creation system, allowing players to define strengths, weaknesses, and skills.\r\n- **Player Choice and Consequence**: Dialogue and actions significantly impact the world state, faction relationships, and the ultimate fate of the tribe and the wasteland.\r\n- **The GECK**: The central artifact that provides the power to irrigate land and fundamentally change the environment.\r\n- **Rich Lore and Humor**: A darkly humorous take on the post-apocalyptic genre with deep references to classic sci-fi and 1950s culture.",
+    "cover_url": "https://images.gog-statics.com/f745671bed8f43f4205ad4ede0b3edabcfe1fa8d72cbdce0206b75deab50895b.jpg",
+    "screenshots": [
+      "https://images.gog-statics.com/a058006131c8f614b631b4a8c48b5cd052841f6ad91122ad0b65b187560b0b9a.jpg",
+      "https://images.gog-statics.com/a6addcb9ebe3ec7b77674278471b3a3d4eb406c97ba188385eece7f71b3ddf51.jpg",
+      "https://images.gog-statics.com/bca70bf73f4d73e2a52cd737c92fa15721fc864687f18fe40a4ed8875f59ca1b.jpg",
+      "https://images.gog-statics.com/2f7e0492ce906ca99aba8b6b04484ebb7e2c2fb8b98a33469341c3ca31a1aa45.jpg",
+      "https://images.gog-statics.com/deba5f16dceb8a50d70377845d796ca80116b1b47167a165295989e09eb9e9ea.jpg",
+      "https://images.gog-statics.com/823ac086c93086d3c88ad7fef88502e0104b0284dbe0406f2d64970562f55805.jpg"
+    ],
+    "system_requirements": "MINIMUM:\nOS: Windows 10\nCPU: 1.8 GHz\nRAM: 2 GB RAM\nGPU: 3D graphics card compatible with DirectX 9.0c",
+    "repacker": "GOG",
+    "download_url": "https://repack-x-database.vercel.app/fallout-2",
+    "featured": false,
+    "is_published": true,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T15:13:53.965Z"
   }
 ]
