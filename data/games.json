@@ -1,5 +1,35 @@
 [
   {
+    "id": "8842ae86-af4c-5c14-72d3-a7398fa47d8f",
+    "title": "SAVE AMANI",
+    "slug": "save-amani",
+    "categories": [
+      "Arcade",
+      "Platform adventure",
+      "Side",
+      "3D"
+    ],
+    "size_original": "6.1 GB",
+    "size_repack": "2.8 GB",
+    "description": "Thrilling Escape Experience\nEnemies lurk in every direction. Armed soldiers may appear at any moment, drones patrol the sky without pause, and robotic dogs patrol the necessary paths. Players must also stay alert to collapsing walls, landmines hidden in the soil, and shells that may fall from the sky. Every step is filled with uncertainty and danger.\n\nAn Emotionally Resonant Storyline\nThrough delicate plot design and touching emotional depiction, the game shows a child’s pain and struggle amid war. Players are not merely completing tasks—they are experiencing a deeply emotional story.\n\nInnovative VR Scene Recreation and Interaction\nHelp Amani find that QR code. Players can help Amani use VR glasses to briefly escape reality and return to the warm, peaceful virtual world from before the war. Each time she puts on the VR glasses, Amani shows a long-lost smile. This sharp contrast makes people cherish peace even more.\n\nHowever, when the glasses are taken off and reality comes into view again, Amani’s heart is filled with endless sorrow.\n\n**Repack Features**\n\n- Based on SAVE.AMANI-TENOKE ISO release: tenoke-save.amani.iso (6,558,838,784 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 6.1 to 2.8 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6.1 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2026/11/05/422366fc4f133e06944ae5505028f38e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ef/91/ef91fffe-f450-49db-9eb2-be851c61c973.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/4f/374f73e6-7595-4f82-a586-5bcc57a1f690.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/16/09/16094582-7f30-416e-9f97-5eca889877dd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/03/24/03240ff2-947c-49d3-81eb-dbac4823d817.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e1/91/e1915d7b-1e7d-4588-a3ae-37bc2e4a2cf0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/63/92/639264ad-63d8-4424-a6d4-007a7c52a920.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-save-amani",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T08:25:45.789650+00:00"
+  },
+  {
     "id": "c75b6fbc-e0e5-5348-b237-06f8467910a4",
     "title": "Victoria 3: Ultimate Bundle, v1.15.0 + 20 DLCs/Bonuses + Windows 7 Fix",
     "slug": "victoria-3",
