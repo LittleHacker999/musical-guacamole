@@ -1,5 +1,36 @@
 [
   {
+    "id": "6c28e8e5-91b6-56db-9701-c43b0b011396",
+    "title": "Europa Universalis V – v1.4.5 + 5 DLCs/Bonuses",
+    "slug": "europa-universalis-5",
+    "categories": [
+      "Strategy",
+      "Grand strategy",
+      "Top",
+      "3D",
+      "Real-time"
+    ],
+    "size_original": "8.3 GB",
+    "size_repack": "from 4.8 GB",
+    "description": "Europa Universalis V builds on the franchise’s core concept of developing and advancing nations from around a deeply researched historical world, adding more detailed diplomacy, a more sophisticated economic model, a revised military system and greater logistical depth that will challenge even the most experienced strategy gamers.\n\nThis repack IS partially backwards compatible with my previous EU5 repack. You can rehash fg-optional-bonus-ost.bin to save 1.2 GB of traffic.\n\n**Repack Features**\n\n- Based on Europa.Universalis.V.Across.The.Pillars-RUNE ISO release: rune-europa.universalis.v.across.the.pillars.iso (8,914,468,864 bytes)\n- Game version: v1.4.5 (Rio Salado); 5 DLCs are included and activated\n- This repack is not a “Premium Edition”, since not all DLCs from “Premium Upgrade” season pass are released. All other repacks are also not PE atm\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST\n- Significantly smaller archive size (compressed from 8.3 to 4.8/6 GB)\n- Installation takes 5-12 minutes (depending on your system, mostly on your drive speed – the game has more than 58000 small files, Paradox never learn from their mistakes)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 15.9 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- WATCH HISTORY UNFOLD BEFORE YOU – RULE a land of your choosing. Hundreds of nations are yours to command, as you guide the destiny of millions of people through the late Middle Ages up to the Age of Revolution – from the mighty Yuán Dynasty to the city-states of Italy, from the warring clans of feudal Japan to the Pope himself. DECIDE which course your nation will take. Historical events and situations await as you chart a unique path through a new history written by your decisions. Experience The Hundred Years’ War, the Protestant Reformation, the collapse of old dynasties and rise of new ones. EXPLORE alternate histories as you shape the world to meet your ambitions. What if England succeeded in pressing its continental claims? What if China pursued an overseas empire? What if Mongol supremacy in Russia persisted? Every action opens the possibility for an original history.\n- PROVE YOUR METTLE AS A RULER – IMPOSE domestic peace in a divided realm.  Keep your nation’s factions in line as  Estates jockey for power in your nation. Offer privileges to one group of citizens while you limit the power of another, all in the service of keeping your population under control. NEGOTIATE your way through an uneasy peace. Use diplomacy to entrench your dynasty across realms or build an invincible alliance. But remember that nations have no permanent friends – only permanent interests; so use your ambassadors carefully. Exact favors from friends, send threats to enemies, and keep an eye on everyone in-between. CONQUER new lands to expand your borders. Wage War on those who impede your ambition in a completely new Europa Universalis military system. Start in the age of levies and mercenaries and, through social development, evolve to vast standing armies and impenetrable fortresses. Choose skilled commanders to oversee both land and naval forces.\n- DEVELOP YOUR SOCIETY – BUILD a strong economic infrastructure in the most detailed trade system yet seen in a Europa Universalis game. Dozens of goods and crops are available for production and trade on a map filled with new riches to discover. Invest in feeding a growing population or trade your surplus to less bountiful societies. MOLD your society to meet the historical moment. Choose your societal values, with new options opening as the ages move on. Centralize power at court or share it with your nobles. Pursue a tolerant policy for all faiths or condemn heretics. Emphasize massed armies or an elite cadre of quality soldiers. GOVERN a nation composed of many cultures and faiths in a detailed simulation of the past. For the first time in Europa Universalis, populations are represented on the map in detail, so provinces may be divided by religion or culture. Your decisions will determine how these populations will fare under your leadership.\n- BE AMBITIOUS – PREVAIL in the greatest strategic challenges of the past. Test your expertise in grand strategic planning on a worldscape larger and more detailed than seen in any previous Paradox Interactive game. Challenge yourself to outdo the most famous rulers of the past, eclipsing their grand accomplishments and building your own vision of a richly detailed globe.\n- Pre-Purchase Bonus – Europa Universalis IV Original Soundtrack\n- Across the Pillars\n- Fate of the Phoenix\n- Sacred Sites\n- Ancient Monuments",
+    "cover_url": "https://i5.imageban.ru/out/2025/11/05/d27b89f00f1bf419538576867a229c3c.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/c1/58/c158e7d2-516a-4df5-9766-8af9385b5f30.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/36/9736d2ce-45d7-42a0-a35a-a58ebe8440ba.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/36/1b/361b6ca4-f2bb-4552-8747-e8f468311cc9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a6/9c/a69cb2c2-2dfa-416f-816d-1ce203fb8346.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/88/90/8890b34f-2712-413d-8471-2aa8fe443951.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e8/d5/e8d52267-74c0-4d30-841b-f7353904f62a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-europa-universalis-5",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T11:10:45.186004+00:00"
+  },
+  {
     "id": "6286cc14-d07a-5cce-9467-054d65dcbfd7",
     "title": "Planet Zoo 2: Deluxe Edition – v1.0.7.1031590 + 2 DLCs",
     "slug": "planet-zoo-2",
