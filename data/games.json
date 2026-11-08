@@ -1,5 +1,37 @@
 [
   {
+    "id": "919ee910-9b70-586d-4725-e6e5ebf19e96",
+    "title": "Deus Ex GO – v2.1.88971",
+    "slug": "deus-ex-go",
+    "categories": [
+      "Logic",
+      "Puzzle",
+      "Isometric",
+      "3D",
+      "Cyberpunk",
+      "Turn-based"
+    ],
+    "size_original": "139 MB",
+    "size_repack": "102 MB",
+    "description": "Deus Ex GO is a turn-based puzzle stealth game set in a beautiful dystopian future. Take control of secret agent Adam Jensen and solve brain teasing, grid-based puzzles to infiltrate enemy lairs and unravel a perplexing new mystery. Sneak, hack and fight past enemies, and augment Adam with futuristic upgrades.\n\nCan you solve the mystery? Take control of Adam Jensen and watch the puzzle unravel!\n\n**Repack Features**\n\n- Based on Deus.Ex.GO.INTERNAL-RUNE ISO release: rune-deus.ex.go.internal.iso (145,620,992 bytes)\n- Game version: v2.1.88971\n- Installer makes all necessary steps to register the game upon installation, but it it fails, run “Install_Deps.bat” as admin in the “_Redist” folder\n- To run the game find it with Windows search, desktop icon won’t work\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Slightly smaller archive size (compressed from 139 to 102 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 338 MB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- An engrossing story with over 50 challenging puzzles\n- Special events with daily challenge levels\n- Unique hacking powers – Take over enemy turrets or change the layout of the level itself\n- Augmented puzzles – Solve puzzles using Adam’s iconic augmentations\n- Intelligent new enemies including guards, turrets, drones, walkers and more\n- An intricate and mysterious storyline set in a beautiful vision of the future",
+    "cover_url": "https://i4.imageban.ru/out/2026/10/25/a079cc05378199740fe9e4d3dabd9fc3.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/8a/dd/8add4e3d-e061-424e-b38e-30d49984fe4c.png.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/38/aa38b698-09b0-48f5-9390-970736e2679d.png.240p.jpg",
+      "http://s01.riotpixels.net/data/37/53/37535199-01ee-4d44-ad76-09e89763c32d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5b/5d/5b5d0810-1297-4ed7-a45d-7917a960be47.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6e/af/6eaf4be5-eb75-41b0-99e5-edadb1b857a4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/83/01833257-a955-4c4b-8637-8a8edeaf69a1.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-deus-ex-go",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T13:05:56.288007+00:00"
+  },
+  {
     "id": "af544889-7e65-5da2-f1e5-cf5d5042d61a",
     "title": "Star Trek: Outposts Unknown",
     "slug": "star-trek-outposts-unknown",
