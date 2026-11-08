@@ -1,5 +1,35 @@
 [
   {
+    "id": "6e6e1d08-f158-532a-e5da-062b35fe6b9f",
+    "title": "Valor Mortis + DLC",
+    "slug": "valor-mortis",
+    "categories": [
+      "Action",
+      "First-person",
+      "3D",
+      "Supernatural fiction"
+    ],
+    "size_original": "39.1 GB",
+    "size_repack": "31.1 GB",
+    "description": "Each death is a chance to grow stronger. Master a combat system of parries, dashes, and visceral finishers across a variety of weapons. Channel your power to enhance attacks and unlock new supernatural abilities to inflict upon your enemies.\n\nNavigate a 19th-century alternate history where the costs of endless war have corrupted the landscape. Use your newfound mobility to outmaneuver the plague-ridden abominations of Napoleon’s Eternal Guard and uncover environmental secrets that may increase your chances of survival.\n\nWitness a compelling story where historical figures and realities intertwine with elements of horror and the supernatural. Explore beyond the dark corners of the world to discover the truth behind the plague and your unholy resurrection.\n\n**Repack Features**\n\n- Based on Valor.Mortis-RUNE ISO release: rune-valor.mortis.iso (42,006,544,384 bytes)\n- La Grande Armée Weapon Skin Pack DLC is included and activated. Since no other DLCs have been released yet, this is not a Deluxe Edition\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 39.1 to 31.1 GB)\n- Installation takes 12-35 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 42.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 3 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i8.imageban.ru/out/2026/10/14/0757bdfb14e6a15bb566a273f3ad4690.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/66/0b/660be7df-bec3-42e7-aca1-f9d5a93e6a66.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6d/4e/6d4ebb30-33de-4541-ba62-df85427c7fd9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f8/70/f870590c-d2b3-4e28-b25f-80b9bd99b93b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f9/1a/f91a3f03-222d-42f6-9888-8c77fba60ec1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c8/24/c8242b6a-417e-493d-bb19-842c45795430.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1f/53/1f533016-24fc-4cd1-9a96-01806dbb4c08.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-valor-mortis",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T18:17:14.432668+00:00"
+  },
+  {
     "id": "e861ae47-ec6c-5902-64cd-aa3f7d2bb381",
     "title": "Total War: SHOGUN 2 – Complete Edition, v1.0.0 Build 87380",
     "slug": "total-war-shogun-2-complete-edition",
