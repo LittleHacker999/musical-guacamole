@@ -1,5 +1,35 @@
 [
   {
+    "id": "c9ad45cb-8f44-5554-86da-a3caab9606b9",
+    "title": "STUNTBOOST + Supporter Pack DLC",
+    "slug": "stuntboost",
+    "categories": [
+      "Arcade",
+      "Sports",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "5 GB",
+    "size_repack": "2.4 GB",
+    "description": "**Repack Features**\n\n- Based on STUNTBOOST-TENOKE ISO release: tenoke-stuntboost.iso (5,342,664,704 bytes)\n- Supporter Pack DLC is included by default\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5 to 2.4 GB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Race through skate-infused parcours as fast as possible!\n- Replay and perfect your runs to earn medals, unlocking more rooms in your home featuring new levels and abilities.\n- Climb online leaderboards for each level.\n- Beat your friends’ scores to challenge them.\n- Perform big leaps, grinds and flips to boost through childhood memories.\n- Control gravity to dive mid-air or dash downhill.\n- Explore and search for shortcuts while finding collectibles along the way.\n- Skate as fast as you can manage – There is no speed limit!",
+    "cover_url": "https://i3.imageban.ru/out/2026/10/08/4ad85778a7f58561d8a20e5909eee2bb.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/37/1e/371e1fb1-c6cf-4b6d-b920-5ba3136811cc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9e/14/9e141250-9ace-47d2-b7b7-9f8188227933.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/56/b356018d-9718-4096-9c23-3fd549219c6e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/32/93/329356f4-b2f0-4675-9ffc-be3c9a3b1c86.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5b/3e/5b3e6c57-969a-47c6-8969-9a6d6feff339.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/db/1edbc313-d429-40c9-8d6a-37c8f90d328d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-stuntboost",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T21:02:15.106021+00:00"
+  },
+  {
     "id": "c67be7d4-2e8c-5807-67a0-c5c8977a8ae5",
     "title": "Ale & Tale Tavern – v1.6.16 + Bonus Soundtrack",
     "slug": "ale-and-tale-tavern",
