@@ -1,5 +1,34 @@
 [
   {
+    "id": "832df281-492a-5f93-c99c-f37f5d8f34f3",
+    "title": "LEGO Party! Soundtrack Edition, v1.6.62 + 2 DLCs/Bonuses",
+    "slug": "lego-party",
+    "categories": [
+      "Arcade",
+      "Party game",
+      "3D"
+    ],
+    "size_original": "8.5 GB",
+    "size_repack": "from 3.7 GB",
+    "description": "Compete against your friends in wacky Challenge Zones and 60 hilarious minigames from across your favorite LEGO sets like LEGO Pirates, LEGO Space, LEGO NINJAGO and more.\n\nJoin your friends online no matter their platform, or get together for a LEGO Party game night. With multiple game modes and tons of minifigures to unlock, you’ll have all the bricks to build the ultimate party!\n\nChallenge players near or far, customize your character and compete in a variety of awesome minigames to get as many Golden Bricks as you can, by any means necessary! But beware, watch out for monsters, traps and flying roast turkeys on your way to become the next star of LEGO Party!\n\n**Repack Features**\n\n- Based on Lego.Party.v1.6.62-RUNE ISO release: rune-lego.party.v1.6.62.iso (9,124,839,424 bytes)\n- Game version: v1.6.62; Pre-Order Pack & Soundtrack (MP3) DLCs are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST & Spanish/French/German voiceovers. English VOs are included by default\n- Significantly smaller archive size (compressed from 8.5 to 3.7~5.1 GB, depending on selected commponents)\n- Installation takes 3-10 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 9.1 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Play your way: Bring your friends and enjoy the mayhem in couch multiplayer or with cross-platform online multiplayer for up to 4 players. Whether it’s competing for the perfect score in Rocketball, practicing against that pesky kraken in Kraken Up or boogieing down in Dance Off, you can enjoy LEGO Party! together or solo!\n- Go for the gold: In LEGO Party! you have one goal: to become the player with the most Golden Bricks! Use power-ups to gain the advantage and set up traps to sabotage your opponents across a range of customizable LEGO themed Challenge Zones.\n- Everything is awesome: Put your speed, wits, and LEGO expertise to the test across a variety of crazy minigames. Race to make dinner for aliens, run through collapsing tombs and skid round the track in rally races and so much more across 60 different wildly fun minigames.\n- You do you: With over 1 billion minifigure combinations from iconic LEGO sets, you can go with a classic look or design your own unique and outlandish minifigure. Show off your creation at the next party!",
+    "cover_url": "https://i7.imageban.ru/out/2025/10/01/7e3b76229b143b9f2854372cca9e30f0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/cb/09/cb091a80-45b5-41e3-b30b-c6af7b1dbece.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/85/44/85449cf9-1f05-4c09-9ffe-d2f6d044168f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a9/a0/a9a021b1-511b-4271-ae48-c59e8b017662.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/20/b3205bb1-0887-4f30-9560-0911e8904e08.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c5/f2/c5f2be9c-1dd8-4817-a226-f9174e32c91c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bd/32/bd32d137-8581-4fd5-8a67-63f79b59a9b8.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-lego-party",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T18:52:15.141377+00:00"
+  },
+  {
     "id": "aadf833b-c2c2-5ffd-f9cd-81433044f86c",
     "title": "Project Spark – v1.21.50909.2",
     "slug": "project-spark",
