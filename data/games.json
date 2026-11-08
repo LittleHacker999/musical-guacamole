@@ -1,5 +1,36 @@
 [
   {
+    "id": "c84d6583-3eed-5e99-c5f9-3f791d5d2436",
+    "title": "Gears of War: E-Day – v4894958 (Release) + 7 DLCs*",
+    "slug": "gears-of-war-e-day",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Cover-based",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "111.8 GB",
+    "size_repack": "from 78.3 GB",
+    "description": "Experience the horror and brutality of Emergence Day. Fourteen years before the original Gears of War, join Marcus Fenix and Dominic Santiago in a gripping origin-story campaign as the Locust Horde first erupt from below, igniting a desperate fight for survival. Rally your squad and fight on in multiplayer with a reimagination of Gears’ iconic PvE mode, Horde Siege, or go head-to-head with a refined Versus PvP.* Built from the ground up in Unreal Engine 5, Gears of War: E-Day delivers the most immersive Gears yet.\n\nThe Story of E-Day\nFight through the chaos of Emergence Day in a gripping origin story campaign.\n\nBattle alone or rally up to four players online across Campaign, Horde Siege, and Versus.*\n\nA Terrifying Threat from Below\nA darker, grittier tone and reimagined enemies restore fear and dread to the series.\n\nAtmosphere and detail are pushed further than ever. The world feels more grounded, believable, and dangerous.\n\nFamiliar enemies are more threatening, joined by all-new creatures and villains that reestablish a true sense of horror.\n\nFeels Like Gears. Plays Like New.\nIconic cover‑based combat returns, enhanced with modernized movement and traversal that add freedom and verticality.\n\nFan‑favorite weapons return and are reimagined, alongside all‑new weapons built for brutal, close‑quarters combat.\n\nRebuilt in Unreal Engine 5\nA new technical foundation for Gears. Built for modern performance with 4K resolution and up to 60FPS across Campaign and Multiplayer.*\n\nOptimized to Customize\nEnjoy a great experience on any setup with smooth performance across a wide range of hardware, with borderless/exclusive/windowed display modes, uncapped frame rates on capable hardware, ultrawide support (21:9 and 32:9) for gameplay and menus, and KBM/controller remapping.*\n\nAdvanced Performance & Graphics*\nPlay in crisp 4K Ultra HD with HDR10 and hardware ray-traced lighting, reflections, and shadows.\n\nPush performance further with PC features including NVIDIA DLSS 4.5, AMD FSR “Redstone,” optional Frame Generation and Multi Frame Generation on supported hardware, Variable Rate Shading, and a built-in benchmark mode.\n\nHandheld-Ready & Cross-Platform Play\nFully optimized for handheld play on Steam Deck, Xbox Ally X, and Xbox Ally devices.\n\nOptional account linking lets you carry progress with roaming saves, connect with friends, and send cross-platform invites – then squad up in 2-4 player online co-op or jump into competitive multiplayer for up to 8 players across supported platforms.\n\n**Repack Features**\n\n- Based on Gears.of.War.E-Day-RUNE ISO release: rune-gears.of.war.e.day.iso (120,020,336,640 bytes)\n- Game version: CL 4894958 Release (Steam BuildID 25724756); Offline/campaign parts of 7 DLCs are included and activated. Since not all of the seasonal DLCs are released yet, this repack is not a Premium Edition. Most DLCs tied to online modes\n- You MUST block the main game exe (“FairlightConcept/Binaries/Win64/GoWEDay-Steam.exe”) in your firewall if the offline option doesn’t appear in the main menu\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of optional voiceovers and synth-speech files for an optional menu screen narration. English VOs are included by default\n- If you want to play in a language which has it’s own voiceovers pack you MUST download and install it – mixing GUI language with other voiceovers is not supported by the game\n- Significantly smaller archive size (compressed from 111.8 to 78.3~87.9 GB, depending on selected components)\n- Installation w/o optional components takes from 9 minutes (on 32-threads CPU + SSD) up to 45 minutes (on 8-threads CPU + HDD)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 119 GB\n- Language can be changed in “Engine/Binaries/ThirdParty/Steamworks/Steamv165/Win64/steam_emu.ini”\n- Repack uses XTool library by Razor12911\n- At least 4 GB of free RAM (inc. virtual) required for installing this repack\n- Bravo Squad Signature Weapon Pack\n- Emergence Customization Pack\n- Pre-Order DLC\n- Luke Preece “Marcus” Weapon Skin Set\n- Liquid Death Bundle\n- Prince Street Pizza\n- Premium 1000 Iron",
+    "cover_url": "https://i3.imageban.ru/out/2026/10/07/e41dc66ece822ddd288b6036fefe15bf.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/c0/12/c0124475-c296-410f-ab13-28750565d21c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1d/92/1d92cc5d-9010-490b-a98d-2c2c25a52a8c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fe/90/fe9038bf-fdb0-4c82-89fc-cdefa68007bb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/67/696753cd-1999-40d7-ade4-785ecce28c4d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/53/5f/535fbf2d-1c89-4b4a-81ee-813d63d3636f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0b/0a/0b0a4e4e-5d5c-4379-8b6f-9bfad371b64f.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-gears-of-war-e-day",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T21:27:15.094704+00:00"
+  },
+  {
     "id": "84f19d12-99d2-5709-2d8f-14fad0b6e6c5",
     "title": "MXGP 26: Fox Holeshot Edition + 2 DLCs",
     "slug": "mxgp-26",
