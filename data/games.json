@@ -1,5 +1,37 @@
 [
   {
+    "id": "272db7c1-de1b-5b50-fc9f-af020c9d4a39",
+    "title": "Mount & Blade II: Bannerlord – Digital Deluxe Edition – v1.4.8.119303 + 3 DLCs/Bonuses",
+    "slug": "mount-blade-2-bannerlord",
+    "categories": [
+      "Action",
+      "RPG",
+      "Open world",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "74.5 GB",
+    "size_repack": "from 43.7 GB",
+    "description": "Mount & Blade II: Bannerlord is the eagerly awaited sequel to the critically acclaimed medieval combat simulator and role-playing game, Mount & Blade: Warband.\n\nThis repack IS slightly backwards compatible with my previous M&B2 repack. You can rehash fg-unused-videos.bin & fg-optional-bonus-content.bin to save up to 1.3 GB of traffic.\n\n**Repack Features**\n\n- Based on scene Mount.and.Blade.II.Bannerlord.War.Sails.v1.4.8-RUNE ISO release: rune-mount.and.blade.ii.bannerlord.war.sails.v1.4.8.iso (79,965,716,480 bytes)\n- Game version: v1.4.8.119303; 3 DLCs/Bonuses (War Sails, Original Soundtrack, Digital Companion) are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in FLAC format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of unused game videos and bonus content (Digital Companion app + OST in MP3 format)\n- Significantly smaller archive size (compressed from 74.5 to 43.7~44.6 GB, depending on selected components)\n- Installation takes from 25 minutes (32-threads CPU + SSD) up to 60 minutes (8-threads CPU + HDD)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 90.2 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Create and develop a character that matches your play style as you explore, raid and conquer your way across a vast medieval sandbox where no two playthroughs are the same.\n- Raise armies, engage in politics, trade, craft weapons, recruit companions and manage your fiefdom as you attempt to establish your clan among the nobility of Calradia.\n- Command and fight alongside your troops in first- or third-person in huge real-time battles using Mount & Blade’s deep but intuitive skill-based directional combat system.\n- Put your combat prowess to the test against players from all over the world in multi-player PvP, including ranked matchmaking and casual game modes, or host your own server with the Mount & Blade II: Dedicated Server files.\n- Customise the game to experience an entirely different adventure using the Mount & Blade II: Bannerlord – Modding Kit and share your creations with others through Steam Workshop.",
+    "cover_url": "https://i6.imageban.ru/out/2022/10/26/03b247375a90ff45d8746c75a78f6994.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f0/a1/f0a1d504-a3af-40dc-96ba-e17fda9c113d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7c/c6/7cc64fa6-6b6b-4b94-8c45-4107640eb08f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/3c/373c2eac-5f2b-44d5-b4ed-c1216eab745c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e2/14/e2147fba-42bd-4080-8b10-ceeb08d881e8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b8/75/b8752bfe-b587-49ae-9050-8a5381d3e80d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c8/38/c838c408-d54f-48f7-b5b6-a42061f5ce9a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-mount-blade-2-bannerlord",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T19:52:14.734343+00:00"
+  },
+  {
     "id": "2ce0d992-fa27-5835-814a-a16ae1d16c8d",
     "title": "Heroes’ Vow: Three Kingdoms – v1.0.2",
     "slug": "heroes-vow-three-kingdoms",
