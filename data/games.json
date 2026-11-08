@@ -116,7 +116,7 @@
       "http://s01.riotpixels.net/data/c6/a0/c6a0afd9-dd52-42b2-9b5f-f08458268e0d.jpg.240p.jpg",
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2756920/extras/kd_steam_1c.gif"
     ],
-    "system_requirements": "Not Found",
+    "system_requirements": "MINIMUM:\nOS: Windows 10 64-bit\nCPU: Intel Core i3-3220 CPU @ 3.30GHz\nRAM: 8 GB RAM\nGPU: Intel HD Graphics\nDirectX: Version 10\nStorage: 3 GB available space\nOther: Made with GameMaker Studio 2",
     "repacker": "Fitgirl",
     "download_url": "https://repack-x-database.vercel.app/fg-keep-driving",
     "is_published": true,
