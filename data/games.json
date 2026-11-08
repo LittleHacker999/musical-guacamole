@@ -1,5 +1,36 @@
 [
   {
+    "id": "886459f1-4c09-5496-5398-2455c714b318",
+    "title": "Gears of War 4 – v14.4.0.2",
+    "slug": "gears-of-war-4",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Cover-based",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "110.4 GB",
+    "size_repack": "from 58.8 GB",
+    "description": "A new saga begins for one of the most acclaimed video game franchises in history. After narrowly escaping an attack on their village, JD Fenix and his friends, Kait and Del, must rescue the ones they love and discover the source of a monstrous new enemy. Never Fight Alone: Enjoy two-player co-op campaign with friends locally via split-screen or over Xbox Live. Player 2 can select either Kait or Del. Horde 3.0: Team up with four others and battle wave after wave of increasingly difficult enemies by choosing your combat class, leveling up your skills and deploying fortifications anywhere on the map. Explosive Versus Multiplayer: Compete online in new and favorite game types, all at 60fps on dedicated servers. A new visible ranking system means fairer matchmaking for social, competitive and professional players alike.\n\n**Repack Features**\n\n- Based on Gears.of.War.4.v14.4.0.2-RUNE ISO release: rune-gears.of.war.4.v14.4.0.2.iso (118,497,837,056 bytes)\n- Game version: v14.4.0.2\n- Installer makes all necessary steps to register the game upon installation, but it it fails, run “InstallApp.exe” in the installed game folder\n- To run the game find it with Windows search, desktop icon won’t work\n- Upon the first launch the game will ask you for folder to keep saves in. You either create a new subfolder, like “GOW4” or use any existing folder\n- If the game doesn’t allow saving on the 1st slot, choose another one, and then another until it works\n- If the game stucks upon new campaign, disable “Tiled Resources” in graphic settings\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation (ONLY when installed with all optionals)\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you can skip downloading and installing of optional voiceovers. English VOs are included by default\n- Significantly smaller archive size (compressed from 110.4 to 58.8~61.2 GB, depending on selected components)\n- Installation takes from 12 minutes (on 32-threads CPU + SSD) up to one hour (on 8-threads CPU + HDD)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 133.7 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- If the crack doesn’t work for you, reinstall Windows Store, Xbox and Xbox Identity applications",
+    "cover_url": "http://i101.fastpic.ru/big/2018/0321/77/2ce0d2818475d2cdad773f67522fc477.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f4/1d/f41d4589-9187-4c8d-bf50-e257a9f5cda9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/60/97609b34-77c7-4165-9c25-b49fc85ac44a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/31/03/31039ab2-790f-49f4-abdf-b0e8a4faff26.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f4/93/f493c34d-1ba1-469e-8eb1-189ad5c19922.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/17/b4/17b429fa-e992-47bc-a717-0094873c05a0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/98/d4/98d41d99-5878-48ea-b294-a853c977348a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-gears-of-war-4",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-08T17:07:14.741232+00:00"
+  },
+  {
     "id": "43a03222-f5d9-55ca-6745-a5d8637d745c",
     "title": "Hubert",
     "slug": "hubert",
