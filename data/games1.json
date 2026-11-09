@@ -2827,5 +2827,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T18:48:22.334472+00:00"
+  },
+  {
+    "id": "556dbce3-b9ee-5d95-24a5-34550769bd02",
+    "title": "Sniper Elite 5: Complete Edition – v2.41 + 14 DLCs + Bonus OST",
+    "slug": "sniper-elite-5",
+    "categories": [
+      "Action",
+      "Shooter",
+      "World War II",
+      "Third-person",
+      "3D",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "103.7 GB",
+    "size_repack": "from 37.4 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\nFrance, 1944 – As part of a covert US Rangers operation to weaken the Atlantikwall fortifications along the coast of Brittany, elite marksman Karl Fairburne makes contact with the French Resistance. Soon they uncover a secret Nazi project that threatens to end the war before the Allies can even invade Europe: Operation Kraken.\n\n**Repack Features**\n\n- Based on Steam BuildID 18805095 release: 103.5 GB\n- Bonus OST (148 MB) added, thanks to SittingOnClouds!\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Goldberg emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.5 added\n- Custom launcher added for easier HV steps processing\n- Game version: v2.41; 14 DLCs are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST & Survival Mode/Multiplayer maps – not needed for campaigns\n- Significantly smaller archive size (compressed from cumulative 103.7 to 37.4~52.4 GB, depending on selected components)\n- Installation takes 9-50 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 103.7 GB\n- Language can be changed in “steam_settings/configs.user.ini” file\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2026/04/08/2b7e0397ef8dca8912ae62114ea71dc4.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/22/e0/22e0163e-c285-444b-9faa-60a41c01f4a9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e1/4b/e14b2825-5ddb-475b-a65d-5a0485bfc373.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b2/9a/b29aa106-b1bd-4f70-80a9-80eed825b5a7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/be/98/be98c56e-56a5-47ff-b609-4910427f1d1d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/35/15/3515f7f6-e82d-4b70-b340-aa81a2849ac3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cd/6a/cd6a5445-3b31-42c2-8eb8-d39c247d0639.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sniper-elite-5",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T18:53:24.335710+00:00"
   }
 ]
