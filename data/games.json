@@ -7060,6 +7060,7 @@
     "featured": true,
     "downloads_count": 9,
     "created_at": "2026-09-19T17:37:31.261358+00:00",
-    "trending": false
+    "trending": true,
+    "is_published": true
   }
 ]
