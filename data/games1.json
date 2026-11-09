@@ -2084,5 +2084,39 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T16:48:20.331001+00:00"
+  },
+  {
+    "id": "0a410f75-cbe6-55c9-38d7-feffa7ed8cde",
+    "title": "F1 24 – v1.21.1256962 + 7 DLCs*",
+    "slug": "f1-24",
+    "categories": [
+      "Racing",
+      "Simulator",
+      "Sports",
+      "First-person",
+      "Third-person",
+      "3D",
+      "Formula cars",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "64.8 GB",
+    "size_repack": "from 37.4 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\nDRIVER CAREER MODE – Unleash Your Champion and Discover the all-new Driver Career mode with new gameplay rooted in the sport or team up with a friend in two-player career.\nEA SPORTS DYNAMIC HANDLING – Get to grips with more authentic handling. The latest physics gives you more control over how your personal driving style impacts your car’s performance and race strategy.\nCHALLENGE CAREER – A new, interactive feature in the F1 season that offers episodic competitive play with unique events and challenges, allows community members to compete for high scores, and invites them to influence future content by voting on social media and the EA SPORTS Racenet companion app.\nFAN ZONES – Ignite Your Passion with Fan Zones these allow you to support your favorite team and driver, collaborate with other fans to achieve goals, raise your profile in the standings, and unlock unique rewards and items.\n\n**Repack Features**\n\n- Based on Steam BuildID 18983819 release: 64.8 GB\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Goldberg emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.7 added\n- Custom launcher added for easier HV steps processing\n- Game version: v1.21.1256962; 7 DLCs (offline components only) are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of optional voiceovers. English VOs are included by default\n- Significantly smaller archive size (compressed from 64.8 to 37.4~41.9 GB, depending on selected components)\n- Installation takes from 9 minutes up to 1.5 hours (depending on your system, mostly on drive speed – installation on SSD is times faster than on HDD)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 64.8 GB\n- Language can be changed in “steam_settings/configs.user.ini” file\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Make sure you have virtualization tech enabled in your BIOS: VT-x for Intel or AMD-V (SVM) for AMD\n- Run “VBS.cmd” in the game folder – you might want to download fresh version here: https://fitgirl-repacks.site/hypervisor-guide/\n- Press 1 to make necessary changes to the system\n- Reboot and in the loading menu press F7 to disable DSE\n- Run “F1_24.exe”\n- Play\n- Run “VBS.cmd” again and press 3 to revert made changes\n- Reboot in the normal, secure mode",
+    "cover_url": "https://i8.imageban.ru/out/2026/05/26/b1f0a20b1ae434bc11b9626aee44ee1b.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f5/02/f502bee4-09b7-4ad7-b327-c9cb4e833d02.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/63/a8/63a84834-bcd6-40f2-801e-d30a924d5c55.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/b2/99b2e010-f37a-4fe7-b5cb-26253d8d5921.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/e6/99e6ae3c-493c-4337-9f08-c6bb108b0e02.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/d8/a7d8f44b-68db-47ce-b15f-9be42c671681.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/3d/a33ddd02-35cf-4ad3-8c16-b169339bda3d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-f1-24",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T16:53:22.433466+00:00"
   }
 ]
