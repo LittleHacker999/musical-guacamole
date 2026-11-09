@@ -6885,9 +6885,10 @@
       "Isometric",
       "Post-apocalyptic",
       "Tactical RPG",
-      "CRPG"
+      "CRPG",
+      "Good Old Game"
     ],
-    "size_original": null,
+    "size_original": "",
     "size_repack": "686 MB",
     "description": "## About Game\r\n- **Release Date**: September 30, 1997\r\n- **Genre**: Role-playing - Turn-based - Sci-fi\r\n- **Developer**: Interplay\r\n- **Publisher**: Interplay / Bethesda Softworks LLC\r\n\r\n## Overview\r\nSet in the aftermath of a world-wide nuclear war, Fallout challenges you to survive in an unknown and dangerous world. You will take the role of a Vault-dweller, a person who has grown up in a secluded, underground survival Vault. Circumstances arise that force you to go Outside to a strange world 80 years after the end of modern civilization—a world of mutants, radiation, gangs and violence. Your immediate task is to find a replacement for the broken water purification controller chip to save your fellow Vault dwellers from dehydration.\r\n\r\n## Features\r\n- Skill-based system allowing you to fine-tune your character.\r\n- Character growth through experience gained from combat, adventure seeds, and non-combat events.\r\n- Tactical turn-based combat where players can take unlimited time for decisions.\r\n- Variety of different types of attacks, weapons, and attack skills.",
     "cover_url": "https://i.ibb.co/sd810sGg/file-67.jpg",
@@ -6895,15 +6896,21 @@
       "https://i.ibb.co/Cph7hRPx/file-68.jpg",
       "https://i.ibb.co/20w96607/file-69.jpg",
       "https://i.ibb.co/679Ct5QC/file-70.jpg",
-      "https://i.ibb.co/GQpYm4ZM/file-71.jpg"
+      "https://i.ibb.co/GQpYm4ZM/file-71.jpg",
+      "https://images.gog-statics.com/b5f4686a31e04d7ee3687872e265b64003b7d16c97bb4c56308a217a2a045f91.jpg",
+      "https://images.gog-statics.com/6aab710b2f25364e143b70e8443b56b1aa3b0c5209e248089b20bebf5fd33520.jpg",
+      "https://images.gog-statics.com/34d11c971e43bbd62e6dfa2e926c6e530b62f576fc83aef8a01750a2151aba0c.jpg",
+      "https://images.gog-statics.com/06155811a8f04757585d6db2f7206e5c4100e93c6aac167b8906500add72f083.jpg",
+      "https://images.gog-statics.com/3fe8e63da4147ebcd1106da618cb123cea724d32c1e6b021c293a8ca61a7f778.jpg"
     ],
-    "system_requirements": "OS: Windows 10\r\n\r\nCPU: 1.8 GHz\r\n\r\nRAM: 2 GB RAM evenGPU: 3D graphics card compatible with DirectX 9.0c\r\n\r\nDirectX : 9.0c",
+    "system_requirements": "OS: Windows 10\r\n\r\nCPU: 1.8 GHz\r\n\r\nRAM: 2 GB RAM evenGPU: 3D graphics card compatible with DirectX 9.0c\r\n\r\nDirectX : 9.0c\n\nMINIMUM:\nOS: Windows 10\nCPU: 1.8 GHz\nRAM: 2 GB RAM\nGPU: 3D graphics card compatible with DirectX 9.0c",
     "repacker": "GOG",
     "download_url": "https://repack-x-database.vercel.app/fallout",
     "featured": false,
     "downloads_count": 1,
     "created_at": "2026-10-17T16:51:36.09254+00:00",
-    "trending": false
+    "trending": true,
+    "is_published": true
   },
   {
     "id": "8725c707-0af0-4d32-abfd-deb7d79e3396",
