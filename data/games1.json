@@ -152,5 +152,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T11:38:15.947406+00:00"
+  },
+  {
+    "id": "2a457c4c-9ef3-509e-fd7f-b656e6eac3e4",
+    "title": "Palworld – v1.0.4.102642 + Bonus OST",
+    "slug": "palworld",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Item crafting",
+      "Open world",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "35.6 GB",
+    "size_repack": "23.5/23.7 GB",
+    "description": "Survival\nIn a harsh environment where food is scarce and vicious poachers roam, danger waits around every corner. To survive, you must tread carefully and make difficult choices…even if that means eating your own Pals when the time comes.\n\nMounts & Exploration\nPals can be mounted to traverse the land, sea and sky—allowing you to traverse all kinds of environment as you explore the world.\n\nBuilding Structures\nWant to build a pyramid? Put an army of Pals on the job. Don’t worry; there are no labor laws for Pals.\n\nProduction\nMake use of Pals and their skills to make fire, generate electricity, or mine ore so that you can live a life of comfort.\n\nFarming\nSome Pals are good at planting seeds, while others are skilled at watering or harvesting crops. Work together with your Pals to create an idyllic farmstead.\n\nFactories & Automation\nLetting Pals do the work is the key to automation. Build a factory, place a Pal in it, and they’ll keep working as long as they’re fed—until they’re dead, that is.\n\nDungeon Exploration\nWith Pals on your side you can tackle even the most dangerous areas. When the time comes, you might have to sacrifice one to save your skin. They’ll protect your life—even if it costs their own.\n\nBreeding & Genetics\nBreed a Pal and it will inherit the characteristics of its parents. Combine rare pals to create the strongest Pal of them all!\n\nPoaching & Crime\nEndangered Pals live in wildlife sanctuaries. Sneak in and capture rare Pals to get rich quick! It’s not a crime if you don’t get caught, after all.\n\nThis repack IS slightly backwards compatible with my previous Palworld repack. You can rehash fg-optional-bonus-soundtrack.bin and save 171 MB of traffic.\n\n**Repack Features**\n\n- Based on Palworld.v1.0.4-RUNE ISO release: rune-palworld.v1.0.4.iso (38,216,433,664 bytes)\n- Game version: v1.0.4.102642\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST in MP3 format\n- Significantly smaller archive size (compressed from 35.6 to 23.5/23.7 GB)\n- Installation takes from 16 minutes (on 32-threads CPU) up to 52 minutes (on 8-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 41.7 GB\n- Language can be changed in “Engine/Binaries/ThirdParty/Steamworks/Steamv153/Win64/steam_emu.ini”\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2026/07/11/189c3798e0a31210d964bd47f87dc0af.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/55/7a/557a61df-4d14-4c87-9e3c-3759b73b529c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/aa/66aa465a-816f-40f0-8445-b14b938299f2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/6b/836b81a7-de7c-4899-95ee-8a48bb8da62c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/16/bc16c54c-e984-4fcb-a4cd-33a45db0bfed.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d8/6c/d86cdd11-5876-4769-8781-59e008152148.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d9/01/d901fa86-b335-4667-912f-a01e9293dc8f.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-palworld",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T11:43:13.838712+00:00"
   }
 ]
