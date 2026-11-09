@@ -2240,5 +2240,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T17:13:23.127131+00:00"
+  },
+  {
+    "id": "60aa57e0-441f-52f0-45e0-2cfbbbe006d5",
+    "title": "Content King – Build 22660620 + Bonus OST",
+    "slug": "content-king",
+    "categories": [
+      "Lifestyle",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "9.7 GB",
+    "size_repack": "5.6 GB",
+    "description": "In Content King, you live as Caden Brentley, a young brainrot streamer who broadcasts his entire life. Pursue clout by any means necessary to become the biggest streamer of all time. Complete quests, start drama with streamers, and farm clips to boost your view count and climb the ranks of internet fame.\n\nWith countless characters voiced by real streamers, every interaction brings new drama, new dialogue, and new choices. Will you help them… or simply use them for content?\n\nPlay a variety of minigames and explore an open sandbox world. In Content King, everything is an opportunity to entertain the chat and get new viewers!\n\n**Repack Features**\n\n- Based on Content.King-TENOKE ISO release: tenoke-content.king.iso (10,405,091,328 bytes)\n- Game version: Steam BuildID 22660620\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format nullified, NOTHING re-encoded. Bonus OST in MP3 format is included by default\n- Significantly smaller archive size (compressed from 9.7 to 5.6 GB)\n- Installation takes 1-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 9.5 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2026/05/18/094a5a99f430546d2f4cd6618082ccfd.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d2/35/d2353289-5f18-4840-80de-1ad8670a78b7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7c/42/7c42c993-2a7a-4d4a-aaf2-272efe6f2c7e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a0/1c/a01ced2e-1bde-4f1d-97ad-0b5facabfd1f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/50/74/50746403-21e5-4380-8650-4b8d1de30361.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dc/95/dc954bc1-fa35-4541-a418-1945273df283.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/28/f0/28f0f04a-e604-491d-bb14-b9f2b173b5d1.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-content-king",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T17:18:22.842565+00:00"
   }
 ]
