@@ -4452,5 +4452,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T23:13:22.032207+00:00"
+  },
+  {
+    "id": "a94693ae-346e-54f0-ace0-ea4fbf917510",
+    "title": "Slime Rancher 2: Game & Soundtrack, v1.0.3 + Bonus OST (2 volumes)",
+    "slug": "slime-rancher-2",
+    "categories": [
+      "Action",
+      "Exploration",
+      "Management",
+      "Open world",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "5.9 GB",
+    "size_repack": "1/1.6 GB",
+    "description": "As Beatrix attempts to unravel the island’s secrets and uncover its true purpose, she’ll build, ranch, and farm within a beautiful conservatory, whose sparkling glass walls give her full view of the prismatic paradise she now calls home.\n\n**Repack Features**\n\n- Based on Slime.Rancher.2.v1.0.3-RUNE ISO release: rune-slime.rancher.2.v1.0.3.iso (6,328,614,912 bytes)\n- Game version: v1.0.3\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus soundtrack in FLAC format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus soundtrack in MP3 format (2 volumes included)\n- Significantly smaller archive size (compressed from 5.9 GB to 1/1.6 GB)\n- Installation takes 2-6 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 6 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Explore a Vibrant New World – Continue the slime ranching adventures of Beatrix LeBeau as she journeys to a mysterious rainbow-hued island.\n- Discover Wiggly New Slimes – Collect slimes never seen before on the Far, Far Range, like the bouncy cotton slime or the aquatic angler slime.\n- Build a Conservatory on Rainbow Island – Earn newbucks from slime plorts and collect resources on Rainbow Island to upgrade your vacpack, build new gadgets, and expand your conservatory.",
+    "cover_url": "https://i6.imageban.ru/out/2025/09/24/4e3f1710cb194486ef9d65bc509a529d.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/35/2d/352d64fc-f7f5-4695-8f8c-a3352fcd90c2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/2b/ed2b895d-7f8e-400c-9a18-aa0aa2d0e05b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/af/a6/afa6a901-ba88-44b2-a77c-4be00df3936f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/39/32/3932d4cc-e135-48c5-9fca-254f4811f3c9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4a/92/4a92fc4f-bc82-49af-9578-49a9728dff70.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/45/44/45441b12-2e30-47b9-bc04-8d4188165719.png.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-slime-rancher-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T23:18:24.635896+00:00"
   }
 ]
