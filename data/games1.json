@@ -3596,5 +3596,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T20:53:22.032121+00:00"
+  },
+  {
+    "id": "44305ab4-dc90-5518-5ab2-4394d430d551",
+    "title": "Pirate’s Gambit – v1.0.1",
+    "slug": "pirates-gambit",
+    "categories": [
+      "Board game",
+      "Deck-building",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "4.3 GB",
+    "size_repack": "1.1 GB",
+    "description": "As new routes unfold, you will traverse uncharted lands, from scorching volcanoes to frozen wastelands and beyond as you gradually uncover the ship’s long-buried secrets.\n\nBut something lurks in the shadows. Are you the one controlling the dice, or merely a pawn in their game? In this gamble with no way back, the only certainty is that every roll could be your last.\n\n**Repack Features**\n\n- Based on Pirates.Gambit-TENOKE ISO release: tenoke-pirates.gambit.iso (4,629,159,936 bytes)\n- Game version: v1.0.1\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4.3 to 1.1 GB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.3 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i3.imageban.ru/out/2026/02/09/af2ea4206f0259fa91d56a287ec616d6.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e5/20/e520c618-7e1c-4fd2-88a1-d40ff5163bb2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/24/db/24db2786-8ef1-49e2-bcb0-b4734b83e1fe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a1/11/a111716d-2efb-4bf2-b213-abb18cfcb4c6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/dd/2cdd9902-1a93-4374-aa9e-c2a5223df33f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/de/7f/de7f9d59-c3b8-40d0-8024-e24def5989cb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/33/5e/335e8108-8e85-4ab9-b672-c8583f5ff030.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-pirates-gambit",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T20:58:23.622274+00:00"
   }
 ]
