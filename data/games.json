@@ -6976,7 +6976,8 @@
       "Surreal",
       "Demo",
       "Physics",
-      "Thriller"
+      "Thriller",
+      "Free Game"
     ],
     "size_original": "2 GB",
     "size_repack": "420 MB",
@@ -6990,15 +6991,26 @@
       "https://i.ibb.co/QFD0bVXF/file-51.jpg",
       "https://i.ibb.co/FbG8StNb/file-52.jpg",
       "https://i.ibb.co/tw1LDmzr/file-53.jpg",
-      "https://i.ibb.co/20YFLvBH/file-54.jpg"
+      "https://i.ibb.co/20YFLvBH/file-54.jpg",
+      "https://images.gog-statics.com/b2c5beb7e2e9b503ccfb2cc7b14babbafd6c9dab985fcf8c440e4ff782968cb4.jpg",
+      "https://images.gog-statics.com/ae6737f683707dbd4de3365a0344f715ae249d7728ae65a6010007cfb1c34b2e.jpg",
+      "https://images.gog-statics.com/436151343f2c99ac059a0033b6164adf37075372f3fbd7bd2b91776ce43da36f.jpg",
+      "https://images.gog-statics.com/38be9be1cba381946df7396a78f02fd001f8f9cf727543d6986622a3fbb2a0b9.jpg",
+      "https://images.gog-statics.com/ea942efe5ec006370756cf7e636517957086cc3cfb95ae46fab318fc624b3a14.jpg",
+      "https://images.gog-statics.com/7e7dd1e6c7a1b98757234fd607851b28cc10a00029526b52ec947070e8d59420.jpg",
+      "https://images.gog-statics.com/0838302cf17bb29839f20d3f0b3a9879250c4535c13a0da1a3d24a7937b56b86.jpg",
+      "https://images.gog-statics.com/fea1c363b45a5f0a4b7ff80bb94fc76a1fb9c4aadb54bb976eed1edbe9c6de89.jpg",
+      "https://images.gog-statics.com/6b3a4707fb1d4cb109db0a8ef4a747fc6add3f1d50095c3a1aa487c6a2a89c9e.jpg",
+      "https://images.gog-statics.com/4364ca3dbe32634e6c800c3f46b2abca7b946d14e93e9694829b2bb5e5045f17.jpg"
     ],
-    "system_requirements": "OS: Windows 7 or later (64-bit)\r\n\r\nCPU: i5 and up\r\n\r\nRAM: 8 GB RAM\r\n\r\nGPU: GTX 770 and up\r\n\r\nDirectX : Not specified\r\n\r\nStorage: 2 GB available space",
+    "system_requirements": "OS: Windows 7 or later (64-bit)\r\n\r\nCPU: i5 and up\r\n\r\nRAM: 8 GB RAM\r\n\r\nGPU: GTX 770 and up\r\n\r\nDirectX : Not specified\r\n\r\nStorage: 2 GB available space\n\nMINIMUM:\nOS: Windows 7 or later ((64-bit)!)\nCPU: i5 and up\nRAM: 8 GB RAM\nGPU: GTX 770 and up\nStorage: 2 GB available space\nSound: Stereo. Play with good stereo",
     "repacker": "GOG",
     "download_url": "https://repack-x-database.vercel.app/hello-neighbor-alpha",
     "featured": true,
     "downloads_count": 3,
     "created_at": "2026-09-28T14:58:01.364611+00:00",
-    "trending": false
+    "trending": true,
+    "is_published": true
   },
   {
     "id": "3275268b-0d71-42e6-a81b-d8fc799ab8fd",
