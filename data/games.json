@@ -1,5 +1,36 @@
 [
   {
+    "id": "cdc5e4a6-09a0-5b55-548c-3dcbaea486a3",
+    "title": "Well Dweller – v8.12.2026",
+    "slug": "well-dweller",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Side",
+      "2D",
+      "Fantasy"
+    ],
+    "size_original": "687 MB",
+    "size_repack": "358 MB",
+    "description": "WELL DWELLER is a dark fairy-tale metroidvania made by the creators of Crypt Custodian and Islets!\n\nPlay as Glimmer – a tiny bird armed with a matchstick- who must burn the wicked queen to save his family. Explore a dark fairy-tale landscape and befriend the charming characters who reside in the kingdom’s underbelly. Battle terrifying beasts and gain new abilities to expand your map. Solve puzzles, discover secrets, and unravel the mysteries that lie in this rotted kingdom.\n\nAmong the rotting ruins are a charming cast of characters just trying to get by.  Go camping with Ilda, a tiny mouse who is on the run from the queens grasp. Explore an abandoned castle with Looter, a mysterious scavenger who searches the kingdom for the best wares to steal. And find and reunite with all of your sheltered siblings who were snatched up one night by a crazed hunter.\n\nLight up your matchstick to illuminate the world and aid in combat. Collect trinkets to upgrade your abilities, and mix-and-match them to customize your game play. Solve puzzles, defeat vicious bosses, and forge your path to the queens quarters to save your family.\n\n**Repack Features**\n\n- Based on Well.Dweller-RUNE ISO release: rune-well.dweller.iso (720,109,568 bytes)\n- Game version: v8.12.2026\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 687 to 358 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2026/09/26/23d0d7a95c3bbebe9df6921798c98523.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/fa/16/fa165a78-0c1c-449b-93e7-f1aba4fe5b04.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fa/09/fa095249-90ab-460b-8ada-995d60a756ee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/4c/834cc992-bb80-470a-bf24-e9a46e61faef.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/8c/998cd879-90ed-4c25-89bf-1eb40f353a32.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f2/af/f2afe6bd-c12f-49f7-b1fa-b98956ee7aec.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ff/4c/ff4c7fc0-9910-4a01-95eb-181f12bd2ff2.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-well-dweller",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T01:27:16.150626+00:00"
+  },
+  {
     "id": "18fa0838-1fcb-55ba-ae05-f6bd679ee890",
     "title": "Demeo x Dungeons & Dragons: Battlemarked – v7.2.39817 + Twilight’s End DLC",
     "slug": "demeo-x-dungeons-dragons-battlemarked",
