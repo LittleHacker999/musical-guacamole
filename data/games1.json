@@ -1776,5 +1776,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T16:08:22.029332+00:00"
+  },
+  {
+    "id": "8acb0ac8-a9ba-5922-8894-98cc6a367ed2",
+    "title": "ΔV (DeltaV): Rings of Saturn – Space Furry Edition – v1.89.2 + 6 DLCs/Bonuses",
+    "slug": "deltav-rings-of-saturn",
+    "categories": [
+      "Arcade",
+      "Shoot 'em up",
+      "Managerial",
+      "Physics-based",
+      "Side",
+      "3D"
+    ],
+    "size_original": "2.7 GB",
+    "size_repack": "819 MB/1.1 GB",
+    "description": "You are a captain of an independent asteroid excavation ship, operating in the mineral-rich rings of Saturn – the thickest debris field in our solar system. Your task is to navigate rings, excavate minerals, and sell the ore at the Enceladus station.\n\nYou can hire and manage your crew who will aid you, update your ship – or switch to a completely new one. You can acquire a bounty hunter licence, explore mysteries or smuggle weapons – but at the core, you are a rock-hopper and rock-hopping is what you’ll spend most of your time at. And since it is the core of this game, we made sure you’ll have a great time flying your ship and excavating.\n\nYou are no chosen one, the story does not revolve around you – it is driven by the characters you hire and encounter, and each playthrough will play out differently. You can choose to investigate and embrace their lives, or just ignore them. It’s all up to you.\n\nTired of having more Fiction than Science? Here you will find lasers are not visible without a medium, sound does not move through the void of the empty space and every action has an equal and opposite reaction. Thrusters eject gas that heats up and pushes away objects, your reactor is cooled by propellant flowing through it and radiators glow when you pump heat into them.\n\nThere are no energy shields, teleporters and Heisenberg compensators. No lightspeed, no blasters, and no artificial gravity. Instead, we have fission reactors, thermal rockets, ion thrusters and centrifugal gravity. You’ll have hard decisions to make, with no “best” equipment to answer every need.\n\nAll technologies are real and there is no technobabble. But it’s still a game and one that is fun to play.\n\nThe event-driven nature of our storytelling means that we can expand our stories and enrich your experience seamlessly – while you are still playing. There is no need to start a new save, new events, equipment and features will just appear as you go.\n\nThis repack IS partially backwards compatible with my previous DeltaV repack. You can rehash fg-optional-bonus-content.bin and save 337 MB of traffic.\n\n**Repack Features**\n\n- Based on DeltaV.Rings.of.Saturn.v1.89.2-TENOKE release: tenoke-deltav.rings.of.saturn.v1.89.2.iso (2,094,237,696 bytes)\n- Missing bonus OST (770 MB, FLAC+MP3) added\n- Game version: v1.89.2; 6 DLCs and bonuses are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in FLAC format nullified, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus content (MP3 OST, ArtBook etc.)\n- Significantly smaller archive size (compressed from cumulative 2.7 GB to 819 MB/1.1 GB, depending on selected components)\n- Installation takes 1-2 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 2.7 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Tales from the Rings\n- 4K Texture Pack\n- Anthropogenesis\n- Deep Weeb\n- Asteroid Opera\n- Original Soundtrack",
+    "cover_url": "https://i2.imageban.ru/out/2023/07/28/93ba8c1baef719b6aa27e828344f028f.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/3e/5a/3e5a88c9-8dad-4ec3-8965-a4bf91d625e4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/47/09/47092ab6-068a-40a2-a8f7-2338b22d25bf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/54/0154b086-b271-4275-8696-91f9af4b8e55.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/d7/83d7763b-c9f3-43c7-8b2f-b75bad52f757.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/5a/2c5a6793-7f9b-4bc5-9365-86a9fba7b3d7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/88/82/88825fc5-3c8e-4e8d-a2b4-22612fabd95e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-deltav-rings-of-saturn",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T16:13:22.930058+00:00"
   }
 ]
