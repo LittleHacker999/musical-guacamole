@@ -2389,5 +2389,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T17:38:21.726396+00:00"
+  },
+  {
+    "id": "701d6cb4-7656-522e-9308-460f232fa0b1",
+    "title": "Mixtape – v1.1 (64146.206) MS Store",
+    "slug": "mixtape",
+    "categories": [
+      "Adventure",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "10 GB",
+    "size_repack": "8.5 GB",
+    "description": "En route to their final party together, a perfectly curated playlist draws three friends into dreamlike reenactments of their formative memories. Experience a variety of narrative vignettes exploring the pivotal moments that shaped them. Players will immerse themselves in the teenage wasteland by playing through a mixtape of joyful gameplay, from skateboarding and flying to taking photos after hours at an abandoned theme park, hitting baseballs, and putting on a fireworks show from the backseat of a car. It’s the greatest hits of the teenage experience, from the first kiss to the last dance.\n\nFrom Beethoven & Dinosaur, developers of BAFTA award-winning game The Artful Escape, Mixtape draws inspiration from classic coming-of-age movies, bringing together nostalgic aimlessness, mischief, music, the highs and lows of adolescence, and the bittersweet feelings brought about by growth, transformation, and moving on.\n\nFeaturing music from DEVO, Roxy Music, Lush, The Smashing Pumpkins, Iggy Pop, Siouxsie and the Banshees, Joy Division, the Cure and many more.\n\n**Repack Features**\n\n- Based on Mixtape-RUNE ISO release: rune-mixtape.iso (10,708,287,488 bytes)\n- Game version: v1.1 (64146.206) MS Store\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Slightly smaller archive size (compressed from 10 to 8.5 GB)\n- Installation takes 5-18 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 11.2 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i3.imageban.ru/out/2026/05/09/16714eebdcd08749d61967c799bffaf1.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b4/fe/b4fee2f3-5dcb-4a68-98b9-01f526c18eca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/68/fc/68fc0757-51b0-4a13-9b14-680460bd65f5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0c/90/0c90d023-c9ff-44de-914c-a88262a18065.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3a/28/3a28b270-585a-4eda-956a-87674037ad53.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/ea/8bea40f1-fc68-440f-8b71-66ad9493d382.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0c/dd/0cdd7b29-ef53-4a37-a160-840309b96d6a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-mixtape",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T17:43:22.231767+00:00"
   }
 ]
