@@ -3387,5 +3387,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T20:18:22.032384+00:00"
+  },
+  {
+    "id": "e65bb4cc-c82a-5226-c427-a0da3faea962",
+    "title": "Demon Tides – v1.0.2",
+    "slug": "demon-tides",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Open world",
+      "3D",
+      "Third-person"
+    ],
+    "size_original": "2.2 GB",
+    "size_repack": "1.1 GB",
+    "description": "Navigate the open seas and explore each distant structure, uncovering every hidden nook and cranny with a diverse, expressive move-set. Beat challenges or find hidden chests to collect talismans along the way that modify your abilities and allow you to express yourself through your schmovement. You can even switch up your drip with a plethora of discoverable outfits!\n\nAnd never forget, you’re not alone in this journey! Compete with other players for speedrunning times by challenging their ghosts, or tag a wall and share your message with the entire world!\n\nAre you ready to conquer this kingdom and expose all of its mysterious secrets? Or will Beebz be crushed by what awaits her? Only one way to find out!\n\n**Repack Features**\n\n- Based on Demon.Tides-TENOKE ISO release: tenoke-demon.tides.iso (2,344,120,320 bytes)\n- Game version: v1.0.2\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.2 to 1.1 GB)\n- Installation takes 1-3 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A deeply expressive platforming move-set. Express yourself through your schmovement and get lost in the flow!\n- A seamless, open ocean to explore at blazing speeds!\n- Chill out with your crew and buy new items of interest at your mobile hub!\n- Discover hidden secrets and unravel the world’s mysteries!\n- Place your own checkpoints wherever you want and return to them any time you meet your untimely demise!\n- Collect unique talismans and modify your move-set with paragliders, hookshots, bubbles and more!\n- Change up your appearance with head gear, outfits and hair dyes; there’s no shortage of drip!\n- Race other players and compete for the best completion times, may the best runner win!\n- Create and share graffiti that will appear in other player’s worlds!",
+    "cover_url": "https://i3.imageban.ru/out/2026/02/24/ba46db2384679c6e0d8c2a24e18e0d09.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/59/9e/599e37d9-6a5e-4235-93bd-65a9237a99b0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/18/5d184aac-e2d7-4d31-9c01-78a0fa1da348.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/9d/ed9d61aa-0efa-4069-aec3-83ab966acde8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/47/d4/47d4f8b5-6518-419e-98a1-f7f701b96ada.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/8e/098e9020-c69e-413b-a40b-ff09f1c2a365.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c8/7b/c87b3864-aaea-46c7-8e69-e053aaed589f.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-demon-tides",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T20:23:21.333629+00:00"
   }
 ]
