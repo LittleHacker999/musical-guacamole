@@ -1378,5 +1378,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T15:03:23.325991+00:00"
+  },
+  {
+    "id": "c13d3b11-4e61-593b-5683-662924db61aa",
+    "title": "BLACKSHARD – v1.01 + Bonus OST",
+    "slug": "blackshard",
+    "categories": [
+      "Exploration",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "14 GB",
+    "size_repack": "9.8 GB",
+    "description": "BLACKSHARD is a visual and narrative experience, a dreamlike journey into uncharted liminal spaces. You will roam strange places, endless corridors and unreal architectures, encountering mysterious figures that have been forgotten for ages…\n\n“I waited for a time that cannot be told. The Labyrinth is a dull, sterile and ordered space. It is the embodiment of time and causality. The harbinger of the Tyranny of Fate. I played my part. I watched over the Labyrinth. I resisted the whispers. I did not intervene. I did not count the unclean numbers. But the Sign promises. It offers.”\n\n**Repack Features**\n\n- Based on BLACKSHARD.No-Self-Control-I_KnoW ISO release: ik-bnsc1.iso (14,999,584,768 bytes)\n- Game version: v1.01 (No-Self-Control Update)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format ripped, NOTHING re-encoded. Bonus OST in MP3 format is included by default\n- Significantly smaller archive size (compressed from 14 to 9.8 GB)\n- Installation takes 6-25 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 13.2 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Explore a unique semi-open world. Find your own way through the Labyrinth.\n- Find shards of memory from those who came before. Accept the order of things or choose a different path.\n- Interact with your environment. Transform the Labyrinth with unspeakable powers, or preserve its cold complexity.",
+    "cover_url": "https://i8.imageban.ru/out/2025/04/07/0de32f8e502589a6812819c2c287d5a8.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a6/01/a601ef34-983e-4022-9ab2-af710f16aa4a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/af/6faf49d5-b846-49ea-90fb-71a3e6e34f2d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d5/7b/d57bd5d9-04b0-4c2c-8d8c-3e9984526149.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/78/87/7887fe23-6bf2-4731-98ce-2f35f871680b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/51/19/51191894-b5c1-4aa9-a942-f02fe2a4bb29.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ad/55/ad5567ca-fbe3-4017-935d-b25dda9ae5f2.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-blackshard",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T15:08:21.428699+00:00"
   }
 ]
