@@ -4329,5 +4329,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T22:53:21.626503+00:00"
+  },
+  {
+    "id": "a0a7abc5-d768-5c96-3d39-4ddc938a9ff9",
+    "title": "Tiny Bunny + Bonus OST",
+    "slug": "tiny-bunny",
+    "categories": [
+      "Interactive fiction",
+      "Visual novel",
+      "2D",
+      "Horror"
+    ],
+    "size_original": "7 GB",
+    "size_repack": "3.9/4.2 GB",
+    "description": "There’s something wandering its snow-covered paths, lurking behind black trees, and taking whatever it considers due.\n\nIt leaves behind bizarre rumors of voices, calling you into the thicket, of faces, looking into your windows, of mysterious prints in the snow and… a bunch of “child missing” posters.\n\nThose, who have heard the voice of the forest, are beyond help. Their only option is to sink deeper and deeper into the cold embrace of horror to face their final choice in that icy darkness: to stay alive or to stay human?\n\n“Tiny Bunny” is a horror visual novel with a branching plot based on the short story of the same name by Dmitry Mordas. It takes place in a quiet, unremarkable village lost among the Siberian forest. Children start to go missing there, and the protagonist, a sixth-grader, who had recently moved there with his family, is immediately forced to witness and participate in a chain of unsettling events.\n\n**Repack Features**\n\n- Based on Tiny.Bunny-TENOKE ISO release: tenoke-tiny.bunny.iso (7,524,538,368 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST\n- Significantly smaller archive size (compressed from 7 to 3.9/4.2 GB)\n- Installation takes 15-30 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 7 GB (11 GB during installation)\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A fascinating horror story that will remain in your memory for a long time.\n- Every choice you make affects the story.\n- Stylish graphics made in black& white.\n- Original scary soundtrack will pierce you to the bones.\n- Disturbing, oppressive atmosphere.\n- Horrifying secrets.",
+    "cover_url": "https://i1.imageban.ru/out/2025/12/10/232161427da6b61e66d333d69b2591ce.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/2e/5f/2e5fafce-41e6-484e-aa84-b9db37f33562.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d5/b5/d5b50f62-0b50-4b83-b881-73b7567f5275.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c8/78/c8785846-f26a-4cb7-9b44-5f6cca6c26d3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/95/f9/95f98fef-b505-4af7-9942-1c3c19301e61.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ab/35/ab35ab72-ad2c-4f6f-ac15-98747f39f32c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/63/6663c6ed-97f8-4bec-93ba-e67a60f9b2b3.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-tiny-bunny",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T22:58:22.728832+00:00"
   }
 ]
