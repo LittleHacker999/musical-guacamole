@@ -2697,5 +2697,40 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T18:28:23.529426+00:00"
+  },
+  {
+    "id": "33e114b5-5a99-51b6-76f2-f65b2a2d078f",
+    "title": "Far Cry 6: Game of the Year Edition – v1.8.0 + All DLCs + 7 Bonus OSTs",
+    "slug": "far-cry-6",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Driving",
+      "Open world",
+      "First-person",
+      "Third-person",
+      "3D",
+      "Cars",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "171.7 GB",
+    "size_repack": "from 43.7 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\n**Repack Features**\n\n- Based on Uplay v1.8.0 release: 170.8 GB\n- 7 bonus soundtracks (936 MB) added, thanks to SittingOnClouds!\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Goldberg Uplay R2 emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.6 added\n- Custom launcher added for easier HV steps processing\n- Game version: v1.8.8; All DLCs are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of HD Textures Pack DLC (for GPUs with 12+ GB of VRAM), bonus soundtracks and voiceover packs you don’t need. English VOs are included by default\n- Significantly smaller archive size (compressed from cumulative 171.7 to 43.7~90.2 GB, depending on selected components)\n- Installation takes (w/o optionals) 10-45 minutes (depending on your system – mostly on your drive speed)\n- Installation with all optionals is 2-3 times longer\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 171.7 GB (up to 201.4 GB during installation)\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 4 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2026/04/17/8522b52249879e1a3cf32f107596bfc5.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/73/80/73805349-38c8-4e8f-98d6-369a358110a3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e9/40/e94039cc-fb4c-4fd3-ba12-9b39bf52371c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/4b/bc4b3f86-51d8-457c-b024-acef06030fe7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/a7/c4a7c81d-15d6-4530-9bfe-09e9dd0f8889.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/c6/ebc69543-bb37-44ef-b0df-205538799e62.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/85/4c/854c55ef-f2db-48b4-8342-dfb61885aaeb.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-far-cry-6",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T18:33:22.424262+00:00"
   }
 ]
