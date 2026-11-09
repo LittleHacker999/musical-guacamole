@@ -1747,5 +1747,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T16:03:22.736166+00:00"
+  },
+  {
+    "id": "12af5268-c7a4-5c41-ca98-4b354a74b53d",
+    "title": "Arcane Merchant",
+    "slug": "arcane-merchant",
+    "categories": [
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "7.9 GB",
+    "size_repack": "1.2 GB",
+    "description": "Manage Your Store\nEstablish and organize your own magical store, manage your inventory and fill your shelves with potions, magical weapons, mysterious crystals and a variety of fantastic artifacts. Strategize your displays to attract customers and ensure maximum profit.\n\nMaster the Art of Trade\nAdjust your prices dynamically based on supply and demand in the marketplace and manage your sales. With every successful deal, your wealth will grow rapidly and your reputation will spread throughout the realm. Earn the trust of your customers and adapt your trade strategies to their changing needs.\n\nBecome the Wealthiest Merchant of the Kingdom\nStart from a humble stall; over time, expand and upgrade your store with new display areas. As your fame and fortune rise, work your way toward becoming the most respected and wealthiest merchant in town. Build your trading empire and take control of the economy of the Fantasy Middle Ages!\n\nCozy and Relaxing Atmosphere\nRelax and grow your shop in a warm medieval fantasy world. Plan your trades and find your own pace. Enjoy the cozy vibes while you decide what to buy, what to sell and how to make your shop the best in town. There is no rush, but your choices still matter. Focus on building a successful business in a space where you can truly unwind.\n\nExplore, Recruit and Automate\nStep beyond your storefront to discover a magical world of rare resources and potential allies. Recruit skilled assistants to manage daily operations and brave heroes to secure exotic goods from distant lands. Maximize your efficiency and watch your profits soar while you focus on the big picture.\n\n**Repack Features**\n\n- Based on Arcane.Merchant-TENOKE ISO release: tenoke-arcane.merchant.iso (8,481,239,040 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 7.9 to 1.2 GB)\n- Installation takes 1-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 7.9 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i2.imageban.ru/out/2026/06/09/4989b30d88202c70ee54d48d9201a082.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/8e/04/8e0425ad-b226-49d2-9f02-341b53dd4e1e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/61/9761d9b8-f2ac-437f-a1a2-053003c5ce05.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4c/52/4c520e89-6454-4c8f-9a18-95dd80f01b32.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/98/9e/989e796b-566a-4474-a130-3f3c58089d1e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/b4/d2b485f4-1271-47fa-bc69-3d04dd8e025f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/15/c1/15c1c1f8-c415-4775-aa95-35af4ec6514e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-arcane-merchant",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T16:08:22.029332+00:00"
   }
 ]
