@@ -459,5 +459,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T12:28:15.144758+00:00"
+  },
+  {
+    "id": "35225eb3-dc8f-50a8-f486-ff7199898a01",
+    "title": "Arma 3: Ultimate Edition – v2.22.153995 + 25 DLCs/Bonuses",
+    "slug": "arma-3",
+    "categories": [
+      "Action",
+      "Tactical shooter",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "165.2 GB",
+    "size_repack": "88.5/86.1 GB",
+    "description": "**Repack Features**\n\n- Based on Steam BuildID 24672225 release: 165.2 GB, thanks to AR-81!\n- CODEX-RUNE crack/emu applied over\n- Game version is v2.22.153995. 25 DLCs/Bonuses are included\n- Newer DLCs should be enabled in launcher options; disable BattleEye as well just in case\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation (only bonus PDF manuals/maps have been decrypted)\n- NOTHING ripped, NOTHING re-encoded\n- Selective download feature: you can skip downloading and installing of bonus content (OST, Maps & Tactical Guide)\n- Significantly smaller archive size (compressed from 165.2 to 88.5/86.1 GB, depending on selected components)\n- Installation is SLOW, depends on your drive and CPU speed and takes from 1 hour (on 32-threads CPU + SSD) up to 5 hours (on 8-threads CPU + HDD)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 165.2 GB\n- Game language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Apex\n- Art of War Charity Pack\n- Contact\n- Creator DLC: CSLA Iron Curtain\n- Creator DLC: Expeditionary Forces\n- Creator DLC: Global Mobilization – Cold War Germany\n- Creator DLC: Reaction Forces\n- Creator DLC: S.O.G. Prairie Fire\n- Creator DLC: S.O.G. Prairie Fire Soundtrack\n- Creator DLC: Spearhead 1944\n- Creator DLC: Western Sahara\n- DLC Bundle 1\n- DLC Bundle 2\n- Helicopters\n- Jets\n- Karts\n- Laws of War\n- Malden\n- Maps\n- Marksmen\n- Soundtrack\n- Tac-Ops Mission Pack\n- Tactical Guide\n- Tanks\n- Zeus",
+    "cover_url": "https://i7.imageban.ru/out/2021/12/05/7555a653a60ecd307abe03ceff892e5e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/66/92/6692d8c2-c51e-4d24-844f-242976fad03e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/f1/b3f1d1c5-4d05-4c81-a0b0-c92c8862ad0a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/52/f8/52f88d9f-f06d-495b-b93c-ebd13e571689.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/07/0c/070cfe3b-dfff-45d6-88ee-673ffbf878fe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/25/8e25d45c-b25e-4ff9-bd34-4953111b74fe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0d/a6/0da61712-9134-47b1-bbf7-a9f8f5a5d05f.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-arma-3",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T12:33:13.339252+00:00"
   }
 ]
