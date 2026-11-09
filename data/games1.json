@@ -1590,5 +1590,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T15:38:22.228529+00:00"
+  },
+  {
+    "id": "580fee0e-93ba-575a-531a-566bdcceb26d",
+    "title": "Ova Magica – v1.001",
+    "slug": "ova-magica",
+    "categories": [
+      "Lifestyle",
+      "Managerial",
+      "RPG",
+      "Item crafting",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "1.6 GB",
+    "size_repack": "491 MB",
+    "description": "Ova Magica blends farm-life simulation with creature-collecting JRPG gameplay for a cozy yet adventurous experience.\n\nBLOBS\nIn Clover Town, blobs are part of everyday life—but most of all, they are friends.\n\nYou’ll raise them and grow together as you train for the Clover Cup, explore for treasure, breed your very own unique blobs, or simply enjoy life on the farm. They’ll help you with daily tasks like watering crops or producing goods such as milk.\n\nRELATIONSHIPS\nAlong your journey, you’ll meet many different characters, each with their own deep stories and struggles. These aren’t just brief encounters—through your help, you’ll become part of their lives as they grow and change. And maybe, you’ll even find love along the way…\n\nTOWN LIFE\nIn Clover Town, the changing seasons shape everyday life. As nature transforms, so does the town itself—filled with traditions, celebrations, and a strong sense of community. Throughout the year, seasonal festivals bring everyone together, offering special activities, heartfelt moments, and unique rewards to enjoy.\n\nEXPEDITIONS\nIf a peaceful farm life isn’t enough, the Adventurers’ Club is waiting for you. Explore uncharted worlds filled with wild blobs, hidden treasure, and valuable rewards. With your blob companions and friends by your side, you’ll set out on thrilling expeditions.\n\n**Repack Features**\n\n- Based on Ova.Magica-TENOKE ISO release: tenoke-ova.magica.iso (1,745,616,896 bytes)\n- Game version: v1.001\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.6 GB to 491 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.6 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2026/06/16/b0e423aef9b4372111df220353f0bd69.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/7d/2e/7d2e04c8-a5b4-4105-8adf-411fb19d4331.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3f/63/3f63e4b1-5dce-4255-8bfb-903234f12470.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/28/59/285921ab-b615-4fc6-b77c-367f422132d5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/52/ee/52ee23a9-207f-41e1-b817-0cdbe248aadb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e5/03/e5033d74-3b73-4f01-93ed-d6d8b773badb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/0d/9f0d62d4-2529-4fe4-82a6-9e439fa8e5fd.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ova-magica",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T15:43:23.429485+00:00"
   }
 ]
