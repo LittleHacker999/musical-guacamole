@@ -2053,5 +2053,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T16:43:22.436902+00:00"
+  },
+  {
+    "id": "bfaacbdb-cb27-5597-c465-c00c80d30259",
+    "title": "Roots of Pacha + Soundtrack Bundle, v1.3.1 (1) + Bonus OST",
+    "slug": "roots-of-pacha",
+    "categories": [
+      "Lifestyle",
+      "Item crafting",
+      "Top-down",
+      "2D",
+      "Retro look"
+    ],
+    "size_original": "5.4 GB",
+    "size_repack": "593/941 MB",
+    "description": "Begin your journey of discovery as you develop the tools and ideas that reshaped the primitive world. Learn to process and preserve food (meat, vegetarian, and vegan options), begin metalworking, create beautiful pottery and art, unlock your clan’s spirituality, and invent new buildings to expand your village any way you want.\n\nA tight-knit community of people will ensure your village’s survival, each with their own fears and dreams. Develop friendships and overcome hardships together. Grow your village by inviting people from other clans to live with you. Participate in primitive festivals and rituals to Pacha, mother nature, and her elements. And when the time comes, find your true love ❤.\n\nCustomize your character’s appearance with the best cosmetics the stone age has to offer. When you’re done working on your face, work on creating the most amazing farm around. Don’t stop there! Design, place, and decorate your own unique home to return to after a hard day’s work.\n\nThis repack IS partially backwards compatible with my previous RoP repack. You can rehash fg-optional-bonus-soundtrack.bin to save 348 MB of traffic.\n\n**Repack Features**\n\n- Based on Roots.of.Pacha.v1.3.1.1-TENOKE ISO release: tenoke-roots.of.pacha.v1.3.1.1.iso (5,802,307,584 bytes)\n- Game version: v1.3.1 (1)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus Soundtrack in WAV format nullified, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of Bonus Soundtrack in MP3 format\n- Significantly smaller archive size (compressed from 5.4 GB to 593/941 MB)\n- Installation takes 2-5 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 5.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i2.imageban.ru/out/2023/04/26/615de615e9a3df51bc9114247c61dfa8.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/8e/00/8e0071d6-01fc-4a57-bfdf-2742e0a23578.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1d/c2/1dc2e144-95e2-4f63-854a-762dceb553f2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/82/4c/824ca34d-43ba-4e4a-b8e6-689591c1ea50.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/e7/5de7cc5d-526f-40a4-b164-53f76a4141da.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/73/38/7338e2f7-00e5-4b83-b41e-30ebdb0f44d4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/4e/ba4e020e-2601-49fc-8d08-6a0cf2e580e5.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-roots-of-pacha",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T16:48:20.331001+00:00"
   }
 ]
