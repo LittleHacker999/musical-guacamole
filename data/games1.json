@@ -368,5 +368,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T12:13:13.321504+00:00"
+  },
+  {
+    "id": "62eaa14c-9884-5a64-cbf8-1d72d4e9e57d",
+    "title": "METAL GEAR SOLID – Master Collection Version, v3.0.0 + European Pack / Japanese Language Pack DLCs",
+    "slug": "mgs-master-collection-version",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Stealth",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "11.1 GB",
+    "size_repack": "from 3.4 GB",
+    "description": "The storyline, a whirlwind of intrigue and betrayal, has been hailed as the greatest story of the 20th century and was the third title in the METAL GEAR series to become a hit in subsequent years.\n\n**Repack Features**\n\n- Based on METAL.GEAR.SOLID.Master.Collection.Version-RUNE ISO release: rune-metal.gear.solid.master.collection.version.iso (11,897,929,728 bytes)\n- Game version: v3.0.0; European Pack / Japanese Language Pack DLCs are included as an optional download\n- On the first time, when you accept “Terms of Use” and face the white screen after that, press Backspace and then accept it\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of European/Japanese versions of the game. Both English European and US versions are included by default\n- Smaller archive size (compressed from 11.1 to 3.4~5.8 GB, depending on selected components)\n- Installation takes 2-10 minutes (depending on your system and selected components, drive speed is the most important factor for this game)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 15.5 GB (up to 20.9 GB during installation)\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i8.imageban.ru/out/2026/09/02/8370d59ae3d0fda89de8f0e0d9ab5209.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/98/de/98ded074-78f7-4607-9288-f37ff700952e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/90/7e/907e9dd4-85b8-454b-b67e-dd2269f2d0f0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5f/3f/5f3fdf3f-a565-4273-ab9c-f42f5a011c87.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/dc/a7dc51ec-9c93-4d10-8ac9-614351ad7e18.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/b0/ebb051da-12cf-49fe-9b29-f180cf5fcf1c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a0/aa/a0aa5c5b-3902-4f4a-84b5-fc54b55f19a8.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-mgs-master-collection-version",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T12:18:13.830837+00:00"
   }
 ]
