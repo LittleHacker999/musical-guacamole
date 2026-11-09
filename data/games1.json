@@ -2608,5 +2608,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T18:13:22.426939+00:00"
+  },
+  {
+    "id": "81ff04df-1286-5437-a64c-9b34f712f2c9",
+    "title": "Pompeii: The Legacy – v1.000.6",
+    "slug": "pompeii-the-legacy",
+    "categories": [
+      "Management",
+      "Strategy",
+      "Top",
+      "3D"
+    ],
+    "size_original": "6.3 GB",
+    "size_repack": "4.1 GB",
+    "description": "**Repack Features**\n\n- Based on Pompeii_The_Legacy-Razor1911 ISO release: rzr-pompeiithelegacy.iso (6,771,769,344 bytes)\n- Game version: v1.000.6\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 6.3 to 4.1 GB)\n- Installation takes 2-6 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 12.6 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- City Reborn – The city may have been destroyed, but its spirit endures. Rebuild Pompeii from the ground up, balancing the needs of patricians, plebeians, and slaves, each with their own ambitions and grudges. Every street, forum, market, and aqueduct shapes not just the city, but the fortunes of your family for centuries to come.\n- Governor and Politician – Lead across decades, navigating the shifting tides of Roman politics. Shape laws, negotiate trade rights, and form alliances through marriage or contract. Secure favor with emperors, outwit rivals, and expand your family’s influence far beyond Pompeii’s walls.\n- Trade Routes – Construct housing, temples, arenas, and more to meet your citizens’ needs. Establish trade routes across the Empire, monitor shifting markets, and keep your economy strong. Every decision, good or bad, can echo for generations.\n- Research and Development – The game incorporates active and passive bonuses through Family Bonuses, Research and Development, and Imperial Privileges. There are two main research branches: Technology and Philosophy.\n- Shadows Across the Empire – The greatest threats are not always on the battlefield. Earthquakes, fires, famine, plagues, and political sabotage can strike without warning. Some enemies will wear armor, others will smile as they shake your hand, all will test your leadership.",
+    "cover_url": "https://i3.imageban.ru/out/2026/04/26/a7da925f8f5f2b17c65c6a6e037c0976.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/34/70/34706f10-6443-4c96-86df-62036d135ecd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d1/77/d1773f91-d617-4cb8-901e-7a2d9b051584.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/76/7d/767ddeba-2cb6-458b-9914-ecffacde2923.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/ed/97ed23f7-6d60-4057-9df2-4be0ab5f0295.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c0/a8/c0a8ece6-ee27-446e-b8d1-79245e2b9bda.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e8/6c/e86c89a2-1061-4a0b-bd92-4745f3d82ea9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-pompeii-the-legacy",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T18:18:23.434908+00:00"
   }
 ]
