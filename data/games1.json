@@ -3566,5 +3566,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T20:48:23.030372+00:00"
+  },
+  {
+    "id": "b3ec54da-c74a-5ae2-9072-f40e9a05642e",
+    "title": "Relooted – v1.0.19.0",
+    "slug": "relooted",
+    "categories": [
+      "Logic",
+      "Puzzle",
+      "Side",
+      "3D"
+    ],
+    "size_original": "12.1 GB",
+    "size_repack": "8.1 GB",
+    "description": "Africanfutur-heist – Near the end of the 21st century, the political powers that be brokered a Transatlantic Returns Treaty, promising the repatriation of African artifacts from museums. Good old fashioned diplomacy was working – until it wasn’t. An amendment switched up the terms and conditions of which objects were to be returned. Museums, now knowing that only publicly displayed artifacts would be given back, were slowly removing artifacts from public display. When life gives you lemons and museums pulling shady moves, it’s time to chuck the lemons back at life and try a new, stealthier form of diplomacy. You’ve got 70 of these artifacts to (re)loot, all of which exist in real-life and are of huge cultural, historical, and spiritual significance to the people they were taken from.\nTeamwork Makes The Heist Work – It all starts with a troublesome little brother, who, yeah, gets you into all sorts of messes. But thankfully, as Nomali, you’ll meet more reliable crew members from different African countries. Recruit people from the classic hacker to… your prim and proper grandma? Don’t worry, grandma pulls her weight.\nCase the Joint – Plan ahead to lay the groundwork for a beautiful masterpiece of an escape. Check the getaway route, fiddle with puzzles and obstacles, and find spots to recruit the help of the right teammates.\nGet In. Get Out. – Once you’ve set the stage carefully and the artifact is sitting all pretty – looking quite not-stolen, but no worries, you’re gonna fix that ASAP – this is the moment to perform. Plucking an artifact from its resting spot starts the countdown timer, and with Nomali’s flow-based parkour abilities, escape should feel like you’re in the fun, montage part of a heist movie. But if you slacked on the planning phase, you’re gonna pay for it!\n\n**Repack Features**\n\n- Based on Relooted-RUNE ISO release: rune-relooted.iso (12,978,126,848 bytes)\n- Game version: v1.0.19.0\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 12.1 to 8.1 GB)\n- Installation takes 2-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 12.3 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 3 GB of free RAM (inc. virtual) required for installing this repack\n- Pull off heists: Plan and prepare your escape route by solving puzzles and placing teammates in the right place. When you’re ready, take the artifact and escape with Nomali’s flow-based parkour abilities.\n- Recruit a crew: Meet and and gradually recruit different team members with their unique abilities.\n- Explore an Africanfuturist setting: With a Hideout based in South Africa, you’ll see parts of Johannesburg imagined in the future.\n- Reclaim Real Artifacts: Recover 70 artifacts that exist in real-life, all of which are of huge cultural, historical, and spiritual significance to the people they were taken from.",
+    "cover_url": "https://i1.imageban.ru/out/2026/02/11/6d3e9b0b245a8e88ac21e5c664dd2401.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/44/b1/44b1b4d4-67d7-4229-af74-cb1d590aabd4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fa/18/fa18ed94-d86e-443c-8a66-1261f90638fe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/42/25/4225ae8a-3264-4310-9f04-54d1965b2895.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b2/fe/b2fed93d-0635-4233-9884-68f8cee366bf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d1/08/d10845db-49ed-49cd-8b00-d444f8f7070c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/18/59/18592fae-7108-4876-bd6c-fc523c5a932d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-relooted",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T20:53:22.032121+00:00"
   }
 ]
