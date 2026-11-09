@@ -3077,5 +3077,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T19:28:22.635583+00:00"
+  },
+  {
+    "id": "e10ab019-4fe6-5108-6184-ad5b4539da6d",
+    "title": "Egypt Frontiers",
+    "slug": "egypt-frontiers",
+    "categories": [
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "2.9 GB",
+    "size_repack": "2.2 GB",
+    "description": "As rulers of ancient Egypt, players will manage their people, providing resources, solving social problems, and making strategic decisions that will shape the development of their civilization. The choice between learning about the true history of Egypt or creating their own alternative vision gives players the freedom to shape their civilization.\n\nThe game spans from the time of the first pyramids to the era of great scientific discoveries, allowing players to delve into various stages of Egypt’s development. The strategy mode enables players to make global decisions, while the first-person mode provides a more personal and interactive experience of life in ancient Egypt.\n\n**Repack Features**\n\n- Based on Egypt.Frontiers-RUNE ISO release: rune-egypt.frontiers.iso (3,161,915,392 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 2.9 to 2.2 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.7 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2026/03/17/3932130cf6fd679ff09677d24d9fb2bc.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/58/ec/58ec7bdc-e38b-4bee-ad86-c6fcc277727c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d7/8f/d78fc12a-2664-452e-9009-77d5a50a22b8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/85/5a/855a4dbd-7125-412a-887d-70d42ce15cc3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/6a/8c6a35c2-45bf-4ce1-84af-94cf3332c719.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bf/47/bf474dc1-bb8b-4bb9-961e-ea22f97796e6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dc/91/dc9166c7-d07d-4fcf-8e1a-2d3fc8923890.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-egypt-frontiers",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T19:33:22.222279+00:00"
   }
 ]
