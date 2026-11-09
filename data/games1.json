@@ -4545,5 +4545,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T23:28:23.929957+00:00"
+  },
+  {
+    "id": "246b9ad7-40ef-5f0f-4a7c-dcc207188394",
+    "title": "Divine’s Howl – v1.0.107",
+    "slug": "divines-howl",
+    "categories": [
+      "Card game",
+      "2D",
+      "Turn-based"
+    ],
+    "size_original": "2.5 GB",
+    "size_repack": "981 MB",
+    "description": "Every deck you build, every sacrifice you make, is a ritual leading to ultimate dominion. This is not just a card battle, but an immersive cosmic experience.\n\nWe combine strategy with ritual to construct an unprecedented dark and mysterious world.\n\n**Repack Features**\n\n- Based on Divines.Howl-TENOKE ISO release: tenoke-divines.howl.iso (2,639,335,424 bytes)\n- Game version: v1.0.107\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.5 GB to 981 MB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i8.imageban.ru/out/2025/11/26/a0baf067405aaf81bceaeb067e29b475.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b9/dd/b9dd882b-bdfe-4156-a61d-4d9270ad18b8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/66/6966cae7-7e0b-4e81-97a6-11e9e4d103b1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/95/88/9588a91f-0889-47e5-90ce-c497cb097773.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5b/94/5b94d719-1c0c-4bd9-842d-5c7cd833fd94.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8a/b5/8ab547bd-75b7-4926-a34e-7ca7e1b8bcb9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/59/83/5983ca43-dede-4006-a8b4-c87e7818a75f.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-divines-howl",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T23:33:22.626357+00:00"
   }
 ]
