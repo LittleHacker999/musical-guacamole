@@ -1898,5 +1898,37 @@
     "downloads_count": 0,
     "created_at": "2026-11-09T16:18:21.133419+00:00",
     "trending": false
+  },
+  {
+    "id": "6e99cf36-2ada-5581-dead-63a9dc574583",
+    "title": "FINAL FANTASY VII REBIRTH: Digital Deluxe Edition, v1.005 + 15 DLCs/Bonuses (Monkey Repack)",
+    "slug": "final-fantasy-7-rebirth",
+    "categories": [
+      "RPG",
+      "Third-person",
+      "3D",
+      "Party-based",
+      "Japanese",
+      "Real-time"
+    ],
+    "size_original": "163.5 GB",
+    "size_repack": "from 130.6 GB",
+    "description": "After a ferocious battle, Ex-SOLDIER Cloud Strife and his companions Tifa, Aerith, Barret and Red XIII escape the mako-powered city of Midgar to step out into the wide world. A journey across the planet begins – riding Chocobos across vast and trackless plains, visiting many familiar places in pursuit of the fallen hero Sephiroth, and the chase culminating in the party’s journey to “The Forgotten Capital” from the original FINAL FANTASY VII.\n\nAt the same time, SOLDIER 1st class Zack Fair drags his battered body across the wastelands leading into Midgar, supporting his dear friend who is delirious from severe mako poisoning. Beyond the boundary between life and death, he sees an ominous rift spreading across the heavens.\n\nThe Shinra Resistance Committee, a rising power led by the acting government of Wutai, declares war. A group of mysterious figures veiled in dark black cloaks carry the remains of Jenova, the “Calamity from the Sky”, to ends unknown. Sensing the planet’s encroaching crisis, the ancient guardians known as Weapons begin to awaken within the lifestream itself.\n\nAll while the machinations of Cloud’s sworn enemy, Sephiroth, cause countless fates to collide and entwine, and lo, destiny itself will be reborn again.\n\nThe FINAL FANTASY VII remake trilogy – The FINAL FANTASY VII remake project uses the latest technology to bring FINAL FANTASY VII, the legendary RPG that enchanted the world, to a new generation and allows fans to experience the famed story reimagined. The first game in the trilogy, FINAL FANTASY VII REMAKE, was released in 2020, achieving critical acclaim across the globe and shipping more than seven million units worldwide. Now, the second game, FINAL FANTASY VII REBIRTH, returns to tell the story at the core of the trilogy and has already achieved critical acclaim.\n\nThis game is using pretty slow Oodle compression library method called Kraken. It means, that installation of the Turtle repack will take pretty much time on a very powerful PC while number of saved GBs won’t be fantastic. That’s why you have a Monkey One, which doesn’t save much, but installs  very fast. And since any monkey can repack the game that way, it’s called the “Monkey Repack”.\n\nThis repack IS partially backwards compatible with my previous FF7R repack. You can rehash the following files to save up to 15.2 GB of traffic:\n\n**Repack Features**\n\n- Based on FINAL.FANTASY.VII.REBIRTH.v1.005-RUNE ISO release: rune-final.fantasy.vii.rebirth.v1.005.iso (166,902,071,296 bytes)\n- Bonus Content (Hi-resolution ArtBook, ArtBook – Material Ultimania, Mini Soundtrack & 7 CDs Full Soundtrack, 1.9 GB) added, thanks to GAMEDRIVE.ORG!\n- Optional Russian localization by Mognet is available in “_Russian Localization” folder after installation. Copy contents of that folder to the game root to replace English with Russian\n- Game version: v1.005; 15 DLCs/bonuses are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing Japanese videos, French & German credits and bonus content\n- Slightly smaller archive size (compressed from cumulative 163.5 to 130.6~138.4 GB, depending on selected components)\n- Installation takes from 5 minutes (on SSD) up to 1 hour (on a very slow HDD)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 163.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Accessory: Kupo Charm & Survival Set\n- Accessory: Reclaimant Choker\n- Armor: Midgar Bangle Mk. II\n- Armor: Orchid Bracelet\n- Armor: Shinra Bangle Mk. II\n- Digital Deluxe Edition Upgrade\n- Posh Chocobo Summoning Materia\n- Summon materia: Magic Pot\n- Summon materia: Moogle trio\n- Digital Mini Soundtrack & Digital Art Book\n- ArtBook – Material Ultimania\n- Original Soundtrack (7 CDs)\n- Orchestral Arrangement Album\n- Orchestra World Tour LIVE 2024.09.08\n- ACOUSTIC ARRANGEMENTS",
+    "cover_url": "https://i7.imageban.ru/out/2025/01/25/4b3fc0385f6690d873b5bbba4b15a483.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/21/cd/21cd8c6a-3ad3-465b-88a0-59bcd5a67f23.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0b/48/0b48c677-5727-45a7-9e3a-e6559599f0a3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/04/72/04725a92-bc03-44c5-8dcd-74e4c713e1ef.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ea/ef/eaef1b2f-0c32-4293-9d1b-dbe3df7b3e80.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a9/5b/a95b4176-5c80-464f-acd0-13ce13b7996a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1d/b6/1db6f011-8cd7-4b8a-963b-f44ea16dc55c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-final-fantasy-7-rebirth",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T16:23:23.035673+00:00"
   }
 ]
