@@ -2359,5 +2359,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T17:33:22.125858+00:00"
+  },
+  {
+    "id": "22b0c057-c874-54e1-61cc-cf1e49be0973",
+    "title": "SONIC X SHADOW GENERATIONS: Digital Deluxe Upgrade – v1.10.0.1 + 5 DLCs",
+    "slug": "sonic-x-shadow-generations-pc",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "3D",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "39 GB",
+    "size_repack": "from 15.3 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\nPlay as Shadow in a brand-new story campaign featuring never-before-seen abilities that prove why he’s known as the Ultimate Life Form! Speed through iconic stages from Shadow’s history, discover hidden secrets in an expansive hub world, and unlock new powers to take on Black Doom and save the world.\n\nSONIC X SHADOW GENERATIONS also includes a complete remaster of the highly acclaimed SONIC GENERATIONS, a time-traveling adventure featuring a greatest-hits collection of 3D and 2D Sonic stages, now with upgraded visuals and new bonus content.\n\n**Repack Features**\n\n- Based on Steam BuildID 16644180 release: 39 GB\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Goldberg emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.7 added\n- Custom launcher added for easier HV steps processing\n- Game version: v1.10.0.1; 5 DLCs are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of optional videos pack (4K + credits) and bonus application\n- Significantly smaller archive size (compressed from 39 to 15.3~21.1 GB, depending on selected components)\n- Installation takes 3-20 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 39 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i3.imageban.ru/out/2026/05/10/312187002e428a96ee0ecf7fe276b06c.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a1/f8/a1f8f51e-30f8-4ee1-b95b-9043494e1c8f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/8f/e38ff9ef-c694-4aa0-8887-261f7fa70093.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/20/50/2050bdea-e864-41b9-9ef7-d79bbe7e9280.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f0/81/f081efaf-c00d-4da0-a29a-e172120d4160.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cf/b9/cfb91b03-f02f-485a-ace8-b0f2ce9e7bb4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/c9/e6c97626-6e94-41c6-913c-66d6d3806c8d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sonic-x-shadow-generations-pc",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T17:38:21.726396+00:00"
   }
 ]
