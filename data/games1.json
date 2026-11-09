@@ -3356,5 +3356,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T20:13:22.928318+00:00"
+  },
+  {
+    "id": "c0246875-0c3b-597f-be6a-1e1ff88519c2",
+    "title": "The Last Citadel – v1.0.0.4.3",
+    "slug": "the-last-citadel",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Content randomization",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "3.4 GB",
+    "size_repack": "2.1 GB",
+    "description": "**Repack Features**\n\n- Based on The.Last.Citadel-TENOKE ISO release: tenoke-the.last.citadel.iso (3,702,685,696 bytes)\n- Game version: v1.0.0.4.3\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.4 to 2.1 GB)\n- Installation takes 3-6 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.3 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A TRUE COOP EXPERIENCE – Face the Citadel’s many challenges solo or in a party up to 4 players. On higher difficulties, take on roles like DPS, Healer or Tank to face the brutal encounters that awaits you.\n- CHALLENGING RAID BOSSES – Confront the Citadel’s Guardians with their unique set of mechanics that will reward players for understanding how they attack.\n- CHOOSE YOUR OWN WAY TO PLAY – Create your own Loadout by selecting 4 abilities from over 45 abilities as well as your suit and your weapon. During your expedition, build your character up with numerous passives that will change the way you play each run.\n- LOOT BETTER AND STRONGER WEAPONS – Rifles, Lasers, Rocket Launchers and Melee Weapons are all part of the vast arsenal that you will encounter in the Citadel. Upgrading your weapons with unique modifiers and effects to adapt them to your teams’ needs will be a crucial part of your success.\n- DISCOVER THE EVER-CHANGING CITADEL – With a procedurally generated world, the citadel will challenge you with new layouts and encounters each time you explore. With Cursed Weapons, drones to help you out, altars to modify your weapons and more, the Citadel has many secrets for you to discover.",
+    "cover_url": "https://i2.imageban.ru/out/2026/02/26/5c88cf49e60e37a5a2308e22a7e272a8.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/40/ab/40ab308e-52e1-4813-aa49-bcf7df33bb0d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4d/84/4d849d50-ae7d-4f7e-bed5-9e2dd1910f80.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/7c/f57c7055-e32e-40fa-8d51-a5ed5bc92946.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0f/bd/0fbd0b8c-e5b1-4fe0-8680-aa80affe9e00.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/38/37/3837af4d-9d2b-430f-b966-4e709f25f142.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/88/e7/88e71099-0e98-4b28-96d1-d567a6a1e673.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-last-citadel",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T20:18:22.032384+00:00"
   }
 ]
