@@ -856,5 +856,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T13:38:22.426596+00:00"
+  },
+  {
+    "id": "d73edd8b-96b0-5206-423e-58e681d0843a",
+    "title": "Satisfactory – v1.2.3.1 CL#495413 + 2 DLCs/Bonuses",
+    "slug": "satisfactory",
+    "categories": [
+      "Action",
+      "Managerial",
+      "Item crafting",
+      "Open world",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "14.2 GB",
+    "size_repack": "from 6.1 GB",
+    "description": "Construct\nConquer nature by building massive factories across the land. Expand wherever and however you want. The planet is filled with valuable natural resources just waiting to be utilized. As an employee of FICSIT it’s your duty to make sure they come to good use.\n\nAutomate\nConstruct your factories with gracious perfection or build intricate webs of conveyor belts to supply all your needs. Automate trucks and trains to reach your faraway outposts and be sure to handle liquids properly by transporting them in pipes. It’s all about minimizing manual labour!\n\nExplore & Exploit\nVenture on expeditions to search for new materials and be sure to put everything to good use. Nature is yours to harvest! You have vehicles, jetpacks, jump pads and more at your disposal to make the exploration easier. Equip the proper safety gear as well, just in case you run into the local wildlife.\n\n**Repack Features**\n\n- Based on Satisfactory.v1.2.3.1-RUNE ISO release: rune-satisfactory.v1.2.3.1.iso (15,271,886,848 bytes)\n- Game version: v1.2.3.1 CL#495413; Early Access Supporter Pack  & Soundtrack DLCs are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in FLAC format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of useless PDB debugging files & Bonus OST in MP3 format\n- Significantly smaller archive size (compressed from 14.2 GB to 6.1~8 GB)\n- Installation takes 5-18 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 28.7 GB\n- Language can be changed in game settings\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Open World: Explore the huge (30km2) alien planet that is Massage-2(AB)b with its unique fauna and creatures.\n- Co-Op: Build a factory yourself or share the joy with your friends. Up to you!\n- Factory Building: Experience building a huge factory from a first-person perspective. Automate and optimize it to perfection for your personal satisfaction.\n- Customization: Customize your factory to your own liking. Build at high altitudes or over wide plains, there is almost no limits in the making of your tailor-made factory.\n- Vehicles: Travel the world with class. Use jump pads, factory carts, jetpacks, hypertubes, trucks or trains. The choice is yours!",
+    "cover_url": "https://i3.imageban.ru/out/2024/09/11/c655841905ee6ea07fff51ad8374ad59.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/04/af/04af85c7-f960-4daa-a634-71738c70f767.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/17/58173193-a7a1-463a-971f-db7ffb63b542.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ae/50/ae5010b0-84ce-437b-8b26-65f233785f65.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3f/71/3f7194f9-36aa-4bb0-88f2-91cccc15c7b6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/24/b9/24b9155d-1ff2-4032-b7a3-65a5d69d0633.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/36/50/36504ac3-e354-48f7-b5cd-f986acba2cf3.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-satisfactory",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T13:43:21.325813+00:00"
   }
 ]
