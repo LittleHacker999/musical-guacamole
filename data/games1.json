@@ -3687,5 +3687,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T21:08:23.727040+00:00"
+  },
+  {
+    "id": "dcb121ef-1e9c-5861-9ba6-0cacbfb46f26",
+    "title": "Fear The Timeloop",
+    "slug": "fear-the-timeloop",
+    "categories": [
+      "Adventure",
+      "Survival",
+      "Third-person",
+      "3D",
+      "Zombies"
+    ],
+    "size_original": "19.2 GB",
+    "size_repack": "14.2 GB",
+    "description": "Gain experience, adapt, and survive the time loop in this third-person survival horror – Fear the Timeloop.\n\nDespite your critical condition, you must face an even greater threat: bloodthirsty monsters. The hospital is surrounded by mysterious figures, ready to kill anyone who steps outside.\n\nThe only person who can help you is Sheriff’s deputy Rose Watters. But neither she nor you know what horrors lurk in the dark corners of Saint Heritage Hospital – or which memories from the past might come rushing back.\n\n**Repack Features**\n\n- Based on Fear.The.Timeloop-RUNE ISO release: rune-fear.the.timeloop.iso (20,633,812,992 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 19.2 to 14.2 GB)\n- Installation takes 5-12 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 19.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A time loop at the core of both story and gameplay mechanics.\n- A flexible ability system that can be tailored to your preferred playstyle.\n- A branching dialogue system that reacts to your early choices and the path you take through the loop.\n- Metroidvania-inspired elements that let you revisit previously inaccessible areas to unlock new abilities and discover valuable items.",
+    "cover_url": "https://i7.imageban.ru/out/2026/02/03/b530d5772d59f75a24130ae273c1d48b.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/bb/ab/bbab50ef-aeb5-4764-aec6-f97a008d6009.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b0/59/b0598c37-9aae-4cef-af54-7c6ac35e0029.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b1/14/b1145393-f8b2-4654-91a8-f2b322a349cd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/7d/f57ddc63-5696-4daa-bd85-7ec63c50aec8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/42/a242a93d-393a-46c9-be0f-c3af45837299.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/47/d1/47d1901d-0923-45be-aa59-d547d837ad59.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-fear-the-timeloop",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T21:13:21.531142+00:00"
   }
 ]
