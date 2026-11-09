@@ -2210,5 +2210,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T17:08:21.833132+00:00"
+  },
+  {
+    "id": "f94ded24-f76e-5e38-4f01-c24e690a0929",
+    "title": "EA SPORTS FC 24 – v1.0.90.31158 [Monkey Repack]",
+    "slug": "ea-sports-fc-24",
+    "categories": [
+      "Sports",
+      "Soccer",
+      "3D",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "63.6 GB",
+    "size_repack": "from 42.9 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\nLike some previous FIFA games before, this one is also using the slowest of all Oodle compression library methods called Leviathan. It means, that while repacking of the game is possible, it would install for some HOURS on very powerful PCs, yet would be smaller only by a few GBs. So instead very fast algo was used and the main gain you get here is from selective download option. And any monkey can do that, hence the “Monkey Repack” title.\n\n**Repack Features**\n\n- Based on Steam BuildID 17639013 release: 63.6 GB\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Anadius emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.7 added\n- Custom launcher added for easier HV steps processing\n- Game version: v1.0.90.31158\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of localization packs you don’t need. Languages w/o their own lang packs are included by default along with English commentaries\n- Smaller archive size (compressed from 63.6 to 42.9~56.8 GB, depending on selected components)\n- Installation takes 2-13 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 63.6 GB\n- Language can be changed in “anadius.cfg”\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i8.imageban.ru/out/2026/05/20/bf1d3ab3999e6946fb74a23996ea1cb5.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/5f/d4/5fd4fee8-2b2f-497d-b53d-dad925845245.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/73/6a/736aa0a6-dfc9-4a4d-a97b-bcd87534a181.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a8/21/a821cad3-d4cf-4327-b524-95e33f205890.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/d3/09d32b73-0cc7-433a-a24e-488a42fcfe6a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b7/28/b7284b42-8163-49e8-a788-9d5272223534.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ef/53/ef532a03-ae58-46aa-941c-e9d2d8678fd7.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ea-sports-fc-24",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T17:13:23.127131+00:00"
   }
 ]
