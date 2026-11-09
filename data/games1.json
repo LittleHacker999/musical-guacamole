@@ -2149,5 +2149,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T16:58:22.025992+00:00"
+  },
+  {
+    "id": "27fd9944-1d18-5b5d-952a-232c63fb5f67",
+    "title": "Warhammer 40,000: Gladius – Complete Edition – v1.18.0 + 21 DLCs/Bonuses",
+    "slug": "warhammer-40000-gladius-relics-of-war",
+    "categories": [
+      "Strategy",
+      "4X",
+      "Isometric",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "3.6 GB",
+    "size_repack": "1.8/2 GB",
+    "description": "In the first 4X turn-based strategy game set in Warhammer 40,000 you will lead one of four factions: Astra Militarum, Space Marines, Orks and Necrons, each with their own unique gameplay, technological tree, units and heroes.\n\nFace a challenging AI or cooperate or compete with friends and strangers across the globe.\n\nThis repack IS EXTREMELY backwards compatible with my previous Gladius repack. You can rehash the following files to save up to 2 GB of traffic.\n\n**Repack Features**\n\n- Based on Warhammer.40000.Gladius.Relics.of.War.Eradication.Pack-RUNE release: rune-warhammer.40000.gladius.relics.of.war.eradication.pack.iso (3,894,411,264 bytes)\n- Game version: v1.18.0; 21 DLCs/Bonuses are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in FLAC format ripped, NOTHING re-encoded\n- Selective Download feature: you can skip downloading and installing of bonus content (Manuals, Wallpapers, MP3 OST)\n- Significantly smaller archive size (compressed from 3.6 GB to 1.8/2 GB)\n- Installation takes 1-3 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 3.8 GB\n- Languge can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Adepta Sororitas\n- Adeptus Mechanicus\n- Assault Pack\n- Chaos Space Marines\n- Craftworld Aeldari\n- Demolition Pack\n- Drukhari\n- Eradication Pack\n- Escalation Pack\n- Firepower Pack\n- Fortification Pack\n- Lord of Skulls\n- Onslaught Pack\n- Rampage Pack\n- Reinforcement Pack\n- Relics of War – Soundtrack\n- Relics of War – Wallpapers\n- Specialist Pack\n- T’au\n- Tyranids\n- Ultima Founding\n- fg-01.bin\n- fg-02.bin\n- fg-03.bin\n- fg-04.bin\n- fg-optional-bonus-content.bin",
+    "cover_url": "https://i5.imageban.ru/out/2021/11/24/f6f384c34955597ef2cb462c8aeca99f.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/aa/fe/aafeeefb-a704-475d-9179-e4b881c31d9a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/93/e0/93e02b21-cbab-4532-b65f-d863f146bcb0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1b/5b/1b5b53b3-9912-4fb0-880b-a132b130e28a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/72/9a/729a3c71-29c2-4d58-a337-46b698b943c2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/46/9c/469c097a-76d9-4a52-a763-0bd0c8a43159.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/93/8e93b75a-d4ad-4414-83f9-f437b6b31f99.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-warhammer-40000-gladius-relics-of-war",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T17:03:21.936371+00:00"
   }
 ]
