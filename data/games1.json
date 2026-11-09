@@ -919,5 +919,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T13:48:22.131821+00:00"
+  },
+  {
+    "id": "228fef21-a974-5bda-f389-b76b25665611",
+    "title": "City States: Medieval – v1.02",
+    "slug": "city-states-medieval",
+    "categories": [
+      "Managerial",
+      "Strategy",
+      "Top-down",
+      "3D",
+      "Real-time"
+    ],
+    "size_original": "1.6 GB",
+    "size_repack": "1 GB",
+    "description": "City States: Medieval is a bold continuation of Reverie World Studios’ long-standing strategy series, introducing completely new mechanics focused not on continent-spanning empires, but surviving between them as a city-state. The dynamic, unpredictable 12th century Europe and Middle East offers new challenges, while the completely new hero mechanics demand a completely fresh approach to strategy from newcomers and veterans alike.\n\nBuild a Mighty City\nThe city is the heart of your mercantile empire. Plan your expansion and advance accordingly, growing your city through economy, military, faith, trading, and building chains. Do not neglect defense: You are leading a city-state surrounded by powerful kingdoms, who may decide to plunder the city’s wealth. Fortifications will be key to defending your city, along with an all-new siege system featuring real-time tactical combat.\n\nChart Trade Routes\nTrade is the key to the city’s survival. Establish new trading outposts across the known world to gain access to twelve precious commodities, from wool and linen to spices and silk. With every trade route the opportunities expand, bringing with it more wealth and prominence. Each route also makes the city a more attractive target for rival powers, demanding a strategic approach and navigating the treacherous world of politics and warfare of medieval times.\n\nCommand through Your Hero \nIn the age of great men shaping history, your leader is no different. Growing in experience and skill alongside the city, they define how you can react, enabling real-time battles and defense of the city, boosting city growth and construction, or carrying out complex intrigues in foreign courts. Every decision is a calculated risk: Do you send him on expeditions to distant lands to find new markets, leaving the city more vulnerable? Or do you focus on strengthening the home, risking that opportunities will slip away?\n\n**Repack Features**\n\n- Based on City.States.Medieval-RUNE ISO release: rune-city.states.medieval.iso (1,693,483,008 bytes)\n- Game version: v1.02\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.6 to 1 GB)\n- Installation takes 1-3 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.6 GB\n- Run the game from a desktop icon\n- Language can be changed in game settings\n- Use “options.exe” in game root to change the graphics settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i2.imageban.ru/out/2026/07/30/6a683a8063290401d91048fe679da6f5.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/0b/8f/0b8f4482-c5e2-4d0b-97b7-41071f2c9e99.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/0a/d20ad6fa-1c27-46ef-826b-115800d6acdc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/30/93/30936be1-0e9a-466c-8048-827880bab3ee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c2/c8/c2c8cf4c-f55d-4869-bae0-8f9c9d9e1fab.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/60/ff/60ff0b48-9278-4c69-a64b-e03156ccdd29.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/46/e64671fd-505a-4532-904b-c65b2d282724.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-city-states-medieval",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T13:53:23.234618+00:00"
   }
 ]
