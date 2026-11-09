@@ -2796,5 +2796,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T18:43:24.627812+00:00"
+  },
+  {
+    "id": "ad965fd6-0951-5fad-221b-3cc28ef16d95",
+    "title": "Anno 117: Pax Romana – v1.4.1.1629710 + 2 DLCs + Bonus OST",
+    "slug": "anno-117-pax-romana",
+    "categories": [
+      "Management",
+      "Strategy",
+      "Isometric",
+      "3D",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "113.1 GB",
+    "size_repack": "from 32.7 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\n**Repack Features**\n\n- Based on Steam BuildID 20373765 release: 112.7 GB\n- Bonus OST (419 MB) added, thanks to SittingOnClouds!\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Goldberg emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.5 added\n- Custom launcher added for easier HV steps processing\n- Game version: v1.4.1.1629710; 2 DLCs (Builder Pack + Year 1 Pass Cosmetics) are included and activated. All other DLCs are either not released or not unlocked\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation (ONLY when installed with all components!\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of optional videos pack (contains 4K videos and credits), bonus OST & voiceover packs you don’t need. English VOs and 1080p videos are included by default\n- Significantly smaller archive size (compressed from cumulative 113.1 to 32.7~44.3 GB, depending on selected components)\n- Installation takes 7-40 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 113.1 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2026/04/09/ceea9c016152c4a0b412f448cdb9c498.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a0/33/a033d4ba-677a-4a10-ad96-c2b5e69b0817.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9d/b0/9db0db5a-0b16-425f-b4e1-f3102209cc45.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/ce/fbce2fcf-1c8c-4f19-bd10-c57fb59d111c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fd/9d/fd9d1752-ad14-436c-8ead-f0658caaa039.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/90/5f/905fab31-212d-4054-aed0-5de33277d15d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b9/0c/b90cbd65-4ba8-405a-ba5d-5181e1829363.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-anno-117-pax-romana",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T18:48:22.334472+00:00"
   }
 ]
