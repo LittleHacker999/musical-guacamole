@@ -1,5 +1,34 @@
 [
   {
+    "id": "62bbd7f7-1fcc-50e2-41fe-8eb600ae8853",
+    "title": "FACEMINER – v2.4.1 + Bonus OST",
+    "slug": "faceminer",
+    "categories": [
+      "Incremental game",
+      "2D",
+      "3D"
+    ],
+    "size_original": "2.4 GB",
+    "size_repack": "960 MB",
+    "description": "Welcome to FACEMINER, where Every Face Has Value. Your job? Harvest biometric data, upgrade infrastructure, and expand your data processing empire as hard as Planet Earth can take it.\n\nSet against a backdrop of pre-Y2K techno-optimism, FACEMINER is a narrative-driven incremental management ‘click-em-up’ that tasks the player with building a planetary-scale biometric processing empire from scratch.\n\nThis repack IS slightly backwards compatible with my previous FACEMINER repack. You can rehash fg-03.bin and save 134 MB of traffic.\n\n**Repack Features**\n\n- Based on FACEMINER.v2.1.1-TENOKE ISO release: tenoke-faceminer.v2.1.1.iso (1,177,108,480 bytes)\n- Missing bonus OST files from older ISO (1.3 GB) added\n- Game version: v2.4.1 (TENOKE has a type in their release name)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format nullified, NOTHING re-encoded. Bonus OST in MP3 format is included by default\n- Significantly smaller archive size (compressed from cumulative 2.4 GB to 960 MB)\n- Installation takes 1-3 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.4 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- WORKLOAD – Harvest data, manage software upgrades, and expand your hardware as you rapidly scale your plant’s infrastructure. Ensure profits remain high and avoid bankruptcy (or worse) as you navigate oppressive electricity bills, high-maintenance cooling systems, and crooked politically-enforced carbon offsetting schemes.\n- CORPORATE CULTURE – Mining alone is no fun! Learn more about your fellow miners and keep up to date with the office gossip through the internal corporate messaging system. Sift through messages to unravel the mysteries – and ultimate plans – of the shadowy creators of the FACEMINER software suite.\n- GROWTH OPPORTUNITIES – Climb the corporate ladder and gradually rise through the ranks as you are promoted from manual data-filtering rookie through to the ultimate harvesting automator as you classify and sell facial data at ever-increasing speeds. The world of data brokering is ruthless, and poor prioritisation can lead to costly mistakes down the line. Do you have what it takes to climb the ranks and become the ultimate FACEMINER?\n- ALL-ORIGINAL SOUNDTRACK – Featuring a tour-de-force of original 90s-infused tracks by Madwreck . From house to jungle to ambient, the built-in audio player will keep you locked in the zone while you click your way into A.I. history.",
+    "cover_url": "https://i2.imageban.ru/out/2025/09/01/5adaf3394f3f9cd51c9d5a3c300f3d29.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/3d/e1/3de12b4c-1109-4d02-88b0-91f039f35902.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/39/d2/39d2c12a-9333-484c-841e-5d442682d115.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/65/e8/65e8943d-825d-423d-8081-7b1dbe1e1a6d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/89/3789cab4-e3a3-4a29-9824-ffef3b4005f1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/29/e7/29e71f92-00d3-42da-be35-aaf68f2509a4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fe/f4/fef41302-3ae1-4189-baf0-ab85e13add14.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-faceminer",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T00:32:17.124161+00:00"
+  },
+  {
     "id": "a38b37f3-cd34-5d20-9258-32705dd9ab5d",
     "title": "EA SPORTS FC 27 – v1.0.1/v1.0.140.52122 [Monkey Repack]",
     "slug": "ea-sports-fc-27",
