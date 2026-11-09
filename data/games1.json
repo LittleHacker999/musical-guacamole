@@ -1469,5 +1469,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T15:18:21.947197+00:00"
+  },
+  {
+    "id": "9b3426b6-a141-501f-08b7-1a5cdb89791f",
+    "title": "Tabletop Tavern – v0.6.11.3",
+    "slug": "tabletop-tavern",
+    "categories": [
+      "Strategy",
+      "RTS",
+      "Top-down",
+      "3D",
+      "Real-time"
+    ],
+    "size_original": "5.8 GB",
+    "size_repack": "813 MB",
+    "description": "Each run through Tabletop Tavern’s roguelike campaign is a new adventure, challenging you to adapt and evolve. Recruit new units, discover rare gear, and unlock upgrades that permanently alter your strategy. With scaling difficulty, random encounters, and dozens of heroes and factions to unlock, no two campaigns play the same.\n\nCommand unique factions, each boasting distinct playstyles. Lead the elite infantry of the Vikings, the monstrous trolls and giants of the Orcs, agile and flashy Elves, stalwart Humans, resilient Dwarves, and so much more! Each faction comes with abilities that change how you craft your army and utilize them in battle. Master your faction’s identity and forge synergies that fit your preferred style of conquest.\n\nBattles unfold on a tabletop battlefield where every clash feels like a miniature wargame brought to life in real time. Between skirmishes, you’ll manage your roster, face difficult choices, and make strategic decisions that shape your campaign. If you’re the kind of player who finishes a roguelike run and immediately starts the next one, this one’s for you.\n\n**Repack Features**\n\n- Based on Tabletop.Tavern-TENOKE ISO release: tenoke-tabletop.tavern.iso (6,182,289,408 bytes)\n- Game version: v0.6.11.3\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.8 GB to 813 MB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2026/06/23/62b17dfbaccdcd156f6b36887fe929a2.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/46/a6/46a65ada-9ddd-43b3-8a42-6b0bdf60de07.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/05/c3/05c338f8-685d-4cb6-9e9c-0029d341540f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/a9/a7a97898-a681-48f2-bb93-2280e059a205.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3f/1a/3f1a60db-7f3e-4639-bd1a-f8bef54d214c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/45/52/4552493c-6359-45ea-8408-eef4f72978f6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/35/f2/35f2795c-0a33-4497-98c3-bbeacc08f566.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-tabletop-tavern",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T15:23:52.626562+00:00"
   }
 ]
