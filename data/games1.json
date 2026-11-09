@@ -3418,5 +3418,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T20:23:21.333629+00:00"
+  },
+  {
+    "id": "c7f348df-9a01-50ed-0a06-330c454693d1",
+    "title": "Welcome to Doll Town",
+    "slug": "welcome-to-doll-town",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Exploration",
+      "Horror",
+      "3D",
+      "Third-person"
+    ],
+    "size_original": "11.1 GB",
+    "size_repack": "1.2 GB",
+    "description": "Once a bustling village known for its exquisite handcrafted dolls, Doll Town now rots in silence and shadows. Abandoned factories, empty schools, and forgotten shrines are all that remain – haunted by memories of the students who perished here years ago.\n\nYou play as Yumi, a student who takes a part-time job at the town’s only convenience store, unknowingly stepping into a nightmare that refuses to stay buried. As the line between reality and dream dissolves, Yumi must uncover the truth behind the deaths, the cursed dolls, and the macabre love story that destroyed the town.\n\n**Repack Features**\n\n- Based on Welcome.to.Doll.Town-TENOKE ISO release: tenoke-welcome.to.doll.town.iso (11,933,394,944 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 11.1 to 1.2 GB)\n- Installation takes 1-2 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 11.1 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Third-Person Exploration – Navigate abandoned streets, school corridors, and peculiar places where every corner hides secrets – or threats.\n- Atmospheric Horror – A nightmarish blend of rural Japan’s quiet beauty and suffocating dread.\n- Unravel the Mystery – Piece together the fate of the students and the chilling love story at the town’s heart.\n- Tense Storytelling – Experience a slow-burn descent into horror, where nothing is what it seems.\n- Immersive Ambience – Horizontal cinematic scenes and environmental storytelling draw you deeper into the tragedy.",
+    "cover_url": "https://i4.imageban.ru/out/2026/02/23/821da37cd6e17a307671a447b946d2f0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/93/db/93db42b2-58be-46ed-9c72-bb3b0031535c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/be/41/be41b8b2-9d9d-4a29-86c6-9239f5293460.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/11/6211d40a-7115-4420-8a83-cfaab5f82c11.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/40/c440c116-b2de-43a2-aecd-f4bcf5067098.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2b/39/2b3997da-ea45-464a-91be-98a1f827358e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-welcome-to-doll-town",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T20:28:23.435908+00:00"
   }
 ]
