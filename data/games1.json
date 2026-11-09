@@ -1961,5 +1961,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T16:28:22.326180+00:00"
+  },
+  {
+    "id": "2f157919-df51-5299-c12c-6229fbfa6063",
+    "title": "F1 Manager 2023: Deluxe Edition – v1.10.0.199864 + 2 DLCs",
+    "slug": "f1-manager-2023",
+    "categories": [
+      "Management",
+      "Sports",
+      "Strategy",
+      "3D",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "47.4 GB",
+    "size_repack": "12.3 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\nF1 Manager 2023 challenges you to manage the F1 team of your choice on your terms. Start your career as Team Principal at one of the 10 F1 teams and manage every aspect from the factory to the garage, to the starting grid.\n\nExperience broadcast-quality presentation as you take your team through practice, qualifying and a thrilling race day for each race of the season, and beyond.\n\nDetailed management systems give you control over your drivers, staff and car. Your decisions determine how your season unfolds.\n\n**Repack Features**\n\n- Based on Steam BuildID 16843164 release: 47.4 GB\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Goldberg emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.7.1 added\n- Custom launcher added for easier HV steps processing\n- Game version: v1.10.0.199864; 2 DLCs (Deluxe Upgrade Pack & Pre-order Content) are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 47.4 to 12.3 GB)\n- Installation takes 3-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 47.4 GB\n- Language can be changed in “Engine/Binaries/ThirdParty/Steamworks/Steamv155/Win64/steam_settings/configs.user.ini” file\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2026/05/31/e16970dc2a53baf20bfc0e640ac05127.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/55/4e/554e913d-ff7c-4cb0-a30b-93c836c32d1e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/fb/9ffb3690-8b96-409b-86b4-bdf9d29585c5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7b/63/7b63c7d9-92c7-46ef-b0bf-e1fbd03bdf92.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2e/b9/2eb9e6af-d008-4baf-aad7-0d56d8319440.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/52/33/5233d057-7a79-44af-a2af-3d174b997fc1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3d/f9/3df93147-5836-4d13-b747-8d45dacab2fc.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-f1-manager-2023",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T16:33:23.427505+00:00"
   }
 ]
