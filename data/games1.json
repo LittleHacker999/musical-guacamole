@@ -59,5 +59,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T11:23:14.338194+00:00"
+  },
+  {
+    "id": "aed92006-9e09-5369-7026-9242911554ed",
+    "title": "Liftoff: Micro Drones – v1.1.2",
+    "slug": "liftoff-micro-drones",
+    "categories": [
+      "Simulation",
+      "Exploration",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "18.5 GB",
+    "size_repack": "10.4 GB",
+    "description": "**Repack Features**\n\n- Based on Liftoff.Micro.Drones.v1.1.2-TENOKE ISO release: tenoke-liftoff.micro.drones.v1.1.2.iso (19,857,061,888 bytes)\n- Game version: v1.1.2\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 18.5 to 10.4 GB)\n- Installation takes 5-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 18.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2025/08/05/f1295ab0cb18d5bdd847fa6a13ed5137.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/33/4a/334ab04a-31ff-408d-a40a-e3a549e30806.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0d/31/0d310aec-2652-4023-9079-59e2090316a1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5c/59/5c59e386-7abb-45c5-8ff3-8747a057ec70.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/60/5860f60c-9d9a-4237-905d-5b64c6cd32c2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1c/74/1c7468ba-0243-48d2-ac8f-836fa5cd6e72.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/07/78/07785628-654d-481c-87b1-6dbe0cfb521d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-liftoff-micro-drones",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T11:28:15.730630+00:00"
   }
 ]
