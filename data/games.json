@@ -1,5 +1,34 @@
 [
   {
+    "id": "27e108c4-5d13-526d-8db2-a5fdeee74176",
+    "title": "Woman Simulator – v1.0.20",
+    "slug": "woman-simulator",
+    "categories": [
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "6.2 GB",
+    "size_repack": "3.5 GB",
+    "description": "You will have to cook, wash the dishes, do the laundry, iron and dry underwear and socks, mop the floor.\n\nIn addition, you need to monitor your morale and your husband’s mood. Take a bath to relax after cleaning, flatter your husband to cheer him up.\n\n**Repack Features**\n\n- Based on Woman.Simulator-TENOKE ISO release: tenoke-woman.simulator.iso (6,684,084,224 bytes)\n- Game version: v1.0.20\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 6.2 to 3.5 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6.1 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i8.imageban.ru/out/2026/09/28/658fd41d08bd98dcbce9339d323fa687.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6b/52/6b52a7e3-ff21-428b-b0fa-f47cba13d0b2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/7d/9f7ddeb8-faab-4736-b717-5e646c433fe6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/50/51/5051150e-fa96-483b-8b13-2705b8e58c72.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/94/21/9421ced7-0b18-4f83-9142-b5b244e0d468.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/60/0f/600f0f69-bdd3-465e-9509-2b9ade2b59aa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/06/fb/06fbc606-5c50-4c59-b093-c3ff54580fe6.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-woman-simulator",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T00:37:14.226535+00:00"
+  },
+  {
     "id": "62bbd7f7-1fcc-50e2-41fe-8eb600ae8853",
     "title": "FACEMINER – v2.4.1 + Bonus OST",
     "slug": "faceminer",
