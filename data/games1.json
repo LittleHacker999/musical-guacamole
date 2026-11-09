@@ -3960,5 +3960,38 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T21:53:22.630156+00:00"
+  },
+  {
+    "id": "17db84a7-b021-5b6e-c756-e97066e94b38",
+    "title": "Snow Ash",
+    "slug": "snow-ash",
+    "categories": [
+      "Management",
+      "Strategy",
+      "Deck-building",
+      "Survival",
+      "2D",
+      "Post-apocalypse",
+      "Steampunk"
+    ],
+    "size_original": "2 GB",
+    "size_repack": "1 GB",
+    "description": "Relentless snowfall has nearly wiped out everything, leaving behind only a few dozen scattered shelters across the snowfields – and the never-ending flow of drifters wandering between them.\n\nBy a twist of fate, you’ve become a messenger who braves the blizzards. Your mission: deliver goods, technology, and information to the shelters. Maybe, just maybe, you’ll bring a sliver of hope to the drifters as well.\n\n**Repack Features**\n\n- Based on Snow.Ash-TiNYiSO ISO release: tn-snowash.iso (2,109,466,624 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2 to 1 GB)\n- Installation takes 1-2 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.1 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Build hope with cards – The road ahead is full of danger. Countless greedy eyes are fixed on your cargo. You’ll face unexpected events and ruthless enemies. Only by cleverly using your deck of cards can you turn crises into chances and survive against the odds.\n- Survive with scarce resources – Out in the snow, you’ll constantly battle worsening cold, hunger, stress, and vehicle damage. Solving these problems is the key to making it further. Fuel, food, daily necessities, ammo, tools… your cargo isn’t just for trade – it’s for survival. Manage your resources wisely.\n- Master trade and growth – Where there are people, there’s trade. Each shelter offers different goods to buy and sell. Drifters on the road might barter treasures for supplies. Use your business savvy to carve out a place for yourself in this frozen world.\n- Recruit and build team – In the apocalypse, going it alone means certain death. Only by banding together can one survive. Recruit a variety of characters to form your team, and plan out unique skill paths for each. Every character can freely learn any skill, giving you the freedom to build your own custom deck!\n- Story-rich encounters – Every choice you make shapes your team’s fate. Your decisions and actions will affect how the snowfield story unfolds. With a rich world and narrative waiting to be discovered, you’ll find new stories whether in a shelter or out in the blizzard.",
+    "cover_url": "https://i4.imageban.ru/out/2026/01/12/bcc76a0a06ab5b4328ce1bf09f08d268.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d7/3a/d73a8e5c-d6aa-4a13-bf7e-7d4a15f6d991.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0a/19/0a19ec75-de65-4e48-b800-6c4d074da944.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e4/3d/e43d8559-b728-41ce-922c-73f2a1b15eef.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/62/8e62482f-da3d-47ee-a7a3-5acb790bde1e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a4/40/a4401e50-c41d-48a3-9e83-4fbcf299cd34.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/e3/02e3846a-b7ac-49f8-89b6-afc3d66f4483.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-snow-ash",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T21:58:21.628593+00:00"
   }
 ]
