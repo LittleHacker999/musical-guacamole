@@ -2481,5 +2481,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T17:53:22.332654+00:00"
+  },
+  {
+    "id": "d24bdb9e-dcd1-5f61-f5bc-4e68f466011c",
+    "title": "EA SPORTS PGA TOUR – v1.0.3.53615",
+    "slug": "ea-sports-pga-tour",
+    "categories": [
+      "Sports",
+      "Golf",
+      "Third-person",
+      "3D",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "55.4 GB",
+    "size_repack": "27.1 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\nThe exclusive home of the Majors, EA SPORTS PGA TOUR features Pure Strike for superior golf gameplay, powered by ShotLink, and unrivaled access to the world’s most exclusive golf courses.\n\n**Repack Features**\n\n- Based on Steam BuildID 17459576 release: 55.4 GB\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Anadius emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.6.2 added\n- Custom launcher added for easier HV steps processing\n- Game version: v1.0.3.53615\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 55.4 to 27.1 GB)\n- Installation takes 3-20 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 55.4 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2026/05/03/8bcce5ce7e9e5a75563fd655fd395207.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/58/4d/584d5cfd-3b27-43d4-a711-59093189e03a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/70/7c/707c19e1-5108-4d1c-a2f3-810f9afd2469.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8d/ea/8deae345-52f5-49d4-b1be-b8f0f58ac4f1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ee/6d/ee6da075-c35f-4b55-b5b8-234c7eb4b35e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/20/ac/20ac289e-db2a-4dbd-8ca6-7da8f1d75c25.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/43/5f/435f913c-3e3d-4ab7-8445-8d2784dbed1c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ea-sports-pga-tour",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T17:58:24.438736+00:00"
   }
 ]
