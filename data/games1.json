@@ -4359,5 +4359,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T22:58:22.728832+00:00"
+  },
+  {
+    "id": "bc98586e-89e4-5fc4-b345-25831d77b92c",
+    "title": "The Last Case of John Morley",
+    "slug": "the-last-case-of-john-morley",
+    "categories": [
+      "Adventure",
+      "First-person",
+      "3D",
+      "Detective"
+    ],
+    "size_original": "5.9 GB",
+    "size_repack": "4 GB",
+    "description": "Lady Fordside engages Morley to investigate the unsolved murder of her daughter, which occurred on a fateful night 20 years ago. The police had closed the case by arresting scapegoats, but the countess is convinced that the real killer remains at large.\n\nWhat begins as a quiet look into an old case becomes a haunting investigation into forgotten places and long-hidden truths that refuse to stay buried.\n\n**Repack Features**\n\n- Based on The.Last.Case.of.John.Morley-TENOKE ISO release: tenoke-the.last.case.of.john.morley.iso (6,345,881,600 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.9 to 4 GB)\n- Installation takes 3-6 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.7 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- First-Person Investigation – Explore richly detailed environments, from eerie mansions to abandoned sanatoriums, searching for hidden clues.\n- Puzzle-Solving & Scene Reconstruction – Analyze evidence, connect the dots, and recreate the crime scene to uncover what really happened.\n- Immersive 1940s Atmosphere – A gripping noir-style story, enhanced by a haunting soundtrack and period-accurate settings.\n- A Suspenseful Storyline – A 3-hour narrative-driven experience filled with unexpected twists and a shocking finale that will linger long after the game ends.",
+    "cover_url": "https://i4.imageban.ru/out/2025/12/08/ecc95d3147ffe96d1b0a4070367f1e1d.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/86/81/86812ae0-89ec-413f-952b-b069b0e5aba2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/15/3e/153ed13e-91a8-452d-8446-3abbd8ea01cf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/5c/eb5c9b77-3bdf-4b12-adba-f5aa2682c802.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/57/0d/570d0d34-42e5-4faa-9030-ea5becbf7398.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8a/49/8a498fbb-5970-4da1-afc1-a80f67a30342.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/a8/a3a842f1-1177-4fc8-ae8f-139ec185e236.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-last-case-of-john-morley",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T23:03:22.232687+00:00"
   }
 ]
