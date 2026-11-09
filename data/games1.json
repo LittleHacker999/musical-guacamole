@@ -1930,5 +1930,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T16:23:23.035673+00:00"
+  },
+  {
+    "id": "cf40d664-3f5e-5c92-550a-1a78da2b5542",
+    "title": "The Outer Worlds: Spacer’s Choice Edition, v2.5.8.934422 GOG + Bonus OST",
+    "slug": "the-outer-worlds-spacers-choice-edition",
+    "categories": [
+      "Action",
+      "Shooter",
+      "RPG",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "55 GB",
+    "size_repack": "38.2/38.5 GB",
+    "description": "You’ve tried the rest, now come back for the best! The Outer Worlds: Spacer’s Choice Edition includes the base game and all add-on content as the definitive way to play the beloved RPG from Obsidian Entertainment. This remastered masterpiece is optimized to be the absolute best version of The Outer Worlds… even if you choose to play this critically acclaimed RPG as the absolute worst version of your character.\n\nLost in transit while on a colonist ship bound for the edge of the galaxy, you awake decades later only to find yourself in the midst of a deep conspiracy threatening to destroy the colony. Explore the various planets and locations of Halcyon, including the mysterious Gorgon Asteroid and delightful distilleries of Eridanos. As you encounter various factions, all vying for power, the character you decide to become will determine how this player-driven story unfolds.\n\n**Repack Features**\n\n- Based on The.Outer.Worlds.Spacers.Choice.Edition.v2.5.8-I_KnoW ISO release: ik-ow258.iso (59,086,110,720 bytes)\n- Game version: v2.5.8.934422 GOG\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in FLAC format ripped, NOTHING re-encoded\n- Selective Download feature: you can skip downloading and installing of bonus OST in MP3 format\n- Significantly smaller archive size (compressed from 55 to 38.2/38.5 GB)\n- Installation takes from 8 minutes (on 32-threads CPU) up to 35 minutes (on 8-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 53.7 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 4 GB of free RAM (inc. virtual) required for installing this repack\n- It’s The Outer Worlds you love, but even better: 2019’s hit RPG has been remastered with better graphics, improved performance, additional animations, higher-res environments, and more.\n- Increased level cap: A higher level cap means even more ways to build your character from the seven branches of the skill tree.\n- The player-driven story RPG: In keeping with the Obsidian tradition, how you approach The Outer Worlds is up to you. Your choices affect not only the way the story develops, they also affect your character build, companion stories, and end game scenarios.\n- Lead your companions: During your journey through the furthest colony, you will meet a host of characters who will want to join your crew. Armed with unique abilities, these companions all have their own missions, motivations, and ideals. It’s up to you to help them achieve their goals, or exploit them to your own ends.\n- Explore the corporate colony: Halcyon is a colony at the edge of the galaxy owned and operated by a corporate board. They control everything… except for the alien monsters left behind when the terraforming of the colony’s two planets didn’t exactly go according to plan. Find your ship, build your crew, and explore the settlements, space stations, and other intriguing locations throughout Halcyon.",
+    "cover_url": "https://i2.imageban.ru/out/2023/03/11/303d7d1d6780400afdef74979b30d1db.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a0/55/a0552c87-84ea-4695-b834-d471a6709447.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/79/a7/79a7dec1-528c-4391-84d9-4a538342894f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/8d/7d8d11d1-6cd9-48ac-8abc-90ce545a2d4a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/82/3c/823c81c4-0aa2-4059-bb90-514d73509219.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/11/68/116839c8-0df1-495e-9896-c1f0d8d5f543.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/41/e341f0a8-a8e7-4875-a548-3a8863f25a1b.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-outer-worlds-spacers-choice-edition",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T16:28:22.326180+00:00"
   }
 ]
