@@ -6932,15 +6932,28 @@
       "https://i.ibb.co/Xkkv2FfZ/Assassin-s-Creed-On-PC-1739870348.webp",
       "https://i.ibb.co/cKnH0D2N/Assassin-s-Creed-Reviews-1739870348.webp",
       "https://i.ibb.co/pBPhQ0JP/Assassin-s-Creed-Game-Play-1739870348.webp",
-      "https://i.ibb.co/pvRYP7dk/Assassin-s-Creed-Anker-Games-1739870348.webp"
+      "https://i.ibb.co/pvRYP7dk/Assassin-s-Creed-Anker-Games-1739870348.webp",
+      "https://images.gog-statics.com/5632ca2f1d4ba408e58ec491850e88ec9aee41cfc6fa7733c69b4c8ebb20befe.jpg",
+      "https://images.gog-statics.com/3af54187e9e3fd06afb9e94ee0eed3e8ab7b6cc8fdfe7f539e4321e461093033.jpg",
+      "https://images.gog-statics.com/48735c0e16a549427221fe5e54c83f658d68dfae54068fdf4119aed2bd8e94c6.jpg",
+      "https://images.gog-statics.com/251b3b607674d341e72dccca326beed0c5b3672dd085150802de3746a437ee20.jpg",
+      "https://images.gog-statics.com/b978ea60b3c036e0b3a38cf9c647a260fadc68d466a25fc2743783016b66b414.jpg",
+      "https://images.gog-statics.com/c809bb733ce6ed35346e7a4bc5b439adfb36c389b95568737c463d5cd61c6b40.jpg",
+      "https://images.gog-statics.com/3eff6b65ba26083a825e6137e0ac3733da6b6200ae73615fed7877529c6c82e1.jpg",
+      "https://images.gog-statics.com/f79b43dabc69d5f2867830e57d528385f735e59f8c4956a9d16d6186e7143438.jpg",
+      "https://images.gog-statics.com/7b78ffa2e09ec82a57227b827bcde4e9329acbe0f92bedef1bca4646520da0a5.jpg",
+      "https://images.gog-statics.com/d4b954c0abdee0b3542acb4c8d4d1f62851376d07ba9e31cee06ede92cd6a6fe.jpg",
+      "https://images.gog-statics.com/123f814457e589d3c78c03fb269bbba70e0242dfee63cd92eaa658a977ce1a47.jpg",
+      "https://images.gog-statics.com/dcea607795ceeb1bb2bb6ec362f556c79e20bca02c55fb331770f257e660d626.jpg"
     ],
-    "system_requirements": "OS: Windows 7 / 8 / 10\r\n\r\nCPU: Dual core 2.6 GHz Intel® Pentium® D or AMD Athlon™ 64 X2 3800+\r\n\r\nRAM: 2 GB RAM\r\n\r\nGPU: ATI/NVidia 256 MB DirectX® 10.0–compliant video card or DirectX 9.0–compliant card with Shader Model 3.0 or higher\r\n\r\nDirectX : DirectX 9.0 or 10.0\r\n\r\nStorage: 8 GB",
+    "system_requirements": "OS: Windows 7 / 8 / 10\r\n\r\nCPU: Dual core 2.6 GHz Intel® Pentium® D or AMD Athlon™ 64 X2 3800+\r\n\r\nRAM: 2 GB RAM\r\n\r\nGPU: ATI/NVidia 256 MB DirectX® 10.0–compliant video card or DirectX 9.0–compliant card with Shader Model 3.0 or higher\r\n\r\nDirectX : DirectX 9.0 or 10.0\r\n\r\nStorage: 8 GB\n\nMINIMUM:\nOS: Windows 7 / 8 / 10\nCPU: Dual core 2.6 GHz Intel® Pentium® D or AMD Athlon™ 64 X2 3800+\nRAM: 2 GB RAM\nGPU: ATI/NVidia 256 MB DirectX® 10.0–compliant video card or DirectX 9.0–compliant card with Shader Model 3.0 or higher\nDirectX: DirectX 9.0 or 10.0\nStorage: 8 GB",
     "repacker": "ATH Repacks",
     "download_url": "https://repack-x-database.vercel.app/assassin-s-creed",
     "featured": true,
     "downloads_count": 3,
     "created_at": "2026-10-01T10:06:40.986032+00:00",
-    "trending": false
+    "trending": true,
+    "is_published": true
   },
   {
     "id": "c6859c08-bd84-4760-b926-9ed386a1d492",
