@@ -1715,5 +1715,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T15:58:21.433376+00:00"
+  },
+  {
+    "id": "fe678182-7fe1-5803-28a1-cc0c39ce5670",
+    "title": "Far Cry: New Dawn – Deluxe Edition, v1.0.8 HV / v1.0.5 Non-HV + All DLCs + HD Texture Pack",
+    "slug": "far-cry-new-dawn",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Open world",
+      "First-person",
+      "3D",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "25.1 GB",
+    "size_repack": "from 11.7 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\nDive into a transformed vibrant post-apocalyptic Hope County, Montana, 17 years after a global nuclear catastrophe.\n\nJoin fellow survivors and lead the fight against the dangerous new threat the Highwaymen, and their ruthless leaders The Twins, as they seek to take over the last remaining resources.\n\nYou can skip downloading of voicepacks you don’t need. Here is the list of selective files. You MUST download at least one of speech packs.\n\nThe Ultra-HD texture pack will upgrade some of the most common textures in the game, to a new level of visual fidelity, such as characters and weapons. This higher level of detail can be best appreciated while playing the game in 4K resolution, but is not limited to that.\n\nThe Far Cry® New Dawn team put a lot of effort to try to deliver a solid and scalable experience to the PC community, so those of you running a 4 GB GPU will still be able to enjoy this texture pack from 1080p to 1440p resolutions.\n\nThose of you with the high-end 6+ GB GPUs, you will be able to play the game in a sharp 4K resolution, along with this, HD textures under standard lighting and shading options.\n\nLast but not least, for those of you that have the MEGA PCs with dual GPUs and more than 6 GB of video ram, you will be able to run the game in 4K. Featuring the HD textures, and with the highest settings of lighting and shading, which take advantage of tech like displacement mapping.\n\nThis repack is HEAVILY backwards compatible with my previous repack v1.0.5 of FCND. The only changed files are setup.exe & fg-05.bin, so you can save up to 16.2 GB of traffic by rehashing. Make sure to rename “Far Cry – New Dawn [FitGirl Repack]” to “Far Cry – New Dawn [FitGirl HV Repack]” before rehashing.\n\n**Repack Features**\n\n- Based on Ubi v1.0.8 release: 25.1 GB\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Goldberg R1 emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.7.2 added\n- Custom launcher added for easier HV steps processing\n- Game version: v1.0.8; All DLCs but HD Texture Pack (Uplay Club Rewards too) are included and unlocked, thanks to DJXavieRO. HD Texture Pack is available as a separate repack\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of voicepacks you don’t need\n- Significantly smaller archive size (compressed from 25.1 to 11.7~16.4 GB, depending on selected components)\n- Installation takes 9-25 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 25.1 GB\n- Language can be changed in “bin/uplay_r1_loader.ini” file\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Based on Far.Cry.New.Dawn-CODEX ISO release: codex-far.cry.new.dawn.iso (42,051,993,600 bytes)\n- Significantly smaller archive size (compressed from 21 to 10 GB)\n- HDD space after installation: adds 21 GB of data to your existing game installation\n- Installation takes 5-10 minutes\n- At least 2 GB of free RAM (inc. virtual) required for installing this add-on\n- Yes, you can install it on any release\n- Far.Cry.New.Dawn.Update.v1.0.5-CODEX (646 MB) applied over\n- Game version is v1.0.5; All DLCs (Uplay Club Rewards too) are included and unlocked, thanks to DJXavieRO\n- HD Texture Pack was moved to a separate download, NOTHING re-encoded\n- Significantly smaller archive size (compressed from cumulative 39.8 to 11.7~16.4 GB, depending on selected components)\n- Installation takes: ~10 minutes on 8-threads CPU; ~18 minutes on 4-threads CPU\n- HDD space after installation: up to 25 GB\n- Use “Language Selector.exe” in game’s “bin” folder to change the GUI language and in-game settings to change subtitles and voiceover languages",
+    "cover_url": "https://i6.imageban.ru/out/2026/06/11/113e2b39e826a2bc8391d2bd0f267f3a.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/63/b2/63b29a53-0b3f-4610-9e15-6b40899b6822.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c9/e6/c9e6362e-887c-464b-8a41-39399e2d13f0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/26/29/26292e13-394d-49eb-8f5a-6c8cb0760a87.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/b5/37b5cf04-3885-4b58-8b74-51f9d966b5e2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/38/6f380502-7a81-44e7-b435-d4af336ab0e2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/49/e9/49e9799a-4211-4e1a-abeb-a35b9f2c3a47.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-far-cry-new-dawn",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T16:03:22.736166+00:00"
   }
 ]
