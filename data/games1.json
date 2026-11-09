@@ -2512,5 +2512,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T17:58:24.438736+00:00"
+  },
+  {
+    "id": "a5857895-99fd-5605-e764-433fe6376cae",
+    "title": "The Precinct: Deluxe Bundle, v1.11.22854 + Bonus OST",
+    "slug": "the-precinct",
+    "categories": [
+      "Action",
+      "Driving",
+      "Content randomization",
+      "Open world",
+      "3D"
+    ],
+    "size_original": "5.2 GB",
+    "size_repack": "2.7 GB",
+    "description": "You are Officer Nick Cordell Jr. As a rookie beat cop fresh out of the Academy, you’re on the front line of defence for Averno’s citizens. Dive into a world of thrilling car chases, sandbox crimes, and a healthy dose of 1980s noir as you protect the populace and solve the mystery of your father’s murder in the line of duty.\n\nTake to the Streets – A love letter to classic cop movies, The Precinct combines police sim with action sandbox spectacle. Patrol the streets and respond to callouts to fight criminals petty and powerful. Choose your own tactics in thrilling chases and shootouts. Feel the shifting power struggles of Averno’s gangs in a living city full of sandbox crimes, from parking infractions to bank heists, street racing to drug deals.\n\nHot Pursuit – Speed through the city in intense car and helicopter chases and pursue your mark through twisting alleyways before bringing them to justice. There’s no need to be a lone wolf: You’ve got Averno’s Finest backing you up, with an in-depth support system that allows you to call in squad cars, roadblocks, spike strips, and more.\n\nA Sleepless City – Explore the ever-shifting criminal underbelly of Averno City. Deal with yuppies, bums, street vendors and furious taxi drivers from the Projects to the Financial District. Chase perps through neon-lit alleys, rain-soaked streets, and grand, decaying parklands, all subject to a day/night cycle and dynamic weather. This is the 1980s East Coast in all its neon-noir glory.\n\n**Repack Features**\n\n- Based on The.Precinct.v1.11.22854-RUNE ISO release: rune-the.precinct.v1.11.22854.iso (5,627,969,536 bytes)\n- Game version: v1.11.22854 (Ambulance Update)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format ripped, NOTHING re-encoded. Bonus OST in MP3 format is included by default\n- Significantly smaller archive size (compressed from 5.2 to 2.7 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 8.2 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Explore a vibrant, living city by foot, squad car and helicopter.\n- Respond to sandbox crimes ranging from parking violations to gang shootouts.\n- Engage in intense vehicle chases through destructible environments.\n- Go it alone or call in backup with an in-depth support system.\n- Investigate the gangs who rule the city and the dark conspiracies keeping them in control.\n- Day/night cycle with dynamic weather.",
+    "cover_url": "https://i1.imageban.ru/out/2025/05/13/54891b1d239135c1e727ac384154240e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d6/db/d6db2212-cf26-4487-95ee-1f505a408fe2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/19/df/19dfac8b-04ff-440d-9b88-c3b5a8a0e42f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f4/80/f480f572-8fa2-49eb-94ad-0795e2fa8c1e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8f/f9/8ff9c24a-ba0d-46a0-9bc3-663cf6b08d6a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/73/87/73871672-1daf-4bbf-a383-f8cffd61e2dc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/72/9a/729a84fb-44cf-4c40-aa6e-dac07c8067e4.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/490110/extras/The-Precinct_Vehicle-Chase.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-precinct",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T18:03:22.030181+00:00"
   }
 ]
