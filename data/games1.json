@@ -3809,5 +3809,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T21:28:22.930769+00:00"
+  },
+  {
+    "id": "a1053472-9c29-55c3-9fb5-6ca23c817d82",
+    "title": "Weird RPG 2",
+    "slug": "weird-rpg-2",
+    "categories": [
+      "RPG",
+      "Action RPG",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "12.5 GB",
+    "size_repack": "6.6 GB",
+    "description": "The combat system is built around parries, similar to Sekiro. The difficulty is lower than most Souls-like games, with no death penalties.\n\nAlready experienced Sekiro? Then the game’s innovative equipment system will be your perfect choice.\n\nThe game focuses on monster hunting, looting, exploring maps, and boss challenges. A wide range of unique gear and items will bring you an extraordinary adventure.\n\n**Repack Features**\n\n- Based on Weird.RPG.2-TENOKE ISO release: tenoke-weird.rpg.2.iso (13,392,312,320 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 12.5 to 6.6 GB)\n- Installation takes 3-8 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 12.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Transformation System – You can choose to duel fairly with enemies or transform into an unstoppable force, locking heads with guns!\n- Parry Combat – The core combat mechanic is parrying. The system has a friendly design with relaxed timing, letting players enjoy the joy of swordplay easily.\n- Voice-Controlled – By using a microphone, you can control magic to attack enemies, offering a unique combat experience.\n- Unknowns and Challenges – The game is full of unknowns and challenges! Encounter monsters of all shapes and sizes, with surprises waiting at every turn.",
+    "cover_url": "https://i2.imageban.ru/out/2026/01/26/27d7e3f654550626469e5d96104df717.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/12/22/12224a83-d095-42e3-b360-032112fc2785.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/94/5b/945b2e4a-a63c-4b48-be27-2ff084884f85.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/29/be/29bef756-bbc6-41d6-bdb6-72c76e7a39ca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/52/cd/52cd8c8e-2578-441a-990d-9c675cedc930.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/f7/cef7fe7c-171e-45bf-9d42-79d5394e5d01.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/df/95/df95124b-7d28-4bd9-8ab1-f0f192e0a2ec.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-weird-rpg-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T21:33:22.229186+00:00"
   }
 ]
