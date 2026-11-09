@@ -7023,7 +7023,8 @@
     "featured": true,
     "downloads_count": 9,
     "created_at": "2026-09-19T18:15:16.413417+00:00",
-    "trending": false
+    "trending": true,
+    "is_published": true
   },
   {
     "id": "c96b6510-4c0c-4dfb-b143-6b6d3cd436ce",
