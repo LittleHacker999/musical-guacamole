@@ -6771,7 +6771,8 @@
       "Platformer",
       "Hack and Slash",
       "Stealth",
-      "Time Manipulation"
+      "Time Manipulation",
+      "TPP"
     ],
     "size_original": "2 GB",
     "size_repack": "1.4 GB",
@@ -6789,15 +6790,28 @@
       "https://i.ibb.co/9HpSn00K/file-96.jpg",
       "https://i.ibb.co/LXnLWQbc/file-97.jpg",
       "https://i.ibb.co/tkdkxwT/file-98.jpg",
-      "https://i.ibb.co/Fb0ZQ2Pr/file-99.jpg"
+      "https://i.ibb.co/Fb0ZQ2Pr/file-99.jpg",
+      "https://images.gog-statics.com/54a6f37b98d82ab1ff5ba90b8e982b42a3e35647ef3ffb1c0e7381fd2e51bcdb.jpg",
+      "https://images.gog-statics.com/3902cb1505f7e33fec8377138de6aa744934f8c3d177a720688ef844334f0b45.jpg",
+      "https://images.gog-statics.com/8f67531aa2954beaf00b92fe81d516a2605e8f99ce75e185b159835f92d5875d.jpg",
+      "https://images.gog-statics.com/c59370dad61bbde468820951a62661c8d09c896dba1122d2e3028e6e4f121d75.jpg",
+      "https://images.gog-statics.com/459507e8c9f6cf5836b9045de662fd65ee1658e84da9bebd76dac1d1698e3c3f.jpg",
+      "https://images.gog-statics.com/15e24586c75ab6301089be323d4de041bc3d78f550b56c90023144e89f1a7007.jpg",
+      "https://images.gog-statics.com/4b855420697de652e4e50f396635e81bde204906c7703ec903b22d43f8d9f2e8.jpg",
+      "https://images.gog-statics.com/839521a99a9a6afb8e7cb982a2bd9908ee72c73877eeaa605eab0c8fa73a396f.jpg",
+      "https://images.gog-statics.com/29050c5a58f881c172ddf348788927fcd8d4eaf2bc125776129acfaaf2c2d4ae.jpg",
+      "https://images.gog-statics.com/77a64fb3fccf706deea6f515aecc1ebdd7ce7b55240a46d20811509f7839b435.jpg",
+      "https://images.gog-statics.com/49d6e717f984926ca6f32cc7628168c341330f48cf22fd715302ff1a2e3f06a0.jpg",
+      "https://images.gog-statics.com/007e5adc9e678c6eb53f5476b495ec41b8de58387668a3514f7bc56aeeb8422a.jpg"
     ],
-    "system_requirements": "OS: Windows 7, 8, 10\r\n\r\nCPU: Intel® Pentium® 4 or AMD AthlonTM 1.5 GHz\r\n\r\nRAM: 512 MB RAM\r\n\r\nGPU: DirectX® 9 compliant w/ 64MB RAM (128 MB recommended)\r\n\r\nDirectX : 9.0 or higher\r\n\r\nStorage: 2+ GB",
+    "system_requirements": "OS: Windows 7, 8, 10\r\n\r\nCPU: Intel® Pentium® 4 or AMD AthlonTM 1.5 GHz\r\n\r\nRAM: 512 MB RAM\r\n\r\nGPU: DirectX® 9 compliant w/ 64MB RAM (128 MB recommended)\r\n\r\nDirectX : 9.0 or higher\r\n\r\nStorage: 2+ GB\n\nMINIMUM:\nOS: Windows 7, 8, 10\nCPU: Intel® Pentium® 4 or AMD AthlonTM 1.5 GHz\nRAM: 512 MB RAM\nGPU: DirectX® 9 compliant w/ 64MB RAM (128 MB recommended)\nDirectX: 9.0 or higher\nStorage: 2+ GB\nSound: Direct X 9.0 compliant",
     "repacker": "GOG",
     "download_url": "https://repack-x-database.vercel.app/prince-of-persia-the-two-thrones",
     "featured": false,
     "downloads_count": 2,
     "created_at": "2026-10-23T04:17:51.519225+00:00",
-    "trending": false
+    "trending": true,
+    "is_published": true
   },
   {
     "id": "0df6c8b8-57db-46dd-b17d-7920a58a186d",
