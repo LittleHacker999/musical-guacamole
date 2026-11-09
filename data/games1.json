@@ -3325,5 +3325,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T20:08:24.137549+00:00"
+  },
+  {
+    "id": "4ca7d73e-6255-5aad-2023-1dacff8c7f7b",
+    "title": "Laysara: Summit Kingdom – v1.0 (Release)",
+    "slug": "laysara-summit-kingdom",
+    "categories": [
+      "Management",
+      "Strategy",
+      "Top",
+      "3D",
+      "Real-time"
+    ],
+    "size_original": "3.8 GB",
+    "size_repack": "2.4 GB",
+    "description": "**Repack Features**\n\n- Based on Laysara.Summit.Kingdom-RUNE ISO release: rune-laysara.summit.kingdom.iso (4,076,896,256 bytes)\n- Game version: v1.0 (Release)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.8 to 2.4 GB)\n- Installation takes 1-2 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- BUILD ON A MOUNTAIN – Each mountain comes with a new set of challenges. Mounts differ in shapes, vegetation zone layouts, resource availability and weather conditions. Sometimes you will have plenty of room for farming in green lowlands, sometimes you will need to rely on breeding and extracting valuable minerals from regions dangerously close to peak glaciers. If you find yourself in dire need of a certain resource, you can always try to establish a trading route with another town.\n- DEAL WITH AVALANCHES – One of the ever-present dangers you will have to deal with are mighty avalanches. You can’t stop them, but you can take precautions and be prepared. Afforest the key areas to create natural barriers, build artificial ones to redirect rushing masses of snow, or trigger the avalanche early, while it’s still manageable. Create a deliberate and reliable strategy and you might even be able to use the power of snow to your advantage; fail to do so and find your city buried and devastated!\n- CRAFT A TRANSPORT NETWORK – So, transporting goods is easy, right? Well, not if your destination lies on the other side of the mountain, a few hundred meters higher, behind cliffs, ridges, canyons and rivers. You will need to create a vast, complex transport network consisting of roads, bridges and shafts to ensure reliable delivery chains. As demand for resources will grow alongside the town’s population, always look for opportunities to optimize your transportation network, be it by building paved roads, using more advanced lifting constructions, or aiding your carriers with glamorous yaks.\n- RAISE A SUMMIT TEMPLE – If you manage to endure all mountain dangers, build a network of efficient production chains and satisfy all needs of your people, there is only one more thing to be done: conquering the mountain peak! To succeed in this great endeavor you’ll need to reach the summit and establish safe routes for your carriers to bring in enormous amounts of building resources, but beware! Weather at this height is as deadly as ever. The final effect is well worth the effort though, as raising the summit temple is an act of total triumph of human courage (and your logistics skills!) over the elements.",
+    "cover_url": "https://i8.imageban.ru/out/2026/02/28/8cc8be224f86b2375adda9689446c161.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/25/7a/257a8bf5-252e-4ccb-88a9-42610c128b07.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/41/74/4174a36a-64c9-4feb-94c6-7555e0dd6cb4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/a0/83a0b23b-e8fa-4852-b45f-3ac89463a743.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/14/4e/144ef5db-01e8-4c8f-b284-d02b5a7ad1e9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/eb/b3eb3af4-f79d-4c71-942a-2d9a0d5ea5ee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bd/2c/bd2cbd24-8cd5-4e13-8b0e-67f77276195b.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-laysara-summit-kingdom",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T20:13:22.928318+00:00"
   }
 ]
