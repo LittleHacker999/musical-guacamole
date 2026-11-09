@@ -3200,5 +3200,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T19:48:22.737143+00:00"
+  },
+  {
+    "id": "112ceb03-cc14-51bd-63af-ee1dd17d96de",
+    "title": "Tank Mechanic Simulator – v1.6.2 Build 911 + 3 DLCs",
+    "slug": "tank-mechanic-simulator",
+    "categories": [
+      "Simulation",
+      "First-person",
+      "3D",
+      "Tanks"
+    ],
+    "size_original": "9.5 GB",
+    "size_repack": "4.6 GB",
+    "description": "As a tank museum owner your task is to recover destroyed or abandoned tanks and renovate them.\n\nUse your offroad vehicle to locate forgotten tanks. With final area found, determine the exact position of the tank by using special equipment like metal detector. Set up excavation area and extract the tank!\n\nTransport freshly extracted tanks to your warehouse. Then start working on renovation process. Detach rusted elements and replace them with new parts. Buy them or fix them by yourself!\n\nTank Mechanic Simulator contains physical terrain deformation system, player will have to mind where he wants to travel and excavate.\n\n**Repack Features**\n\n- Based on Tank.Mechanic.Simulator.Cromwell.Mk.IV-RUNE ISO release: rune-tank.mechanic.simulator.cromwell.mk.iv.iso (10,249,863,168 bytes)\n- Game version is v1.6.2 Build 911; 3 DLCs (First Supply, Shermans & Cromwell Mk.IV) are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 9.5 to 4.6 GB)\n- Installation takes 3-6 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 15.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2022/02/05/daa55bab712e5e03518919cbc001f804.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/62/84/62849a2c-fc6e-4249-8be2-e4057f99c91b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6e/28/6e28a34b-03d8-4afa-bda1-ac9ff995d029.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ca/22/ca22b943-3fb7-4c44-9f43-b8d587671b8d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/90/e1/90e1edac-9209-4fd8-ab4c-684738c13c2f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/68/c2/68c21e19-5809-4309-9984-9d498b624874.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d9/d5/d9d54836-a4cf-466e-91e9-4ca05a205657.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-tank-mechanic-simulator",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T19:53:23.237000+00:00"
   }
 ]
