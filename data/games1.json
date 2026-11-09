@@ -2180,5 +2180,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T17:03:21.936371+00:00"
+  },
+  {
+    "id": "1c874446-9249-5df8-303c-b7f462bc6401",
+    "title": "Trash Goblin: Complete Bundle – v1.5.9527 + 8 DLCs/Bonuses",
+    "slug": "trash-goblin",
+    "categories": [
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "7 GB",
+    "size_repack": "791 MB/1.2 GB",
+    "description": "DISCOVER PECULIAR TRINKETS – Unearth knick-knacks of all kinds by chipping away at the dirt and cruft they’re embedded inside, wrestling with different types of dirt that yield in different ways.\nRESTORE FORGOTTEN CURIOS TO GLORY – Scrub all these strange items up nice and clean with your sponge to get them ready for sale!\nUPCYLE INTO IMAGINATIVE NEW FORMS! – Customise these curios by combining Trinkets together, turning them into strange and wonderful new items!\nSELL TO A PARADE OF COLOURFUL CUSTOMERS – A wide range of intriguing, odd and charming customers will frequent your store, some with interesting stories to tell, others after a particular object, some just browsing…\nUPGRADE YOUR WORKSHOP – Spend your savings to expand your tool set, and unlock more space to work in. Buy a coffee pot to get more done in the day, a soak tub to clean up overnight, an honesty box for getting rid of unwanted trinkets, and more!\nTREAT YOURSELF – Customise your space, decorate your shelves however you like, get some nice plants, change up the wallpaper and bedclothes; make it your own!\nMAXIMUM CHILL, ZERO PRESSURE – There’s a gentle limit to how much you can do in a given day but customers will return, you can potter as much as you like, and there are no fail states.\n\nThis repack IS partially backwards compatible with my previous TG repack. You can rehash fg-optional-bonus-content.bin and save 444 MB of traffic.\n\n**Repack Features**\n\n- Based on Trash.Goblin.The.Artist.of.Brimhaven-TENOKE ISO release: tenoke-trash.goblin.the.artist.of.brimhaven.iso (7,535,650,816 bytes)\n- Game version: v1.5.9527; 8 DLCs/Bonuses are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format nullified, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus content (OST in MP3 format + ArtBook)\n- Significantly smaller archive size (compressed from 7 GB to 791 MB/1.2 GB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 7 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- 170+ Trinkets & Accessories with 1000s of combinations & variations to find, clean, upcycle, sell and collect.\n- 8 Tools to buy, upgrade and use across 3 Trinket-care minigames.\n- Make life easier with the Coffee Pot, Soak Tub, and other handy gadgets.\n- Expand your shop with shelves, storage, and more.\n- 3 distinct locations to visit and sell in.\n- Customise your shop with cosmetics covering bedclothes, wallpapers, and more.\n- 33 unique NPC characters to get to know and sell to.\n- 33 Quests to complete.\n- Endless randomised customers.\n- Endless gameplay.\n- Founder’s Pack\n- Collector’s Gift Set\n- Goblin Plush Trinket\n- Spiffo Plush Trinket\n- The Artist of Brimhaven\n- Found Family Cosmetic Pack\n- Soundtrack\n- Digital Artbook",
+    "cover_url": "https://i7.imageban.ru/out/2025/06/02/f8810bb2427e8a55b5e0cae62102d51c.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/7f/ae/7fae2a00-9671-4768-ab0c-c04258addb24.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a9/ad/a9ad8cab-7a06-4447-805c-7737e4bdb1bc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3b/bb/3bbb3b54-1f56-4f36-b303-c6d4987268ec.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a5/4e/a54eaca2-d469-4cba-b5c6-78948d3e7c80.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/15/2c151bf6-689f-43cb-89bd-28a875cd3ca5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a1/7c/a17c2960-4ac1-4288-8ca3-b5e3b5e90c50.jpg.240p.jpg",
+      "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2407830/extras/chipping1.0.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-trash-goblin",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T17:08:21.833132+00:00"
   }
 ]
