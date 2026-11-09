@@ -6829,15 +6829,28 @@
       "https://i.ibb.co/B5f45fGs/file-80.jpg",
       "https://i.ibb.co/bhKNFtD/file-81.jpg",
       "https://i.ibb.co/9H0fXtj7/file-83.jpg",
-      "https://i.ibb.co/YBvDBjyt/file-84.jpg"
+      "https://i.ibb.co/YBvDBjyt/file-84.jpg",
+      "https://images.gog-statics.com/84d82b2abae44d362c6fab38724168d3a0619dcbe6c821bca7d57a429276ec8a.jpg",
+      "https://images.gog-statics.com/59089c6094e2b183475aaf6300b9319623dafb3810e69979a8b6ba6ffd7297b9.jpg",
+      "https://images.gog-statics.com/62d1b0a684a2b11859ed7287d999a8f7709dfd534be29f55b7ffe9b40ad9c6ce.jpg",
+      "https://images.gog-statics.com/fe8042a0914ebc23b1ef9fd00d441435077659cfbb99331322a8868e939c31f7.jpg",
+      "https://images.gog-statics.com/9a48aa5805f05e52443bacda5512e6a515ea99fac337dbe1c71732194b083849.jpg",
+      "https://images.gog-statics.com/06dc5babcc7aa3a6cfe252a59623ec783e92f5cfb9087883dab46b4bf371b7a4.jpg",
+      "https://images.gog-statics.com/ebda37118b2db3b4a137b74458c147d257ca18eda88bbbf76a15ca2388dfd3c5.jpg",
+      "https://images.gog-statics.com/b39e31d54ad3bc71de81ff321197cc4595926192cc0ed4d6958377f831d3b303.jpg",
+      "https://images.gog-statics.com/dd253043037fa16f15386777f351875ec8953440c6dcb8a986323b32d5db47e7.jpg",
+      "https://images.gog-statics.com/861fce8db5888542796f532f139bb3d44c292e5023fec7158db32c715b4dd22b.jpg",
+      "https://images.gog-statics.com/aceaf0ddf435f1d1af8fd96583db73a38ff043b8c8d48cfadf0d64afd34d2dcd.jpg",
+      "https://images.gog-statics.com/c7a4fc8bd58ae0e20b3e7653c44af48b59a995ad96056d68f83158fa281fac1c.jpg"
     ],
-    "system_requirements": "OS: Windows (10, 11)\r\n\r\nCPU: 1.8 GHz\r\n\r\nRAM: 2 GB RAM\r\n\r\nGPU: 3D graphics card compatible with DirectX 9.0c\r\n\r\nDirectX : 9.0c\r\n\r\nStorage: 2 GB HDD",
+    "system_requirements": "OS: Windows (10, 11)\r\n\r\nCPU: 1.8 GHz\r\n\r\nRAM: 2 GB RAM\r\n\r\nGPU: 3D graphics card compatible with DirectX 9.0c\r\n\r\nDirectX : 9.0c\r\n\r\nStorage: 2 GB HDD\n\nMINIMUM:\nOS: Windows (10, 11)\nCPU: 1.8 GHz\nRAM: 2 GB RAM\nGPU: 3D graphics card compatible with DirectX 9.0c\nStorage: 2 GB HDD",
     "repacker": "GOG",
     "download_url": "https://repack-x-database.vercel.app/tom-clancy-s-splinter-cell",
     "featured": false,
     "downloads_count": 1,
     "created_at": "2026-10-18T11:10:09.412602+00:00",
-    "trending": false
+    "trending": true,
+    "is_published": true
   },
   {
     "id": "db552144-fb36-42a2-91c7-7b5aba9f28f1",
