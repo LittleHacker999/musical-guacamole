@@ -2732,5 +2732,38 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-09T18:33:22.424262+00:00"
+  },
+  {
+    "id": "226716da-1204-5d9b-13ff-56edcf7f5fc8",
+    "title": "EA SPORTS WRC – v2.3.1 + 4 DLCs",
+    "slug": "ea-sports-wrc",
+    "categories": [
+      "Racing",
+      "Rally",
+      "First-person",
+      "Third-person",
+      "3D",
+      "Cars",
+      "Hypervisor Bypass"
+    ],
+    "size_original": "95.8 GB",
+    "size_repack": "63.9 GB",
+    "description": "Please read this article before proceeding with downloading and installation:\nhttps://fitgirl-repacks.site/hypervisor-guide/\n\nLIKE RACING BUT RALLY – Elevate your rally experience with the WRC 2024 Season Expansion! Discover thrilling new locations, Tet Rally Latvia and the Orlen 80th Rally Poland. Drive the latest high-performance vehicles including the Ford Fiesta Rally3 Evo and Toyota GR Yaris Rally1 HYBRID ’24. Customize your rally cars with more than 50 new liveries and compete against 52 official crews.\nMAKE YOUR OWN – Design and drive your dream rally car through Builder mode.\nREWRITE HEADLINES – Get behind the wheel and overcome recent events alongside real-world highlights and nostalgic throwbacks in Moments mode.\nDYNAMIC HANDLING SYSTEM – Codemasters’ renowned multi-surface handling model is improved for WRC. Tailor it to match your skill level and put it to the test on surface degradation.\nCROSS-PLAY – Compete against players on other platforms in multi-event championships. Show that you can set the fastest stage times when the pressure is on!\n\n**Repack Features**\n\n- Based on EA Store v2.3.1 release: 95.8 GB\n- Hypervisor Bypass (INTEL & AMD) by DenuvOwO + Anadius emu applied over\n- Many antiviruses, including Windows Defender are now marking HV files as rootkits, rendering games unplayable. To avoid it either turn off AV completely, or add source/target installation folders to exclusions\n- VBS.cmd script v1.5 added\n- Custom launcher added for easier HV steps processing\n- Game version: v2.3.1; 4 DLCs (Hard Chargers Content Pack, Le Maestros Content Pack, Season Expansion Bundle, Locations & Cars Content Pack) are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 95.8 to 63.9 GB)\n- Installation IS SLOW and takes from 1 hour 20 minutes (on 32-threads CPU) up to 3 hours 20 minutes (on 8-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 95.8 GB\n- Language can be changed in “WRC/Binaries/Win64/anadius.cfg” file\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2026/04/14/e5575db876a27f295859473f2649c709.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/63/ee/63eec7b6-bf20-46bf-9930-f3bd84e83380.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/ec/09ec0588-98d3-43de-a9f6-38b0f0e7a97e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/da/dd/dadd7c59-88ba-4af7-b5e9-e4bd5ac51393.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/90/9a/909a6d64-0cba-4562-906d-30f1bf52ccd2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f7/15/f7154fc7-a149-4d3f-8ada-aa288da93cf8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3d/b6/3db66fb4-960d-4216-82f1-d1c979260b66.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ea-sports-wrc",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-09T18:38:22.137504+00:00"
   }
 ]
