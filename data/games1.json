@@ -7020,5 +7020,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T06:13:22.132337+00:00"
+  },
+  {
+    "id": "402e62dc-19eb-5f41-911d-fac141d47972",
+    "title": "Undying Flower",
+    "slug": "undying-flower",
+    "categories": [
+      "Adventure",
+      "Horror",
+      "First-person",
+      "Third-person"
+    ],
+    "size_original": "7.4 GB",
+    "size_repack": "1.8 GB",
+    "description": "Journey into the darkest memories of Nala, looking for a way to erase the trauma and regret through an experimental treatment. The Flower will guide you through to what you may need.\n\n**Repack Features**\n\n- Based on Undying.Flower-TENOKE ISO release: tenoke-undying.flower.iso (7,986,143,232 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 7.4 to 1.8 GB)\n- Installation takes 1-2 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 7.4 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Piece Together the Memories – Two sides to every coin. Two sides to every memory. Journey through shared memories of Nala and her late grandfather, piecing together the truth of what happened between them, the joy, the sorrow, and everything in between.\n- Find Your Answer – How do you fix regret? How much will it take? The pieced-together truth may provide the solution. Or it might push Nala even further into despair, grappling with her guilt. The only way to know is to test.\n- Erase Your Regret – Test. Test. Then test again. Change the variables. Change the answers. Find a way to erase the regret. Eventually.",
+    "cover_url": "https://i3.imageban.ru/out/2025/05/19/c4343f07f26611e5dae66363ebcb80fa.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/29/27/29279eca-2633-4415-8aea-b268810e1a7d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/da/49/da4978ed-810e-4879-bfc0-49b8384dd060.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a6/3f/a63f0747-5cfd-4145-a359-9e3bedd0a791.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/bf/a7bf101a-8a64-4e31-8be1-e8bcb53e9ea9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f2/1c/f21ca365-a3eb-448d-9279-22cd361869f2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/4b/a34bb5b6-facc-45f4-8481-8f1a5c348eea.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3180670/extras/UNDY-steam-gif-05.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-undying-flower",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T06:18:23.727280+00:00"
   }
 ]
