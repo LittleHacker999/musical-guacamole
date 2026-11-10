@@ -4722,5 +4722,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T19:48:22.434231+00:00"
+  },
+  {
+    "id": "7aafd2e5-adc8-53f9-e138-773f2a5961fd",
+    "title": "Sons of the Forest – v48738 + Multiplayer",
+    "slug": "sons-of-the-forest",
+    "categories": [
+      "Action",
+      "Survival",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "12.8 GB",
+    "size_repack": "7.4 GB",
+    "description": "A Survival Horror Simulator\nExperience complete freedom to tackle the world how you want. You decide what you do, where to go and how best to survive. There are no NPC’s barking orders at you or giving you missions you don’t want to do. You give the orders, you choose what happens next.\n\nFight Demons\nEnter a world where nowhere is safe and fight against a range of mutated creatures, some who are almost human like, and others who are like nothing you have ever seen before. Armed with pistols, axes, stun batons and more, protect yourself and those you care for.\n\nBuild and Craft\nFeel every interaction; Break sticks to make fires. Use an axe to cut out windows and floors. Build a small cabin, or a sea-side compound, the choice is yours.\n\nChanging Seasons\nPluck fresh salmon directly from streams in spring and summer. Collect and store meat for the cold winter months. You’re not alone on this island, so as winter rolls in and food and resources become scarce you won’t be the only one looking for a meal.\n\nCo-op Gameplay\nSurvive alone, or with friends. Share items and work together to build defenses. Bring back-up to explore above and below ground.\n\nThis repack IS partially backwards compatible with my previous SotF repack. You can rehash fg-02.bin, fg-03.bin and fg-04.bin to save 1.4 GB of traffic.\n\n**Repack Features**\n\n- Based on Sons.Of.The.Forest-RUNE ISO release: rune-sons.of.the.forest.iso (11,851,825,152 bytes)\n- Sons.Of.The.Forest.Update.v48738-RUNE (1.7 GB) applied over\n- Game version: v48738\n- Alternative crack with multiplayer support via Steam is available in NoDVD folder after installation. Thanks to 0xdeadc0de!\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from cumulative 12.8 to 7.4 GB)\n- Installation takes 2-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 14.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2024/02/23/d871aacc26880b799052d420c9699d24.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/22/16/2216f087-5681-40e0-a311-3ae0ba944536.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/de/5b/de5b62cc-03be-4851-8334-9f282dd617ab.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/06/7a/067a60ae-ac42-49cb-b547-333d5608a7f1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a8/55/a85531b5-2c26-41a7-bf65-c5187fd58904.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6c/6a/6c6ae12d-e53b-4204-b6bb-5245c6e9dcdf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5e/ef/5eef5453-18d3-4bdd-9a43-5e35da32b283.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sons-of-the-forest",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T19:53:21.825363+00:00"
   }
 ]
