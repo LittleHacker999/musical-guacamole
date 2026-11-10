@@ -58,5 +58,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T06:58:22.229339+00:00"
+  },
+  {
+    "id": "0847d9e0-bc8c-5c1e-34b0-604e5212dd38",
+    "title": "Once Upon A Puppet: Backstage Edition, v2.14.4.1 + Supporter Pack DLC",
+    "slug": "once-upon-a-puppet",
+    "categories": [
+      "Arcade",
+      "Platform adventure",
+      "Side",
+      "3D"
+    ],
+    "size_original": "14 GB",
+    "size_repack": "7.9/8.3 GB",
+    "description": "Wear the glove of Nieve, a Stagehand exiled to the Understage, and wield control over Drev’s strings, a Puppet magically bound to her. As they journey to return to the Frontstage above, they will retell forgotten stories, uncover shadowy secrets, and learn their fate is interwoven with the kingdom of theater itself.\n\n**Repack Features**\n\n- Based on Once.Upon.A.Puppet-TENOKE ISO release: tenoke-once.upon.a.puppet.iso (15,017,050,112 bytes)\n- Game version: v2.14.4.1; Supporter Pack DLC is included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in FLAC format nullified, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus content (OST in MP3 format, ArtBook, 3D Printing Model)\n- Significantly smaller archive size (compressed from 14 to 7.9/8.3 GB)\n- Installation takes 2-10 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 14 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Become Puppet and Puppeteer: Pull the strings and master the art of puppetry in this unique approach to action, movement, and creative puzzle-solving.\n- A Troupe of Characters: Meet an ensemble cast of dozens of Major and supporting characters, featuring hundreds of lines of handcrafted dialogue.\n- Deadly Shadows: Face a horde of villainous creatures who will do all they can to snuff out the lights and bring the show to an untimely end.\n- A Meticulously Crafted World: Marvel at the stylized and detailed graphics and 2D cutscenes that reinforce the magic of theater, with stages that fluctuate between past and present.\n- Set The Scene: Arrange and move props, backdrops and characters to rebuild theatrical stages, and re-enact scenes to unveil what befell the once proud World Stage.\n- Enchanting Soundscapes: Be captivated by a rich, theatrical soundtrack and immersive sound effects that bring the world of Once Upon a Puppet to life…\n- Collectibles: Observant players will find a variety of collectible surprises along the way!\n- Digital Artbook: Take a look behind the scenes of the game\n- Digital Soundtrack: The original soundtrack for Once Upon A Puppet\n- 3D printing model: Use the provided file to print your own Drev!\n- Two exclusive Drev skins: Be knightly, be regal\n- Golden Strings skin for Nieve: Pull the strings in style!",
+    "cover_url": "https://i1.imageban.ru/out/2025/05/03/825a3ea6c78221baf45758d30476146e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e7/e5/e7e58f87-88f7-467b-b27e-a0c89d51aad2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/17/2e/172e8284-0918-4522-9183-275245db3855.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/43/43/4343b4b1-8ad9-4b0d-b1be-49de5142aa56.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/31/e3/31e324a7-1f8d-44c9-879c-7488e98928e5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/be/0d/be0dfb2e-9174-4247-a5ed-791264c907e3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d5/23/d5236689-15a9-4745-90d9-e67227e91fb4.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904880/extras/Spool2koptimized.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-once-upon-a-puppet",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T07:03:20.537866+00:00"
   }
 ]
