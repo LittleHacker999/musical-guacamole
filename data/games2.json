@@ -5177,5 +5177,33 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T21:03:22.623519+00:00"
+  },
+  {
+    "id": "b3ddab07-eb8a-59c1-57c0-dd91eca1b0d9",
+    "title": "The Hero We Need – v0.8.0",
+    "slug": "the-hero-we-need",
+    "categories": [
+      "Tower defense",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "6.2 GB",
+    "size_repack": "3.1 GB",
+    "description": "**Repack Features**\n\n- Based on The.Hero.We.Need-TENOKE ISO release: tenoke-the.hero.we.need.iso (6,627,991,552 bytes)\n- Game version: v0.8.0; The game has been released as beta v0.8.0, no changes have been made since March 29, 2023\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 6.2 to 3.1 GB)\n- Installation takes 1-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2024/02/29/1822e210307f0b27f5f9fdf0c3a8802c.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/5d/0d/5d0de0dd-05bd-42d3-97b6-b9d26f188af4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cd/e9/cde9356a-936e-4549-9ee2-cf02bdd0af94.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5c/16/5c16d9b8-b3ed-44a3-9d98-01aa8f61966f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/35/31/3531d19c-0c03-412c-b6f6-ed12d98dba53.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/15/04/1504fe83-c9f4-4105-93be-47fe79baa2b7.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-hero-we-need",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T21:08:22.330056+00:00"
   }
 ]
