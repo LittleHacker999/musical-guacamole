@@ -2848,5 +2848,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T14:28:22.123366+00:00"
+  },
+  {
+    "id": "acdc2f3e-5cde-55e4-82c7-749c27e6091a",
+    "title": "Surreal Farm + Windows 7 Fix",
+    "slug": "surreal-farm",
+    "categories": [
+      "Lifestyle",
+      "Management",
+      "Top view",
+      "3D"
+    ],
+    "size_original": "2.7 GB",
+    "size_repack": "1.4 GB",
+    "description": "As you progress, you’ll unlock a variety of unusual crops, fantastical animals, and magical farm tools that add a touch of the surreal to your farming experience. The key to success in Surreal Farm is not just how efficiently you manage your resources, but also how creatively you design your farm. Every choice you make influences your farm’s growth and productivity.\n\nThe game features a relaxed, casual gameplay style that’s easy to pick up but offers enough depth to keep you engaged as your farm grows. With its charming cartoon graphics, playful animations, and a whimsical soundtrack, Surreal Farm is designed to be a delightful escape into a world where the biggest and most imaginative farm wins.\n\n**Repack Features**\n\n- Based on Surreal.Farm-TENOKE ISO release: tenoke-surreal.farm.iso (2,883,301,376 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.7 to 1.4 GB)\n- Installation takes 2-6 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.5 GB\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- PLANT CROPS\n- FIND UNIQUE ANIMALS\n- HARVEST ANIMALS PRODUCTS\n- Run “KexSetup_x64Rel.exe” from “_Windows 7 Fix” folder and install that extension\n- Open “SurrealFarmBinariesWin64SurrealFarm-Win64-Shipping.exe” file properties in Explorer, then “VxKex” tab\n- Check “Enable VxKex for this program” and “Report a different version of Windows, Windows 10” checkboxes, Apply, OK\n- Run the game as usual",
+    "cover_url": "https://i7.imageban.ru/out/2024/09/30/871bda0e28a96b5779a420365d3b6701.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/52/bc/52bc50b2-6c26-4cd6-bcd8-a8ce84ae1a93.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/76/ef/76eff286-befc-4b9d-a994-4e1a8de80698.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/10/f2/10f26a61-edad-4224-b717-8f6d59861257.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/65/e5/65e5d250-51e2-480f-ac63-cab4eb6e2d0b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/17/06/17062e08-b1bd-440c-bfcd-9c599220592a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4b/fb/4bfbe40f-bd32-46eb-b9fa-9c759a51e0d2.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-surreal-farm",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T14:33:23.908515+00:00"
   }
 ]
