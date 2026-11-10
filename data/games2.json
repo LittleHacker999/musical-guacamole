@@ -5627,5 +5627,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T22:18:22.635414+00:00"
+  },
+  {
+    "id": "f87a8e49-b83f-5266-a18b-f3b90a8e38d5",
+    "title": "Valor & Victory: Complete – v1.08.05 + 5 DLCs",
+    "slug": "valor-and-victory",
+    "categories": [
+      "Strategy",
+      "Wargame",
+      "World War II",
+      "Top-down",
+      "2D",
+      "Turn-based"
+    ],
+    "size_original": "1.8 GB",
+    "size_repack": "742 MB",
+    "description": "Valor & Victory is a fast-playing, easy to learn World War II squad-level game system. Based on the original Valor & Victory board game, the digital edition provides you with an accessible and deep challenge, developed for classic tabletop game lovers.\n\nWith 19 scenarios based around real events shortly after the Normandy Landings in 1944, the game challenges you to achieve different objectives: eliminate the enemy, capture objectives, or exit certain units off the map. And with the new random scenario generator, mission setups and objectives can be endless.\n\nValor & Victory is a complete WWII wargaming system, covering infantry and armored combat, close assaults, armored overruns, fortifications, and much more.\n\nYou will roll the dice to determine the combat results, but your luck is in your hands: wise use of terrain, covers, leaders, hindrance and many more modifiers will greatly improve your chances of success.\n\nYou also have the ability to customise your missions by altering the difficulty level, the number of game turns, or choosing whether Fog of War is on or not.\n\nMULTIPLAYER SUPPORT\nValor & Victory comes with full multiplayer support: challenge your friends in 1v1 multiplayer matches over PBEM and hotseat. If you’re looking to test your skills, sign up for official tournaments and climb the leaderboard as well.\n\nSCENARIO EDITOR\nAn extremely intuitive built-in scenario editor allows you to build and play your own scenarios either against the AI or against your friends. Pick a map, set the objective, choose the factions, place units and defenses where you prefer. Add details and customize your rules: decide the number of turns, the weather conditions, and the starting team. The scenario editor gives you all the tools to create custom, unlimited different challenges. Steam Workshop functionality allows you to share your creations or to upload other players missions they have created.\n\n**Repack Features**\n\n- Based on Valor.And.Victory.Pacific-TENOKE ISO release: tenoke-valor.and.victory.pacific.iso (1,948,807,168 bytes)\n- Game version: v1.08.05; 5 DLCs are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.8 GB to 742 MB)\n- Installation takes 2-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.7 GB\n- Language can be changed in game’s main menu\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Command: Automatically rally your troops, split or merge your squads and exchange weapons. In the command phase, you lay the foundations for a successful turn.\n- Fire: Check your line of sight and firepower and prepare to set the battlefield on fire. If you have any eligible weapon, you can fire smoke instead of attacking and gain extra protection for your units.\n- Move: Move any of your units that did not attack during the previous phase and try not to be taken by surprise: hostile opportunity fire may be just around the corner.\n- Enemy Defense: Be ready to defend your squad. Enemies that did not opportunity fire will have their last chance to harm your units.\n- Advance: Advance any of your units by one hex or conduct a close assault with your infantry forces.\n- 19 scenarios based around real events shortly after the Normandy Landings in 1944\n- PBEM and tournament support\n- A combat system loyal to the original board game\n- Built-in, easy to use scenario editor\n- Random Scenario Generator – endless random battles based on player preferences\n- Choose AI difficulty levels\n- Game turn lengths\n- Fog of War\n- Steam Workshop functionality\n- AFV wrecks\n- Stalingrad\n- Shield of Cholm\n- Arnhem\n- Kursk\n- Pacific",
+    "cover_url": "https://i6.imageban.ru/out/2023/12/25/666227ef18964ae9ebdbd2efae82ce49.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e2/29/e229a928-7a30-4a46-87f9-dcb417dc14bb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3c/04/3c04172d-ccc0-4c49-a4f4-1f9be3bc334e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ab/a9/aba944ab-b854-4c01-91b9-6d842935d522.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ee/7c/ee7ca883-36b8-4daa-85dc-4627e3a87076.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e9/59/e959f0fd-53a3-4afd-9f55-ec9621b08f86.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c5/00/c5001984-96db-4925-91ed-1f52ecb1697a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-valor-and-victory",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T22:23:21.274185+00:00"
   }
 ]
