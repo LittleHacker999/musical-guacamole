@@ -1178,5 +1178,33 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T09:58:23.725955+00:00"
+  },
+  {
+    "id": "99d25666-f093-5a87-b9c8-5bce7254a27c",
+    "title": "Galactic Simulator – v0.2.1",
+    "slug": "galactic-simulator",
+    "categories": [
+      "Incremental game",
+      "3D"
+    ],
+    "size_original": "8.2 GB",
+    "size_repack": "3.4 GB",
+    "description": "Galactic Simulator is a clicker game based on the Fermi Paradox and the Great Filter theory. Players can simulate the evolution of celestial bodies and civilizations in the galaxy from an observer’s perspective.\n\n**Repack Features**\n\n- Based on Galactic.Simulator-TENOKE ISO release: tenoke-galactic.simulator.iso (8,831,643,648 bytes)\n- Game version: v0.2.1\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 8.2 to 3.4 GB)\n- Installation takes 1-3 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 8.2 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Fermi Paradox – As of now (2025), there is no reliable evidence to suggest that extraterrestrials have visited Earth. “Where are they?”\n- Drake equation – N = R* × Fp × Ne × Fl × Fi × Fc × L (N: The number of detectable extraterrestrial civilizations in the galaxy; R*: The rate of formation of stars in the galaxy; Fp: The fraction of those stars with planetary systems; Ne: The number of planets, per solar system, with an environment suitable for organic life; Fl: The fraction of those suitable planets whereon organic life appears; Fi: The fraction of life-bearing planets whereon intelligent life appears; Fc: The probability of a civilization emitting detectable signals; L: The lifespan of a civilization.) The Drake Equation helps us understand the probability of extraterrestrial civilizations existing. Galactic Simulator implements all the components of this formula.\n- The Great Filter – The Great Filter is the idea that, in the development of life from the earliest stages of abiogenesis to reaching the highest levels of development on the Kardashev scale, there is a barrier to development that makes detectable extraterrestrial life exceedingly rare. According to the theory, Galactic Simulator defines the following Great Filters (evolutionary stages): Suitable stellar systems and potentially habitable planets; Organic molecules (e.g., RNA); Prokaryotic cells; Eukaryotic cells; Multicellular Organism; Intelligent Organism; Tribal Stage; Civilizational stage. Civilizations have a probability of failing at various stages of the Great Filter.\n- Civilization Levels (Kardashev Scale) – Once a planet reaches the civilization stage, it begins to develop its level of civilization, measured by the Kardashev Scale.\n- Unique Planets – Each planet has its own unique appearance and is fitted with real-world physical data.\n- Game Controls – If you’re unfamiliar with the above theoretical background, don’t worry—the game isn’t complicated. There are only a few key click actions, and it provides detailed explanations and auto-completion options. Even without any player input, the galaxy will evolve over time on its own. Tips on in-game camera controls: WASD to move, Q/E to rotate, Z/C to zoom.\n- Game Modes – Casual Mode: The success rate of most in-game events and the Great Filter is set to 50%. Realistic Mode: More realistic success rates and data to simulate the real world. Sandbox Mode: No resource use or generation, can advance universe time.\n- More Features – The game supports multiplayer mode. Create a unique galaxy with friends! Supports leaderboards, letting players worldwide see your unique planet. Supports screensaver mode for a stunning display of your galaxy—best experienced in full screen!",
+    "cover_url": "https://i7.imageban.ru/out/2025/02/18/6091b06741023b5e36c014cd57a1e842.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/2e/ed/2eed0595-2090-4b2a-8f12-5a4b39f6e831.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2a/cb/2acb0f94-2d83-4619-bff2-01ec3c6fe525.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ab/b0/abb09e10-5cd3-45d1-a3f1-ea4360a5cf54.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7e/a5/7ea561bb-efef-4633-b3ee-9fe6ed310a78.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/56/86/56866085-f492-4ed1-ad2a-4c7d7ba51692.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cc/9f/cc9f8230-ff60-427f-9624-311d04a5b520.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-galactic-simulator",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T10:03:20.930622+00:00"
   }
 ]
