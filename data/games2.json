@@ -2787,5 +2787,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T14:18:21.825487+00:00"
+  },
+  {
+    "id": "99de7484-de5a-5f2d-b9cd-da074f47c09f",
+    "title": "SpongeBob SquarePants: The Patrick Star Game",
+    "slug": "spongebob-squarepants-the-patrick-star-game",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Third person view",
+      "3D"
+    ],
+    "size_original": "5 GB",
+    "size_repack": "1 GB",
+    "description": "**Repack Features**\n\n- Based on SpongeBob.SquarePants.The.Patrick.Star.Game-TENOKE ISO release: tenoke-spongebob.squarepants.the.patrick.star.game.iso (5,330,192,384 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5 to 1 GB)\n- Installation takes 2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- FUN WITH PHYSICS – Take things and push them somewhere else. Physics! From The Krusty Krab to Glove World, the SpongeBob universe is yours to goof off in. Skydive with just a parasol (or nothing at all), search for buried treasure in the Dump, or release the rage in Mrs. Puff’s Rage Room. Use almost any item you can find, from the reef blower to a can of paint, to change the world into Patrick’s dream playground.\n- ICONIC STYLES – Unlock classic Patrick outfits with your crazy stunts and collectibles. Take on challenges only Patrick would attempt, set up by your best friends like SpongeBob, Sandy Cheeks, Mr. Krabs, and … Plankton. Or do absolutely nothing, for longer than anyone else can possibly manage – it’s your world to be as Patrick as possible.\n- EVERYONE’S HERE – Get silly with SpongeBob, Squidward, Sandy, and more. So step inside one of Bikini Bottom’s most enigmatic minds, forget all the rules, and have the most hilariously unpredictable experience you can imagine!",
+    "cover_url": "https://i4.imageban.ru/out/2024/10/06/2d4d1f8e46ec98b67b1e1cf4434b499d.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/05/a0/05a0e843-7831-48b3-a77f-8925dd8aa8c0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/f3/edf391ae-6d54-4c14-90d0-3808de1ed6c8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/90/3a/903a0f50-f22a-44a1-9666-a17b55e82677.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/52/d5/52d5d7b1-c520-4108-bcb0-022ff2bd3d56.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/08/05/08059126-1b96-4985-b04d-763202f409ae.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7b/d2/7bd2160e-a080-41b6-8afe-c7a7eb7316e1.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-spongebob-squarepants-the-patrick-star-game",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T14:23:22.835205+00:00"
   }
 ]
