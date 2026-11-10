@@ -89,5 +89,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T07:03:20.537866+00:00"
+  },
+  {
+    "id": "791cc015-0680-5a5d-0607-85a9b500077e",
+    "title": "Dolls Nest + Soundtracks, v1.0.1 + Bonus Content",
+    "slug": "dolls-nest",
+    "categories": [
+      "Action",
+      "Third-person",
+      "3D",
+      "Post-apocalypse",
+      "Japanese"
+    ],
+    "size_original": "12.3 GB",
+    "size_repack": "from 6.8 GB",
+    "description": "Dolls Nest is a 3D action game where you control a mecha girl as she explores the gigantic factory world of Hod on her journey to uncover the truth.\n\nHod, the world which you inhabit, is a massive crater crawling with armored units. Broken machines and ruined buildings are strewn across its landscape.\n\nBut fate can be cruel. You must scavenge the land for resources if you wish to survive in this ruined world.\n\nMake use of the parts and items you find on your journey, and overcome the trials that lie before you.\n\n**Repack Features**\n\n- Based on Dolls.Nest-TENOKE ISO release: tenoke-dolls.nest.iso (13,165,115,392 bytes)\n- Game version: v1.0.1; 2 Bonus DLCs (ArtWorks & Original SoundTrack -The Origin of Species-) are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format nullified, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus content (ArtWorks + Bonus OST in MP3 format)\n- Significantly smaller archive size (compressed from 12.3 to 6.8/7 GB)\n- Installation takes 2-6 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 12 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Combat – Dodging and using weapons will consume energy. Be sure to manage your energy well and avoid running out of energy in the middle of a fight.\n- Exploration – Aim to defeat the area boss and discover new unexplored areas. Some events may even trigger along the way.\n- Customization – Frame Units are capable of changing out and customizing parts. Select parts that are best suited for the situation at hand.",
+    "cover_url": "https://i4.imageban.ru/out/2025/05/01/14edec867dfddc01a877b006bbad0468.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/07/a1/07a1603f-bffe-4542-b75f-df5af9154c7a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/36/d8/36d8135e-2d36-4c0f-92e5-f04f59ffdccb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/08/9f08b255-31ec-4c6e-a7b0-b9f937d23952.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/40/b4/40b469eb-a2a6-4042-8b6f-bba214d19215.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/60/cc/60ccc35b-0997-472d-845c-6690ec5b2b08.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7f/77/7f7728dd-b5af-4427-b053-e19e41098914.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dolls-nest",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T07:08:23.828320+00:00"
   }
 ]
