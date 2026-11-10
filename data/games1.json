@@ -6652,5 +6652,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T05:13:21.329239+00:00"
+  },
+  {
+    "id": "3e353187-f32d-518f-f407-4241bd0c9e41",
+    "title": "Through the Nightmares – v1.0.2",
+    "slug": "through-the-nightmares",
+    "categories": [
+      "Action",
+      "Platform adventure",
+      "Side",
+      "2D"
+    ],
+    "size_original": "3.4 GB",
+    "size_repack": "2 GB",
+    "description": "You are Sandman, the spirit said to bring good dreams. To bring the children back to their families, Sandman must descend into the realm of Morpheus – a dream god who twists sleep into prison. Here, every fear ever buried comes alive.\n\nThey’re waiting. But the dream already knows you’re here. And it will stop at nothing to ensure you never leave.\n\n**Repack Features**\n\n- Based on Through.the.Nightmares-RUNE ISO release: rune-through.the.nightmares.iso (3,628,105,728 bytes)\n- Game version: v1.0.2\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.4 to 2 GB)\n- Installation takes 1-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Size-Shifting Platforming. Change your size to squeeze through tight spaces, manipulate traps, and discover hidden shortcuts.\n- Challenges For Everyone. Enjoy ruthless precision platforming with instant respawns and a unique checkpoint system that lets you control where you respawn.\n- Six Unique Locations. Explore dozens of handcrafted levels across three chapters and six different locations based on Nordic folklore, modern-day suburbia, and medieval ruins.\n- Reactive Dreamscapes. Manipulate the environment with Sandman’s abilities to open up new pathways, discover secrets, and solve tricky challenges.\n- Dream Secrets. Collect personal items from each nightmare to learn more about the children’s past, reveal the deeper story, and piece together the truth of what happened to Morpheus.\n- Immersive Visuals and Soundtrack. Nightmare dreamscapes are brought to life with striking low-poly art and a haunting original score.",
+    "cover_url": "https://i7.imageban.ru/out/2025/06/24/682bd45548833b2fd50748edad86becc.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/93/d5/93d5dcd5-6261-4343-a6ac-e40cdfe4842c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/10/3b/103b5cb7-c197-4bc5-9228-2debabe1f132.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/c0/62c06816-a705-4aec-bfec-ce95b7e2264a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/36/ec/36ecf126-0764-4d1a-986d-ab159659f421.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d4/c1/d4c12180-1947-497f-841a-4c07303087c5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b0/2b/b02b3dff-c56d-4bfc-980c-d27897f7e8a0.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1266210/extras/2_resize.png"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-through-the-nightmares",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T05:18:24.036356+00:00"
   }
 ]
