@@ -6042,5 +6042,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T03:33:23.927343+00:00"
+  },
+  {
+    "id": "87edc2a4-4899-510a-d968-ca6d691f9cc1",
+    "title": "6days",
+    "slug": "6days",
+    "categories": [
+      "Exploration",
+      "Fixed camera angles",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "13.2 GB",
+    "size_repack": "2.7 GB",
+    "description": "He was taken to the hospital and woke up safe and sound, but had amnesia. When he wonders if there is any memory he can recall, he recalls an intense childhood memory from 16 years ago.\n\nThe nostalgic atmosphere of the Showa period and the somewhat disturbing atmosphere of his childhood.\n\nMasao tries to relive those memories and find out who he is and recover his precious memories.\n\n**Repack Features**\n\n- Based on 6days-TENOKE ISO release: tenoke-6days.iso (14,154,983,424 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 13.2 GB to 2.7 GB)\n- Installation takes 1-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 13.2 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2025/08/08/239ea3e53252a2b1e49fe427ce359142.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d0/a2/d0a2fcd4-0149-497c-b4e6-a99a5f302a4b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/18/93/18933467-7120-4596-a414-8458ea4d1515.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d7/58/d7586f99-08ba-41c2-8bcb-049e25279428.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ac/95/ac95290d-b91b-46c4-8500-d170818b0909.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/72/4a/724acbad-00e1-4d0b-8dc8-86704357f341.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cf/08/cf085754-d6c5-49bb-97f9-e938fee7092f.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-6days",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T03:38:22.429026+00:00"
   }
 ]
