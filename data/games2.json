@@ -4302,5 +4302,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T18:38:21.028537+00:00"
+  },
+  {
+    "id": "d75daada-b4d2-5dca-a487-f620a4c23335",
+    "title": "Echoes of Despair",
+    "slug": "echoes-of-despair",
+    "categories": [
+      "Adventure",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "5.1 GB",
+    "size_repack": "1.7 GB",
+    "description": "Immersive Horror Experience: Immerse yourself in a captivating horror narrative set in the heart of an abandoned psychiatric hospital. Confront your deepest fears as you traverse dimly lit corridors and discover the terrors lurking in the shadows.\n\nCompelling Plot: Unravel a dark and twisted plot by investigating the disturbing history of the hospital. Discover hidden documents, solve puzzles, and confront supernatural entities standing in the way of the truth.\n\nSurvival Gameplay: Navigate through a series of thrilling experiences, using your wit to outsmart and escape supernatural threats. Limited resources and a menacing atmosphere add extra tension to your struggle for survival.\n\nDetailed Environments: Explore environments that bring the abandoned psychiatric hospital to life. Lighting, sound design, and realistic graphics contribute to an immersive horror experience.\n\nAre you brave enough to face the “Echoes Of Despair”? Live a truly terrifying adventure that will leave you questioning what is real and what is the product of the haunted history within these walls. Enter the hospital now and unveil the darkness resonating through the corridors of despair.\n\n**Repack Features**\n\n- Based on Echoes.Of.Despair-TENOKE ISO release: tenoke-echoes.of.despair.iso (5,510,328,320 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.1 to 1.7 GB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.1 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2024/05/29/66483a9034434d757a1374e43355a4a7.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/5e/f3/5ef3a791-41d1-42c8-9be6-b096cf071f1c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/54/16/5416ebb4-d917-4d7c-8835-0b552a3a28e6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3b/f9/3bf98f6e-b69f-418b-a0cf-b14a2a2241ca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6a/56/6a56d4cf-6d6a-4a31-abf0-01d9a87ddf1a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/25/22/2522424c-9e5b-45c3-bd32-0d3ba5315805.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fa/43/fa43bce8-71e0-462b-8f61-2c040539af35.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-echoes-of-despair",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T18:43:23.232092+00:00"
   }
 ]
