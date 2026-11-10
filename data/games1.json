@@ -5194,5 +5194,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T01:13:22.730577+00:00"
+  },
+  {
+    "id": "80148094-83a7-5e6d-23c7-114dd373ca4b",
+    "title": "Curiosity – v1.0.1",
+    "slug": "curiosity",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "3D"
+    ],
+    "size_original": "7.5 GB",
+    "size_repack": "4.9 GB",
+    "description": "**Repack Features**\n\n- Based on Curiosity-TENOKE ISO release: tenoke-curiosity.iso (8,023,576,576 bytes)\n- Game version: v1.0.1\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 7.5 to 4.9 GB)\n- Installation takes 2-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 7.3 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Run, leap, & claw your way back home.\n- Rest & recover with friendly faces along the way.\n- Maneuver the dangers of the climb to uncover memories of the past.",
+    "cover_url": "https://i7.imageban.ru/out/2025/10/11/66dbde5d8aadda14c3bd7a1c2e6b264e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a9/76/a976bd5e-5217-468f-965f-6bfd4b140bc2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/58/5d587422-f415-467a-84f9-b6d2a2698662.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d9/bb/d9bbb5ad-550f-41f9-9612-49015b1d1439.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/c8/66c8e5de-4cd3-4bd4-aef6-8e61ffb05a81.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d7/bf/d7bf6ae3-5255-42b9-bdf7-a0a2f8cac882.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/29/c1/29c15aa6-2de6-4277-94bf-8e3d136b92a3.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-curiosity",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T01:18:21.731192+00:00"
   }
 ]
