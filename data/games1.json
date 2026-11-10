@@ -6958,5 +6958,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T06:03:22.028211+00:00"
+  },
+  {
+    "id": "73d6b9bb-1950-57a0-3436-a9d71b7b7ac5",
+    "title": "MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED, v1.0.1",
+    "slug": "mobile-suit-gundam-seed-battle-destiny-remastered",
+    "categories": [
+      "Action",
+      "Third-person",
+      "3D",
+      "Mecha"
+    ],
+    "size_original": "7 GB",
+    "size_repack": "4.6 GB",
+    "description": "**Repack Features**\n\n- Based on MOBILE.SUIT.GUNDAM.SEED.BATTLE.DESTINY.REMASTERED-TENOKE ISO release: tenoke-mobile.suit.gundam.seed.battle.destiny.remastered.iso (7,565,891,584 bytes)\n- Game version: v1.0.1\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 7 to 4.6 GB)\n- Installation takes 4-20 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Battle across turbulent times! – Relive legendary moments from Mobile Suit Gundam SEED and Mobile Suit Gundam SEED Destiny with enhanced maps and graphics. Choose your faction from Earth Alliance Forces, ZAFT, or the Archangel, and complete missions alongside familiar pilots and Mobile Suits from the series.\n- Over 100 Mobile Suits! – All Mobile Suits have been redesigned with high-resolution model textures. Unlock more Mobile Suits and missions from the main Mobile Suit Gundam SEED series, and battle into additional side stories from the Mobile Suit Gundam SEED universe.\n- Tune up your suits! – Strengthen your suits and weaponry in the redesigned UI menu. Tune your suits to match your playstyle as you embark on missions and take on stronger opponents!\n- Even more System Enhancements! – The save system has been reworked to make replays easier. Additionally, the difficulty has been adjusted with easier conditions for obtaining Mobile Suits. New lock-on modes and controller settings have also been added for smoother gameplay.",
+    "cover_url": "https://i5.imageban.ru/out/2025/05/26/548b3538d8aefd85a57b4df95cbb5cb9.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/0f/fc/0ffcbf63-26d6-4b04-878b-e17132b49414.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1f/46/1f46704d-a674-40a7-9a11-c0d54bb1470f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e0/d0/e0d00889-a83a-4618-b2ac-533dcec994d4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/08/0908d04e-384e-48a6-a720-29bb970699db.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1b/02/1b02fc24-89da-44f7-9457-720ce6a9efad.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/af/c9/afc9db95-fc32-4272-aa74-061a6f093160.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1857740/extras/%E2%91%A1%E7%99%BB%E5%A0%B4%E6%A9%9F%E4%BD%93%E3%81%AF100%E4%BB%A5%E4%B8%8A.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-mobile-suit-gundam-seed-battle-destiny-remastered",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T06:08:23.227742+00:00"
   }
 ]
