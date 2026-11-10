@@ -5265,5 +5265,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T21:18:22.234079+00:00"
+  },
+  {
+    "id": "5ea0745f-82fa-5ff3-bd45-10b7ffdd5b04",
+    "title": "Plane Mechanic Simulator",
+    "slug": "plane-mechanic-simulator",
+    "categories": [
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "11.9 GB",
+    "size_repack": "2.9 GB",
+    "description": "Supermarine Spitfire Mk.1\nDe Havilland Tiger Moth\nDe Havilland Mosquito\nHawker Hurricane\nBristol Blenheim\nAnd more to come!\n\nPlane Mechanic Simulator offers 81 missions, almost 800 parts to tinker with and an unprecedented attention to detail.\n\nThe game also features a unique campaign where you are assigned to a specific squadron with your own machine and pilot. Make a mistake and he might not return from a mission. Perform well and he will become an ace.\n\n**Repack Features**\n\n- Based on Plane.Mechanic.Simulator-TENOKE ISO release: tenoke-plane.mechanic.simulator.iso (12,756,232,192 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 11.9 to 2.9 GB)\n- Installation takes 1-6 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 11.9 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2024/02/19/aa2990f6fa036041ab3ea7a5b7ddfc72.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/91/e3/91e3b8ef-7a10-4670-bff5-f8720ac4009c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b4/a4/b4a43a75-3e1d-405f-b4f1-9e60a56d3817.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/76/71/76716a30-5b1c-4b0c-aadf-a7e3f38ed346.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/28/d2283028-db3c-4963-bfc4-588bf0fe9026.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/af/edafe29b-23d0-4884-af50-0424b8fc2eca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/0a/a70a608c-f4c7-4ac5-ad15-8c8e91625b3c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-plane-mechanic-simulator",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T21:23:22.228331+00:00"
   }
 ]
