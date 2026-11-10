@@ -4912,5 +4912,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T00:28:23.033736+00:00"
+  },
+  {
+    "id": "4a6b5d9a-9b1d-5fb0-f685-39fe3045326e",
+    "title": "Silly Polly Beast – v0.97",
+    "slug": "silly-polly-beast",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Side",
+      "Top",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "1.8 GB",
+    "size_repack": "1.2 GB",
+    "description": "Perpetually unlucky Polly escapes a nightmarish orphanage… only to find herself trapped in the underworld.\n\nThe city was shrouded in fog. Deadly fog. They say that if you see such a sign, be careful. Your fog bracelet will illuminate the deadly fog red when it’s very close.\n\nYou’ll encounter denizens of the otherworldly realm – not all of which are against you – but none of whom are on your side. No matter how events unfold, never forget the pledge & pact you took that plunged you into this abyss.\n\nPrepare for a unique gameplay experience, blending world exploration with battles from both side and top-down perspectives. Ancient forbidden knowledge will bolster your strength. With each new spell mastered, Polly’s power grows deadlier.\n\nExplore eerie realms, confront haunting figures from Polly’s past, and master forbidden spells in a fight for freedom. Will you escape, or will the demon claim you first?\n\n**Repack Features**\n\n- Based on Silly.Polly.Beast-RUNE ISO release: rune-silly.polly.beast.iso (1,942,945,792 bytes)\n- Game version: v0.97\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.8 to 1.2 GB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- If the game crashes for you with “Protection Error”, edit “Silly Polly Beast_Data\\Plugins\\x86_64\\steam_emu.ini” and add “SelfProtect=0” parameter after the “[Settings]” line",
+    "cover_url": "https://i126.fastpic.org/big/2025/1101/f5/dac0ba893a6d049d322a38da5680eaf5.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/3d/d2/3dd2c87a-d3d3-4e65-87fe-cced5aaee68c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/20/b8/20b8d060-bfe4-47bc-b8cc-c66b71a758bc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/01/7d019fe9-136c-46e6-825a-f5d0f7090371.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6c/4d/6c4dacde-7de1-407d-a5ed-2a184dbcb016.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3a/f1/3af195f5-2edf-4dcf-be06-79865b903cc4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/07/6f074f18-f260-4a6a-90da-880da6d78f79.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-silly-polly-beast",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T00:33:23.729537+00:00"
   }
 ]
