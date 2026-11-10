@@ -3155,5 +3155,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T15:18:23.132311+00:00"
+  },
+  {
+    "id": "f7dc3ad8-a158-5217-46ad-42d70ea199f1",
+    "title": "Thought Experiment Simulator – v1.0.06 + Bonus Soundtrack",
+    "slug": "thought-experiment-simulator",
+    "categories": [
+      "Logic",
+      "Side",
+      "2D"
+    ],
+    "size_original": "1.6 GB",
+    "size_repack": "640 MB",
+    "description": "This game promises to make you think, laugh, and question—often all at once. Perfect for those looking to scratch both the comedic and cerebral itch.\n\n**Repack Features**\n\n- Based on Thought.Experiment.Simulator-TENOKE ISO release: tenoke-thought.experiment.simulator.iso (1,752,594,432 bytes)\n- Game version: v1.0.06; Bonus Soundtrack in MP3 format is included by default\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.6 GB to 640 MB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.6 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Interactive Philosophy: Step into the shoes of history’s greatest thinkers, engaging with dilemmas like the Trolley Problem and Schrödinger’s Cat.\n- Dynamic Gameplay Modes: Choose from Sim Mode for open-ended exploration, Challenge Mode for timed tests, or Story Mode for narrative-driven insights.\n- Stylish Presentation: Experience the conundrums in a simple yet expressive black-and-white art style, highlighting the abstract and absurd nature of philosophical inquiry.\n- Voice Acting with a Twist: Enjoy a dynamic narration that might break the fourth wall, adding character and levity to each philosophical puzzle.\n- Educational Yet Entertaining: Not just for philosophy buffs; it’s an accessible way to ponder life’s big questions while having a laugh.",
+    "cover_url": "https://i2.imageban.ru/out/2024/09/02/eebd39b443974e69f89702d60cb1df88.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/11/a7/11a7c5f3-2eb4-450f-825e-8e2b5b3412c8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/64/a9/64a99018-96ba-409b-9573-48e8c7aca03f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/42/4d/424df2ad-e134-47ef-93ef-c4ca30c23c14.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c2/bc/c2bc59f0-1ce0-48a0-8c53-cd605e2ac398.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/48/26/4826dd45-9339-4711-98d4-bd0dd3e8b12e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/11/31/1131e84e-daf1-4a12-a1c6-6e0a16cadb0e.jpg.240p.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2696320/extras/TrolleyDrift.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-thought-experiment-simulator",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T15:23:22.526026+00:00"
   }
 ]
