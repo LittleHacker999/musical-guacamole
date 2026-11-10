@@ -5385,5 +5385,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T21:38:23.136553+00:00"
+  },
+  {
+    "id": "fb8a71df-43d4-5f26-40f0-042693aa4abd",
+    "title": "Interstellar Space: Genesis – v1.6.2 + 3 DLCs + Bonus OST",
+    "slug": "interstellar-space-genesis",
+    "categories": [
+      "Strategy",
+      "4X",
+      "Turn-based"
+    ],
+    "size_original": "3.6 GB",
+    "size_repack": "1.8/2 GB",
+    "description": "Interstellar Space: Genesis takes classic turn-based space 4X strategy mechanics, adds in a few twists of its own, and tosses them in with several brand new mechanics to create a truly unique entry into the genre. It also aims to provide a lack of burdensome micromanagement and an emphasis on the best aspects of classic 4X space strategy games.\n\nThis repack IS slightly backwards compatible with my previous IGS repack. You can rehash fg-optional-bonus-ost.bin and save 211 MB of traffic.\n\n**Repack Features**\n\n- Based on Interstellar.Space.Genesis.Terrains.Pack-SKIDROW ISO release: sr-interstellarspacegenesisterrainspack.iso (3,582,906,368 bytes)\n- Game version: v1.6.2; Natural Law, Evolving Empires & Terrains Pack Expansion Packs/DLCs are included and activated\n- Missing bonus OST in MP3 format (261 MB) added\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus soundtrack in MP3 format\n- Significantly smaller archive size (compressed from cumulative 3.6 to 1.8/2 GB)\n- Installation takes 2-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 6.6 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Construct your galaxy\n- Play as one of six distinct races, each with their own abilities, advantages, and backgrounds\n- Design custom races with their own ideal worlds, racial traits, and unique game-changing abilities\n- Craft your own experience and set your own pace using customized difficulty settings, per empire sliders, victory conditions, and galaxy size settings\n- Navigate through randomized tech and culture trees or follow the galaxy’s natural order",
+    "cover_url": "https://i4.imageban.ru/out/2022/05/27/8be91c52cd91f40ba351bdaf417760a5.jpg",
+    "screenshots": [
+      "https://s01.riotpixels.net/data/78/8b/788b5662-4e84-404e-aeee-865c42b435ab.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/c2/55/c2552206-2d35-41c3-ac2d-8c033989dc0d.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/4d/20/4d209856-7f51-4cd9-8843-ffdbc6d6cad2.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/78/4d/784de717-9b96-4c5b-b1a4-9f168de46f57.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/cc/06/cc06ee96-b00e-47bc-a081-a2b3115e6a54.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/45/44/45449f3c-9047-4a5b-be80-d862552aa827.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-interstellar-space-genesis",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T21:43:22.527170+00:00"
   }
 ]
