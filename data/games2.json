@@ -1727,5 +1727,33 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T11:33:22.027262+00:00"
+  },
+  {
+    "id": "f6f4b17a-460d-5412-5c8a-51acf3258ca7",
+    "title": "South Park: Snow Day! – v1.0.7/Build 10513 CL#188694 + 14 DLCs + Windows 7 Fix",
+    "slug": "south-park-snow-day",
+    "categories": [
+      "Action",
+      "3D"
+    ],
+    "size_original": "27.3 GB",
+    "size_repack": "from 16.5 GB",
+    "description": "From South Park Digital Studios, the studio that brought you South Park: The Stick of Truth, South Park: The Fractured but Whole, and South Park: Phone Destroyer comes the next chapter in the journey of the New Kid.\n\nJoin Cartman, Stan, Kyle, and Kenny, in three-dimensional glory, to celebrate the most magical day in any young child’s life – a snow day! A massive blizzard has thrown the town into chaos and, more importantly, canceled school.\n\nPlay with up to three friends, use matchmaking, or solo the game with ally bots and battle through the snow-piled town of South Park. Engage in frenetic, action-packed combat against warring factions in an all-new story where you make the rules. Equip unique weapons and deploy devastating, upgradable special abilities on a new adventure to save the world and enjoy a day without school.\n\n**Repack Features**\n\n- Based on SOUTH.PARK.SNOW.DAY.v1.0.7-I_KnoW ISO release: ik-spsd7.iso (29,316,317,184 bytes)\n- Game version: v1.0.7/Build 10513 CL#188694; 14 DLCs are included and activated\n- Copy contents of “_Windows 7 Fix” folder to the game root to be able to play on Windows 7\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of non-English voiceovers and useless PDB debugging files\n- Significantly smaller archive size (compressed from 27.3 to 16.5~17.1 GB, depending on selected components)\n- Installation takes 3-20 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 28.3 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Battle your way through the snow-covered town of South Park in this all-new 3D co-op game.\n- A blizzard of epic proportions has blanketed the town of South Park and it’s up to Cartman, Stan, Kenny, Kyle, and you, as the New Kid, to save the town from an endless winter.\n- Experience cooperative gameplay for the first time ever in a South Park game with up to three friends or ally bots – unleashing powerful, coordinated attacks on your foes.\n- Equip and upgrade devastating melee and ranged weapons. Deploy special abilities and powers that will bring hordes of enemies and epic bosses to their knees.\n- Use a wide range of iconic cosmetics and customize your New Kid with endless possible combinations from beanies to Cheesy Poof T-shirts to chin balls.\n- Nonconformist Weapon Variation Pack\n- To Danse with the Veiled Horde\n- Bear-serker Pack\n- Bigger, Longer & Uncut Anniversary Pack\n- Underpants Gnome Cosmetics Pack\n- 420 Pack\n- CRED Pack\n- To Danse with Ravenous Shadows\n- Snowball\n- Asspen Pack\n- Chaos Pack\n- Hammer\n- Good Times with Weapons/Weapon Variation Pack\n- Nichole’s Home Brew",
+    "cover_url": "https://i1.imageban.ru/out/2024/03/27/cf92be763e4dfb0f864e74c38c7aa8d0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/48/97/489720b6-ce90-4680-b039-880ae646ff2b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/7c/8e7c426c-f198-48f8-944c-37168b175d4b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a5/43/a543ae7e-d37b-4e16-8b3d-e2ff1bb2b3ac.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/b1/bcb16236-c3d8-4fa9-bf53-14a5e4015b44.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/08/f6/08f6415e-0618-4e65-8296-a8bad2ac5056.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/f3/fcf3a86c-a253-4e9f-a87a-4f8af8ff9ac7.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-south-park-snow-day",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T11:38:22.530101+00:00"
   }
 ]
