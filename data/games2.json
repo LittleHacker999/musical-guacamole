@@ -2056,5 +2056,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T12:18:22.930343+00:00"
+  },
+  {
+    "id": "ec0cc58f-f62c-5ad4-5307-75a0386c31d4",
+    "title": "Roboquest: Digital Deluxe Edition – v1.5.0-280 (Endless Update) + Bonus Content + Windows 7 Fix",
+    "slug": "roboquest",
+    "categories": [
+      "Action",
+      "Shooter",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "7.2 GB",
+    "size_repack": "from 2.6 GB",
+    "description": "Shoot and run your way through randomly generated environments, pick-up upgrades along the way and blast the powerful big bad bosses you encounter.\n\nUpgrade your basecamp and unlock persistent upgrades to customize your playstyle and dive further on each subsequent run.\n\nThe year is 2700. Humans live scattered through the desert, struggling to survive. It’s looking pretty bleak.\n\nUntil a young scavenger girl named Max stumbles across an old Guardian robot, laying abandoned in the sand. She reactivates him, knowing that with a Guardian by her side, she may be able to give mankind a fighting chance…\n\nTogether, the two begin to explore the mysterious canyons that surround them, searching for answers and a way to survive.\n\nThere’s just one problem. The canyons are crawling with evil bots, determined to stop them from advancing. But who are they? And what are they guarding?\n\n**Repack Features**\n\n- Based on Roboquest.Endless-TENOKE ISO release: tenoke-roboquest.endless.iso (7,749,175,296 bytes)\n- Game version: v1.5.0-280 (Endless Update)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format nullified, NOTHING re-encoded\n- Selective Download: you may skip downloading and installing of 4K game videos and bonus content (soundtrack in MP3 format + artbook)\n- Significantly smaller archive size (compressed from 7.2 to 2.6~3.6 GB, depending on selected components)\n- Installation takes 2-6 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 7.1 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Copy contents of “_Windows 7 Fix” folder to the game root to be able to play on Windows 7\n- Fast Movement: Master the frantic movement mechanics in order to run and jump through the levels with evasive maneuvers against the enemy bullet-hell.\n- Guardian Classes: Choose from several classes: lead your army of drones, blast tons of enemies at once with a powerful rocket or stealth-in for a sudden burst attack.\n- Build Customization: Create your build along the way with unique sets of upgrades for each class, find powerful synergies and further personalize your playstyle.\n- Weapon Diversity: From regular shotguns, rifles and snipers to the almighty mortar and flare gun, Roboquest offers a large diversity of weapons to choose from.\n- Random Levels: Each with a different theme and atmosphere, generated with a careful mix of pre-placed and randomized chunks, the levels offer a fresh challenge each run.\n- Run, fall, run again: Tough challenges await you, and mastery is required. Learn the way of the enemy and master movement and shooting to prevail. Prepare to return to your basecamp if you are destroyed by the evil bots.\n- Persistent Upgrades: Collect wrenches during your runs and use them to upgrade your basecamp and unlock new gameplay elements and choices to help you dive further into the game each run.\n- Singleplayer or 2p-Coop: Dive into the fray alone or in 2-player co-op with your brobot (and find even more brobots with the cross-platform and the public matchmaking).\n- Polished experience: Responsive input system with many quality-of-life ‘under-the-radar’ features to make it as fluid as possible and make sure nothing comes in your way when unleashing havoc on the badbots.\n- Original Soundtrack: High octane, custom-tailored soundtrack supports the fast gameplay and robot-smashing action.",
+    "cover_url": "https://i6.imageban.ru/out/2023/11/14/f0ce068501dee3b103bb3612762b19f1.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/4c/8a/4c8a94b6-8eee-421f-805d-8b00d340f7bd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/25/9725f97a-2f2c-4543-a66c-be45cf553acf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/92/df/92dfc298-c3df-4429-a3bb-b8e9e10cf649.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/15/00/15002175-fda2-4bdf-a2e2-6a663c48bbe0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1b/37/1b37d420-5389-4bf5-be39-dae67db4dcd2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2b/43/2b43a737-ea50-409a-8de6-7196610821ff.jpg.240p.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/692890/extras/GIF_Act1.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-roboquest",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T12:23:21.726463+00:00"
   }
 ]
