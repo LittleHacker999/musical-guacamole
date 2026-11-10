@@ -6837,5 +6837,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T05:43:21.027720+00:00"
+  },
+  {
+    "id": "bc63f063-b5e6-5cc8-9db5-a11b28e56d07",
+    "title": "Pro Cycling Manager 25 – v1.1.2.415",
+    "slug": "pro-cycling-manager-25",
+    "categories": [
+      "Management",
+      "Sports",
+      "3D",
+      "Bicycles"
+    ],
+    "size_original": "26.7 GB",
+    "size_repack": "15.1/15.3 GB",
+    "description": "EVEN MORE REALISTIC GRAPHICS – Pro Cycling Manager 25 enters in a new era! With a switch to Unreal Engine 5, the game now benefits from a much more realistic representation of cycling and even higher graphics quality, for an even more immersive experience. Rediscover the roads of the Tour de France, the Vuelta, the Classics and the Monuments in a whole new light. With completely reworked landscapes and more realistic lighting effects, the Pro Cycling Manager experience has never been so close to reality. In addition to these elements, the representation of rain has been improved with ground puddles and reflections, promising a whole new experience under the weather during your sessions in Paris-Roubaix, Liège Bastogne Liège and many other races.\n\nCHOOSE YOUR SPONSORS AS YOU WISH – In Pro Cycling Manager 25, the choice of sponsors is crucial to your team’s success. In addition to the budgetary advantage, sponsors now have their own additional parameters and conditions to meet if you want them to agree to finance your cycling team. There are now membership conditions depending on the sponsor’s territory/nationality, a certain percentage of young people in the team, results requirements, or even an exclusivity condition if they want to be the sole title sponsor. It’s up to you to think about the best conditions and adapt to the requirements of the sponsors who come to you to create the best possible cycling team.\n\nA NEW WAY OF DISCOVERING AND SIGNING UP SPONSORS – You’re in constant contact with sponsors, and you need to make the best choices for your team’s future. In Pro Cycling Manager 25, as your season progresses, your network of contacts expands and sponsors will come your way. If you’re actively looking for sponsors, those discovered during the season will be able to contact you and express an interest in your team. The sponsors discovered are now initialized at the start of your game, according to the team and level you’ve chosen for your structure. It’s up to you to decide whether to sign up directly or to wait for new opportunities, with the risk that the sponsor may lose interest in you later. In addition to this mechanism, sponsors interested in your team are now individual. So you can now sign up sponsors individually and ensure that your structure has 1 to 3 title sponsors. Depending on the sponsors’ wishes and your own, you can choose the number of partners present in your team’s name during your seasons.\n\nMORE ADVANCED GAME OPTIONS – Make every game in Pro Cycling Manager 25 unique! Options are now decentralized and specific to each game. You can customize both new difficulty options (financial, level of opponents in the race, sponsor objectives, etc.) and choose game preferences (speed of characteristic evolution, AI sponsor renewal, recovery system and much more). Every game in Pro Cycling Manager is different, and in these, the player becomes master of his or her own game environment.\n\n**Repack Features**\n\n- Based on Pro.Cycling.Manager.25-SKIDROW ISO release: sr-procyclingmanager25.iso (28,699,838,464 bytes)\n- Game version: v1.1.2.415\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of useless PDB debugging files\n- Significantly smaller archive size (compressed from 26.7 to 15.1/15.3 GB)\n- Installation takes 12-60 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 28.3 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- More customized frames and helmets in the colors of the biggest teams.\n- Implementation of the option to rename your backups.\n- Addition of a new team sponsorship summary page.\n- Integration of objectives linked to sponsor membership requests.\n- Added accessibility options.\n- AI with more realistic behavior including better skimming, improved sprint phases, versatile sprinters and teams that better target hilly stages.\n- Promotions and relegations are now based on the team rankings at the end of each season.",
+    "cover_url": "https://i3.imageban.ru/out/2025/06/07/3e6ff1bb4c0c259d6272ab4440163ff4.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f1/ff/f1ff6d43-2ca2-4996-8dc5-8b9506894f27.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fa/f9/faf9dc17-d92b-4ae8-8ef0-14caba082d51.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/5d/665d3736-f5a4-4aa4-9214-1f3a61776720.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/67/c8/67c83410-d31d-435b-a8fe-d98a41c7dd18.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/46/d246209f-204f-4940-9d38-197c35a5d40f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9a/42/9a423bed-4aa0-4c0d-ab0a-9be153676a72.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2511310/extras/PCM25_GIF_01.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-pro-cycling-manager-25",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T05:48:21.824828+00:00"
   }
 ]
