@@ -245,5 +245,38 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T07:28:22.935667+00:00"
+  },
+  {
+    "id": "7619abff-63e5-5f51-3d6b-f6b7a3894d59",
+    "title": "Short Snow",
+    "slug": "short-snow",
+    "categories": [
+      "Action",
+      "Item crafting",
+      "Open world",
+      "Survival",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "21.1 GB",
+    "size_repack": "6.8 GB",
+    "description": "Brave the harsh wilderness and explore the vast, snowy forest. Discover hidden secrets, gather essential resources, and uncover the mysteries of the frozen landscape. Every step in the snow, every rustle in the trees, brings you closer to mastering the unforgiving environment.\n\nIt is up to you how you want to play. Choose your adventure with two distinct game modes.\n\nStory Mode: Discover who you are and learn about the past as you fight to survive. Find your friends and make your way back home while facing various challenges along the way.\n\nSurvival Mode: Dive into a sandbox of limitless possibilities. With abundant resources and an expanded array of crafting options at your disposal, you are free to shape your own destiny. Build, explore, and conquer the world around you on your terms. Whether you seek to create a thriving settlement or challenge the wild in solitary resilience, your journey is yours to define. Adventure awaits at every turn in this open-ended survival experience.\n\n**Repack Features**\n\n- Based on Short.Snow-TENOKE ISO release: tenoke-short.snow.iso (22,614,071,296 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 21.1 to 6.8 GB)\n- Installation takes 1-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 21.1 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Authentic Winter Survival: Manage hunger, thirst, and hypothermia as you navigate the unforgiving wilderness.\n- Craft Your Escape: Gather resources, build shelters, and craft tools to fight for survival.\n- Face the Wild: Encounter dangerous predators and learn to outsmart or outfight them.\n- Unravel the Mystery: Explore the wreckage and uncover the secrets behind the crash.\n- Will you succumb to the elements, or will you conquer the frozen wilderness? The choice is yours.",
+    "cover_url": "https://i7.imageban.ru/out/2025/04/22/e662d646f1e4b01b888236b7376c21df.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a9/f2/a9f217e4-a15e-4dd1-8065-171108679bb0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/a9/99a928a8-a2f8-491d-beda-ba3bb63cfba1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2d/7d/2d7d0c14-af2f-4284-9ef2-1a019cec773f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/42/19/42190c00-537b-44bc-8eb1-4d99a5ee3425.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/77/f7/77f7eb28-ac8f-461e-9694-bd57538af9c8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/1d/621dd1d8-0e8a-4085-b62c-93f1b3875acc.jpg.240p.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3054440/extras/survivalscenes.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-short-snow",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T07:33:21.824350+00:00"
   }
 ]
