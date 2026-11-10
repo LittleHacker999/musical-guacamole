@@ -7081,5 +7081,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T06:23:22.125863+00:00"
+  },
+  {
+    "id": "f5d470aa-7f04-54f1-c8b6-fb1d7f3111f3",
+    "title": "Chill Town – v1.0.0 Build 63",
+    "slug": "chill-town",
+    "categories": [
+      "Lifestyle",
+      "Item crafting",
+      "Open world",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "10.1 GB",
+    "size_repack": "1.9 GB",
+    "description": "**Repack Features**\n\n- Based on Chill.Town-TENOKE ISO release: tenoke-chill.town.iso (10,856,331,264 bytes)\n- Game version: v1.0.0 Build 63\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 10.1 to 1.9 GB)\n- Installation takes 3-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 10.1 GB (11.3 GB during installation)\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Chill Atmosphere & Music – Immerse yourself in beautiful rooms and outdoor environments, creating a chilled atmosphere enhanced by dynamic weather and a day-night cycle. Enjoy a diverse collection of lo-fi, acoustic, and other genres of music to enhance your relaxation, focus, or simply set the mood.\n- Taming Creatures – Taming and nurturing adorable Pals.\n- Variety of Activities – Engage in a variety of in-game activities such as fishing, cooking, insect catching…\n- Build & Decorate – Build and develop your own house, farm, and town, adding a personal touch to your virtual world. Unleash your creativity by decorating both the interior and exterior of your house, making it a unique and inviting space.\n- Personalize Your Character – Customize and personalize your character to reflect your own style and preferences.\n- Furry Buddy – Take care of a lovable pet, forming a special bond and ensuring its well-being.\n- Optimize Your Experience – Idle experience with auto function in the game allows you to leave your device running while your character automatically fishes without the need for any manual input or simply enjoyed as a soothing background while carrying out real-life activities. Create and customize your favorite music playlist, curating a collection of songs that perfectly accompany your Chill Town experience.\n- Accessibility – Full controller support. The game also offers a wide range of detailed settings to enhance and optimize your chill gaming experience according to your preferences!",
+    "cover_url": "https://i6.imageban.ru/out/2025/05/16/fca419fbfc57a66a3f9b032393f15ba8.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a3/44/a344ad9b-53c6-4253-b062-b5e3f3d28d57.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f7/a0/f7a0530a-833a-4e8d-b9d0-f75fa8e1059a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/75/0d/750d44d2-2222-4769-ac05-9443d8042250.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/99/a2993048-9d8b-4820-b074-b3fe9af79ffe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d4/33/d4332139-3f79-4493-8e09-db52c68f190e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dc/e9/dce9cc4e-3394-4a27-a22d-2c4b141d9e5d.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1940200/extras/deco.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-chill-town",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T06:28:22.939363+00:00"
   }
 ]
