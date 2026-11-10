@@ -5616,5 +5616,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T02:23:21.125893+00:00"
+  },
+  {
+    "id": "56977b9f-e147-5fcd-5567-fc5547985b48",
+    "title": "Star Fire: Eternal Cycle – v1.25.271",
+    "slug": "star-fire-eternal-cycle",
+    "categories": [
+      "Action",
+      "Side",
+      "3D"
+    ],
+    "size_original": "2.5 GB",
+    "size_repack": "1.1 GB",
+    "description": "**Repack Features**\n\n- Based on Star.Fire.Eternal.Cycle-TiNYiSO ISO release: tn-starfireeternalcycle.iso (2,692,524,032 bytes)\n- Game version: v1.25.271\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.5 GB to 1.1 GB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Fluid, Skill-based Combat – Dodge, dash, and unleash combos with satisfying precision. The core controls are simple, but leave plenty of room to master your moves. Every move feels good – because every hit counts.\n- Roguelite Replayability – Every stage, every loadout, every enemy lineup is different. With randomized skills and branching paths, no two runs play the same – keeping things fresh, surprising, and addictive.\n- Elemental Mayhem & Build Variety – With eight elemental types, multiple primary and secondary weapons, and a wide range of hero abilities, each run gives you the freedom to try something new. Customize your gear, mix elements, and develop a combat style that feels right for you.\n- Surprises Around Every Corner – Secret rooms. Random events. Weird mini-challenges. There’s always something unexpected waiting – and often, it pays off big.\n- Unlock More with Every Run – Collect resources from each playthrough to unlock badass new skins, powerful weapons, and permanent upgrades that crank up the chaos every time you play.",
+    "cover_url": "https://i2.imageban.ru/out/2025/09/10/153bef73cfda02269aa8370b14b48182.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/21/73/2173e797-365a-42c9-a673-d8a271215e8b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4f/8d/4f8d2258-9f55-4d84-b24a-e15f28625163.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/2e/6f2ed3da-51d0-45e2-baf7-6b31de56bade.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/38/75/38754801-a50d-40d2-a3e9-5cc7f4e51b6e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/5e/e35eb0a7-dd55-46af-920d-9bbc1350d262.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f6/bc/f6bcfc5f-8ff2-4262-b05d-9c9d09e8b231.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-star-fire-eternal-cycle",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T02:28:22.227008+00:00"
   }
 ]
