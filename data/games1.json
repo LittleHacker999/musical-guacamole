@@ -6507,5 +6507,27 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T04:48:20.822380+00:00"
+  },
+  {
+    "id": "aa4650eb-5bba-5d5d-549a-bbe5a470c07e",
+    "title": "Endless Ocean Luminous – v1.0.1 + 4 Switch Emulators",
+    "slug": "endless-ocean-luminous",
+    "categories": [
+      "Exploration",
+      "Third person view",
+      "3D"
+    ],
+    "size_original": "5.8 GB",
+    "size_repack": "from 1.7 GB",
+    "description": "You will dive deep into the endless waters in search of previously unseen species of fauna. Each new dive promises unique discoveries, because the underwater landscape here is never repeated.\n\nYou can explore this world alone or with friends – up to 30 players at a time. Team expeditions will allow you to cover a much larger territory and increase the chances of finding something truly unique.\n\nEncounter over 500 species of marine life, some thought to be mythical or extinct.\n\n**Repack Features**\n\n- Based on Endless_Ocean_Luminous_NSW-HR scene release: 5.3 GB\n- Endless_Ocean_Luminous_Update_v1.0.1_NSW-SUXXORS (38 MB) applied over\n- Game version: v1.0.1\n- Ryujinx (v1.3.2, June 10, 2025, 32 MB), Citron (v0.6.1, March 17, 2025, 31 MB), Sudachi (v1.0.15, March 25, 2025, 22 MB) and Torzu (Initial Build, November 19, 2024, 85 MB) Switch emulators are included and preconfigured\n- Switch Firmware v19.0.1 (322 MB) added\n- Use the included custom launcher to test all four emus and use the one which performs better on your system\n- 100% Lossless, but NOT MD5 Perfect: encryption was removed for better repack size\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of optional voiceovers. English ones are included by default\n- Smaller archive size (compressed from cumulative 5.8 to 1.7~3.5 GB, depending on selected components)\n- Installation takes 1-5 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6.1 GB\n- Language can be changed in emulator’s settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Repack uses compression library by Razor12911",
+    "cover_url": "https://i3.imageban.ru/out/2025/06/17/9803e04e9af47d2a7367c7b197568cf2.jpg",
+    "screenshots": [],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-endless-ocean-luminous",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T04:53:22.925308+00:00"
   }
 ]
