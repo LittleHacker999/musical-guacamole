@@ -3557,5 +3557,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T16:28:24.931702+00:00"
+  },
+  {
+    "id": "78303602-0d11-5f93-3f58-f2e13b554d76",
+    "title": "PATHOGEN X – v1.0.0.6 + Windows 7 Fix",
+    "slug": "pathogen-x",
+    "categories": [
+      "Action",
+      "Shooter",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "13.9 GB",
+    "size_repack": "9.6 GB",
+    "description": "Biological Threat: you will encounter various terrifying mutations caused by Pathogen X, and must fight for survival in a literally murderous environment where attacking mutants pose a constant threat to you.\n\nCooperation and guidance: During the mission, you will be assisted by Special Agent Maya Ackerman, who will be in touch with you via satellite channel to bring you up to speed and assist you in solving complex problems.\n\nHorror atmosphere: the enveloping atmosphere and scenery emphasize the terrifying environment of the underground laboratory, where every step can be your last.\n\nWeapons: Find and utilize all the weapons that the underground laboratory complex has to offer in your battle against the terrifying mutants.\n\nDeadly and terrible enemies: in the game you will meet different types of enemies with unique features and abilities, from the simplest and stupid, to insanely strong and smart. Find the right approach to defeat them all.\n\nBreathtaking graphics: The game offers stunning graphics that will immerse you in the gloomy world of the underground laboratory with amazing detail and realism.\n\nSimple quest puzzles: to get through the complexities of the lab, you will have to act intuitively, shoot the lock? Or break the boards to open the passage? All this will add depth to the gameplay and increase the atmosphere of mystery.\n\nSeveral endings and additional modes: “Pathogen X” offers several endings, your behavior and decisions affect which of them you will have, but it will not affect the final result. After passing, additional modes and quests will become available, expanding the game experience.\n\nMusic: in “Pathogen X” is dynamic and specifically designed for firefights. Energetic melodies raise the tension during intense battles and passing. The sounds of weapons and enemies merge with the music to create an exciting atmospheric soundtrack that emphasizes the game’s dynamism and action.\n\n**Repack Features**\n\n- Based on PATHOGEN.X-TENOKE ISO release: tenoke-pathogen.x.iso (14,923,307,008 bytes)\n- Game version: v1.0.0.6\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 13.9 to 9.6 GB)\n- Installation takes from 10 minutes (on 24-threads CPU) up to 1 hour (on 4-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 13.8 GB\n- Language can be changed in game settings\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Copy contents of “_Windows 7 Fix” folder to the game root to be able to play on Windows 7",
+    "cover_url": "https://i2.imageban.ru/out/2024/07/25/0c7b5715b5ff8ff46288071b84c73bfa.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b0/0d/b00d4694-d51d-43e5-8959-5998225b8042.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6c/b2/6cb269a4-8533-414c-9e82-83697a6406e3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/d9/bad917ae-f7e8-4da6-98f4-a62e3f98a1bf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2b/dc/2bdc5f57-561b-4c10-af34-1e8c0d90a476.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/20/4f/204f25a7-de77-416e-8054-51f79272c8bc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9e/84/9e84781c-72c4-42f8-a48a-5b56e977cb4a.jpg.240p.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2508980/extras/fight_gif.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-pathogen-x",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T16:33:20.327467+00:00"
   }
 ]
