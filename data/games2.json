@@ -6050,5 +6050,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T23:28:22.124554+00:00"
+  },
+  {
+    "id": "9cc891cf-5656-5d53-cffe-c52e394f52ab",
+    "title": "Godzilla Voxel Wars – v1.0.0-W52",
+    "slug": "godzilla-voxel-wars",
+    "categories": [
+      "Strategy",
+      "Tactics",
+      "Turn-based",
+      "Isometric",
+      "3D"
+    ],
+    "size_original": "3 GB",
+    "size_repack": "767 MB",
+    "description": "Control Toho monsters as you save the world by repelling the invasion of the Fungoid mushroom menace! Progress through the stages to discover the truth behind these monster mushrooms!\n\n**Repack Features**\n\n- Based on Godzilla.Voxel.Wars-TENOKE ISO release: tenoke-godzilla.voxel.wars.iso (3,258,587,136 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Unused game files are included by default, but you can skip installing them to save 1.2 GB of space\n- Significantly smaller archive size (compressed from 3 GB to 767 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 3 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Defeat the Fungoids! Control Toho monsters and battle against the Fungoids as they launch a global invasion! Combat foes through turn-based mechanics! The fewer turns you take to clear a stage, the more points you’ll earn!\n- Find the optimal strategy for each stage! Each of the six worlds includes multiple stages for you to take on. On each stage, you’ll have to grapple with different monsters and try different approaches as you strive for victory. Repeat stages and aim to earn more points!\n- Additional challenges! There are two sides to this world: the surface and what lies beneath. Once you’ve cleared the surface, put your skills to the test by attempting the more difficult underside. You can also build your own stages and share them for other players to try. Your ranking will increase as more players attempt stages you’ve created, so make a stage with your favorite monsters and share it with the world!\n- An entirely original story! Why have the Fungoids come to invade our world? Why is Godzilla fighting on our side? Find the Investigation Reports scattered across various stages to unravel the mysteries behind this crisis.",
+    "cover_url": "https://i1.imageban.ru/out/2023/11/06/50d9ba516437a1215c54746a88398914.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/be/83/be834105-2039-4334-83ce-61ec750685ee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/cd/aacd6b36-866c-4b6a-ac50-9ae83b10fbf0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/75/21/752132f1-72eb-4383-add2-c78af19993cc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/35/a1/35a176df-0a66-41d7-b807-55d3c069bc66.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/51/c0/51c0da87-be29-41cb-a69d-21b02e735624.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a5/b6/a5b627cd-ffd6-4612-8ba4-83f7bf0ad82d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-godzilla-voxel-wars",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T23:33:23.227930+00:00"
   }
 ]
