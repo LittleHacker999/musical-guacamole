@@ -2486,5 +2486,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T13:28:23.335269+00:00"
+  },
+  {
+    "id": "a9da3dbb-dbca-55f3-6aa1-9b99bd1b6039",
+    "title": "Farewell North – v1.1.2",
+    "slug": "farewell-north",
+    "categories": [
+      "Adventure",
+      "Third person view",
+      "3D"
+    ],
+    "size_original": "1.9 GB",
+    "size_repack": "993 MB",
+    "description": "**Repack Features**\n\n- Based on GOG build v1.1.2: 1.9 GB\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.9 GB to 993 MB)\n- Installation takes 2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.3 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Restore Color to the World – In Farewell North you take on the unique role of a border collie restoring color to your human’s world. Explore the hand-crafted, atmospheric islands inspired by the Scottish highlands and embark on a journey of companionship, trust and loss.\n- A Spark of Life – Whether it’s herding flocks of sheep, highland coos, chickens or other animals, playing an impromptu game of fetch, helping the local farmers with their livestock, reuniting a trapped whale with its pod, finding lost ducklings, and much more, you’re always finding ways to bring sparks of happiness to your human.\n- Discover Hidden Paths – Solve puzzles based on perspective and coloring to reveal hidden objects and paths in the environment. Find the perfect vantage point to reveal the secrets of the islands.\n- Explore Land and Sea – Journey at your own pace, running through lush grassy fields, hiking steep cliffs, and canoeing the ocean between an open world chain of islands inspired by the Scottish archipelagos of St. Kilda and Orkney.\n- Uncover a Unique Story About Saying Farewell – Unravel a unique story about saying farewell as memories reveal a glimpse into the life of the characters. Discover the events in the past which have led the characters to the archipelago, and caused all color to leave their world.\n- Restore color to a vibrant, hand crafted world, inspired by the Scottish highlands and the famous isles of Orkney and St. Kilda\n- Play as a loyal border collie helping a young woman recover the memories of her life.\n- Enjoy a beautiful, adaptive orchestral soundtrack featuring singing by Siobhan Miller.\n- Discover creatures and wildlife inspired by the rich history of Scottish folklore.\n- Travel by paw and by canoe as you make your way through the atmospheric isles.\n- For fans of games like Journey, Firewatch and Lost Ember.",
+    "cover_url": "https://i1.imageban.ru/out/2024/10/28/3b71781ec65b51832062f3411816485e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/0f/83/0f83798f-e7f7-4edf-ae53-f9e502cf65a1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0b/a7/0ba73a2e-70c1-4989-9f56-50e0722489cb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/04/1b/041b912b-830b-480a-866d-a6d5619cc39c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c1/b7/c1b7849c-5ae2-471f-807f-805bed3143ae.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a1/5e/a15ec7ab-b290-4e5d-9c52-b1cbb8940ade.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d5/bd/d5bd94cc-1743-43f5-8c98-12ab04e8cc2d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-farewell-north",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T13:33:22.736650+00:00"
   }
 ]
