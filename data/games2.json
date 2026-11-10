@@ -2817,5 +2817,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T14:23:22.835205+00:00"
+  },
+  {
+    "id": "b7ebff73-f32d-5ee2-5072-9cec5043b908",
+    "title": "Anomalous – v1.0 (Release)",
+    "slug": "anomalous",
+    "categories": [
+      "Action",
+      "Shooter",
+      "First person view",
+      "3D",
+      "Retro look"
+    ],
+    "size_original": "6.8 GB",
+    "size_repack": "4.6 GB",
+    "description": "To create the ultimate controllable and mindless workforce Kosolov had put in place a plan to revive the dead and set them back to work – benefitting from an already high mortality rate. Scientists have attempted mechanical implants, regenerative biomass, and a host of bizarre experiments. With numerous unforeseen consequences resulting in a catastrophic disaster, the only thing left to do is battle your way out of the city.\n\n**Repack Features**\n\n- Based on Anomalous-TENOKE ISO release: tenoke-anomalous.iso (7,285,241,856 bytes)\n- Game version: v1.0 (Release)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 6.8 to 4.6 GB)\n- Installation takes 6-33 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6.6 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2024/10/04/db7861e966e9f6df05507bbd14d5b5a4.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/4a/2b/4a2bcb4d-7b03-43ad-87d0-add4951ef66e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4a/52/4a5253f9-2562-4205-ba84-028b08af4d74.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2f/fd/2ffda38b-d569-40c1-b4dd-3c9424d6d346.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/35/a7/35a7eac1-76bc-43a9-a5c7-66c5db093028.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/04/f504af4a-1b14-45bb-80de-f0934009466e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/1d/ce1d1122-fd26-4da4-b52b-41598c688f4f.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-anomalous",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T14:28:22.123366+00:00"
   }
 ]
