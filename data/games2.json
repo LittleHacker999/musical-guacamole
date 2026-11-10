@@ -1234,5 +1234,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T10:08:23.729270+00:00"
+  },
+  {
+    "id": "142d7098-10fc-5c47-eb20-af6d634ca6ea",
+    "title": "Cursed Feed",
+    "slug": "cursed-feed",
+    "categories": [
+      "Adventure",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "10.8 GB",
+    "size_repack": "7.8 GB",
+    "description": "Richard Thornvale, a renowned archaeologist, returns from a harrowing expedition in the Middle East with cryptic artifacts in tow, he unwittingly invites an ancient curse into their tranquil home. Soon, inexplicable phenomena plague the household, and Emily, their young daughter, becomes the focal point of the sinister presence.\n\nWith each passing night, the family is tormented by terrifying apparitions and escalating paranormal activity, leading them to unravel dark secrets buried within the walls of their own home.\n\nAs they delve deeper into the mystery, they must confront their own fears and uncover the truth behind the curse before it consumes them all. Will they break free from the grip of the past, or will they become mere echoes in the haunted halls of their own history?\n\n**Repack Features**\n\n- Based on Cursed.Feed-TENOKE ISO release: tenoke-cursed.feed.iso (11,616,612,352 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 10.8 to 7.8 GB)\n- Installation takes 8-45 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 10.6 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- As a paranormal investigator, Thornval residence is at your disposal. Place your camera recording equipment at strategic locations around the deserted house.\n- Use your camera set-up at the back of your van to monitor camera feeds, observe and investigate any ghostly happenings.\n- Use your spirit box to unearth the horrifying mysteries in the cryptic dungeons beneath the Thornval residence.",
+    "cover_url": "https://i6.imageban.ru/out/2025/02/14/291fa604841a7cc5a5b531d5fd1c8e1e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/59/25/5925eb26-eb7f-4b48-bc7f-8ce238c4a387.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/ec/7dec91a9-fbb1-4e5c-8b21-9434dc116ebf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/60/1e/601e2a6e-d5ee-4247-88ee-defcfca66550.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f0/e7/f0e7f874-ad4b-4f4c-aa8f-a8cafc155a3c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/9c/839c7ecf-34be-4e9c-809c-7f8d7e218422.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/24/bb/24bbd763-82da-4b95-9c0a-49106bf35f4c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-cursed-feed",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T10:13:22.030014+00:00"
   }
 ]
