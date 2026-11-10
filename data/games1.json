@@ -6072,5 +6072,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T03:38:22.429026+00:00"
+  },
+  {
+    "id": "e0ebc3e5-e509-5fca-e94f-7a62f30b90da",
+    "title": "Contract Rush DX",
+    "slug": "contract-rush-dx",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Run and gun",
+      "Shoot 'em up",
+      "Side",
+      "2D"
+    ],
+    "size_original": "1.7 GB",
+    "size_repack": "963 MB",
+    "description": "Taking on Contracts will have you exploring large levels, all with their own set of enemies, NPCs, and secrets!\n\nPower-ups will prepare you for the Contract’s boss battle at the end of the level. Power-ups can increase movement speed, spread-shot bullets, fire rate, and much more!\n\nSub-Contracts will have you taking on smaller challenge levels with a variety of objectives. Earn all 3 stars in each and get rewards!\n\nMultiple playable characters, all with unique play styles. Some are focused on pure shoot’em up gameplay, others centered around melee attacks. If you’re having trouble on a level, sometimes trying out a new character is the key!\n\n**Repack Features**\n\n- Based on Contract.Rush.DX-TENOKE ISO release: tenoke-contract.rush.dx.iso (1,790,801,920 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.7 GB to 963 MB)\n- Installation takes 1-3 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.7 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2025/08/07/1b3655a90d70314fe8ad0e508ad2696e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f0/91/f091c680-cfbc-4117-92f9-1f69ed3c50aa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/75/1f/751f00af-11b5-403a-b24b-4f51a3199d97.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/13/aa/13aa391a-756c-4fb4-8e28-bb0487f64543.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/71/1e718d79-8b9c-40ed-8c5a-b442e9f13c84.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c2/0d/c20d84e4-059a-4e0b-89a6-858586c69bee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b9/47/b9477445-41bf-4b00-9195-929609cf404c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-contract-rush-dx",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T03:43:22.328936+00:00"
   }
 ]
