@@ -4486,5 +4486,33 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T19:08:21.323823+00:00"
+  },
+  {
+    "id": "c89049fe-542f-5446-938f-0723e095ff2d",
+    "title": "Poltergeist Watcher + Windows 7 Fix",
+    "slug": "poltergeist-watcher",
+    "categories": [
+      "Logic",
+      "Puzzle",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "2.7 GB",
+    "size_repack": "1.4 GB",
+    "description": "The unique spot the difference game Poltergeist Watcher blends elements of hidden object, mindfulness puzzles, and psychological horror genres. It will evoke tension and fear in the most unconventional settings for these genres.\n\nInspired by cult paranormal films, this game will immerse you in the ominous atmosphere of an ancient mansion consumed by poltergeist activity. To survive, you’ll need keen observation, a good memory, and unwavering willpower, because ghost will do everything to scare who are watching him.\n\n**Repack Features**\n\n- Based on Poltergeist.Watcher-TENOKE ISO release: tenoke-poltergeist.watcher.iso (2,857,758,720 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.7 to 1.4 GB)\n- Installation takes 1-5 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.5 GB\n- Language can be changed in game settings\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Run “KexSetup_x64Rel.exe” from “_Windows 7 Fix” folder and install that extension\n- Open “PoltergeistWatcherBinariesWin64PoltergeistWatcher-Win64-Shipping.exe” file properties in Explorer, then “VxKex” tab\n- Check “Enable VxKex for this program” and “Report a different version of Windows, Windows 10” checkboxes, Apply, OK\n- Run the game as usual",
+    "cover_url": "https://i2.imageban.ru/out/2024/05/12/17196cde0e0cfe7a663546a8a12a6675.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d2/fa/d2faa61d-2b25-42a0-a890-3fff86685cd5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2e/ba/2eba5ee9-a439-49be-bb26-462c93571567.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/47/d6/47d68c16-9a75-4a61-a84b-c468ff9bbd79.jpg.240p.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/2926550/extras/GhostEng.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-poltergeist-watcher",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T19:13:22.329619+00:00"
   }
 ]
