@@ -6559,5 +6559,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T04:58:20.629163+00:00"
+  },
+  {
+    "id": "025759fd-4789-526d-1ec0-6c302c7aa29e",
+    "title": "Projected Dreams: Supporter Bundle, v1.2 + Bonus Soundtrack",
+    "slug": "projected-dreams",
+    "categories": [
+      "Logic",
+      "Puzzle",
+      "3D"
+    ],
+    "size_original": "3.1 GB",
+    "size_repack": "318/468 MB",
+    "description": "Delve into the room, drag toys from the shelves, and handle them on the table to create a shadow play. As the shadows you cast uncover past family relationships and the environment around you changes and evolves, the lines between reality and fantasy blur.\n\n**Repack Features**\n\n- Based on Projected.Dreams-TENOKE ISO release: tenoke-projected.dreams.iso (3,376,480,256 bytes)\n- Game version: v1.2\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format nullified, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST in MP3 format\n- Significantly smaller archive size (compressed from 3.1 GB to 318/468 MB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 3.1 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Experience a heartfelt story – Join Senka on her journey and experience a heartwarming, wordless story about buzzing summer nights, the importance of friendship, and bittersweet goodbyes.\n- Solve puzzles in multiple ways – Rotate, place, and stack objects on a table to recreate a given shadow silhouette on the wall through shadow play. Get creative – there are unlimited solutions to solve puzzles, as long the outline of the shadow matches, and various achievements to be discovered.\n- Explore atmospheric settings – Experience an ever-changing room and bring back memories from your own childhood thanks to the toys you will find. Discover new peculiarities while listening to relaxing soundtracks composed by Floris Demandt.",
+    "cover_url": "https://i4.imageban.ru/out/2025/06/30/8f84c3a9c1e7a589af50d722e7d8b7f5.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a8/8e/a88e4896-128e-43d0-8907-41f6c8fb5b12.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/14/e3140d72-0ce6-4e1c-af50-bb7056ac6e1a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6b/87/6b8717bd-ed97-451e-b6b6-5a794f918a82.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e2/61/e2611028-bc72-48b6-bfe7-b73afb7b70c5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/df/badf8b43-36df-4745-9280-f4e692684dd7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bd/a9/bda96498-a341-443b-b620-03722f5f6a77.jpg.240p.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/2318800/extras/Setting.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-projected-dreams",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T05:03:21.534306+00:00"
   }
 ]
