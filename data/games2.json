@@ -3217,5 +3217,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T15:28:24.731947+00:00"
+  },
+  {
+    "id": "962fe6c5-b951-54e7-1bff-c656370f3b47",
+    "title": "Trace Hunters – v1.0.1.0 + Windows 7 Fix",
+    "slug": "trace-hunters",
+    "categories": [
+      "Action",
+      "Vehicular combat",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "5.8 GB",
+    "size_repack": "4.1 GB",
+    "description": "Trace Hunters is a third-person shooter where you pilot a futuristic combat vehicle. Outnumbered and alone, blast through hordes of enemies to discover precious resources and traces of lost technology. Unlock new weapons to take on even greater challenges!\n\nEmbark on Intense Missions\nFrom narrow canyons to forgotten derelict outposts, fight through waves of enemies as you rediscover lost technology and valuable resources.\n\nUpgrade Your Vehicle\nEarn upgrades for destroying enemies and completing missions, unlocking powerful new weapons to become even more lethal.\n\nExplore Perilous Environments\nExplore the desert expanses of the Canyonlands, filled with danger and derelict structures from the past through a short mission-based narrative.\n\nDestroy your enemies\nFight through waves of enemies as a Trace Hunter, making use of a variety of different weapon types across multiple missions as you aid the remote outposts of Cassara.\n\nStory\nIn the distant past, the Cassarians were a highly-advanced civilization. Through leveraging the vast crystalline mineral deposits on their planet, Cassara, they were able to propel civilization forward at a staggering pace. While most of these crystals served more mundane purposes, the most precious crystalline mineral, Cassinite, unlocked a Golden Age of wealth and exploration. Cassinite accelerated technological development by immense leaps, allowing for travel throughout the known galaxy and beyond. However, as Cassinite reserves depleted, a mass exodus ensued. Despite the certainty of a difficult life, a small portion of the population remained, determined to preserve their home planet Cassara. The once easily traversed expanses of Cassara now pose significant challenges for the remaining inhabitants.\n\nTrace Hunters, the few who dare venture between the safety of civilization, are a key link in connecting the disparate remains of society. As a Trace Hunter, discover precious resources of the past and traces of lost technology as you battle through hordes of ancient Servitors, reawakened robot that once aided the Cassarians in their daily lives.\n\n**Repack Features**\n\n- Based on Trace.Hunters-TENOKE ISO release: tenoke-trace.hunters.iso (6,187,556,864 bytes)\n- Game version: v1.0.1.0\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.8 to 4.1 GB)\n- Installation takes 2-10 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.6 GB\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Third-person shooter with a powerful combat vehicle\n- Battle waves of enemies as you fight to reclaim an ancient trace of power from a fallen civilization\n- Complete and repeat missions through a sci-fi narrative\n- Earn and spend upgrade points to unlock new weapons for your vehicle and adjust your tactics\n- Manage your vehicle loadout and to optimize for mission success\n- Run “KexSetup_x64Rel.exe” from “_Windows 7 Fix” folder and install that extension\n- Open “Trace HuntersWindowsTraceHuntersBinariesWin64TraceHunters-Win64-Shipping.exe” file properties in Explorer, then “VxKex” tab\n- Check “Enable VxKex for this program” and “Report a different version of Windows, Windows 10” checkboxes, Apply, OK\n- Run the game as usual",
+    "cover_url": "https://i3.imageban.ru/out/2024/08/26/82980bce9df9d587f40420d0c05f53c0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ea/bd/eabd7127-5364-4a62-8139-ae6b6d20f54b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/94/5a/945afc93-c9c1-4f49-a22e-5e51e03afe9f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b0/0e/b00efea7-358f-4627-a9b7-f38d3f73b29f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7f/d9/7fd90a20-db7e-42b6-a906-f017e19a717c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a5/94/a594db83-99cc-4c5c-a762-9c79817b12b7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ca/d0/cad01856-4713-4bd6-8fa9-282a443361db.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-trace-hunters",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T15:33:23.328029+00:00"
   }
 ]
