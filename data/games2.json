@@ -1932,5 +1932,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T12:08:24.827224+00:00"
+  },
+  {
+    "id": "75d6d474-909b-5611-4d7e-4e6a3655e77c",
+    "title": "Viscera",
+    "slug": "viscera",
+    "categories": [
+      "Arcade",
+      "Shoot 'em up",
+      "Top view",
+      "2D"
+    ],
+    "size_original": "4 GB",
+    "size_repack": "1.3 GB",
+    "description": "Unleash your arsenal – Wield over 50 weapons and master the complex perk system with over 80 abilities to create your ultimate build. Choose from assault rifles and high-impact explosives to more esoteric choices, such as gravity guns, lightning turrets, and black hole generators! Stay on your toes and never get complacent: guns and skills come and go thick and fast, and you’ll need to constantly adapt your approach against the onslaught with each and every new weapon and skill.\n\nProve yourself – It is the far future. The world of Viscera is harsh, cruel, and relentless. Unending mutants stalk the earth. Humanity is gone. Cities are toppled, infrastructure is abandoned, and life as we know it is over. You are the last man against the horde, and it’s time to make your stand. Climb the leaderboard on four unique stages with their own challenges and chokepoints, and be the best at withstanding the horde before the inevitable end takes you. Unlock new weapons, abilities, and stages as you complete new objectives and achievements.\n\nThis gritty, sci-fi top-down shooter is the culmination of a 17-year game industry veteran drawn to the single-minded purity of classic games. Master your weapons, perfect your build, and get that high score. Viscera is here. Come get some.\n\n**Repack Features**\n\n- Based on Viscera-TENOKE ISO release: tenoke-viscera.iso (4,338,702,336 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4 to 1.3 GB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4 GB\n- Language can be changed in “Viscera_DataPluginsx86_64tenoke.ini” file\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Defend four stages against the mutant horde.\n- Refine your build with over 50 weapons.\n- Master more than 80 abilities in the complex perk system.\n- Global and Friend Steam leaderboards.\n- Unlock more weapons, abilities, and features by meeting Steam achievements.\n- No cutscenes or no crafting: enjoy the purity of a modern arcade experience.\n- Full controller support – play in the comfort of your couch or meet the horde on keyboard and mouse.",
+    "cover_url": "https://i6.imageban.ru/out/2024/12/10/72053cc725a98931f42c5c0accc1c49c.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/8f/44/8f441904-fe62-4ec7-9b19-ec7835d380c0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/de/06/de06dc38-ba58-48b3-8cce-1a653f4545d3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/34/ff/34ff3664-86b9-493c-90c3-113a8387bd9d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9c/99/9c996891-9101-4ffd-8381-d85804b4d34c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3a/9f/3a9ffddd-de3e-4faa-8b56-0ad772118d1c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/85/60/8560a3c7-bc56-4d86-b2f7-27a67e5054d0.jpg.240p.jpg",
+      "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2775570/extras/Steam_1.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-viscera",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T12:13:21.929203+00:00"
   }
 ]
