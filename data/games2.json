@@ -2420,5 +2420,39 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T13:18:22.628939+00:00"
+  },
+  {
+    "id": "390d9e67-1eb4-552e-3642-858178f92a9f",
+    "title": "Horizon: Zero Dawn Remastered – v1.0.37.0/1.0.38.0 + Bonus ArtBook",
+    "slug": "horizon-zero-dawn-remastered",
+    "categories": [
+      "RPG",
+      "Action RPG",
+      "Open world",
+      "Third person view",
+      "3D",
+      "Post-apocalypse",
+      "Robots"
+    ],
+    "size_original": "107.4 GB",
+    "size_repack": "from 61.7 GB",
+    "description": "This is a proper installer, use it instead the one included in the original torrent (has been replaced too with a fixed one).\n\nHorizon_Zero_Dawn_Remastered_Update_from_v1.4.63_to_v1.5.89-ElAmigos.rar (Source: ElAmigos)\nor\nHorizon.Zero.Dawn.Remastered.Update.v1.5.89.0-RUNE.rar (Source: scene)\n\nExplore a vast, vibrant world filled with fearsome machines and the mysterious ruins of a long-lost civilization, remastered with stunning visuals and new features for PC.¹\n\nTake up bow and spear as Aloy, a young machine hunter and outcast of her tribe, as she discovers her origins, the truth of this mysterious world, and her own destiny to save it from impending doom.\n\nOn her journey, Aloy will come across unique tribes, lively settlements, and compelling characters and companions.\n\nBut this open world is also teeming with wildlife and danger. Awe-inspiring yet deadly hostile machines patrol the majestic landscape, corrupted by an unknown force.\n\nIn combat, you will unleash devastating, tactical attacks utilizing an exciting arsenal of weapons against fearsome machines and nefarious rival factions.\n\nHorizon Zero Dawn™ is a multi-award-winning action role-playing game and this Remastered Edition brings to life the beloved wilds of Aloy’s world in even higher fidelity with the power and potential of PC gaming.\n\nIt also includes The Frozen Wilds, a vast expansion featuring new lands, skills, weapons, and machines.\n\n**Repack Features**\n\n- Based on Horizon.Zero.Dawn.Remastered-RUNE ISO release: rune-horizon.zero.dawn.remastered.iso (99,338,387,456 bytes)\n- Horizon.Zero.Dawn.Remastered.Language.Pack-RUNE (14.9 GB) added\n- Game version: v1.0.37.0 after installation. You can convert it to v1.0.38.0 by copying files from the “_v1.0.38” to the game root (thanks to ElAmigos). Reverse the patch by copying files from the “_v1.0.37” folder, so it woul be compatible with possible scene or P2P patches in the future\n- Bonus ArtBook is included by default\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of ultrawide videos and voiceover packs you don’t need. English VOs are included by default\n- Significantly smaller archive size (compressed from cumulative 107.4 to 61.7~82.9 GB, depending on selected components)\n- Installation takes from 12 minutes (32-threads CPU + SSD, no optionals) up to 45 minutes (4-threads CPU + HDD, all optionals)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 120.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2024/11/02/b912dd5ea7e8319c4e717e5e1215f2e8.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/11/22/112293a2-8f61-4db1-85dc-5d3d8fa9fbb0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/35/58/35580e84-b78e-4330-b3cc-ea7f45b79492.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/77/977752f5-d7ef-4f64-a5cb-5daa80865a93.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4a/c1/4ac17968-62b2-41f8-9573-74d1b58d74a6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f0/59/f0597653-ec4e-4c26-8687-c11e16cdf5c5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c9/17/c917b422-5c98-456b-ad7e-4df3c11de0ab.jpg.240p.jpg",
+      "https://media1.tenor.com/m/Fe2FMoKdlz8AAAAd/aloy-varl.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-horizon-zero-dawn-remastered",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T13:23:24.329040+00:00"
   }
 ]
