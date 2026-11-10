@@ -27,7 +27,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T06:53:22.021278+00:00"
+    "created_at": "2026-11-10T06:53:22.021278+00:00",
+    "trending": false
   },
   {
     "id": "f8cf1e49-d3a5-53c2-a6e9-3c74f50a9957",
@@ -57,7 +58,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T06:58:22.229339+00:00"
+    "created_at": "2026-11-10T06:58:22.229339+00:00",
+    "trending": false
   },
   {
     "id": "0847d9e0-bc8c-5c1e-34b0-604e5212dd38",
@@ -88,7 +90,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:03:20.537866+00:00"
+    "created_at": "2026-11-10T07:03:20.537866+00:00",
+    "trending": false
   },
   {
     "id": "791cc015-0680-5a5d-0607-85a9b500077e",
@@ -119,7 +122,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:08:23.828320+00:00"
+    "created_at": "2026-11-10T07:08:23.828320+00:00",
+    "trending": false
   },
   {
     "id": "f5152632-8787-5099-78a6-abb97c296e33",
@@ -151,7 +155,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:13:21.927566+00:00"
+    "created_at": "2026-11-10T07:13:21.927566+00:00",
+    "trending": false
   },
   {
     "id": "6e277c46-06d7-55e3-504b-a280110d518f",
@@ -182,7 +187,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:18:23.727068+00:00"
+    "created_at": "2026-11-10T07:18:23.727068+00:00",
+    "trending": false
   },
   {
     "id": "4cce46a5-4aab-54a5-7a84-58b635d9cec5",
@@ -214,7 +220,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:23:23.425979+00:00"
+    "created_at": "2026-11-10T07:23:23.425979+00:00",
+    "trending": false
   },
   {
     "id": "c38351f4-e0fc-5a35-ea56-9d231514d8d1",
@@ -244,7 +251,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:28:22.935667+00:00"
+    "created_at": "2026-11-10T07:28:22.935667+00:00",
+    "trending": false
   },
   {
     "id": "7619abff-63e5-5f51-3d6b-f6b7a3894d59",
@@ -277,7 +285,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:33:21.824350+00:00"
+    "created_at": "2026-11-10T07:33:21.824350+00:00",
+    "trending": false
   },
   {
     "id": "b9328765-8901-5108-8e99-5e8840d110d3",
@@ -308,7 +317,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:38:22.725720+00:00"
+    "created_at": "2026-11-10T07:38:22.725720+00:00",
+    "trending": false
   },
   {
     "id": "7021afb2-8637-55df-adc7-184e1e7eed68",
@@ -340,7 +350,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:43:24.832198+00:00"
+    "created_at": "2026-11-10T07:43:24.832198+00:00",
+    "trending": false
   },
   {
     "id": "05bac6d9-3c9d-53cd-ac36-e638103c3f92",
@@ -372,7 +383,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:48:22.027327+00:00"
+    "created_at": "2026-11-10T07:48:22.027327+00:00",
+    "trending": false
   },
   {
     "id": "985a8238-fa33-5598-9fa8-1b3be507721d",
@@ -402,7 +414,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:53:21.833598+00:00"
+    "created_at": "2026-11-10T07:53:21.833598+00:00",
+    "trending": false
   },
   {
     "id": "274d03f2-baf3-5813-81ac-f1dfb43c7660",
@@ -430,7 +443,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T07:58:21.927644+00:00"
+    "created_at": "2026-11-10T07:58:21.927644+00:00",
+    "trending": false
   },
   {
     "id": "83ed7742-1151-530b-c74c-6b48a88dc433",
@@ -463,7 +477,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:03:23.533773+00:00"
+    "created_at": "2026-11-10T08:03:23.533773+00:00",
+    "trending": false
   },
   {
     "id": "d5abc1b0-4296-5382-6692-0eea5ddd6bac",
@@ -495,7 +510,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:08:21.727131+00:00"
+    "created_at": "2026-11-10T08:08:21.727131+00:00",
+    "trending": false
   },
   {
     "id": "eddb60a9-0440-51c9-e114-7d6ce97bdb1a",
@@ -527,7 +543,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:13:22.724968+00:00"
+    "created_at": "2026-11-10T08:13:22.724968+00:00",
+    "trending": false
   },
   {
     "id": "570fcdc6-f5a0-5533-7ebe-fa5739b8a183",
@@ -557,7 +574,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:18:24.026149+00:00"
+    "created_at": "2026-11-10T08:18:24.026149+00:00",
+    "trending": false
   },
   {
     "id": "5c4b1dc8-48c8-591f-d8f7-aa8f2bdd004a",
@@ -588,7 +606,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:23:21.224348+00:00"
+    "created_at": "2026-11-10T08:23:21.224348+00:00",
+    "trending": false
   },
   {
     "id": "fc917830-984e-52d7-1d98-ccb1e0210f92",
@@ -618,7 +637,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:28:22.029915+00:00"
+    "created_at": "2026-11-10T08:28:22.029915+00:00",
+    "trending": false
   },
   {
     "id": "254bd5fe-1663-59af-6f1d-c51215f9bd7e",
@@ -649,7 +669,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:33:20.830677+00:00"
+    "created_at": "2026-11-10T08:33:20.830677+00:00",
+    "trending": false
   },
   {
     "id": "465abf94-6e06-52c5-7150-fdd853a66000",
@@ -680,7 +701,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:38:24.630019+00:00"
+    "created_at": "2026-11-10T08:38:24.630019+00:00",
+    "trending": false
   },
   {
     "id": "e5cee2fe-48db-5a48-12cb-e7c4b071e2f6",
@@ -714,7 +736,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:43:21.934567+00:00"
+    "created_at": "2026-11-10T08:43:21.934567+00:00",
+    "trending": false
   },
   {
     "id": "742648e4-4036-5cfa-afbe-294b14157bd4",
@@ -745,7 +768,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:48:22.338026+00:00"
+    "created_at": "2026-11-10T08:48:22.338026+00:00",
+    "trending": false
   },
   {
     "id": "1bbc9623-09a6-50a8-5776-a0bdb89bc1a3",
@@ -774,7 +798,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:53:22.536674+00:00"
+    "created_at": "2026-11-10T08:53:22.536674+00:00",
+    "trending": false
   },
   {
     "id": "8cf912ad-759e-5253-e9f3-818a965d42b2",
@@ -805,7 +830,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T08:58:22.230096+00:00"
+    "created_at": "2026-11-10T08:58:22.230096+00:00",
+    "trending": false
   },
   {
     "id": "c7daa853-f9c2-5f3d-bbd5-8bced8616e71",
@@ -835,7 +861,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:03:21.825870+00:00"
+    "created_at": "2026-11-10T09:03:21.825870+00:00",
+    "trending": false
   },
   {
     "id": "5db4834a-4a2c-523d-db60-066f23b065ec",
@@ -864,7 +891,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:08:23.232181+00:00"
+    "created_at": "2026-11-10T09:08:23.232181+00:00",
+    "trending": false
   },
   {
     "id": "675beed9-29d9-583b-78c3-e41824df67e6",
@@ -896,7 +924,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:13:21.824553+00:00"
+    "created_at": "2026-11-10T09:13:21.824553+00:00",
+    "trending": false
   },
   {
     "id": "5d809e64-cf59-5e19-5043-daa0406b7c05",
@@ -928,7 +957,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:18:22.425640+00:00"
+    "created_at": "2026-11-10T09:18:22.425640+00:00",
+    "trending": false
   },
   {
     "id": "95b3f9a2-6a29-5805-e3e2-52a628682fa0",
@@ -960,7 +990,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:23:24.140523+00:00"
+    "created_at": "2026-11-10T09:23:24.140523+00:00",
+    "trending": false
   },
   {
     "id": "67ad9cfb-fd80-5cad-2424-c49fb6b1ebbf",
@@ -990,7 +1021,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:28:21.828007+00:00"
+    "created_at": "2026-11-10T09:28:21.828007+00:00",
+    "trending": false
   },
   {
     "id": "1b885b23-376f-574b-e8e2-ad7250ca11b7",
@@ -1021,7 +1053,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:33:23.841426+00:00"
+    "created_at": "2026-11-10T09:33:23.841426+00:00",
+    "trending": false
   },
   {
     "id": "21ed5de5-b523-5530-5229-8f11ce8669f7",
@@ -1051,7 +1084,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:38:22.126917+00:00"
+    "created_at": "2026-11-10T09:38:22.126917+00:00",
+    "trending": false
   },
   {
     "id": "0047c8cf-9eae-54a2-dbc7-5fccbb29d0ca",
@@ -1082,7 +1116,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:43:24.226552+00:00"
+    "created_at": "2026-11-10T09:43:24.226552+00:00",
+    "trending": false
   },
   {
     "id": "7fe3b955-86bf-5ccb-8a61-2c71f4bf36f6",
@@ -1113,7 +1148,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:48:22.323694+00:00"
+    "created_at": "2026-11-10T09:48:22.323694+00:00",
+    "trending": false
   },
   {
     "id": "ad633ccc-d105-5234-e373-9a0648192318",
@@ -1147,7 +1183,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:53:22.727509+00:00"
+    "created_at": "2026-11-10T09:53:22.727509+00:00",
+    "trending": false
   },
   {
     "id": "44c9708b-5c5f-5928-77c2-18329031c41f",
@@ -1177,7 +1214,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T09:58:23.725955+00:00"
+    "created_at": "2026-11-10T09:58:23.725955+00:00",
+    "trending": false
   },
   {
     "id": "99d25666-f093-5a87-b9c8-5bce7254a27c",
@@ -1205,7 +1243,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:03:20.930622+00:00"
+    "created_at": "2026-11-10T10:03:20.930622+00:00",
+    "trending": false
   },
   {
     "id": "4a455415-2850-52f4-8cd7-f806946b0cc2",
@@ -1233,7 +1272,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:08:23.729270+00:00"
+    "created_at": "2026-11-10T10:08:23.729270+00:00",
+    "trending": false
   },
   {
     "id": "142d7098-10fc-5c47-eb20-af6d634ca6ea",
@@ -1263,7 +1303,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:13:22.030014+00:00"
+    "created_at": "2026-11-10T10:13:22.030014+00:00",
+    "trending": false
   },
   {
     "id": "33fb5ec4-570b-5575-917a-09891a305d86",
@@ -1292,7 +1333,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:18:23.628016+00:00"
+    "created_at": "2026-11-10T10:18:23.628016+00:00",
+    "trending": false
   },
   {
     "id": "27b4cb73-3a9d-514e-b4c8-9affccaafb67",
@@ -1322,7 +1364,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:23:23.232586+00:00"
+    "created_at": "2026-11-10T10:23:23.232586+00:00",
+    "trending": false
   },
   {
     "id": "b4d1ce56-345f-543e-1fa6-5425c7173915",
@@ -1352,7 +1395,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:28:22.426914+00:00"
+    "created_at": "2026-11-10T10:28:22.426914+00:00",
+    "trending": false
   },
   {
     "id": "277dac2d-5752-5ba0-4764-4bf86e3e83d3",
@@ -1387,7 +1431,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:33:24.631284+00:00"
+    "created_at": "2026-11-10T10:33:24.631284+00:00",
+    "trending": false
   },
   {
     "id": "625240e1-6bf7-5145-ab37-691e7ace4f91",
@@ -1420,7 +1465,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:38:22.429414+00:00"
+    "created_at": "2026-11-10T10:38:22.429414+00:00",
+    "trending": false
   },
   {
     "id": "74c09ae2-38a1-5597-c1fa-e2b922e35914",
@@ -1451,7 +1497,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:43:23.030118+00:00"
+    "created_at": "2026-11-10T10:43:23.030118+00:00",
+    "trending": false
   },
   {
     "id": "67811330-4a48-5253-f73c-5cb45ded27f1",
@@ -1483,7 +1530,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:53:22.527351+00:00"
+    "created_at": "2026-11-10T10:53:22.527351+00:00",
+    "trending": false
   },
   {
     "id": "f1349102-5aa6-57c4-c8f1-43c09b32bdf5",
@@ -1513,7 +1561,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T10:58:21.923711+00:00"
+    "created_at": "2026-11-10T10:58:21.923711+00:00",
+    "trending": false
   },
   {
     "id": "95b9d793-5be2-5e50-c982-fb60a383e77d",
@@ -1536,13 +1585,14 @@
       "http://s01.riotpixels.net/data/26/5f/265f92a2-67a1-4697-9cc0-ac37a2cea9e6.jpg.240p.jpg",
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002570/extras/b6873ee6fc931fba89d6cdc3db7ff2ca-ezgif.com-optimize.gif"
     ],
-    "system_requirements": "Not Found",
+    "system_requirements": "MINIMUM:\nOS: Windows 10 /11\nCPU: i5-6500, Ryzen 5 1600\nRAM: 8 GB RAM\nGPU: GTX 1050, RX 460 (or equivalent with at least 4GB of memory)\nStorage: 15 GB available space\nSound: DirectX compatible\n\nRECOMMENDED:\nOS: Windows 10 /11\nCPU: i5-8600, Ryzen 5 3400G\nRAM: 16 GB RAM\nGPU: RTX 2060, RX 5700 (with at least 6GB of memory)\nStorage: 15 GB available space\nSound: DirectX compatible",
     "repacker": "Fitgirl",
     "download_url": "https://repack-x-database.vercel.app/fg-nymphomaniac-sex-addict",
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:03:22.127998+00:00"
+    "created_at": "2026-11-10T11:03:22.127998+00:00",
+    "trending": false
   },
   {
     "id": "f913d465-fcc6-5113-0920-0514742d068e",
@@ -1571,7 +1621,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:08:21.438722+00:00"
+    "created_at": "2026-11-10T11:08:21.438722+00:00",
+    "trending": false
   },
   {
     "id": "273879d8-e16f-5ae4-d43d-e36c4bb574ce",
@@ -1603,7 +1654,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:13:21.331306+00:00"
+    "created_at": "2026-11-10T11:13:21.331306+00:00",
+    "trending": false
   },
   {
     "id": "ef50c563-fdf3-5417-a86a-946882877ac5",
@@ -1635,7 +1687,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:18:23.122714+00:00"
+    "created_at": "2026-11-10T11:18:23.122714+00:00",
+    "trending": false
   },
   {
     "id": "62b28770-a70e-56ae-8e25-aaf6646c02d3",
@@ -1666,7 +1719,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:23:21.230915+00:00"
+    "created_at": "2026-11-10T11:23:21.230915+00:00",
+    "trending": false
   },
   {
     "id": "a5e6e2b3-0985-5b04-084b-0ff1f030181b",
@@ -1696,7 +1750,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:28:22.331503+00:00"
+    "created_at": "2026-11-10T11:28:22.331503+00:00",
+    "trending": false
   },
   {
     "id": "e6f42954-36a4-53f5-7820-41c66107ebf9",
@@ -1726,7 +1781,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:33:22.027262+00:00"
+    "created_at": "2026-11-10T11:33:22.027262+00:00",
+    "trending": false
   },
   {
     "id": "f6f4b17a-460d-5412-5c8a-51acf3258ca7",
@@ -1754,7 +1810,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:38:22.530101+00:00"
+    "created_at": "2026-11-10T11:38:22.530101+00:00",
+    "trending": false
   },
   {
     "id": "48a1a9a1-7a41-54c1-5d03-5058ef164ac6",
@@ -1783,7 +1840,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:43:21.639512+00:00"
+    "created_at": "2026-11-10T11:43:21.639512+00:00",
+    "trending": false
   },
   {
     "id": "1a80ab7d-9277-5775-de6e-e9c6a084657a",
@@ -1811,7 +1869,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:48:24.328706+00:00"
+    "created_at": "2026-11-10T11:48:24.328706+00:00",
+    "trending": false
   },
   {
     "id": "93517630-deef-5bdc-ca1e-a52f1844d8f3",
@@ -1841,7 +1900,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:53:21.537288+00:00"
+    "created_at": "2026-11-10T11:53:21.537288+00:00",
+    "trending": false
   },
   {
     "id": "54ad70df-e4a9-5a17-2fed-c6c18d3151b2",
@@ -1871,7 +1931,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T11:58:23.123851+00:00"
+    "created_at": "2026-11-10T11:58:23.123851+00:00",
+    "trending": false
   },
   {
     "id": "c2f550ce-03a1-5fd3-7fc1-bc647cb711a0",
@@ -1902,7 +1963,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T12:03:21.034110+00:00"
+    "created_at": "2026-11-10T12:03:21.034110+00:00",
+    "trending": false
   },
   {
     "id": "aa4237f4-a899-5f93-b2c6-24395249f049",
@@ -1931,7 +1993,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T12:08:24.827224+00:00"
+    "created_at": "2026-11-10T12:08:24.827224+00:00",
+    "trending": false
   },
   {
     "id": "75d6d474-909b-5611-4d7e-4e6a3655e77c",
@@ -1962,6 +2025,7 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-10T12:13:21.929203+00:00"
+    "created_at": "2026-11-10T12:13:21.929203+00:00",
+    "trending": false
   }
 ]
