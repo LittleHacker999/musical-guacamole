@@ -3094,5 +3094,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T15:08:24.532072+00:00"
+  },
+  {
+    "id": "bb85adb5-68cc-5d94-3753-08d4cc1802f7",
+    "title": "Ghostrunner 2: Deluxe Edition – v0.42207.546 + 7 DLCs/Bonuses",
+    "slug": "ghostrunner-2",
+    "categories": [
+      "Action",
+      "Slasher",
+      "Arcade",
+      "Platform adventure",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "34.5 GB",
+    "size_repack": "21.4/21.5 GB",
+    "description": "Featuring incredible katana combat mechanics, a deeper exploration of the world beyond Dharma Tower, nonlinear levels with complex motorbike sections, exciting new modes, and all the action you loved about Ghostrunner. Plus, boss fights are more interactive, giving players freedom to choose how to survive battles against the toughest opponents.\n\nThis repack IS slightly backwards compatible with my previous GR2 repack. You can rehash fg-optional-bonus-soundtrack.bin to save 143 MB of traffic.\n\n**Repack Features**\n\n- Based on Ghostrunner.2.Endless.Moto.Mode-RUNE ISO release: rune-ghostrunner.2.endless.moto.mode.iso (36,789,649,408 bytes)\n- Bonus Soundtrack in MP3 format (221 MB) added\n- Game version: v0.42207.546; 7 DLCs/bonuses are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus OST\n- Significantly smaller archive size (compressed from cumulative 34.5 to 21.4/21.5 GB)\n- Installation takes 4-18 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 69.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Pre Order Content\n- Deluxe Content\n- Brutal Content\n- Ice Pack\n- Dragon Pack\n- Soundtrack\n- Endless Moto Mode",
+    "cover_url": "https://i1.imageban.ru/out/2023/10/26/634df670cdace22a98392757439754be.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/9f/77/9f775f6e-2f2c-4619-94b0-b2d569161976.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/d9/bcd91d4e-fb68-46ab-bbf8-4f48c53684bd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5f/e3/5fe3893d-00e4-4453-9017-0e0804126fe4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2a/d8/2ad87395-3919-4c3c-ac65-ce250045a31c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/68/9e/689e1482-af29-4385-a60d-0d4a3091350c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6e/21/6e21c162-1881-4177-be4e-64fd4184947e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ghostrunner-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T15:13:22.827027+00:00"
   }
 ]
