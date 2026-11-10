@@ -897,5 +897,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T09:13:21.824553+00:00"
+  },
+  {
+    "id": "5d809e64-cf59-5e19-5043-daa0406b7c05",
+    "title": "Bonesaw",
+    "slug": "bonesaw",
+    "categories": [
+      "Board game",
+      "First-person",
+      "3D",
+      "Horror",
+      "Turn-based"
+    ],
+    "size_original": "1.2 GB",
+    "size_repack": "631 MB",
+    "description": "Your goal is to eliminate both of your opponents’ hands to save yourself from eternal damnation. This is the Devil’s game, and he’s out to claim your soul… and your fingers!\n\n**Repack Features**\n\n- Based on Bonesaw-TENOKE ISO release: tenoke-bonesaw.iso (1,280,899,072 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.2 GB to 631 MB)\n- Installation takes 1-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Beware the Saw – Adding fear and chaos to the mix, the saw is out to chop some fingers! Combining skill with a little luck lets you control the blade to your advantage. Will you be brave enough to ring the bell to unleash it?\n- Special Abilities – Strategize carefully, steal from your opponent or combine the effects of various items to take the upper hand.\n- Play Solo or Face Off Against a Friend – Play against different opponents in a gripping single player experience with 3 distinct game modes, or challenge a friend in local multiplayer or online via Steam Remote Play. Who wouldn’t want to chop their friend’s fingers off… right?",
+    "cover_url": "https://i2.imageban.ru/out/2025/03/09/78996569a539a25379791f8eb7004521.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/c0/81/c081d47c-dc91-4b3c-8a61-e01fcb59284b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/70/5d70822d-c863-4714-b545-7858ae29b9d3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c7/35/c7356a35-9690-4fb0-8cb6-c60dc61e94d0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e0/c3/e0c3afa2-98cb-4f1a-a728-5b95edd462da.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b6/f1/b6f188a3-8394-4511-a3a9-828d826a1ae7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/a1/eda1c07b-e0be-4c73-921b-d508614c6bfb.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1586860/extras/Steam_Gif_Bonesaw_SawSpinning5.GIF"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-bonesaw",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T09:18:22.425640+00:00"
   }
 ]
