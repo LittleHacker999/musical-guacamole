@@ -5537,5 +5537,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T22:03:22.929624+00:00"
+  },
+  {
+    "id": "69006569-a3bf-5ad2-155a-b2545b6cac17",
+    "title": "Kick Bastards – v1.0.4 + Windows 7 Fix",
+    "slug": "kick-bastards",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "3.2 GB",
+    "size_repack": "1.8 GB",
+    "description": "You messed up. Now you are in Hell and you ain’t too happy about it. Use all your parkour skills to escape Hell and the Devil as he chases you across different dimensions.\n\nKick Bastards is a parkour game with a heavy focus on varied and expressive movement mechanics. You will be pushed to master the deep movement systems to overcome varied challenges.\n\nChannel your inner speedrunner as you kick your way through everything at crazy speeds. Challenge yourself and fight for the top spot.\n\n**Repack Features**\n\n- Based on Kick.Bastards-TENOKE ISO release: tenoke-kick.bastards.iso (3,398,254,592 bytes)\n- Game version: v1.0.4\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.2 to 1.8 GB)\n- Installation takes 3-18 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.1 GB\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Copy contents of “_Windows 7 Fix” folder to the game root to be able to play on Windows 7\n- Deep parkour movement system. Kick Bastards combines real world parkour moves with fantastical elements that you can combine and combo to create exciting lines.\n- High speed gameplay. There is NO CAP on your speed so you can build up crazy speed by comboing your moves together.\n- Ultimate kicking simulation!! That’s right you kick stuff in the game called Kick Bastards. In fact you will kick a lot of stuff, so much stuff. All your kicking fantasies will be satisfied.\n- Find your line! Every level is built so that you can find loads of different lines through them, including ones we don’t even know about!\n- Varied and beautiful stages. We put a lot of love and hard work into making the levels both exciting to play and great to look at!",
+    "cover_url": "https://i1.imageban.ru/out/2024/01/10/a99369aed52b2b1a2d25fc7435e9df0d.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f8/ab/f8ab05e1-537f-41fe-a0f1-512009e17d54.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b8/88/b88847e7-1a2c-4521-84c5-cf93b3851b56.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/24/28/24282fd2-8f99-435a-a7bc-a160b7772520.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f8/56/f85682b1-e118-4f92-bf12-149ec0f9d7e8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f7/9c/f79c9b04-97de-4116-a9a4-495c58c04c97.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/72/65/7265ddae-a3be-426e-9077-302f78727c37.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-kick-bastards",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T22:08:22.326250+00:00"
   }
 ]
