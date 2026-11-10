@@ -3339,5 +3339,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T15:53:24.634922+00:00"
+  },
+  {
+    "id": "0c541be6-8304-55fe-9743-f1e7cf51459b",
+    "title": "Decopins2 – v2.2.2",
+    "slug": "decopins2",
+    "categories": [
+      "Tower defense",
+      "Isometric",
+      "3D"
+    ],
+    "size_original": "6.8 GB",
+    "size_repack": "4.9 GB",
+    "description": "Use traditional Japanese finger flick -Decopins- to repel the approaching donuts and prevent them from escaping.\n\nThis time, the cafe has been renovated, and in addition to the donuts, hamburgers also try to escape.\n\nCollect EXP and money to level up your Decopins. Depending on your level, you will also be able to use magic.\n\nWe would like to thank everyone who played the Decopins series, everyone who created wonderful music and sound effects, everyone who created 3D assets, and UE4.\n\n**Repack Features**\n\n- Based on Decopins2-TENOKE ISO release: tenoke-decopins2.iso (7,251,046,400 bytes)\n- Game version: v2.2.2\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 6.8 to 4.9 GB)\n- Installation takes 3-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6.6 GB\n- Language can be changed in game settings\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- You can enjoy simple operations, mainly using the mouse and keyboard.\n- Implemented settings for adjusting the volume of BGM and SE.\n- you can use charge attacks.\n- It also has a snipe mode to decopin donuts in the distance.\n- We have 1-min Decopins challenge(available after clearing Stage 7).\n- Please handle your mouse with care.\n- Please refrain from using Decopin and magic in the real world.\n- You can enjoy Decopins2 even if you haven’t played Decopins1.",
+    "cover_url": "https://i5.imageban.ru/out/2024/08/14/87eac24dbee204c966b6375975feda8e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e5/d7/e5d70c74-68d3-4a83-8f5a-488deb0d4065.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d0/39/d0397083-7af3-4ebe-a144-fb14636d4b26.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f9/f8/f9f86fed-c1a0-4281-8511-5caa7ce59acd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/39/dd/39dd76bc-ab2f-4c6c-9b06-156ff758f25c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c2/65/c2654755-c340-4306-aec3-e1a4bc20858b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6c/16/6c165e0a-6bcd-4f75-8bcb-30ead590c84d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-decopins2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T15:58:24.957937+00:00"
   }
 ]
