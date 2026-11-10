@@ -3277,5 +3277,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T15:38:24.344392+00:00"
+  },
+  {
+    "id": "4a5f5a5b-9002-5469-1df5-c3205f0caed4",
+    "title": "Homeless + Windows 7 Fix",
+    "slug": "homeless",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Horror",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "6.7 GB",
+    "size_repack": "4.6 GB",
+    "description": "Initially, Albert thinks he’s dealing with a harmless and vulnerable homeless person, as usual. But as he uncovers the person’s crimes, he realizes he’s in for a night of madness. This man intends to challenge your beliefs with his bizarre handwritten notes and shatter your sanity. In this nightmare night, as you pass through the darkness, he’s probably lying in wait there, staring at you! It’s not clear who he is and what he wants, but once you figure out his identity, you’ll definitely be shocked.\n\nHomeless is a dark psychological horror game set in the gritty neighborhoods of 1990s New York City. The game utilizes the Unreal Engine 5 to create a realistic and immersive atmosphere, capturing the essence of a terrifying night.\n\nThe gameplay emphasizes the player’s sense of responsibility as a security guard. The level design is intended to make the player feel like a real security guard. You’ll need to check CCTV, patrol the area, and investigate suspicious activity like a real security guard.\n\nThis game focuses on a simple but stressful story rather than complex and and tedious mechanics.\n\nGameplay mechanics include exploration, crime scene investigation, puzzle-solving, and, in some instances, gunplay.\n\n**Repack Features**\n\n- Based on Homeless-TENOKE ISO release: tenoke-homeless.iso (7,232,798,720 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 6.7 to 4.6 GB)\n- Installation takes 4-25 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6.7 GB\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Copy contents of “_Windows 7 Fix” folder to the game root to be able to play on Windows 7",
+    "cover_url": "https://i4.imageban.ru/out/2024/08/19/8e4bcc5d915c8916655e838a75eadfe3.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e9/75/e97597b6-0b53-4f87-a8cf-49550d61539f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c0/74/c074796b-1131-4da7-942d-8a75ac5ef172.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ac/38/ac38de54-6b57-4f9b-9829-c50fdf46645f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/be/edbe0750-b4dc-45bb-99f0-48f1ed1f8832.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/19/1e1979c6-315d-4367-b8c4-537eb15840c6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/75/d0/75d0906f-9f29-4e3f-81e3-f7fea36d6e91.jpg.240p.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3018910/extras/GIF2.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-homeless",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T15:48:20.520910+00:00"
   }
 ]
