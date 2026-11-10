@@ -2241,5 +2241,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T12:48:23.440417+00:00"
+  },
+  {
+    "id": "485b65a5-6d88-5a5d-cf68-52fc9badfcba",
+    "title": "Unterholz – v1.00c + Bonus Soundtrack",
+    "slug": "unterholz",
+    "categories": [
+      "Action",
+      "Exploration",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "10.6 GB",
+    "size_repack": "8.1 GB",
+    "description": "**Repack Features**\n\n- Based on Unterholz-TENOKE ISO release: tenoke-unterholz.iso (11,423,979,520 bytes)\n- Game version: v1.00c; Bonus Soundtrack is included by default\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 10.6 to 8.1 GB)\n- Installation takes 4-21 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 10.5 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- At Your Own Pace – Unterholz is designed as a short, atmospheric experience with several sword combat situations and a few puzzles. The goal is to find out what happened in this forsaken copse, its lost inhabitants and to reach the root of it all. For the most part the mystery is explained via environmental storytelling. Players can explore the game fairly non-linear at their own pace while experiencing a compact semi-open world. The story unfolds naturally along players’ progress in the game world.\n- Atmosphere and Immersion – A mix of diegetic and traditional interfaces combined with seamless gameplay allow for a greater sense of immersion throughout the experience. Traversing the game world, checking your inventory or reading a text will not be interrupted by menus or loading screens. Carefully designed and placed sounds and music specifically composed to evoke certain moods will accompany your hike through the woods.\n- Attention to Detail – I created this game over the course of roughly two years working on it in my spare time. Making the game world as believable and detailed as possible was a main focus during the development. There are a few documents you can find in the game which are designed to work as actual medieval texts within the area of Pomerania during the middle ages where the game takes place. Translated into Early Modern High German by a friend who is a linguist I used an authentic 15th century typeface and placed the letters by hand to achieve the final texture. The resulting document can be inspected from all sides in the game. Historical accuracy has been maintained as far as possible and depending on the assets at my disposal. However, several elements from different timelines have been combined to achieve specific effects. The armour of the main character for example is a decorative armour, which was not typically worn in battle. It is specifically meant as an authentic renaissance interpretation of 15th century armour to romanticize knights like painters did in the early 17th century. Unterholz plays with the classic image of honourable knights and the related imagery in contrast to what actually happened within the game world and its protagonists.\n- Fully Voice Acted – Professional actors lend their voices to various characters that still roam the copse. Heed their words and read between the lines to save yourself and truly learn what befell these forsaken lands.\n- Bonus Soundtrack – The full soundtrack I made for Unterholz comes as a free bonus with the game. I see it as an integral companion to the experience. The creation of the music was interwoven with game since I developed the idea for Unterholz. A few of the tracks were made several years before the actual development started.",
+    "cover_url": "https://i6.imageban.ru/out/2024/11/17/9f04cbe0d0c2830d1d4873c617ceb7d0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e6/6b/e66b7437-f0a4-44ff-8a06-2ef8780959ed.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3c/d3/3cd36da2-6b61-4152-b402-8febd74844fe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f2/ce/f2ceb672-946b-4579-bca4-900e989afc5e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/30/f4/30f4a3ec-76ad-4661-91dd-074cfc508126.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cd/29/cd293e46-4a6b-4a1d-a0ec-d7055cf21e90.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/80/b9/80b94d60-098b-4452-92f7-0faea77d1c6e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-unterholz",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T12:53:22.129127+00:00"
   }
 ]
