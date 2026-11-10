@@ -681,5 +681,39 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T08:38:24.630019+00:00"
+  },
+  {
+    "id": "e5cee2fe-48db-5a48-12cb-e7c4b071e2f6",
+    "title": "Human: Fall Flat – v1092002 (Candyland Update) + Bonus OST",
+    "slug": "human-fall-flat",
+    "categories": [
+      "Exploration",
+      "Logic",
+      "Puzzle",
+      "Sandbox",
+      "Third-person",
+      "Physics-based",
+      "3D"
+    ],
+    "size_original": "2.5 GB",
+    "size_repack": "1.5 GB",
+    "description": "Human: Fall Flat is a hilarious, light-hearted physics platformer set in a world of floating dreamscapes.\n\nIncludes 17 great levels. Over 25million units sold across all formats\nEach dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.\n\nMore Humans, More Mayhem\nNeed a hand getting that boulder on to a catapult, or need someone to break that wall? Online multiplayer for up to 8 players transforms the way Human: Fall Flat is played.\n\nA Blank Canvas\nYour Human is yours to customise. With outfits from builder to chef, skydiver, miner, astronaut and ninja. Choose your head, upper and lower body and get creative with the colours!\n\nWorkshop Wonders\nThe Human: Fall Flat Workshop, unique to Steam is a fantastic tool which, used alongside Unity, enables players to build their own Human: Fall Flat content and share it with others around the world. Not interested in building levels, lobbies or skins yourself? You can also download and explore other people’s creations directly from Steam!\n\nA Vibrant Community\nStreamers and YouTubers flock to Human: Fall Flat for its unique, hilarious gameplay. Fans have watched these videos more than 3 Billion times!\n\nNEW LEVEL ‘FOREST’ AVAILABLE NOW\nThe great outdoors is calling! Grab your friends and explore lush woodland and snowy hilltops in search of rest and relaxation in new level Forest!\nMystery and mayhem are just round the corner, not to mention crashed planes and heavy machinery. Did somebody take a wrong turn?\n\n**Repack Features**\n\n- Based on Human.Fall.Flat.Candyland-TiNYiSO ISO release: tn-humanfallflatcandyland.iso (2,630,973,440 bytes)\n- Game version: v1092002 (Candyland Update)\n- Bonus soundtrack (74 MB) added and included by default\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.5 to 1.5 GB)\n- Installation takes 2-4 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.1 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2021/11/10/254531317653550c0a01af50fcd4e431.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f8/25/f825f2c8-e798-4e02-8ed0-52135f1206e6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bb/9b/bb9b0960-0bfc-4fad-9a62-168eb7e1f3c9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a8/56/a8568bc5-b59d-4b84-9c85-82c9ebfe4259.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/0f/370f7934-01c6-4844-83c5-1a9cc1b9f98a.png.240p.jpg",
+      "http://s01.riotpixels.net/data/7f/96/7f96bb97-e1a0-467c-88fd-541946219d4c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/0b/ce0bace3-e5f9-4b77-9c9c-b931ad7905e8.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/477160/extras/HFF_Copper_World_Red_Rock.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-human-fall-flat",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T08:43:21.934567+00:00"
   }
 ]
