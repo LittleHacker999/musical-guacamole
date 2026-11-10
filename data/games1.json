@@ -6477,5 +6477,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T04:43:26.828640+00:00"
+  },
+  {
+    "id": "a8bcc4b1-4d21-5e37-495d-f5e076dbdd39",
+    "title": "The Backrooms: Expedition",
+    "slug": "the-backrooms-expedition",
+    "categories": [
+      "Exploration",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "7.6 GB",
+    "size_repack": "5.5 GB",
+    "description": "The Backrooms: Expedition is an immersive psychological horror game where you have to explore on a journey through the dark and liminal world of the Backrooms, but be careful, because there may be dangerous creatures on the way.\n\n**Repack Features**\n\n- Based on The.Backrooms.Expedition-TENOKE ISO release: tenoke-the.backrooms.expedition.iso (8,213,358,592 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 7.6 to 5.5 GB)\n- Installation takes 2-8 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 7.5 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Immersive Experience (minimal user interface)\n- Realistic Graphics\n- Entities\n- Multiple Levels",
+    "cover_url": "https://i8.imageban.ru/out/2025/07/06/a5075ea8c2dd3079268d11c085831b99.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e7/92/e79226ed-b93a-4af6-b597-93692ff8473f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/43/ad/43adedc8-b356-4b1f-af63-8e4526c2956a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cb/a1/cba12cce-0c5a-4a89-b72d-f4d74e29cd3d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e4/99/e4997ff1-dd46-4f7e-800c-946eb4aa1926.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f1/f8/f1f87d42-1734-4c58-af99-84acdda856fe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5b/48/5b48e502-f432-4b3b-a9f1-951e2266345b.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-backrooms-expedition",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T04:48:20.822380+00:00"
   }
 ]
