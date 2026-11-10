@@ -4844,5 +4844,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T20:08:25.327768+00:00"
+  },
+  {
+    "id": "01250d1a-8424-5ffd-4901-74d92efa3a0f",
+    "title": "CD 2: Trap Master – v1.0.2",
+    "slug": "cd-2-trap-master",
+    "categories": [
+      "Tower defense",
+      "Deck-building",
+      "3D"
+    ],
+    "size_original": "1.5 GB",
+    "size_repack": "649 MB",
+    "description": "Face off against 40+ types of enemies and defend over 100 bases. Shoot, scorch, slice. Punch, pierce, poison. Bounce monsters into water to drown them. Summon warriors to fight them. So many traps and tricks to exterminate waves of incoming enemies!\n\nCollect cards to craft the deck of your choice. Start from a few basic trap cards, and expand to a versatile deck that could stop a variety of enemies in different terrains. Find powerful synergies with over 100 traps and skills, and test your strategy on the field!\n\nChoose your path and encounter curious events that can change the course of your run. Unfold the dark secrets behind the relentless assaults, and study what it takes to become THE Trap Master.\n\n**Repack Features**\n\n- Based on CD.2.Trap.Master-TENOKE ISO release: tenoke-cd.2.trap.master.iso (1,507,115,008 bytes)\n- CD.2.Trap.Master.Update.v20240330-TENOKE (112 MB) applied over\n- Game version: v1.0.2\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from cumulative 1.5 GB to 649 MB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- 100+ deadly traps and skills to craft your deck\n- Upgrades & Inscriptions to beef up your cards\n- Over 100 cleverly-designed bases to defend\n- 45 enemies with unique abilities to challenge and destroy\n- A treasure system to boost your power\n- Procedural generated system for extensive replayability\n- Events and encounters for an immersive adventure",
+    "cover_url": "https://i5.imageban.ru/out/2024/04/10/d4bdee56321cb57de5016dc61a871361.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/0a/e5/0ae5bf37-949b-4334-a648-7ea53e8da875.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f0/ac/f0acfa0f-3391-4132-a575-b2df69d17e6f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ad/1d/ad1d70fc-2921-4ff8-85d4-bf586e575747.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/08/6f080d29-9f74-475c-8763-201b250af3a4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8f/e8/8fe81cd2-3bc0-4692-9262-bb14bb2e3ef7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f0/45/f04572b1-7a47-487f-a289-d6724cf31c03.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-cd-2-trap-master",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T20:13:22.523338+00:00"
   }
 ]
