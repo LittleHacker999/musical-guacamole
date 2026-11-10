@@ -309,5 +309,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T07:38:22.725720+00:00"
+  },
+  {
+    "id": "7021afb2-8637-55df-adc7-184e1e7eed68",
+    "title": "Baldur’s Gate 3: Digital Deluxe Edition – v4.1.1.6758295 (Patch 8, “The Final” Patch) + DLC/Bonus Content + Multiplayer",
+    "slug": "baldurs-gate-3",
+    "categories": [
+      "RPG",
+      "Isometric",
+      "3D",
+      "Party-based",
+      "Real-time",
+      "Turn-based"
+    ],
+    "size_original": "129.4 GB",
+    "size_repack": "from 80.1 GB",
+    "description": "or\nBaldurs.Gate.3.Update.v4.1.1.7209685-RUNE.rar (Source: scene)\n+\nBaldurs.Gate.3.Language.Pack.v4.1.1.7209685-RUNE.rar (Source: scene)\n\nGather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power.\n\nMysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil.\n\nFrom the creators of Divinity: Original Sin 2 comes a next-generation RPG, set in the world of Dungeons & Dragons.\n\nChoose from 12 classes and 11 races from the D&D Player’s Handbook and create your own identity, or play as an Origin hero with a hand-crafted background. Or tangle with your inner corruption as the Dark Urge, a fully customisable Origin hero with its own unique mechanics and story. Whoever you choose to be, adventure, loot, battle and romance your way across the Forgotten Realms and beyond. Gather your party. Take the adventure online as a party of up to four.\n\nAbducted, infected, lost. You are turning into a monster, but as the corruption inside you grows, so does your power. That power may help you to survive, but there will be a price to pay, and more than any ability, the bonds of trust that you build within your party could be your greatest strength. Caught in a conflict between devils, deities, and sinister otherworldly forces, you will determine the fate of the Forgotten Realms together.\n\nForged with the new Divinity 4.0 engine, Baldur’s Gate 3 gives you unprecedented freedom to explore, experiment, and interact with a thriving world filled with characters, dangers, and deceit. A grand, cinematic narrative brings you closer to your characters than ever before. From shadow-cursed forests, to the magical caverns of the Underdark, to the sprawling city of Baldur’s Gate itself, your actions define the adventure, but your choices define your legacy. You will be remembered.\n\nThe Forgotten Realms are a vast, detailed, and diverse world, and there are secrets to be discovered all around you – verticality is a vital part of exploration. Sneak, dip, shove, climb, and jump as you journey from the depths of the Underdark to the glittering rooftops of Baldur’s Gate. Every choice you make drives your story forward, each decision leaving your mark on the world. Define your legacy, nurture relationships and create enemies, and solve problems your way. No two playthroughs will ever be the same.\n\nThis repack IS partially backwards compatible with my previous BG3 repack. You can rehash the following files to save 15.5 GB of traffic:\n\n**Repack Features**\n\n- ATTENTION! Microsoft C++ Redist 2017 package have to be installed PRIOR to repack installation. You can get it here: https://bit.ly/2P9voNn\n- Based on scene Baldurs.Gate.3.v4.1.1.6758295-RUNE ISO release: rune-baldurs.gate.3.v4.1.1.6758295.iso (138,683,809,792 bytes)\n- Baldurs.Gate.3.Language.Pack.v4.1.1.6758295-RUNE (219 MB) applied over\n- Game version: v4.1.1.6758295 (Patch 8, “The Final” Patch); in-game bonuses of DE are included and activated\n- Online Fix with multiplayer support via Steam is available in NoDVD folder after installation, thanks to 0xdeadc0de!\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format ripped, NOTHING re-encoded\n- Selective Download feature: you can skip downloading and installing of bonus content (MP3 OST, ArtBook, etc) and toolkit/editor for mods creation\n- Significantly smaller archive size (compressed from cumulative 129.4 to 80.1~81.2 GB, depending on selected components)\n- Installation takes from 45 minutes (on 24-threads CPU + SSD) up to 2.5 hours (on 4-threads CPU + HDD)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 156.4 GB\n- Language can be changed in the included custom launcher\n- To play on Windows 7, open game’s “bin” folder in Explorer, select “bg3_dx11.exe” file, Right-Mouse Click for menu, PRESS “SHIFT” ON YOUR KEYBOARD AND WHILE KEEPING PRESSING IT CLICK ON “RUN AS ADMINISTRATOR”. You can unrpess “SHIFT” once the game launches\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- fg-05.bin\n- fg-08.bin\n- fg-11.bin\n- fg-optional-bonus-content.bin",
+    "cover_url": "https://i1.imageban.ru/out/2023/08/06/aab77d9e6a11bbc5db3cc08cb2bc8d5b.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/63/b0/63b0251e-f364-415d-9b89-d91bfe73d6d2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/00/c4/00c44d88-8120-4ba8-9696-faf98cc26105.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c2/25/c225a126-b295-4db0-b8ce-0002f85dd3f6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/07/be/07be66c4-7c38-420c-81eb-0fb4cfae35df.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/36/1a/361ac8ed-7c16-4c9e-a971-608f11cec854.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/72/db/72dbaf04-5bb6-426e-9ce8-4053952d63a9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-baldurs-gate-3",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T07:43:24.832198+00:00"
   }
 ]
