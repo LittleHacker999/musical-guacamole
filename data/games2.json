@@ -2330,5 +2330,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T13:03:22.526933+00:00"
+  },
+  {
+    "id": "aa7e67d3-cd15-5ebd-ce20-72fb0e49918e",
+    "title": "Two Falls (Nishu Takuatshina) + Windows 7 Fix",
+    "slug": "two-falls-nishu-takuatshina",
+    "categories": [
+      "Adventure",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "10 GB",
+    "size_repack": "6.2 GB",
+    "description": "Meet Jeanne and Maikan – Jeanne is a strong-willed French woman who set sail to the colonies of Nouvelle-France, hoping to start a better life overseas. After her ship runs aground, she and the dog Capitaine emerge as its sole survivors. Forced to weather the dangers of Canada’s uncharted wilderness, her faith in God will be tested as she makes her way to Quebec. Will she remain a Saint in the face of impossible odds? Or commit grave sins for the sake of survival? A young hunter-gatherer from an isolated Innu community, Maikan is the great-grandson of a medicine man, and has never known what life was before the arrival of white men. After discovering a sinister phenomenon that threatens the future of his people, he sets off on a journey west, hoping to uncover the mystery behind the land’s defilement. Tradition will guide his path through unfamiliar wilderness. But nothing can prepare him for first contact with the outsiders. [i]Will you dare to experience this thrilling and enthralling mystery?[/i]\n\nA story told through multiple perspectives – As you play through Two Falls, you’ll uncover the distinct realities and cultures of Jeanne and Maikan, each with their unique perspective on life. With two distinct artistic and musical directions, you’ll interpret the events from their points of view and discover that a single event can have vastly different meanings for each character. The game’s mechanics serve the story, with detective-like scene inspections and exploration of unique 17th-century environments. With each decision, you’ll be drawn deeper into the story, questioning your own beliefs and becoming fully immersed in the historical inspirations of the game.\n\nMake your decisions matter – While the story of Two Falls follows a linear path, your choices and actions within the game will have an impact on how Jeanne and Maikan evolve throughout their journey. As they come to terms with the upheaval of their familiar world, you’ll feel their struggles and triumphs in a deeply immersive experience.\n\nIn collaboration with indigenous minds – Two Falls is a game about Indigenous stories, created in collaboration with Indigenous creative minds. The composer (Eadsé), art director, writer, some actors and 3D artists all come from various Native communities from Canada. We also work with a Council of Elders composed of First Nations members, who advise, guide, and explain which versions of the story they want to put forward. Two Falls is a story told through a game.\n\n**Repack Features**\n\n- Based on Two.Falls.Nishu.Takuatshina-SKIDROW ISO release: sr-twofallsnishutakuatshina.iso (10,773,297,152 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 10 to 6.2 GB)\n- Installation takes 4-19 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 10.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Visit breathtaking and immersive environments crafted with Unreal Engine 5.\n- Immerse yourself in the adventure through two unique perspectives, with distinct artistic and sound directions.\n- Meet fascinating and contrasting characters that will challenge your beliefs and values.\n- Unfold a rich, captivating, and emotionally charged storyline.\n- Interact with a lovable canine companion that will accompany you on your journey.\n- Enjoy an authentic and original soundtrack created by a talented Indigenous musician and singer.\n- Run “KexSetup_x64Rel.exe” from “_Windows 7 Fix” folder and install that extension\n- Open “TwoFallsBinariesWin64TwoFalls-Win64-Shipping.exe” file properties in Explorer, then “VxKex” tab\n- Check “Enable VxKex for this program” and “Report a different version of Windows, Windows 10” checkboxes, Apply, OK\n- Run the game via “Two Falls DX11” desktop icon\n- If you experience gfx bugs or crashes, copy all DLLs from “_Windows 7 FixAdditional DLLs” to “TwoFallsBinariesWin64” folder",
+    "cover_url": "https://i1.imageban.ru/out/2024/11/10/e0298532849ee2260cfc7e1a2166343e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b3/f8/b3f81104-e2f7-49f1-8dce-88f6a2447a6d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b6/0d/b60d6a72-c77b-4787-b62a-b322be9d1dbf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/e9/fbe9d063-73bf-4f46-9533-121f31d6e8a6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/18/43/1843f971-ae20-4d12-8959-a86441eaeb4b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/34/f0/34f0ae81-c817-4619-af16-a5f224ffb6b9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9c/9f/9c9fc0b3-4c31-400b-ad13-8d629868cbad.jpg.240p.jpg",
+      "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1671740/extras/3.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-two-falls-nishu-takuatshina",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T13:08:22.528035+00:00"
   }
 ]
