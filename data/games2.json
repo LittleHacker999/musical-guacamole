@@ -28,5 +28,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T06:53:22.021278+00:00"
+  },
+  {
+    "id": "f8cf1e49-d3a5-53c2-a6e9-3c74f50a9957",
+    "title": "Ratopia, v1.0.0500  (Release) + Bonus OST",
+    "slug": "ratopia",
+    "categories": [
+      "Strategy",
+      "2D",
+      "Management"
+    ],
+    "size_original": "2.8 GB",
+    "size_repack": "527 MB",
+    "description": "**Repack Features**\n\n- Based on Ratopia-TENOKE ISO release: tenoke-ratopia.iso (2,975,946,752 bytes)\n- Game version: v1.0.0500  (Release)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in FLAC format nullified, NOTHING re-encoded. Bonus OST in MP3 format is included by default\n- Significantly smaller archive size (compressed from 2.8 GB to 527 MB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.8 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Economically Active Ratizens – The citizens of Ratopia each have their own wealth and unique characteristics. There is no such thing as a free lunch! Supply jobs and services for your ratizens to make them all happy.\n- Create Extraordinary Policies – Make a detailed policy to tax them all! Shouldn’t the people all work tirelessly for more profit? Create or prevent social disasters with your own policies.\n- Diverse Adventures Placed Underworld – Explore and find the remains of the great old rats. Bring prosperity to the city through great expeditions. Some adventures pose the possibility of awaking up apex predators, but who’s to worry?",
+    "cover_url": "https://i5.imageban.ru/out/2025/05/05/fa7103fc01049f4ffaa9b2ab5810a76e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e6/a4/e6a4a0d8-b3e8-4ece-a2ae-473ed6ab66e4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/70/9e/709e590a-4d5e-45d9-8a51-f14393a7c136.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b6/79/b67945d0-3452-469a-ae87-33957c355232.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/4f/e64f063d-549f-47c4-b4f2-b9ade1657aae.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/d9/a7d997f9-16ec-40d0-ad53-458ff1085618.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/46/20/4620bc76-efe6-4dd7-b9ce-9350ac0aa345.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2244130/extras/Store_Work.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ratopia",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T06:58:22.229339+00:00"
   }
 ]
