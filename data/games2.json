@@ -431,5 +431,38 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T07:58:21.927644+00:00"
+  },
+  {
+    "id": "83ed7742-1151-530b-c74c-6b48a88dc433",
+    "title": "Sandwalkers – v2.0.0 (Release) + Bonus Soundtrack",
+    "slug": "sandwalkers",
+    "categories": [
+      "RPG",
+      "Content randomization",
+      "Side",
+      "2D",
+      "Post-apocalyptic",
+      "Turn-based"
+    ],
+    "size_original": "2.4 GB",
+    "size_repack": "589 MB",
+    "description": "Every decade, the Mka tribe sends caravans of adventurers into the Phithi, the meteorological chaos that keeps the Uwando tribes isolated from each other and makes life outside the refuges almost impossible.\n\nTheir mission: to establish diplomatic and trade relations, to explore and reclaim the lands left to the mercy of monsters and pirates, and, most importantly, to plant a new tree city that can become a refuge for the Mka and their allies. Regardless of the success or failure of their mission, the caravans must send the memories they have gained back to the capital, using the crystospheres carried by traveling beetles.\n\n**Repack Features**\n\n- Based on Sandwalkers-TENOKE ISO release: tenoke-sandwalkers.iso (2,582,986,752 bytes)\n- Game version: v2.0.0 (Release)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in WAV format nullified, NOTHING re-encoded. Bonus OST in MP3 format is included by default\n- Significantly smaller archive size (compressed from 2.4 GB to 589 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Guide a caravan of adventurers through varied landscapes.\n- Fight hordes of pirates, wizards and monsters, and survive acid rain, storms and heat waves.\n- Rescue refugees, seek allies to support you and stir up the past in search of the causes of Phithi.\n- Keep hope: in this hostile desert, the caravaneers’ faith in their mission is all that protects them from certain death.\n- Progress by passing on your knowledge to a new caravan.\n- Make choices that will affect your future expeditions.\n- Each character has different powers. It’s up to you to explore lost ruins as an archaeologist or to track down massive creatures as a hunter.\n- Don’t underestimate the weather! It conditions the movements of caravanners and the outcome of confrontations.\n- Repair the broken climate, and put an end to centuries of wandering.",
+    "cover_url": "https://i6.imageban.ru/out/2025/04/10/cfe044d179b90545c2ec2bbe23d89e63.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/4b/0b/4b0be32e-53ed-413b-b8a1-82c1da1f1a32.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8f/37/8f37ea96-61a6-4cb2-91f8-de44753c8fab.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c8/3e/c83e4612-c113-4df0-b111-439092263da6.png.240p.jpg",
+      "http://s01.riotpixels.net/data/25/53/255336b8-b5d3-4d12-99da-565098c9d7cb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/96/1e/961e926f-8050-4d45-9988-67903b9ba763.png.240p.jpg",
+      "http://s01.riotpixels.net/data/20/14/20144048-31d7-461e-8d0e-b58c621b4b30.jpg.240p.jpg",
+      "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1639080/extras/gif_fight_2_with_borders.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sandwalkers",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T08:03:23.533773+00:00"
   }
 ]
