@@ -6200,5 +6200,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T23:53:21.929023+00:00"
+  },
+  {
+    "id": "17dadd41-1df2-5baf-5c41-93be124ba440",
+    "title": "Paraopticon",
+    "slug": "paraopticon",
+    "categories": [
+      "Logic",
+      "Puzzle",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "3.5 GB",
+    "size_repack": "1.1 GB",
+    "description": "Paraopticon is a Spot the Difference / Puzzle Game, where you are a security guard that is task to compare camera feeds and spot and report different events to survive the night shift.\n\n**Repack Features**\n\n- Based on Paraopticon-TENOKE ISO release: tenoke-paraopticon.iso (3,770,288,128 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.5 to 1.1 GB)\n- Installation takes 2-3 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.5 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- The rules are simple:You have 15-30 ingame-minutes to memorize the rooms.\n- At 12:00 AM Anomalies will appear; You have to report them;\n- Too many anomalies unreported will have you killed.\n- You have to make it to 6:00 AM.\n- Keep your eyes peeled\n- Be aware: hundreds of anomalies per level and thousands of possibilities.\n- Be scared: special events an entities to observe and save yourself from.\n- Be prepared: use different items to help you find the anomalies.\n- HD Graphics.\n- Many different Items.\n- Alot and i mean aaaaalot of Anomalies.",
+    "cover_url": "https://i4.imageban.ru/out/2023/10/20/78fd3a4cd3af52cb86b6047c0ffd5aeb.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/4f/b8/4fb8bcc3-7e6f-48ed-b078-ea5a6baeb6c6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/57/4b/574b8473-a171-4405-8a22-4414743a32d2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/a3/e6a30f73-1511-4015-bea5-91b47557f94a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0f/b6/0fb67ede-0c8f-4bed-8c76-1ce20f1b2dd5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/9a/019a03eb-5365-47af-bb6a-9ac9789553d2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cd/03/cd032017-c553-49d6-8289-add8f14067a0.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-paraopticon",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T23:58:21.322815+00:00"
   }
 ]
