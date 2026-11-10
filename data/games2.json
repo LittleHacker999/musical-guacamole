@@ -1083,5 +1083,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T09:43:24.226552+00:00"
+  },
+  {
+    "id": "7fe3b955-86bf-5ccb-8a61-2c71f4bf36f6",
+    "title": "Carnaval Simulator – v1.2.5",
+    "slug": "carnaval-simulator",
+    "categories": [
+      "Lifestyle",
+      "Management",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "7.6 GB",
+    "size_repack": "2.7 GB",
+    "description": "**Repack Features**\n\n- Based on Carnaval.Simulator-TENOKE ISO release: tenoke-carnaval.simulator.iso (8,143,591,424 bytes)\n- Game version: v1.2.5\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 7.6 to 2.7 GB)\n- Installation takes 1-5 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 7.6 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- ️BUILD – Build, design and manage your own parade float. Add, resize, rotate and recolor props, adding more carts and much more. Eventually put these props into motion to amaze the public.\n- DRIVE – Drive your master piece through the streets and collect your results. Try to finish first as you compete against others for victory.\n- PLAY TOGETHER – Connect and play with each other up to 8 players. Everyone creates their own parade float for the parade. In the end, you all rate each other’s creations. The person with the most points wins!\n- LIGHT SHOWS – Customize your very own light shows with various options at your disposal such as creating light groups, syncing to music, dimming and much more. Inspired by real life electrical parades.\n- FIRST PERSON – Walk around into the crowd and on the float to experience the parade in first person mode like you would in real life.\n- LEVEL UP – Earn experience and level up to unlock more props and features for crafting bigger and more advanced parade floats.\n- PARADE SCENARIOS – Progress through all scenario levels that familiarize you with the mechanics of the game by offering unique challenges. There is also sandbox mode with infinite money and even more gamemodes.\n- ️STEAM WORKSHOP – Subscribe to your favorite mods in the Steam Workshop. Allowing you to customize your parade float in endless ways by using custom props, custom parade scenarios, music and used-made floats.\n- ️AUTHENTIC DESIGNS – The designs are fully authentic, as we have obtained permission from various float-building organizations.",
+    "cover_url": "https://i2.imageban.ru/out/2025/02/24/13b9122c7609b4e43263153597a1cb69.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/86/a2/86a21065-6018-4f2d-b7ea-1833d6095afe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4d/10/4d10488d-3f31-430b-9b9e-a491ee6a2dde.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a5/f0/a5f03588-2c18-4f23-9b3b-7d801255e20a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c6/02/c6024536-dddf-49f8-bbce-cd0283c07e4a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/89/47/89470472-d173-4dd1-9651-c4d7bf68a823.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/e2/7de24b94-689b-4dba-bca4-7e2c1a608550.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2659710/extras/parade_gif.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-carnaval-simulator",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T09:48:22.323694+00:00"
   }
 ]
