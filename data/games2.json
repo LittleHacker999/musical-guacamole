@@ -1388,5 +1388,38 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T10:33:24.631284+00:00"
+  },
+  {
+    "id": "625240e1-6bf7-5145-ab37-691e7ace4f91",
+    "title": "Cryptical Path",
+    "slug": "cryptical-path",
+    "categories": [
+      "Arcade",
+      "Content randomization",
+      "Side",
+      "Top view",
+      "2D",
+      "3D"
+    ],
+    "size_original": "3.5 GB",
+    "size_repack": "1.8 GB",
+    "description": "CHOOSE YOUR OWN PATH – Cryptical Path is not just another rogue-lite, it allows you to build the rooms you want and manipulate the dungeon you are in. It is the first roguelite-builder, where you can express your creativity through thousands of possibilities. Forge your path through meticulously chosen rooms, sculpting an adventure that reflects your distinctive style and strategy!\n\nSEIZE BACK CONTROL – Take back control of the ominous depths of the Hexium, a prison forged by your own hands to confine malevolent souls. Unravel the mysteries of your creation and navigate treacherous landscape, where every shadow conceals a potential threat, and every step forward brings you closer to the wrath of those you have condemned to an eternity of darkness.\n\n**Repack Features**\n\n- Based on Cryptical.Path-SKIDROW ISO release: sr-crypticalpath.iso (3,753,932,800 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.5 to 1.8 GB)\n- Installation takes 2-5 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.8 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Roguelite-builder: The ability to carve your dungeon, increasing the replayability and the control you have in each and every run.\n- Immersive world: Explore a beautifully crafter 3D side-scroller.\n- Fast paced action: Embody the Architect, a dynamic character that can dodge, dash and slash in the blink of an eye!\n- Constant progress: Unlock powerful items and choose which talents to master.",
+    "cover_url": "https://i6.imageban.ru/out/2025/02/01/e2e6d858b7542e3c1255ec03ce22b351.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e3/80/e380190d-2a89-4f80-ad2d-83a07574f023.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/cc/cecc20e3-4b14-4198-a302-5af5c0024a0b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/be/dd/beddf8e1-d32c-4392-a637-babaf3a85925.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/3d/b33d21e5-fbde-4b58-93a7-89292c903988.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3f/1d/3f1daeda-ecdf-49a5-ba66-f11d7a5a3b10.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/34/2c347705-e181-4670-85f8-73cef9e006ba.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2549380/extras/FightYourWayOut_iteration_1__1_.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-cryptical-path",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T10:38:22.429414+00:00"
   }
 ]
