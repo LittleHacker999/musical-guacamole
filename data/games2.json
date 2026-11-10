@@ -836,5 +836,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T09:03:21.825870+00:00"
+  },
+  {
+    "id": "5db4834a-4a2c-523d-db60-066f23b065ec",
+    "title": "The Phantom – v1.013",
+    "slug": "the-phantom",
+    "categories": [
+      "Arcade",
+      "Beat 'em up (Brawler)",
+      "Side",
+      "2D"
+    ],
+    "size_original": "2.1 GB",
+    "size_repack": "1.2 GB",
+    "description": "The Phantom is an arcade-style beat-em-up coming to PC and consoles. Play as The Phantom or his partner, Diana Palmer, in this 14-level adventure. The feared pirates of the Singh Brotherhood are battling for power and threatening The Phantom’s legacy, and it’s up to you to stop them. Use your hand-to-hand fighting skills and trusty weapons to dispatch this evil, and call in assistance from your animal friends Fraka the falcon and Devil the wolf. The Phantom features a brand-new story approved by King Features. Experience this canon addition through full-screen cut scenes and captivating in-game visuals, hand-illustrated and animated frame-by-frame by seasoned comic book artists and Art Of Play’s dedicated in-house 2D creative team.\n\n**Repack Features**\n\n- Based on The.Phantom-SKIDROW ISO release: sr-thephantom.iso (2,243,440,640 bytes)\n- Game version: v1.013\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.1 to 1.2 GB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2025/03/14/a971c5539782b99bfde7e3e788638cfa.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/2a/4a/2a4adadd-931b-4180-a583-296315774b62.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6d/f5/6df559ad-211f-4cc0-bd9a-f9c85f0423a7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/ab/f5abb013-8bf6-49a2-a1b7-558293374828.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/95/a2955673-7bd9-44a0-b840-4a430dca9624.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/6f/fc6f8b8f-25bc-4b28-969c-6101ac06775f.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-phantom",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T09:08:23.232181+00:00"
   }
 ]
