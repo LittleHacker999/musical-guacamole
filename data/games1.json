@@ -5557,5 +5557,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T02:13:21.030031+00:00"
+  },
+  {
+    "id": "f41e03e0-775f-5736-d84a-1edb01952301",
+    "title": "Candy Shop Simulator",
+    "slug": "candy-shop-simulator",
+    "categories": [
+      "Lifestyle",
+      "Management",
+      "First-person"
+    ],
+    "size_original": "3.2 GB",
+    "size_repack": "630 MB",
+    "description": "Embark on a sweet adventure as you step into the world of confectionery entrepreneurship. Open your own candy shop and dive into the delicious realm of candies, chocolates, and sugary delights.\n\n**Repack Features**\n\n- Based on Candy.Shop.Simulator-TENOKE ISO release: tenoke-candy.shop.simulator.iso (3,476,860,928 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.2 GB to 630 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.2 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- MAKE YOUR OWN PASTRIES – Unleash your creativity in the kitchen and craft mouthwatering pastries that will tantalize taste buds. From delectable chocolates to irresistible gummies, experiment with flavors and designs to create a signature collection that sets your candy shop apart.\n- SELL YOUR PRODUCTS – Showcase your sugary masterpieces to the world! Set up your candy shop for eager customers and watch as the aroma of sweetness attracts a bustling crowd. Manage sales, interact with customers, and ensure that every delightful treat finds its way into the hands of happy patrons.\n- MANAGE AND EXPAND YOUR CANDY SHOP – Become the ultimate candy tycoon by managing every aspect of your candy shop. From inventory and pricing to marketing strategies, make wise business decisions to maximize profits. Expand your shop, unlock new recipes, and discover exciting ways to keep your customers coming back for more.",
+    "cover_url": "https://i2.imageban.ru/out/2025/09/16/303f6e8b38b8251ccf2077603072e356.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/59/c6/59c63179-4272-4e1c-829e-260ae406cb82.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/e7/5de7ca8d-23b9-4437-bcb0-803ed78d8b53.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/31/73/31732efa-723b-4a8d-9855-3efe156284ae.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b1/a5/b1a5874f-acf4-4f1d-9ac2-90ced62b5796.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/df/8edf1924-1c0d-482d-9aac-799d3cfe84b4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/19/26/19263b8f-2a73-4659-bdf4-ae7ebb6fcadb.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-candy-shop-simulator",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T02:18:22.431834+00:00"
   }
 ]
