@@ -6170,5 +6170,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T23:48:22.025601+00:00"
+  },
+  {
+    "id": "a97c5d4a-2db9-588e-67c0-9f27ff3a95f7",
+    "title": "Dead Signal + Windows 7 Fix",
+    "slug": "dead-signal",
+    "categories": [
+      "Adventure",
+      "Horror",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "5.3 GB",
+    "size_repack": "3.6 GB",
+    "description": "The Story:\nAs of 2021, there are over 85 million security cameras in the United States alone. More than half are easily breached—they monitor businesses, public parks, mass transportation… even your homes. The act of placing hidden cameras in such areas is also common, in fact there is a whole business behind it.\n\nThis presents a monetization option for shady individuals and organizations. Organizations that operate behind the shadows of the Darknet. You happen to work for one of them, and they call themselves . Ran by ‘The Shade’ – your employer.\n\nYou are tasked in appeasing your employer by monitoring the camSPY network. A network of hacked and hidden cameras. You are to report anything of “interest” to satisfy your customers. But time is money, and you must meet your hourly quota or face termination.\n\nBeing the entrepreneur that ‘The Shade’ is, he has noticed that you live in a sketchy part of the city and decided to take advantage of this. You are to deliver “packages”’ to tenants in your apartment complex throughout your shift.\n\n**Repack Features**\n\n- Based on Dead.Signal-TENOKE ISO release: tenoke-dead.signal.iso (5,729,722,368 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.3 to 3.6 GB)\n- Installation takes 3-12 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.3 GB\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Copy contents of “_Windows 7 Fix” folder to the game root to be able to play on Windows 7\n- Monitor: Throughout the night you’ll be required to monitor all 20 cameras. Successfully spotting the differences that arise and selecting the appropriate report category will help reach your hourly quota. Occasionally remote camera repairs and connection errors will impede progress and demand your immediate attention.\n- Move: Whether it’s fixing connection errors with the satellite, or collecting questionable packages to deliver, you’ll need to access the roof. Thankfully it’s only a short elevator ride away from your apartment. Move quickly as leaving your place unlocked could allow for uninvited guests to enter. When returning input the generated keypad code to lockup.\n- Survive: Regardless of where you are in the apartment complex, any moment could be your last. Watch not only the cameras closely, but also your own surroundings. Managing both will be the only way to see the sun rise again.",
+    "cover_url": "https://i2.imageban.ru/out/2023/10/23/d0a22038bd5be0b9617e659416bf10fd.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/06/16/06162ddd-9b53-45d4-8117-137663b91204.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/13/2c138510-85d6-4e97-a9fd-f28ac6769565.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/70/22/702298ff-ba4c-467a-bfb3-7984a4333e24.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dc/45/dc45f88d-b26e-4458-8deb-b6a9f5d95a85.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/13/00/1300bded-1fe7-470a-bfa8-ce6f51db432d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/b0/8cb0766c-a22c-42e8-b325-bb91c648b1f2.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dead-signal",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T23:53:21.929023+00:00"
   }
 ]
