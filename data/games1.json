@@ -6529,5 +6529,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T04:53:22.925308+00:00"
+  },
+  {
+    "id": "29cc96d3-e45c-5e4e-1e90-dba13e1a35e7",
+    "title": "About a Boy",
+    "slug": "about-a-boy",
+    "categories": [
+      "Adventure",
+      "Point and click",
+      "Side",
+      "2D"
+    ],
+    "size_original": "2.6 GB",
+    "size_repack": "1.4 GB",
+    "description": "The game genre is puzzle point-and-click adventure that is narrated interactively with the characters and the gameplay cores, which generally include pathfinding, puzzles, and dialogues.\n\n“About a Boy” immerses players in a narrative-driven journey set in a future city devoid of humanity as we know it. Through the eyes of Miro, a boy with the unique ability to perceive people based on their animal temperaments, players embark on a puzzle point-and-click adventure. This game blends a rich, interactive story with challenging puzzles and dialogues, inviting players to unravel the mysteries of a world where every character embodies different facets of society. Its unique premise and gameplay promise an engaging experience that delves deep into themes of destiny, identity, and the essence of human connections in a seemingly desolate future.\n\nEach of the game characters represents a group of people in the community. “Miro”, the main character of the game, inherits a visual feature that can see humans based on their animal temperament.\n\n**Repack Features**\n\n- Based on About.a.Boy-TENOKE ISO release: tenoke-about.a.boy.iso (2,779,865,088 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.6 to 1.4 GB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.5 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2025/07/01/230ba98119acf7287283d13db26e35ad.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/c7/30/c7303ed3-c0c5-4e1e-8419-985242d00f6e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/13/7d13b631-cee2-4bab-9c3f-0ec78af7fd96.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ac/c1/acc10ae9-3ca7-4796-866b-45925336b1f6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/9b/fb9be717-33fc-4419-8999-8e6b2a8a1864.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2e/9f/2e9f3951-7ad1-4f1e-9414-d07d93ad7df9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9a/28/9a282827-9e70-4ea8-941b-477e03421f8c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-about-a-boy",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T04:58:20.629163+00:00"
   }
 ]
