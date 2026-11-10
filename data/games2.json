@@ -5810,5 +5810,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T22:48:24.031788+00:00"
+  },
+  {
+    "id": "456ed4eb-7c58-5ca6-8b6a-7715979e2e03",
+    "title": "Truck & Logistics Simulator – v1.0 (Release)",
+    "slug": "truck-and-logistics-simulator",
+    "categories": [
+      "Driving",
+      "Simulation",
+      "Open world",
+      "3D"
+    ],
+    "size_original": "964 MB",
+    "size_repack": "667 MB",
+    "description": "Load pallets, containers, vehicles & more!\nEach mission is unique and comes with its own challenges. Start up your business by loading pallets into vans with a forklift. Then work your way up to loading heavy containers with telescopic handlers onto trailers. Maneuver vehicles such as cars, forklifts, skid-steers, wheel-loaders and more onto your trailers. Hundreds of unique and challenging missions and deliveries await you!\n\nDrive cars, vans, trucks & more!\nDrive and customize over 30 unique vehicles. From minivans to heavy trucks, each vehicle has its own detailed interior and realistic driving physics. Vehicles can be damaged, causing axles to bend and making driving difficult. Refuel and repair at service stations to get back on the road in full swing. Make each vehicle your own by customizing it to your liking. Stick to the traffic rules or risk getting fined in random police traffic controls and radar speed cameras. Push your driving skills to the limit in many diverse and challenging missions.\n\n**Repack Features**\n\n- Based on Truck.and.Logistics.Simulator-RUNE ISO release: rune-truck.and.logistics.simulator.iso (1,010,827,264 bytes)\n- Game version: v1.0 (Release)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 964 to 667 MB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.7 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Over 30 unique vehicles with realistic interiors\n- Huge 28km² open world (no hidden walls!)\n- Cross-platform multiplayer with up to 24 players\n- Escort convoys in co-op multiplayer missions\n- Full day / night cycle\n- Hundreds of different challenging missions\n- Realistic driving physics and damage system\n- Vehicle customization\n- Random police traffic controls & speed cameras",
+    "cover_url": "https://i7.imageban.ru/out/2023/12/01/e92bea824ae196fcd244a778d4f02c98.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/1c/41/1c410a4f-06d9-4bdc-8447-5cb96d6a5005.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/63/e36368b6-215c-496c-9f23-3ed9cf1938d2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3e/48/3e480c7b-346d-4abb-9420-e0506f926572.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/56/8c/568c553b-045c-4faa-9e7b-0ec730d65ab9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d1/2c/d12caefc-3f68-4660-a49d-a4ce4a4d5d20.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/db/76/db76bcc2-b12b-4588-badf-9ccf6519f4d7.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-truck-and-logistics-simulator",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T22:53:22.531323+00:00"
   }
 ]
