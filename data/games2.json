@@ -4964,5 +4964,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T20:28:21.536306+00:00"
+  },
+  {
+    "id": "bd0f1f9c-af62-57fe-99dc-7212cd8f17fb",
+    "title": "Raw Metal",
+    "slug": "raw-metal",
+    "categories": [
+      "Action",
+      "Stealth",
+      "Beat 'em up (Brawler)",
+      "Third-person",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "5.9 GB",
+    "size_repack": "678 MB",
+    "description": "You are a lone scavenger on the distant, barren exoplanet Charybdis. In search of gear and supplies, you infiltrate the depths of Katabase 6, a massive mining facility run by a corrupt megacorporation known as Orpheus Tech. Sneak through the mines undetected, cleverly utilizing various gadgets and equipment to your advantage, but beware; if you’re caught, you’ll need to rely on your combat skills for a fighting chance to escape.\n\nHigh-Stakes Stealth\nUse taser darts, noisemakers, improvised concussion grenades, and more to slip past and isolate guards. The shadows are your domain; manipulate your environment and your enemies well enough and they’ll never see you coming.\n\nBreakneck Combat\nCombat in Raw Metal is fast and punishing. The guards stationed at Katabase 6 are stronger and more heavily armored than you, so fighting them head on will take skill, cunning, and a great degree of risk. However, mastering combos and using your environment will allow you to come out on top, and yield far greater rewards. Depending on whether it is initiated through a clever ambush or a stealth slip-up, combat can range from a calculated risk to a desperate fight for survival.\n\n**Repack Features**\n\n- Based on Raw.Metal-TENOKE ISO release: tenoke-raw.metal.iso (6,366,173,184 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Duplicate game copy ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.9 GB to 678 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Blend of top-down stealth and third-person beat ’em up combat\n- Freeform combo system that rewards aggression, improvisation, and precise timing and positioning\n- 50+ unique gear pieces to find and upgrade\n- Distinct visuals for each gear piece to customize the look of your character\n- Risk vs. reward extraction system that grants you the choice of cashing out your loot, or pushing deeper into the facility\n- 3 memorable and challenging boss fights, each with their own fighting styles, twists, and story development\n- 9 hand-crafted levels to infiltrate, with a few variants each to mix up your approach each time\n- Environmental hazards and enemy variants to keep you on your toes as the game progresses\n- 5 deployable gadgets to utilize to your advantage in stealth and combat alike",
+    "cover_url": "https://i1.imageban.ru/out/2024/03/25/25f795ba8fa768ee9554d4452f551db8.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/aa/97/aa9726c1-34e5-4cd6-90be-3b63e3b4487e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/12/17/12176906-9820-4ef5-b1d2-92384c3253f7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3c/ee/3cee4e9f-7baa-4a70-9973-e5a0f637cd61.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3e/27/3e278931-bc85-49f2-ace4-fb51579fe061.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/27/5c/275c9df3-b217-41d1-86c1-c57d31aa6c0a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dc/d7/dcd79504-d52e-44b2-b8e5-ff769ed08ba2.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-raw-metal",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T20:33:21.327491+00:00"
   }
 ]
