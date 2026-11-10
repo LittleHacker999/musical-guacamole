@@ -4944,5 +4944,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T00:33:23.729537+00:00"
+  },
+  {
+    "id": "4189077f-5aa5-5b94-f20a-736dc055aa78",
+    "title": "Beneath – v0.9920f + DLC",
+    "slug": "beneath",
+    "categories": [
+      "Action",
+      "Adventure",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "10 GB",
+    "size_repack": "5.9 GB",
+    "description": "Seasoned diver Noah Quinn’s routine expedition plunges him into chaos, trapping him in the depths of the ocean, where an ancient evil lurks. As supplies dwindle and nightmarish creatures close in, Noah must confront horrifying mutations and unravel a sinister conspiracy that threatens humanity itself.\n\nWith his daughter’s life hanging in the balance, Noah is pushed to his limits in a desperate race against time. Can he uncover the truth and stop an ancient horror from surfacing, or will the abyss consume them all?\n\nStory – Created by two passionate brothers, Beneath fuses Lovecraftian horror with an action movie narrative set deep in the arctic ocean. You will race against time to find a cure for your daughter, fighting for survival as you travel between a series of research stations and discover the dark intentions of the Omnium Corporation.\nSurvival – Face a terrifying array of foes, from ruthless soldiers to grotesque Lovecraftian monstrosities. With limited ammunition you must manage your supplies, upgrade your arsenal and make smart use of environmental hazards to survive.\nSupernatural – Nightmares have awoken in the depths. With your sanity slipping, you become vulnerable to the twisted visions and Eldritch abominations that attack your body and mind.\n\n**Repack Features**\n\n- Based on Beneath-RUNE ISO release: rune-beneath.iso (10,754,555,904 bytes)\n- Game version: v0.9920f; The Golden Gun DLC is included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 10 to 5.9 GB)\n- Installation takes 2-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 22.7 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- If the game crashes for you with “Protection Error”, edit “Beneath_Data\\Plugins\\x86_64\\steam_emu.ini” and add “SelfProtect=0” parameter after the “[Settings]” line\n- Going Old School: Created as a love letter to the classics by a micro studio founded by two brothers with a lifelong passion for the genre.\n- Fight for Your Life: Soldiers are hunting you with maximum aggression and unearthly horrors stalk your every move.\n- Lock and Load: Use a variety of upgradable weaponry to survive close quarter fights in destructible environments.\n- Sanity Under Siege: Keep your wits as you face nightmarish visions and creatures.\n- Secrets of the Deep: Explore the remains of research stations, investigating emails, PDA’s and survivor accounts to unravel a dark conspiracy.",
+    "cover_url": "https://i6.imageban.ru/out/2025/10/29/7b018d206d65e78a47e6ff60a4978cdf.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/76/4e/764e18dc-5241-4b20-a523-3d32152a5eaa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/42/ab/42ab6f60-d2c4-4e44-a184-1d6e78d60203.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b7/dc/b7dcfa61-fc98-44af-8c82-d1258380b0b6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/76/c4768878-23d8-4d24-9fd3-97ed158af897.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b9/bb/b9bb162d-dbd6-452a-aab2-ac555b906de2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8f/6c/8f6ce559-dc58-43a0-ad1e-74a27cafe4a8.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-beneath",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T00:38:23.729638+00:00"
   }
 ]
