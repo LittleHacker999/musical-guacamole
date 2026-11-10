@@ -6011,5 +6011,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T03:28:23.931401+00:00"
+  },
+  {
+    "id": "db6a8cc0-e6b5-5484-16d1-7d9772feab14",
+    "title": "The RPG – v1.001/v1.004",
+    "slug": "the-rpg",
+    "categories": [
+      "RPG",
+      "Open world",
+      "First-person",
+      "3D",
+      "Real-time"
+    ],
+    "size_original": "9.4 GB",
+    "size_repack": "899 MB",
+    "description": "Dungeon as a Twisted Disneyland – Dungeons are held by the Island’s administration. There is a technical floor, the workers of which make sure that torches are lit, traps are working and monsters are healed after a raid. Gritty secrets are hidden on the lowest floors, which can give you a chance to completely flip the storyline.\n\nGritty Secrets – You’re stuck on an Adventure Island. There’s a local attraction – the Dungeon, where you can raid, explore, loot, gain experience and level up. Just buy an adventurer’s ticket, pass a turnstile, enter the elevator and choose the floor. The workers of the Island’s administration make sure that traps are working, torches are lit and monsters are healed after raids. At the first glance, everything seems PERFECT for an aspiring adventurer, so why leave? Turns out that everything is not as it seems. There’s a dark, dirty secret that the Cool King is hiding. Which is not cool. Monsters are tired of the constant respawn loop, their lives are like a groundhog day. But the main monster, the Glitchy Dragon, went out of control and broke the game’s rules in order to find the right person for his (in)genius plan. Maybe it’s you? It’s up to you to decide!\n\n**Repack Features**\n\n- Based on The.RPG-TENOKE ISO release: tenoke-the.rpg.iso (4,996,628,480 bytes)\n- Steam BuildID 19540537 files added, thanks to lanternjoe!\n- Game version: v1.001/v1.004\n- You can install either v1.001 or v1.004 of the game. The latter one won’t be compatible with possible scene patches\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from cumulative 9.4 GB to 899 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.7 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- You don’t need to eat food to heal – just pluck a piece of bread into a wound.\n- No need to sort out what’s to sell to a merchant: everything you collect is simply considered as “loot” and you sell a pile of such loot by weight.\n- There is an inventory and leveling up, but no complex skill-trees and inventory management.\n- The Dragon, the main antagonist(?), constantly glitches and breaks the game’s rules. Find out why! Well… or don’t. It’s your choice, and it matters, like choices in RPGs should.\n- NO FISHING MINI-GAMES.",
+    "cover_url": "https://i6.imageban.ru/out/2025/08/10/20d72d915a5317d909e9e297b7cc9983.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/5c/af/5caf96e0-2c24-4112-8b9e-a47d35989f0b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/ed/f5ed65d2-08d1-47fa-8523-2cb41f93aae0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/29/31/293117c1-687c-4315-9cdf-7ebb21498fcb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ea/76/ea7601b1-a6c8-4a79-87ca-ee75e0c235c9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/59/a75967b6-e9be-4835-b97d-51af02b9f996.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/93/8b931eb0-ae25-461d-b0ca-ca0b9a51a17d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-rpg",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T03:33:23.927343+00:00"
   }
 ]
