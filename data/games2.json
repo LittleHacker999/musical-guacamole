@@ -2515,5 +2515,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T13:33:22.736650+00:00"
+  },
+  {
+    "id": "067fa9ca-92fa-594a-13c4-5b4982d20496",
+    "title": "Evil Awaits",
+    "slug": "evil-awaits",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Survival",
+      "Third person view",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "12.3 GB",
+    "size_repack": "6.7 GB",
+    "description": "Find notes, solve puzzles, and use key items to progress through haunting atmospheric environments in this indie action survival horror. Use a range of firearms, defensive options and melee strikes to take on the horrors that await and learn movement techniques & upgrade equipment that suit your playstyle to prepare for intense boss battles.\n\n**Repack Features**\n\n- Based on Evil.Awaits-SKIDROW ISO release: sr-evilawaits.iso (13,218,203,648 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 12.3 to 6.7 GB)\n- Installation takes 2-5 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 23.1 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Range of terrifying environments – From the open sea of the misty docks to the tight crypts of a haunted cemetery. Evil Awaits has a range of terrifyingly atmospheric and realistic environments filled with collectables, keys, puzzles, notes, encounters and surprises.\n- Face a diverse horde – A variety of mutations stand between you and what awaits, all with different move sets & weaknesses.\n- Horror in your control – An adapted control scheme allows for swapping sides as well as third & first-person aiming. More ‘classic’ perspectives to be added in the future.\n- Refine your loadout – A range of melee attacks, defensive options, firearms, and more can be found through-out the Archdale grounds. Everything upgradeable from toolkits you will find along the way.\n- Cinematic – Evil Awaits hosts a range of suspenseful cinematic in-game cutscenes, one of many aspects that tell the tale of the Archdale family curse.\n- Survive – A variety of Brutal boss encounters and dangerous hazards lie in wait, can you overcome the challenge?",
+    "cover_url": "https://i4.imageban.ru/out/2024/10/25/b11bbeff76d9907dd5e5f94a7c12beb0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/47/86/47865e0e-ced4-4d82-b79b-f50ef9939ec6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3b/db/3bdb9f9d-8bab-4e2d-8c13-6fa10df99283.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/26/bf/26bfdf4a-01c8-46c2-bae2-419ddc8249cd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/81/7d/817db4ad-4112-4dc8-854f-ff773fa5cf3c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/11/c8/11c80220-ff8f-4a2b-bf24-a20b328917de.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4e/a3/4ea36870-8d03-4e07-a929-3e252ee559ba.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-evil-awaits",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T13:38:22.829730+00:00"
   }
 ]
