@@ -4904,5 +4904,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T20:18:22.430013+00:00"
+  },
+  {
+    "id": "9cb408c0-e414-50e6-c2ae-53649a5e8297",
+    "title": "September 7th – v1.3.5",
+    "slug": "september-7th",
+    "categories": [
+      "Exploration",
+      "Horror",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "20.4 GB",
+    "size_repack": "5.5 GB",
+    "description": "Do you believe in the existence of Christmas elves that appear on New Year’s Eve and Christmas? If so, then most likely you have heard of the good elves. But imagine that there are still evil elves. They create madness and can come to you at any time if they get bored. They are watching you and testing you. Or maybe they just want to have fun. Will you play by their rules?\n\nDima is a graduate student. His family is planning a move. Finally, this day came on the seventh of September, Dima and his parents are moving into a new apartment. A few weeks pass and Dima receives a funny Christmas Elf doll as a gift. With her appearance, strange things begin to happen in the house.\n\n**Repack Features**\n\n- Based on September.7th.v1.3.5-TENOKE ISO release: tenoke-september.7th.v1.3.5.iso (21,852,655,616 bytes)\n- Game version: v1.3.5\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 20.4 to 5.5 GB)\n- Installation takes 2-5 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 20.2 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2023/01/09/6d9eb1be6ded6eec952e50079bb453e9.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/c9/09/c909dc7d-0133-4480-ae9e-04067ba107fb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/53/60/53601231-9f26-44bf-8f3d-0792fe8d10f4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/10/d8/10d8ba28-f92f-4268-91a0-ecf8386ffbc4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/84/b2/84b2d869-d635-4edb-b65e-0d68cf4a4c2c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9b/8c/9b8cab8a-3e99-466f-9b34-fd4bdcf0088e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/18/d7/18d77599-fb9e-43d3-8bae-33e0f49c51cf.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-september-7th",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T20:23:22.126489+00:00"
   }
 ]
