@@ -5951,5 +5951,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T03:18:22.836918+00:00"
+  },
+  {
+    "id": "ba63363f-2f30-5606-98c9-8f17ab20e977",
+    "title": "Church Simulator – v1.0.5",
+    "slug": "church-simulator",
+    "categories": [
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "2.8 GB",
+    "size_repack": "820 MB",
+    "description": "**Repack Features**\n\n- Based on Church.Simulator-TENOKE ISO release: tenoke-church.simulator.iso (2,968,342,528 bytes)\n- Game version: v1.0.5\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.8 GB to 820 MB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.8 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Baptize the babies brought to the church by immersing them in holy water. Be careful to perform the baptism correctly, or you might drown the babies!\n- Customize your church’s appearance to make it stylish and engaging. Create the most suitable church design to attract more people.\n- Purchase furniture, paintings, statues, and seats from the store to decorate your church’s interior design.\n- Stock your church’s shelves with products and arrange them to collect donations. Manage the church’s economy by selling items like Bibles, candles, and souvenirs.\n- Bless the people coming to the church with your cross to guide them to faith. Show that you are a true clergyman.\n- Detect and ward off evil spirits around the church and graveyard using a detector. Don’t let the evil spirits curse your church.",
+    "cover_url": "https://i5.imageban.ru/out/2025/08/15/b48624e1f18ba97afd67800be9839034.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f9/11/f91103d4-bf05-40c8-b133-fbe5d4bcd52e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6b/e9/6be926f0-1e0b-4c53-870c-43896794e7ac.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/be/01be98a6-19d4-4a67-aee7-8b697a2b34e5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d3/89/d3898fae-3711-4e1d-9008-f9029a936743.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/08/fa/08fa7c2f-d58a-45ee-b2cf-293eecc533ab.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/73/a7/73a719cb-a046-4764-a211-9f243eb5f0fa.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-church-simulator",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T03:23:22.228240+00:00"
   }
 ]
