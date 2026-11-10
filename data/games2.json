@@ -4996,5 +4996,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T20:33:21.327491+00:00"
+  },
+  {
+    "id": "89a1d26c-06f1-5072-9011-891467f3534e",
+    "title": "Grand Soul Saga",
+    "slug": "grand-soul-saga",
+    "categories": [
+      "RPG",
+      "Side",
+      "Top-down",
+      "2D",
+      "Turn-based"
+    ],
+    "size_original": "3.7 GB",
+    "size_repack": "911 MB",
+    "description": "**Repack Features**\n\n- Based on Grand.Soul.Saga-TENOKE ISO release: tenoke-grand.soul.saga.iso (3,988,551,680 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Useless MacOS version ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.7 GB to 911 MB)\n- Installation takes 2-4 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.5 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Dynamic, character-driven storytelling touching on themes of addiction, human connection, grief, choice, spirituality, cybernetics, self-actualization, and the nature of reality.\n- Multiple endings, hand-crafted NPC interactions, and meaningful character development.\n- Open quest structure encouraging exploration in a fully realized semi-open world.\n- Stirring, original score comprising 40+ compositions inspired by JRPG classics.\n- Deep, yet accessible turn-based combat with an old-school challenge.\n- Nostalgic pixel-art graphics.\n- 30+ hours of gameplay.\n- No random battles.\n- Highly interactive world with detailed descriptions.\n- Steam Deck compatible.\n- Inspired by the graphics, music, and gameplay of Final Fantasy VI and the semi open-world narrative intrigue of Baldur’s Gate 2.\n- Created by solo-developer and composer, Jeremy Reineck.",
+    "cover_url": "https://i5.imageban.ru/out/2024/03/21/6326b92058a87b39d109033be317cc2a.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/02/85/0285c0b4-2b6b-478b-8a47-f14cee46e488.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c9/eb/c9ebd2f2-2d9f-4ef3-8793-e2c6f98388cb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d6/06/d60662ce-3286-4e24-8cd0-1d2855c809c6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/cf/aacf0c37-ebbf-4ea4-b0ad-33d208d12020.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b0/f1/b0f18bf2-da21-4379-870f-7560de576ef4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6d/9d/6d9db72b-4bdd-48ac-8ef1-a5c627cb6b2d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-grand-soul-saga",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T20:38:24.128357+00:00"
   }
 ]
