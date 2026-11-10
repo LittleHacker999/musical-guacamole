@@ -4821,5 +4821,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T00:13:24.826418+00:00"
+  },
+  {
+    "id": "ec1badc3-e7f3-59f1-946d-788f498ace52",
+    "title": "Barrel Roll – v1.0.1",
+    "slug": "barrel-roll",
+    "categories": [
+      "Card game",
+      "3D",
+      "Western",
+      "Turn-based"
+    ],
+    "size_original": "1.5 GB",
+    "size_repack": "729 MB",
+    "description": "**Repack Features**\n\n- Based on Barrel.Roll-TENOKE ISO release: tenoke-barrel.roll.iso (1,631,741,952 bytes)\n- Game version: v1.0.1\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.5 GB to 729 MB)\n- Installation takes 1-2 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.3 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- YOU’RE A BOUNTY HUNTER ON THE HUNT… – Take down hordes of outlaws to get to their leaders. Collect bullets with special effects, trinkets and resources. Each of your bullets has its archetype (Damage, Shield, Initiative, Focus and Killer). It’s up to you to customize your ideal barrel and create powerful synergies to counter your enemies!\n- THEY’RE MORE BUT YOU’RE SHARPER… – Face groups of 3 to 5 bandits in turn based combats. After each of your shots, choose your next bullet between the 3 next and come up with mind blowing combos! (Literally…) Crush your opponents (at least their shield) to delay their next turn and use one of your 3 skills to show your mastery and turn the duel upside down.\n- LONESOME COWBORG ON THE ROAD… – Choose your next destination carefully to gain options for your next fights! Some resources you’ll find on the road could be super useful at the saloon.",
+    "cover_url": "https://i8.imageban.ru/out/2025/11/05/1b63aaa9445c3f86f78464c11c7b4330.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d7/67/d767076f-3edd-413d-b87b-32796c111370.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bf/6e/bf6e58c2-aba5-46e8-b948-b402c621b5be.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/57/5d572a2a-7e2c-4639-9191-13fdd0c71537.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/ba/aaba13c0-632d-4ca0-9498-d2e49624bef0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/40/84/40842e03-4688-4fff-b1ac-212158b1ee6a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/3d/693d2083-c1d3-400c-a8ca-f17bb3c93a13.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-barrel-roll",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T00:18:21.126076+00:00"
   }
 ]
