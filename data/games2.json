@@ -3928,5 +3928,38 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T17:38:20.837578+00:00"
+  },
+  {
+    "id": "07e8eea3-7e94-5f42-9a82-24a6927544ec",
+    "title": "Beyond Good & Evil: 20th Anniversary Edition – v1.0.0 + Ryujinx/Suyu Switch Emulators",
+    "slug": "beyond-good-evil-20th-anniversary-edition-switch",
+    "categories": [
+      "Action",
+      "Driving",
+      "Stealth",
+      "Beat 'em up (Brawler)",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "9.1 GB",
+    "size_repack": "from 3.2 GB",
+    "description": "Rediscover the Award-Winning Adventure\nSwoop into the marvelous world of Hillys as action-reporter Jade to investigate the mysterious DomZ alien attacks alongside colorful characters, like her adoptive uncle Pey’j or the valiant Double H.\n\nOn the Hunt for Treasure\nEnjoy exclusive new rewards as you explore the planet and discover more about Jade’s past in a new treasure hunt throughout Hillys.\n\nDive into History\nPut your skills to the test thanks to the new speedrun mode and updated achievements, and learn more about the game’s development and secrets in the anniversary gallery!\n\nThe Best Way to Play\nEmbark on this epic adventure in up to 4K 60 fps with improved graphics and controls, along with updated audio and remastered soundtrack, and new quality-of-life features including autosave, cross-save, and cutscene-skip.\n\nBe ready to experience a trailblazing blend of action gameplay and thrilling emotional cutscenes!\n\n**Repack Features**\n\n- Based on Beyond_Good_and_Evil_20th_Anniversary_Edition_NSW-VENOM Switch scene release: v-beyond_good_and_evil_20th_anniversary_edition.nsp (9,306,498,636 bytes)\n- Game version: v1.0.0\n- Ryujinx (v1.1.1340.0, June 26, 2024, 51 MB) and Suyu (v0.0.3, April 10, 2024, 32 MB) Switch emulators are included and preconfigured\n- Switch Firmware v18.0.0 (324 MB) added as a requirement for both emulators\n- To boost performance on Ryu emu, disable the V-sync option either before boot up or while playing to see the FPS difference. (Screen tearing may happen, so beware)\n- To boost performance on Suyu emu, as soon as you get into the game press ‘Ctrl + U’ to remove fps lock and subsequently unlock more FPS. (You can see the unlocked status next to your FPS counter)\n- Test both emus and use the one which performs better on your system\n- 100% Lossless, but NOT MD5 Perfect: encryption was removed for better repack size\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading of voiceovers you don’t need (English ones are included by default) and bonus videos, accessible in the special game menu\n- Smaller archive size (compressed from cumulative 9.1 to 3.2~7 GB, depending on selected components)\n- Installation takes 2-7 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 9.5 GB (up to 11.1 GB during installation)\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Repack uses XTool library by Razor12911\n- Run “KexSetup_x64Rel.exe” from “_Windows 7 Fix” folder and install that extension\n- Open “suyu.exe” file properties in Explorer, then “VxKex” tab\n- Check “Enable VxKex for this program” and “Report a different version of Windows, Windows 10” checkboxes, Apply, OK\n- Run the emulator as usual",
+    "cover_url": "https://i3.imageban.ru/out/2024/06/28/bdf8afda4f2b5676f61f81603896eae4.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/19/49/1949de50-0479-42a6-816c-fe09f56f886b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/29/28/29285287-ec67-49a9-bd93-9be92ada118e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/62/7d624b15-9681-4205-bf32-ec386c40a266.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/14/e1/14e1ee85-2088-49af-ba78-195d9c6ab9aa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/e4/fce48c68-8ed5-49f0-819b-476b9635638a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/52/bc52b14d-1f43-4f40-848e-f6cd0ab367ba.jpg.240p.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2556990/extras/GIF_BGER_01.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-beyond-good-evil-20th-anniversary-edition-switch",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T17:43:23.136267+00:00"
   }
 ]
