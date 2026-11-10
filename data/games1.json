@@ -6715,5 +6715,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T05:23:21.824447+00:00"
+  },
+  {
+    "id": "42992dec-5e01-56b4-f9b7-5217bf8dfc84",
+    "title": "TRON: Catalyst – v0.10.3 (CS:16422)",
+    "slug": "tron-catalyst",
+    "categories": [
+      "Action",
+      "Isometric",
+      "3D"
+    ],
+    "size_original": "2.8 GB",
+    "size_repack": "1.5 GB",
+    "description": "Play as Exo, a highly resilient and resourceful program wielding an unexpected power known as the Glitch, gaining strength and abilities which the overlords of the Arq Grid’s crumbling society seek to bring under control. Ride Light Cycles, engage in Identity Disc combat, and more as you’re relentlessly pursued through the city and beyond by Conn, a malevolent program with an agenda of his own, while uncovering more about the glitches that threaten the stability of this world.\n\n**Repack Features**\n\n- Based on TRON.Catalyst-SKIDROW ISO release: sr-troncatalyst.iso (3,039,969,280 bytes)\n- Game version: v0.10.3 (CS:16422)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.8 to 1.5 GB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.6 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Dynamic Combat System – Battle a legion of fearsome enemy programs in melee and ranged combat, both on-foot and while riding a Light Cycle. Master advanced techniques like parrying and Disc kicks to gain the upper hand, while exploring the Arq Grid and collecting Data Shards to upgrade your code base with new abilities.\n- Immersive New Story – Dive into an original TRON storyline. Meet the programs of the Arq Grid, uncover their secrets and fight to survive in a chase across the city and outlands. Playing as Exo, a courier working in this grid’s capital city, your life is turned upside down when a mysterious package explodes, granting you powers beyond any program’s normal function. With the Arq Grid’s ruthless ‘peacekeepers’ in hot pursuit, you’ll unlock the mysteries of this grid, and learn what kind of hero it needs you to become.\n- Exploit The Glitch – The Arq Grid is losing stability. Glitches roll back the clock, catching the world in a series of system level time loops… and only you can see them. Utilize Exo’s unique ability to uncover secret areas and shortcuts, and influence the factions jostling for control over the Arq Grid.\n- Authentic World of TRON – Explore the neon-lit streets of the Arq Grid on foot or Light Cycle, and navigate your way through the intriguing – often dangerous – characters that inhabit this high-stakes world. Travel through a diverse Grid filled with intriguing stories within a budding revolution all set to an immersive soundtrack from composer Dan Le Sac (TRON: Identity). If you’re a fan of Disney’s TRON, get ready to step into the universe you love like never before. If you’re new to this story, prepare for a thrilling adventure.",
+    "cover_url": "https://i5.imageban.ru/out/2025/06/18/5fed495b6230b3e518264e40f958c892.jpg",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3025590/extras/Authentic_world_of_Tron.gif",
+      "http://s01.riotpixels.net/data/96/c5/96c5dea3-b2fb-4d02-9475-ee8adb2445f3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2b/c9/2bc96899-43c6-4adc-b4b6-06a565f6eb10.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8d/1c/8d1cbf5a-0151-46b3-8599-284eb6735cd5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/33/7e/337ecc67-10ef-4065-bbd9-4dedcfc1e7dd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/82/f0/82f0c288-65b4-4f8c-a90c-8f8c24d072af.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-tron-catalyst",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T05:28:22.633927+00:00"
   }
 ]
