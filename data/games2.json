@@ -1353,5 +1353,40 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T10:28:22.426914+00:00"
+  },
+  {
+    "id": "277dac2d-5752-5ba0-4764-4bf86e3e83d3",
+    "title": "Dead Season – v1.0.0.9",
+    "slug": "dead-season",
+    "categories": [
+      "Strategy",
+      "Tactics",
+      "Survival",
+      "Top view",
+      "3D",
+      "Post-apocalypse",
+      "Zombie",
+      "Turn-based"
+    ],
+    "size_original": "4.9 GB",
+    "size_repack": "3.2 GB",
+    "description": "The air hangs heavy with the stench of decay – a grim reminder of the world’s rapid descent into chaos. Streets once bustling with life now lay deserted, haunted by the shuffling footsteps of the undead. A random group of four survivors find themselves thrown together by their shared struggle for survival, in a world overrun by the zombie hordes. Their faces etched with weariness and determination mirror the dark and harsh realities they face.\n\nIn this single-player turn-based tactics game, take control of this band of survivors as they navigate through the midst of a zombie infestation, scavenging for resources and completing objectives, while confronting the endless threat of the undead, and surviving through narrow escapes and close calls.\n\n**Repack Features**\n\n- Based on GOG v1.0.0.9 release: 4.9 GB\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 4.9 to 3.2 GB)\n- Installation takes 2-3 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 9.4 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- UNFORGIVING TURN-BASED COMBAT: Survive at all costs as you complete objectives and escape dangerous situations with weapons you scavenge along the way. Level up and unlock new abilities to survive even in harsher environments.\n- HAND-CRAFTED SINGLE-PLAYER CAMPAIGN: Embark on your journey through 16 missions as you tackle new and unique challenges along the way. Immerse yourself in the narrative through captivating motion comics that propel the story forward.\n- NOISE ATTRACTS DANGER: Do whatever it takes to survive against the threat of zombies, but beware, the more noise you make, the more trouble it will bring.\n- THE RELENTLESS THREAT OF ENEMIES: Face a wide variety of zombies and other hostile survivors as you traverse deeper into the world, offering unique tactical challenges.\n- A DARKENED WORLD: Navigate through terrifying nights and grim streets, where destruction, violence, and panic cast deep shadows in the face of the zombie apocalypse.\n- MADE WITH PASSION: Dead Season was created and made as a passion project by a solo developer. If you have any feedback or thoughts, let me know!",
+    "cover_url": "https://i8.imageban.ru/out/2024/10/10/a0c8d948635685710b2989e267947c22.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/71/48/71480dba-c4e5-4c3f-9076-e68f90996716.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bd/75/bd757007-3c39-4572-8041-7030fdd46c7f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5f/97/5f97bc1c-3b39-4dd9-901a-13f67690806d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8a/9f/8a9f727e-477d-4209-a39c-ef2032dabd82.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e8/32/e832cbf8-98ac-4af7-b9ac-87e2195e4a70.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/3b/e63b98b6-90d6-4f9a-b535-387932a935d9.jpg.240p.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666550/extras/Top-Header-with-border-v2.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dead-season",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T10:33:24.631284+00:00"
   }
 ]
