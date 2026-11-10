@@ -5931,5 +5931,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T23:08:22.130808+00:00"
+  },
+  {
+    "id": "9ac9a8b9-6b6f-554f-c13b-26f3b407b421",
+    "title": "art of rally: deluxe edition – v1.5.0 + australia DLC + Bonus Content",
+    "slug": "art-of-rally",
+    "categories": [
+      "Racing",
+      "Rally",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "7.3 GB",
+    "size_repack": "from 1.8 GB",
+    "description": "Race across the world through colorful and stylized environments in top-down view.\n\n**Repack Features**\n\n- Based on Art.of.Rally.Australia-RUNE ISO release: rune-art.of.rally.australia.iso (7,829,061,632 bytes)\n- Game version is v1.5.0; australia DLC is included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in FLAC format ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus content (MP3 OST + Wallpapers)\n- Significantly smaller archive size (compressed from 7.3 GB to 1.8/2.5 GB)\n- Installation takes 2-5 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 7.8 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i2.imageban.ru/out/2021/08/12/1475dd4b81878e52b172a95b9b111039.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d7/db/d7db3ed0-0944-49d4-b67f-1e342545a658.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/76/7d76852f-63bf-41b2-a487-c693f0be93da.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/87/2b/872bcf88-0f27-412b-8e74-673d3300af9b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2b/1e/2b1ef5a0-dcb9-457c-8a8c-e73037686c19.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/95/d2/95d29303-32e9-426c-b37d-8db0992cc8e1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a4/2e/a42eaa66-992b-4714-a6d1-6841ff79c12b.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-art-of-rally",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T23:13:24.424511+00:00"
   }
 ]
