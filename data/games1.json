@@ -5408,5 +5408,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T01:48:24.128936+00:00"
+  },
+  {
+    "id": "8c6fbf1f-91b3-5bd3-9057-6f285268f245",
+    "title": "Agatha Christie: Death on the Nile – v1.2.0",
+    "slug": "agatha-christie-death-on-the-nile",
+    "categories": [
+      "Adventure",
+      "Third-person",
+      "3D",
+      "Detective"
+    ],
+    "size_original": "12 GB",
+    "size_repack": "from 7.5 GB",
+    "description": "The two investigations collide at Abu Simbel. The dynamic duo will solve a complex case full of twists and turns. But the story doesn’t end with the book, and it still holds many mysteries and twists, even for Agatha Christie fans.\n\n**Repack Features**\n\n- Based on Agatha.Christie.Death.on.the.Nile-RUNE ISO release: rune-agatha.christie.death.on.the.nile.iso (12,921,012,224 bytes)\n- Game version: v1.2.0\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of French & German localizations. All other languages are included by default\n- Significantly smaller archive size (compressed from 12 to 7.5~8 GB, depending on selected components)\n- Installation takes 2-8 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 24.4 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Dual Protagonists: Play as both Hercule Poirot and Jane Royce, each with unique perspectives and storylines that converge in an epic finale.\n- Innovative Setting: Immerse yourself in this story set in the 1970s, a decade of significant social change. From feminist movements and the rise of minority rights to the liberation of societal norms, this vibrant era blends disco clubs, bell-bottoms, and psychedelia, where colorful characters bring a captivating plot to life.\n- Extended Storyline: Dive into a brand-new investigation that continues after the events of the book, ensuring fresh surprises for fans and newcomers alike.\n- Diverse Locations: Explore a variety of stunning locations, from the exotic Nile cruise to the bustling cities of Majorca, London, and Cairo.\n- Enhanced Mindmap: Collect and connect facts in a dynamic mindmap to make deductions and advance the story.\n- Confrontation System: Use gathered evidence to confront suspects, expose lies, and uncover hidden truths.\n- Character Profiles: Complete character profiles by gathering information through dialogues and observations.",
+    "cover_url": "https://i1.imageban.ru/out/2025/09/25/231e8eb4469a5884c4225d77d43c6744.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e7/8c/e78cb880-7bbd-4325-be74-745a12cbc556.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3e/b5/3eb5ed42-bf0c-4623-bf87-51fdac96b505.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3c/fd/3cfddc86-dcec-4744-9d50-39d0c9ff1028.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2d/78/2d78ec0e-e2e1-476a-86b6-8c0350b10dd7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0e/8e/0e8e22e2-031f-49af-a1fb-6697fe9811f1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/e7/d2e74658-8143-4639-81ec-3236e432c976.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-agatha-christie-death-on-the-nile",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T01:53:21.633597+00:00"
   }
 ]
