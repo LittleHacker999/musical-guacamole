@@ -3126,5 +3126,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T15:13:22.827027+00:00"
+  },
+  {
+    "id": "be40025f-2418-564f-8436-4b534c76d2c9",
+    "title": "Chronicles of Sagrea + Windows 7 Fix",
+    "slug": "chronicles-of-sagrea",
+    "categories": [
+      "Action",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "32.6 GB",
+    "size_repack": "11.2 GB",
+    "description": "It has been a long time since the gods ceased to walk among mortals and Sagrea is in a tense situation due to the rivalry of its two main kingdoms.\n\nMeanwhile, in the east the roads are no longer safe and merchants who go into the frontier never return. Rumors say that a dangerous group of looters could be behind these events. The King of Thodgar, focused on his war efforts against the Kingdom of Arthosh, ignores the requests of the locals to send reinforcements to investigate the matter. Therefore, a reward has been set for whoever is able to find them and defeat their leader. As an adventurer who likes a challenge, you have accepted the contract. Will there be something else behind these events?\n\nThree playable characters\nChoose between three characters to start your adventure: Kholdir the barbarian, Zeira the Amazon or Sir Edric the knight, each with their own characteristics, specialized in particular types of weapons and having different attack combos.\n\nIntense combat system\nFace your enemies, dodge, block and use devastating combos to finish them off. Each weapon has its own special attack and each character has his own set of combos that you can unlock and improve using ability points, obtained by increasing your experience level as you progress in your journey.\n\nExploration\nEnter fortresses, ancient ruins or catacombs and try to be cautious of any dangers you may encounter. Your only aid will be your own skills and the steel of your weapon.\n\n**Repack Features**\n\n- Based on Chronicles.Of.Sagrea-TENOKE ISO release: tenoke-chronicles.of.sagrea.iso (35,047,612,416 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 32.6 to 11.2 GB)\n- Installation takes 2-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 32.4 GB\n- Language can be changed in game settings\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Run “KexSetup_x64Rel.exe” from “_Windows 7 Fix” folder and install that extension\n- Open “ChroniclesOfSagreaBinariesWin64ChroniclesOfSagrea-Win64-Shipping.exe” file properties in Explorer, then “VxKex” tab\n- Check “Enable VxKex for this program” and “Report a different version of Windows, Windows 10” checkboxes, Apply, OK\n- Copy all DLLs from “_Windows 7 FixAdditional DLLs” to “ChroniclesOfSagreaBinariesWin64” folder\n- Run the game as usual",
+    "cover_url": "https://i3.imageban.ru/out/2024/09/04/14ccf550f1b6f0851c9d1004f805c4e9.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b2/6a/b26a4716-193b-49a7-8685-eda4b3bce974.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8a/d0/8ad0d6ee-eca4-46a0-ba91-fa3edd5950db.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/52/6d/526d3d33-07fe-494e-a811-e7d97799b418.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/19/5819b3aa-06c3-4b5f-b628-4f3d94e27710.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ad/c1/adc1c635-56bb-410a-8245-5a6b9fc8bc9c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e9/eb/e9eb1a31-4371-483a-b66c-af288213b4d5.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-chronicles-of-sagrea",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T15:18:23.132311+00:00"
   }
 ]
