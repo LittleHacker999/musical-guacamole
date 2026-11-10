@@ -5035,5 +5035,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T00:48:22.024880+00:00"
+  },
+  {
+    "id": "8eb002e2-67c6-5afb-181f-2bf1e61a3d10",
+    "title": "Dreams of Another",
+    "slug": "dreams-of-another",
+    "categories": [
+      "Exploration",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "2.2 GB",
+    "size_repack": "1.1 GB",
+    "description": "Dreams of Another is a third-person exploration-action game built around the theme, “No Creation Without Destruction“, which turns typical third-person shooter gameplay on its head. In Dreams of Another, the more you destroy, the more you create! The world forms around you, the player, as you explore this ephemeral dream-like world, born from the mind of PixelJunk Eden‘s director and multimedia artist Baiyon.\n\nFollow the Man in Pajamas and the Wandering Soldier to unlock and explore their imagination, past memories and life experiences. Piece together the interwoven stories in this unconventional game that challenges common tropes and invites players to understand not just the game, but their own life in a whole new light.\n\n**Repack Features**\n\n- Based on Dreams.Of.Another-SKIDROW ISO release: sr-dreamsofanother.iso (2,347,300,864 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.2 to 1.1 GB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.8 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Innovative gameplay where shooting doesn’t destroy but creates.\n- A dream world rendered through unique point cloud technology.\n- A poetic story centering on “The Man in Pajamas” and “The Wandering Soldier,” featuring conversations with peculiar characters and objects.\n- Humorous lines spoken by various sentient objects offer an offbeat, amusing, yet thought-provoking perspective on human society, the nature of the world and more.\n- A unique, experimental soundtrack crafted by director Baiyon himself.",
+    "cover_url": "https://i6.imageban.ru/out/2025/10/23/d74ee75dfb7f1dbb73d942529ac00545.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/62/44/6244004a-d348-4339-832f-abd22b59113e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/51/a251752c-fa4f-4032-907b-6cf5fe94634d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/04/60/0460dedb-6f92-41fa-a617-5520a2a8324a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/3f/7d3f10f2-203e-423c-949b-51bd507b4de7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b0/5c/b05cf9d6-1d2e-4d06-aad2-c2be3c5395ff.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/96/38/9638f083-1a8b-4fdf-b2ea-54903f5f727a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dreams-of-another",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T00:53:22.736325+00:00"
   }
 ]
