@@ -278,5 +278,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T07:33:21.824350+00:00"
+  },
+  {
+    "id": "b9328765-8901-5108-8e99-5e8840d110d3",
+    "title": "Block Fortress 2",
+    "slug": "block-fortress-2",
+    "categories": [
+      "Action",
+      "Tower defense",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "1.4 GB",
+    "size_repack": "907 MB",
+    "description": "BUILD AND DEFEND YOUR BASE! Build your base using dozens of different turrets, walls, and other special blocks. Defend against attacks from four different enemy races!\n\nJOIN THE BATTLE! Choose your equipment, build an army, and join the battle in action-packed first- or third-person combat!\n\nCREATE AND SHARE YOUR OWN LEVELS! Set up massive battles or intricate stealth missions. Build obstacle courses or giant worlds to explore. If you can imagine it, you can build it! Then share your creations and download others for endless replayability!\n\nCONQUER THE BLOCKVERSE! Build a home on your command ship and explore 10 different planet types, each with unique dangers!\n\n**Repack Features**\n\n- Based on Block.Fortress.2-TENOKE ISO release: tenoke-block.fortress.2.iso (1,461,997,568 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.4 GB to 907 MB)\n- Installation takes within a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.4 GB\n- Language can be changed in “tenoki.ini” file\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A unique mix of block-building, tower defense, and FPS/TPS gameplay!\n- Complete freedom to build your base however you want, from towering fortresses, to sprawling castles!\n- Build more than 200 different block types, including powerful turrets, shield generators, farms, land mines, teleporters, zip lines, and more!\n- Equip your character with tons of weapons and items, including a rocket launcher, mini-gun, plasma rifle, jet pack, and more!\n- Choose and deploy an army of specialized soldiers to help you fight!\n- Survive a dynamic day and night cycle, severe weather, lava, acid, alien monsters, and other environmental hazards!\n- Several game modes, including sandbox, missions, and survival!\n- Extensive mission builder allows you to create and share your own levels!\n- 10 different planet biomes to conquer, each with their own hazards!\n- Take a break from combat and get creative building a home on your command ship!\n- Upload and share your creations and download others!",
+    "cover_url": "https://i2.imageban.ru/out/2025/04/20/54b31d6779c7d5cba78dacaa2b7017c0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/de/a4/dea47cb1-afeb-4752-a08d-07e5ee93ddb6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/39/84/3984de50-6345-4f57-8a13-ae938f69d9e6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f0/eb/f0eb2def-b832-4774-81cc-a810dcd17b7c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fa/b3/fab3f41d-7dde-4a99-ae2c-24a534efc5bb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/94/d5/94d5e099-ac99-4961-920c-d3fabf12f237.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/13/7e/137e6388-bd31-4a45-a18b-3807dbaf850e.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2107030/extras/bf2_gif_looking_border_640.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-block-fortress-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T07:38:22.725720+00:00"
   }
 ]
