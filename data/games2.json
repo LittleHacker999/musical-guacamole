@@ -775,5 +775,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T08:53:22.536674+00:00"
+  },
+  {
+    "id": "8cf912ad-759e-5253-e9f3-818a965d42b2",
+    "title": "3D Escape Room: Detective Story – v1.1.5",
+    "slug": "3d-escape-room-detective-story",
+    "categories": [
+      "Logic",
+      "Puzzle",
+      "First-person",
+      "3D",
+      "Detective"
+    ],
+    "size_original": "4.1 GB",
+    "size_repack": "1.1 GB",
+    "description": "**Repack Features**\n\n- Based on 3D.Escape.Room.Detective.Story-TENOKE ISO release: tenoke-3d.escape.room.detective.story.iso (4,421,593,088 bytes)\n- Game version: v1.1.5\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4.1 to 1.1 GB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.1 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Unique Mechanism Designs – From spy suitcases to piano-playing automatons and intricate mechanical globes, the game features many unique contraptions blending art and logic, inviting you to uncover their secrets.\n- Realistic Retro Aesthetic – The game recreates the charm of 18th-century London. From vintage hotels of the espionage era to the luxurious Orient Express and idyllic countryside cottages, each scene is carefully crafted to immerse you in history.\n- Surreal 3D Models – Through stunning 3D models, we’ve built a lifelike puzzle world. From scene details to mechanism operations, we aim to deliver authentic textures and dynamic effects.\n- Mind-Challenging Puzzles – The game includes numerous puzzles and mechanisms. From cracking codes to unlocking contraptions, every step requires deep thought and careful planning. Prepare a notebook to jot down clues and tackle the game’s challenges.",
+    "cover_url": "https://i2.imageban.ru/out/2025/03/17/57988f697723da9f84314128edd461d2.jpg",
+    "screenshots": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3411050/extras/%E5%A5%87%E5%BC%82%E7%9A%84%E6%9C%BA%E5%85%B3%E8%AE%BE%E8%AE%A1.gif",
+      "http://s01.riotpixels.net/data/42/db/42db319a-8f2c-4a17-80ec-e943066101b5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/03/1e/031e99f9-c157-4592-851b-e08e5fa24bcb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/bb/8bbb7550-1a38-4933-b287-425990a44f0d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ab/55/ab55084d-146a-4e42-84e4-bea886b43e67.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/af/1c/af1c8d2c-0167-4779-8208-3af3b0fee729.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-3d-escape-room-detective-story",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T08:58:22.230096+00:00"
   }
 ]
