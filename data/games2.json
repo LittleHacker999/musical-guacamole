@@ -5567,5 +5567,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T22:08:22.326250+00:00"
+  },
+  {
+    "id": "6a8e2b51-c26f-5ec7-bda1-b604ab14a0de",
+    "title": "Darkwood: Deluxe Edition – v1.4a + Bonus Content",
+    "slug": "darkwood",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Survival",
+      "Top-down",
+      "2D"
+    ],
+    "size_original": "5.2 GB",
+    "size_repack": "1.7/2 GB",
+    "description": "Scavenge and explore the rich, ever-changing free-roam world by day, then hunker down in your hideout and pray for the morning light.\n\n**Repack Features**\n\n- Based on two ISO releases: Darkwood_v1.4a-STRANGE (Darkwood_v1.4a-STRANGE.iso, 2,617,049,088 bytes) & Darkwood_v1.4a_x86-STRANGE (Darkwood_v1.4a_x86-STRANGE.iso, 2,587,688,960 bytes)\n- Game version: v1.4a\n- Bonus content (ArtBook + MP3 OST, 344 MB) added\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- You can install either x64 or x86 version of the game\n- Selective Download feature: you may skip downloading and installing of bonus content\n- Significantly smaller archive size (compressed from cumulative 5.2 to 1.7/2 GB)\n- Installation takes 3 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 4.9 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Survival horror from a top-down perspective that is terrifying to play.\n- No hand holding or quest markers. Test your skills and figure things out on your own!\n- By day explore the randomly generated, ever-sinister woods, scavenge for materials, craft weapons and discover new secrets.\n- By night find shelter, barricade, set up traps and hide or defend yourself from the horrors that lurk in the dark.\n- Gain skills and perks by extracting a strange essence from mutated fauna and flora and injecting it into your bloodstream. Watch out for unexpected consequences…\n- Make decisions that impact the world of Darkwood, its inhabitants and the story you experience.\n- Meet eerie characters, learn their stories and decide their fate. And remember – don’t trust anyone.\n- As nights go by, the lines between reality and nightmarish fantasies begin to blur. Are you ready to step into Darkwood?",
+    "cover_url": "https://i2.imageban.ru/out/2023/12/31/22af312f7cc304873767166cbd7647ea.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/cc/44/cc44161c-4196-4812-a0ee-1944d47e649d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e8/0a/e80afdec-65cc-4333-8bd3-0571a690d2ef.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0d/e1/0de13372-f4f0-475c-a012-7053d132d86d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0b/dd/0bdd785f-1ea9-4397-abbc-b4fc85c35113.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b4/87/b4879702-fde8-4a7c-8229-152832d5f113.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e2/9b/e29bd990-3ad2-48bb-877b-506365a1a1ab.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-darkwood",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T22:13:22.323959+00:00"
   }
 ]
