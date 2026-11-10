@@ -2087,5 +2087,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T12:23:21.726463+00:00"
+  },
+  {
+    "id": "59af2cf3-75e7-5235-78b8-c8f8e4bdf63a",
+    "title": "Skies above the Great War",
+    "slug": "skies-above-the-great-war",
+    "categories": [
+      "Action",
+      "World War I",
+      "3D",
+      "Combat aircraft"
+    ],
+    "size_original": "1.7 GB",
+    "size_repack": "895 MB/1.2 GB",
+    "description": "**Repack Features**\n\n- Based on Skies.Above.The.Great.War-SKIDROW ISO release: sr-skiesabovethegreatwar.iso (1,846,011,904 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of modding tools\n- Significantly smaller archive size (compressed from 1.7 GB to 895 MB/1.2 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 2.3 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Take direct control of any plane at any time and prove yourself in easily accessible but challenging dogfights with detailed damage models.\n- Provide your airfields with machines and pilots and send them on missions that support your overall war strategy on a persistent 10.000 square kilometers wide gameworld fully simulated in real time.\n- From reconnaissance missions to front patrolling, strategic bombing and balloon hunting, it is up to you to use your resources wisely and stand up to the enemy.\n- Hire manufacturers such as Fokker or Sopwith to produce airplanes and even to let them develop new models that are able to compete with the constantly advancing technology of your enemy.\n- Manage your airfields and squadrons to make them as effective as possible.\n- Individualize your squadrons and every single aircraft with custom paintings and insignias.\n- Each pilot comes with his individual portrait and a given talent that needs to be transferred into skill. So train them and order them wisely to your squadrons so they can take up their duty in the skies.\n- From time to time a name or two will pop up among the ranks of talented newcomer pilots that might be familiar to those interested in history.\n- Want to skip one or more of the features above? Just hand it over to the AI and play the game exactly as you like.",
+    "cover_url": "https://i8.imageban.ru/out/2024/12/01/72bb6a7923f2162aa98434011a4f44b6.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/53/b8/53b830a8-4cdd-4de7-a0a4-3a3db7397521.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/92/4f/924f9cae-0fae-4c26-89f2-b21a700583bf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/7a/377abfa5-8cf2-44ec-bfb1-7afcddd6c3c1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f8/cc/f8cc836f-f112-47f8-8d04-dad59ed6af05.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/af/66afc5f4-8b6b-41a8-8ef7-7d03c4cfc409.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/93/c6/93c648f1-3115-431b-b0e5-efa313074904.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-skies-above-the-great-war",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T12:28:23.922171+00:00"
   }
 ]
