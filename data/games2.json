@@ -4783,5 +4783,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T19:58:22.424678+00:00"
+  },
+  {
+    "id": "4409f463-4c1a-59d8-c6d0-080d37bf2055",
+    "title": "Revival: Recolonization – Deluxe Edition – v1.0.415 + Bonus Content",
+    "slug": "revival-recolonization",
+    "categories": [
+      "Strategy",
+      "4X",
+      "Isometric",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "1.8 GB",
+    "size_repack": "792 MB",
+    "description": "Revival generates a vast possibility space for you to play around with. From sudden weather changes to zombie infestations and bans on certain weapon types – boy, you are in for a surprise.\n\ndapt to new conditions with the help of the nuanced edict system that allows you to terraform the planet and fine-tune the game rules on specific regions of the map. Protect your settlement from changes by building special shield constructs or by accepting the blessings of your tribe’s totem tree.\n\nSurvivors of the terrible catastrophe that almost destroyed mankind have unique traits and bonuses that affect your gameplay style. Pick the right clan to take under your wing and help your followers evolve through four distinct epochs, all the way to futuristic settlements and breakthrough technology.\n\nCommand an army that is suited to your play style by gearing up troops with a variety of components, which can also be crafted. Adapt your tactics in intense turn-based battles by mixing and matching different parts, as well as smartly using destructible cover to defeat your enemies.\n\nRevival takes place on our own home planet whose landscape and climate have been dramatically transformed. Discover pre-cataclysm artifacts and anomalies with unexpected behaviors. Face off against wild beasts that have evolved to survive in these conditions, as well as fearsome mechanical automatons that roam the lands.\n\n**Repack Features**\n\n- Based on Revival.Recolonization-TENOKE ISO release: tenoke-revival.recolonization.iso (1,938,565,120 bytes)\n- Game version: v1.0.415; Bonus Content (OST + ArtBook) is included by default\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.8 GB to 792 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.8 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2024/04/15/70dce7b71d582a768e8c1414dc96a5ed.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/da/c2/dac2aa41-1f91-4895-8fc1-c8b051193013.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6d/3e/6d3efebe-27b3-4a45-b278-ed687b4389e2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d1/2a/d12af5f3-558a-47cc-99a3-c9cc5a0090e8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/7c/377cfafd-ca7b-440d-8eac-846e36cc2ad5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b0/1e/b01e1462-2c9c-4b80-86f9-c60f0a42d4e7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/74/59/74594984-5d01-4127-b5ec-b3881579764e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-revival-recolonization",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T20:03:21.436827+00:00"
   }
 ]
