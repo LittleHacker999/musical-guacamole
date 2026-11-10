@@ -5857,5 +5857,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T03:03:22.529646+00:00"
+  },
+  {
+    "id": "84f70bbc-6156-5f4d-7489-a2bb72493a22",
+    "title": "Global Farmer – v0.17.1+25104396 + All 11 DLCs",
+    "slug": "global-farmer",
+    "categories": [
+      "Management",
+      "Strategy",
+      "Top",
+      "3D"
+    ],
+    "size_original": "46.4 GB",
+    "size_repack": "31.6 GB",
+    "description": "Choose your location – Based on real-world data from OpenStreetMap, you can play anywhere in the world. Explore your own neighborhood from the perspective of a budding farmer, or try to become a successful agriculture magnate conquering the world.\n\nOrganize your farm space – Build your own farming infrastructure with things like storage facilities, parking for your vehicles, paths to get around your farm, sheds for your animals and many more. Purchase a variety of equipment inspired by real-world agricultural vehicles and implements.\n\nDevelop the best crop rotation – Various environmental factors influence the growth and success of your crops: Daily changing temperature, sunshine hours and rainfall make up the requirements of optimal crop growth. Nutrients (NPK) and the soil composition further influence the growth and success of your crops. Investigate different field values and choose the most effective crop rotation. Plant the correct crops in the right areas, manage many different fields in parallel and watch your income increase.\n\nBuy and care for livestock – Construct barns and sheds for 3 types of farm animals. Assign fields as pastures and make sure that your animals stay fed during all seasons and temperatures by moving them between the green grasslands and your warm farm. In return, they will reward you with profitable milk, wool and eggs.\n\nCreate and share your own maps – Struggling because you live in an area with little data? Use our level editor and create your own unique field maps based on the real world OSM data. Afterwards you can share those with the community via the Steam Workshop.\n\nEmbrace the regional challenges – Ready for a challenge? Try to cultivate various crops across different continents. The weather and pricing will adapt according to the precise coordinates you select, reflecting global real-world data. Soil conditions, including texture and pH levels, will also vary depending on the region chosen.\n\nFulfill Contracts – Perform contract work to increase your revenue by delivering goods. Handle your resources wisely to fulfill orders on time. Take on increasingly challenging contracts and earn more money.\n\n**Repack Features**\n\n- Based on Global.Farmer-TENOKE ISO release: tenoke-global.farmer.iso (12,372,858,880 bytes)\n- Missing DLC files (34.8 GB) added\n- Game version: v0.17.1+25104396; 11 DLCs are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from cumulative 46.4 to 31.6 GB)\n- Installation takes 20-120 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 46.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Place your farm anywhere in the world.\n- Based on OSM data and incorporation of real-life soil and temperature values.\n- Use the map editor to modify the existing OSM data.\n- Build and expand your own farm.\n- Purchase a fleet of farm equipment like tractors, harvesters and different implements.\n- Cultivate numerous different crops.\n- Deal with seasonal fluctuations and their different effects on the growth of your crops.\n- Accept and fulfill contracts with local businesses.\n- Take care of animals & let them produce goods for you.\n- Asia\n- Russia\n- Northern Europe\n- Africa\n- North America\n- Eastern Europe\n- Southern Europe\n- South America\n- Australia and Oceania\n- Central America\n- Central Europe\n[/oist]",
+    "cover_url": "https://i1.imageban.ru/out/2025/08/22/c28c39eff2f2f5a55a2596e4b50e0118.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/c9/0a/c90a717b-d1fc-44b1-84b7-9a3d0d299728.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/6c/f56c91fc-1e62-4a4a-8b5d-4e48d7d0f2de.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4f/25/4f258865-3bae-463b-b68a-8b8839f4205f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e7/7a/e77aa9d6-4e62-477b-97bb-95b3f4647908.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/79/2d/792d69b3-4808-4f9e-b503-0f75581b0b59.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3d/8c/3d8cf9c9-18da-4a66-8452-7dfbad39d3fb.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-global-farmer",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T03:08:21.931871+00:00"
   }
 ]
