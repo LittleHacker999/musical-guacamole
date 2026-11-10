@@ -3712,5 +3712,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T17:03:27.031358+00:00"
+  },
+  {
+    "id": "a53f4c34-6049-54dc-f0b0-0cd3753ac5c3",
+    "title": "Zero Division – Hotfix v1.01f",
+    "slug": "zero-division",
+    "categories": [
+      "Card game",
+      "Top-down",
+      "3D",
+      "Cyberpunk",
+      "Turn-based"
+    ],
+    "size_original": "917 MB",
+    "size_repack": "396 MB",
+    "description": "Assemble Your Crew\nAssemble your crew of 3 from 9 steadfast operators, split into 3 core archetypes: Guardian, Assault, and Specialist. Choose to field a classic party with one of each archetype, or mix things up with unconventional compositions. Any combination is viable, provided you have the skill to guide them through the trials of Zerzura City. There is no true protagonist in this game: with the right cards and augmentations, any operator can have their turn to shine.\n\nFight With CCG-Style Decks\nEach operator comes with their own deck containing at least 8 signature cards and at least 12 free slots. These resistance fighters are all armed to the teeth: each customisable deck must contain at least 20 cards; and any exposed weaknesses means certain death. To succeed, exploit the synergies between your decks and devise inspired new tactics to defeat your foes.\n\nMMO-Inspired Bosses\nEngage in combat against multi-phase boss encounters inspired by MMO raid bosses, each with their own exhilarating mechanics and unique abilities. Take on the Siegebreaker, a colossal mech war machine; spill the blood of the Mithraean Bull, a terrible experiment gone awry; or defend a rooftop against a gunship blazing with weapons.\n\nCampaign Mode\nMake your way through 3 out of 6+ shattered districts before reaching the culmination of your journey in Wargentin District, the dark heart of the Zerzura Exclusion Zone.\n\nDraft Mode\nInspired by drafting formats in CCGs, draft mode starts you off with a veritable arsenal of data shards. Unseal your shards, draft the cards within to create your decks, and then take those decks into battle against an unforgiving gauntlet of randomized, escalating boss encounters. How far can you get before you succumb to the most dangerous enemies in Zerzura?\n\nMeta-progression\nEarn Mnemosynth through your runs, and use these synthetic memories to permanently imprint cards into your collection through the Failsafe system. The added cards can be carried over to the next run, greatly enhancing your deck’s power.\n\n**Repack Features**\n\n- Based on Zero.Division-SKIDROW ISO release: sr-zerodivision.iso (919,074,816 bytes)\n- 2 updates: Zero.Division.Hotfix.v1.01d.Update-SKIDROW (18 MB) and Zero.Division.Hotfix.v1.01f.Update-SKIDROW (22 MB) applied over\n- Game version: Hotfix v1.01f\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from cumulative 917 to 396 MB)\n- Installation takes 30 seconds\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.6 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2024/07/14/b1f326eba130c752ccb1eff5d6e3f3fc.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e6/d9/e6d99f4b-9a17-4df7-a155-6533065fd895.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/98/26/982677a9-3673-4b29-8121-b0fab787edaa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/87/f0/87f08f4f-dc6b-48ff-9542-0886deac458a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/43/d5/43d5431a-37f6-4f6e-9ce6-0f0e732384df.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/39/8c3933cd-4957-4e0b-a237-3257f91706c9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7e/6f/7e6f1d1b-914a-4c6f-9452-0075a3b32f43.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-zero-division",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T17:08:21.633512+00:00"
   }
 ]
