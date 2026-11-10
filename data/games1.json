@@ -6290,5 +6290,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T04:13:20.830776+00:00"
+  },
+  {
+    "id": "629e7670-b9c3-548b-5713-9ceeb9010fed",
+    "title": "Luto",
+    "slug": "luto",
+    "categories": [
+      "Adventure",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "10.5 GB",
+    "size_repack": "7.2 GB",
+    "description": "**Repack Features**\n\n- Based on Luto-RUNE ISO release: rune-luto.iso (11,240,308,736 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 10.5 to 7.2 GB)\n- Installation takes 1-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 18.1 GB (19.7 GB during installation)\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- What lies behind loss: feel the void left by the absence of a loved one, where despair grows, fed by anxiety and depression. Day after day…\n- Between reality and fiction: delve into an enigmatic place and explore its labyrinthine paths full of secrets. The truth has many faces, and you might not like the one you find.\n- Will not let you go: experience unsettling terror that envelops your senses, with fears lurking around every corner. Darkness does not only dwell in shadows.\n- Never.",
+    "cover_url": "https://i1.imageban.ru/out/2025/07/23/7a9ff988f15ae4cd806a30263de64a38.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/34/c5/34c5ebdc-638a-4657-9d60-1fc1a52d23a3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/08/89/08890a90-2b07-4868-af51-82cfe92643e5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/da/8f/da8f6133-a09d-4990-bf2d-01d302108354.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ca/ee/caeeae6f-34d2-41dc-bf66-b86b6ce3bd17.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a9/f1/a9f13208-98da-47dd-adef-9519fd1ded1c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/1d/a31dfef6-53ff-485d-b0ce-483c491093d7.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-luto",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T04:18:23.130298+00:00"
   }
 ]
