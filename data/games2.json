@@ -3309,5 +3309,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T15:48:20.520910+00:00"
+  },
+  {
+    "id": "9aa3c623-f878-5ef1-4800-44d5e7bdcbc8",
+    "title": "RC Revolution – Build 13864702",
+    "slug": "rc-revolution",
+    "categories": [
+      "Arcade",
+      "Racing",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "3.6 GB",
+    "size_repack": "1.7 GB",
+    "description": "Experience the Thrill of RC Revolution!\nWelcome to the exhilarating world of radio-controlled car racing, where unforgettable moments of intense immersion await you! The game seamlessly combines strategy, skill, and speed to offer an experience that stands as a timeless classic in the realm of competitive racing.\n\nMultiplayer Mayhem and Cooperative Gameplay\nDive into the heart-pounding multiplayer mayhem with a wide array of competitive and cooperative modes. Race against your friends or team up with them to share victory, whether it’s on a split screen or online. Each race presents an opportunity to push your limits and climb the ranks in our rewarding progression system!\n\nVariety of Cars, Tracks, and Customization Options\nChoose from a diverse collection of cars and tracks, each with its own unique challenges and characteristics! Customize your car to suit your racing style and witness firsthand how it affects your performance on the track.\n\nEasy to Pick Up, Difficult to Master\nOur game strikes the perfect balance between accessibility and challenge! With realistic and aesthetic physics, a variety of gameplay options, and a relentless focus on fun, we cater to both casual gamers and seasoned veterans. Enjoy exhilarating drifts, power slides, overtaking maneuvers, crashes, and collisions as you hone your skills on the track!\n\nReplayability with a Creative Track Builder\nThe fun doesn’t stop at just racing! Unleash your creativity with our intuitive and customizable track builder. Design your own tracks, complete with clever obstacles and hazards. Set up your own championship events using our championship editor, adding to the replayability and competitive spirit of the game.\n\n**Repack Features**\n\n- Based on RC.Revolution.Career-SKIDROW ISO release: sr-rcrevolutioncareer.iso (3,915,933,696 bytes)\n- Game version: Steam BuildID 13864702\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.6 to 1.7 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6.8 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2024/02/20/373a7a3c39e7f97c701ddcb799b34025.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6d/2d/6d2da756-926c-40da-8daf-d21b4cac464e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ec/17/ec173d1e-c4bc-451f-99be-a568bfda14c6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/da/0e/da0eab92-30e5-49e5-be1b-60bee3225f92.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ea/ae/eaaed5ca-020a-407b-a109-815e5c9adae3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/52/5a/525af4f5-86d8-48f3-b98b-70bb08f79b40.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7e/a7/7ea71af7-0ce7-4b8b-929c-2d82701e9d36.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-rc-revolution",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T15:53:24.634922+00:00"
   }
 ]
