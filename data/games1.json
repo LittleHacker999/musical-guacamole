@@ -5525,5 +5525,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T02:08:22.026435+00:00"
+  },
+  {
+    "id": "a2576c70-235a-55e6-025c-851d82b91daf",
+    "title": "Lost Skies – v1.0.79-50871 (Release) + DLC + Island Creator v2.18",
+    "slug": "lost-skies",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Open world",
+      "Survival",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "13.3 GB",
+    "size_repack": "5.5/5.7 GB",
+    "description": "Embark on a high-flying journey through the remnants of ancient civilizations and uncover the mysteries behind their downfall. As you traverse skies teeming with wonder and danger, harness advanced technology to overcome challenges and push the boundaries of human ingenuity.\n\n**Repack Features**\n\n- Based on Lost.Skies-RUNE ISO release: rune-lost.skies.iso (14,270,005,248 bytes)\n- Game version: v1.0.79-50871 (Release); Worlds Adrift Legacy Pack DLC is included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- The game has very deep files and folders structure. To avoid issues during installation, install it to a very short path, like “D:LS”\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of Island Creator v2.18 level editor\n- Significantly smaller archive size (compressed from 13.3 to 5.5/5.7 GB)\n- Installation takes 4-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 22.7 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- EPIC BATTLES – You’ll need to explore ancient ruins and utilize Atlas, the mysterious power that keeps the world afloat, to solve puzzles and discover the precious technology left behind by those who came before. However, danger lurks around every corner on both land and in the air. Fight against the ancient turrets and drones that hunt you across the floating islands, and engage in epic sky battles with colossal beings that have been roaming the skies since they brought about humanity’s destruction.\n- BUILD – In this vast, open world, your journey will be defined by the skyship you create. This isn’t just your vessel, it’s your home and your weapon. With Lost Skies’ deep ship crafting system, you can place parts freely to construct a flying fortress that’s as unique as your imagination. You’ll need to balance durability, agility, and firepower as you tailor your ship to face the challenges ahead. No two skyships are the same, so let your creativity take flight!\n- TAKE ON THE SKIES – Why just fly when you can glide, grapple, and climb your way through the skies? Scale sharp cliff faces or traverse the floating islands of Lost Skies with a physics-based grappling hook, hang glider, and wingsuit that makes every leap and bound exhilarating. Explore seamlessly, moving freely between distant horizons and breathtaking landmarks. This world isn’t just beautiful, it’s yours to conquer, one daring move at a time.\n- ISLAND CREATOR – Let your imagination run wild with Lost Skies’ intuitive Island Creator. Design and build custom islands, then share them with the community through the Steam Workshop. Download and explore other players’ creations to expand your adventure. The skies are limitless, and so is the creativity of its explorers.",
+    "cover_url": "https://i6.imageban.ru/out/2025/09/18/0d21556b6bd365fff7fcc212300ddb84.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e8/86/e886426a-f9ce-4db9-9927-cef5103cf04d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/45/ad/45adc527-ca30-437f-9b1f-a0d7a7740d3a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a4/63/a463d831-b464-44d2-8d39-22db3fc1d19e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/d6/e6d625ba-af6d-4243-b6ff-000ffe2f1b96.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/ea/a3ea32a7-1e4f-41c3-98e8-c593869dec76.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/fa/fcfaf662-f72f-442c-a62d-5c1330c73be7.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-lost-skies",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-10T02:13:21.030031+00:00"
   }
 ]
