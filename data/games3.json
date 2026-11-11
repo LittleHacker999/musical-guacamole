@@ -5123,5 +5123,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T17:13:21.436569+00:00"
+  },
+  {
+    "id": "10726ca7-afb4-5f39-a6d1-5e01fc8a2155",
+    "title": "Amnesia: Rebirth + Update 2",
+    "slug": "amnesia-rebirth",
+    "categories": [
+      "Adventure",
+      "Puzzle solving",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "19 GB",
+    "size_repack": "from 11.3 GB",
+    "description": "The setup.exe coming with repack contains a error – by default it doesn’t apply game folder name to the setup path. I.e. if you install the game to C:games, all files will be installed to that folder, and not to C:gamesAmnesia – Rebirth (as it should be). It will cause a full “Games” folder deletion if you decide to uninstall the game by included uninstall function. If you have already installed the game, DO NOT uninstall it in automated way. Or temporary move all your games from that folder then run uninstaller. Or just delete uninstall.exe + dat file for it along with other game folders/files. If you didn’t install the game yet, download this fixed installer and use instead the old one included in the repack.\n\nTime is against you. Step into Tasi’s shoes and guide her through her personal terror and pain. While you struggle to make your way through a desolate landscape, you must also struggle with your own hopes, fears, and bitter regrets. And still you must continue, step by step, knowing that if you fail you will lose everything.\n\n**Repack Features**\n\n- Based on Amnesia.Rebirth-CODEX ISO release: codex-amnesia.rebirth.iso (20,386,611,200 bytes)\n- Amnesia_Rebirth_Update_2-CS applied over, thanks to Christsnatcher!\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective download feature: you can skip downloading of “_SuperSecret.rar” archive, which contains bonus content, but the password for it is currently unknown\n- Significantly smaller archive size (compressed from 19 to 11.3/12.3 GB)\n- Installation takes 7-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 33.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- First-person narrative horror experience\n- Explore environments and uncover their histories.\n- Overcome puzzles that stand in your way.\n- Carefully manage your limited resources, both physical and mental.\n- Encounter horrific creatures and use your wits and understanding of the world to escape them.",
+    "cover_url": "https://i114.fastpic.ru/big/2020/1022/65/9d5a63df77fb281a1c5544b80ac06865.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/da/b5/dab5c8fa-308d-41e4-9be7-ff33dedf6fc5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/be/9fbe3c5f-0786-4ebf-b015-8063197a0f4c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/5c/025c43cf-91d8-4df3-bf76-a8d25b93675f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/55/91/559105b8-4202-47ce-bfea-25ae6b28588f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1a/5b/1a5b25cc-fad7-45c6-be45-fd258b50c8da.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/55/50/55501a4e-741b-4865-949c-e8752e2b09aa.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-amnesia-rebirth",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T17:18:24.225926+00:00"
   }
 ]
