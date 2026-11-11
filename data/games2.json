@@ -6775,5 +6775,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T01:28:23.831246+00:00"
+  },
+  {
+    "id": "68151e5a-6efb-50d9-7e46-6d69d37de416",
+    "title": "Mato Anomalies: Digital Deluxe Edition – Build 11837913 + 8 DLCs/Bonus",
+    "slug": "mato-anomalies",
+    "categories": [
+      "RPG",
+      "3D",
+      "Cyberpunk",
+      "Turn-based"
+    ],
+    "size_original": "8.7 GB",
+    "size_repack": "from 5.8 GB",
+    "description": "Mato Anomalies is a turn-based RPG that takes players on a journey across Mato, a fantasized neo-futuristic version of a bygone oriental city. Take control of the Dual Protagonists Doe and Gram to investigate strange anomalies around the city, or venture into rifts to battle demonic abominations determined to bring about the city’s downfall.\n\nTeam up with unlikely companions and unravel the dark secrets in this story of Duty, Hope and Justice.\n\nDual Protagonists\nTake control of not just one, but two very distinct protagonists. Gather intel and knowledge to unravel the mystery behind the city of Mato as the private detective Doe, or venture into rifts and battle demonic abominations with your incisive arsenal as the resolute exorcist Gram.\n\nAnomalies\nFind clues throughout Mato by talking to NPCs, taking on missions and visiting shops to pinpoint Rifts, portals to the demonic creatures attacking the city. Enter at your peril and defeat them in battle and collect abundant rewards.\n\nBand of Misfits\nThe enemy of your enemy is your friend. Difficult circumstances make for unlikely friendships. Find new allies during your investigations and gain their trust through conversation and shared experiences.\n\nSmart Combat\nMato Anomalies provides a unique and challenging battle experience highlighted by shared health across all team members, gear matrix and dual-talent system. A unique combat strategy will be needed if you want to succeed!\n\nDual Worlds\nTraverse across Mato, a neo-futuristic version of a bygone oriental city. Beneath its surface lies another world. Discover Rifts which act as portals into a place beyond space and time, filled with powerful enemies.\n\nCorrupt or Corrupted\nInsidious factions are somehow involved in the dark fate befalling Mato. Can our heroes find out what’s going on? Or will they themselves fall victim to despair and corruption?\n\nThis repack IS partially backwards compatible with my previous MA repack. You can rehash fg-01.bin and save 2.7 Gb of traffic.\n\n**Repack Features**\n\n- Based on Mato.Anomalies.Digital.Shadows-RUNE ISO release: rune-mato.anomalies.digital.shadows.iso (9,338,683,392 bytes)\n- Game version: Steam BuildID 11837913; 8 DLCs/Bonus are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of Japanese and Chinese voiceovers (English VOs are included by default) and bonus Artbook\n- Smaller archive size (compressed from 8.7 to 5.8~6.8 GB, depending on selected components)\n- Installation takes 3-17 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 17.4 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Artbook\n- Early Spring\n- Gears Pack\n- Pioneers Badge\n- Treasure from Heaven\n- Weapons Pack\n- Witness of Truth\n- Digital Shadows",
+    "cover_url": "https://i5.imageban.ru/out/2023/03/11/581cc97e43004c02c15f246e02d6eddc.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/63/60/6360ed9f-79a7-4040-80a4-b68274c95c7f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/54/16/5416b540-063a-4211-8ee2-273b9039e6ca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4a/5f/4a5f07ca-2975-4ab2-8612-88f2aee2fa59.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f7/1a/f71a9cb8-f957-449e-9adc-ff26aa41ab3a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/71/5f/715ff497-e465-49cc-904d-d046b96350f2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/41/b0/41b0770e-39ab-413e-90b2-828ea17f8a65.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-mato-anomalies",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T01:33:23.233441+00:00"
   }
 ]
