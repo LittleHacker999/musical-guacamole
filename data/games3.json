@@ -6612,5 +6612,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T20:48:21.730599+00:00"
+  },
+  {
+    "id": "50740938-b415-5622-30db-17c4c00fb7a6",
+    "title": "Arizona Derby",
+    "slug": "arizona-derby",
+    "categories": [
+      "Arcade",
+      "Racing",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "34.7 GB",
+    "size_repack": "12.5 GB",
+    "description": "These guys with ease turn their million-dollar machines into off-road rigs, crash them over hills like they’re nothing…This is Arizona Derby lifestyle. It’s all about insane racings at crazy off-roads around the globe and you’re invited to do so.\n\nYou will be given the first car and yours is to show skills, pack fame and earn more; one by one, to take it to the top. You will have to beat the world best off-road gangs and their bosses at the harshest track conditions. When you beat all gang members, you’ll compete with their bosses. Each boss has its weak side and you need to find it and utilize in order to leave them in dust and dirt and take a win.\n\nIn the way to stay competitive, you will upgrade, customize, tune and buy new rides from over 87 supercars, check around the garage and do your best preparation, proving to the world who’s the real off-road boss.\n\n**Repack Features**\n\n- Based on Arizona.Derby-SKIDROW ISO release: sr-arizonaderby.iso (37,287,008,256 bytes)\n- NOT 100% Lossless & NOT MD5 Perfect: useless pre-production videos has been removed, all other files are identical to originals after installation\n- Useless pre-production videos has been removed, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 34.7 to 12.5 GB)\n- Installation takes ~10-20 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 53 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i86.fastpic.ru/big/2019/0725/fc/416642090d4650b194cdbe7fbbe55bfc.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/0c/66/0c668c51-f99c-44cc-b8a3-3707c5371da3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/05/7b/057b99ac-d9a0-45ed-9807-133a6eac9005.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/48/ca/48ca6a94-e27d-4dfb-aefb-5c7181f3077f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/56/b7/56b751ec-8fb4-4575-8adb-ba3951bf975f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/44/d5/44d53f86-d4b9-428f-8184-46598c59db75.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/89/57/895728c8-8d21-4072-90a0-66b354097a97.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-arizona-derby",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T20:53:24.021622+00:00"
   }
 ]
