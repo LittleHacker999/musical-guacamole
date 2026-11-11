@@ -4090,5 +4090,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T14:23:22.732445+00:00"
+  },
+  {
+    "id": "2c78e581-5681-500f-a073-a6852cb7dd12",
+    "title": "Death’s Door",
+    "slug": "deaths-door",
+    "categories": [
+      "Action",
+      "Slasher",
+      "Isometric",
+      "3D"
+    ],
+    "size_original": "1.1 GB",
+    "size_repack": "558 MB",
+    "description": "Talon Sharp Combat:\nUtilize melee weapons, arrows and magic to overcome a fantastic array of beasts and demigods. Mistakes are punished and victory is rewarded. Gain an edge by customizing your character stats and mastering the abilities and upgrades you obtain.\n\nA Beautifully Bleak World:\nVenture beyond the Doors and explore a land full of twisted inhabitants and countless secrets, bringing hope to the weird and wonderful characters you’ll meet along the way.\n\nA Dark Mystery to Unravel:\nTrack down and defeat colossal tyrants with stories and motivations of their own. Experience a somber yet darkly comedic tale, uncovering the truths behind the flow of souls, the role of the Crows and the origin of the Doors.\n\n**Repack Features**\n\n- Based on Deaths.Door-CODEX ISO release: codex-deaths.door.iso (1,229,193,216 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.1 GB to 558 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.6 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i3.imageban.ru/out/2021/07/20/e89bbf16e6b3acbc3c691ad0c165a439.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/69/22/6922c25a-a126-4328-91e7-99a39d842aec.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2f/32/2f32ad8d-f1e8-4ba5-a2b2-227649e06817.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/7f/a37fcc4c-347b-4f11-b603-bc5c42737938.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cb/00/cb006fe6-b30d-422c-87f8-f5f950a3427c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/03/14/0314f403-6c72-4ec4-866a-67d6593fc4c9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/17/54/17545e15-0369-49cc-a103-cfdfc8c7af6e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-deaths-door",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T14:28:22.523283+00:00"
   }
 ]
