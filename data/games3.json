@@ -1,1 +1,32 @@
-
+[
+  {
+    "id": "065b1e7a-c97b-5310-9434-b77359442e80",
+    "title": "Crying Pony",
+    "slug": "crying-pony",
+    "categories": [
+      "Adventure",
+      "Side",
+      "2D",
+      "Horror"
+    ],
+    "size_original": "1.7 GB",
+    "size_repack": "720 MB",
+    "description": "**Repack Features**\n\n- Based on Crying.Pony-TiNYiSO ISO release: tn-cryingpony.iso (1,868,355,008 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.7 GB to 720 MB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.2 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Special art style: Unique 2D hand-drawn style that emphasizes detailed rendering and uses low saturation, low contrast colors to create a gloomy, eerie and dark atmosphere.\n- Delicate lighting: Different lighting setups are used to create an atmosphere of evil and creepiness that fits the situation.\n- A horror adventure game driven by the storyline: With exploration in the nightmare, the plot advances gradually, allowing further understanding of the nature of evil.",
+    "cover_url": "https://i5.imageban.ru/out/2023/04/25/abf256d144ec88859bf4ac593995d874.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/4b/ec/4bec331e-fc6d-42c6-8960-2df15c3180d4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/2e/1e2e2322-38c5-455f-8ddf-a82a28d81503.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/18/7e/187ef45b-fcf8-462c-9cce-4154adfbb4dd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d1/9e/d19eed78-95c9-4990-8a1a-030fbf42e449.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/07/03/0703f8fe-2db2-4495-8b66-8183ce13011c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/65/2c/652c5400-4fb6-4d7f-9f2a-0b02c2987b36.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-crying-pony",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T03:23:22.128233+00:00"
+  }
+]
