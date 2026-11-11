@@ -2894,5 +2894,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T11:08:22.224537+00:00"
+  },
+  {
+    "id": "f66e4f7d-a30c-5259-4fe0-9eda184485ce",
+    "title": "Chess Crown",
+    "slug": "chess-crown",
+    "categories": [
+      "Board game",
+      "Chess",
+      "Isometric",
+      "3D"
+    ],
+    "size_original": "909 MB",
+    "size_repack": "637 MB",
+    "description": "The game against the computer is suitable for players starting their acquaintance with chess.\n\nIn multiplayer, the player will be able to find a suitable opponent by level or fight with a superior in class.\n\nThe game has a time setting, a choice of the type of chess pieces and the location where the battle will take place, as well as the ability to communicate with an opponent in a chat.\n\n**Repack Features**\n\n- Based on CHESS.CROWN-DARKSiDERS ISO release: ds-chesscrown.iso (952,805,376 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 909 to 637 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 955 MB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2021/12/06/e23378765b22dd4126ce01edfd619949.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f9/05/f905f93e-792f-46c5-ad72-0dfb7c8bf709.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5e/f8/5ef88f5c-d1d7-4bd8-b170-8d030d82534e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/6a/376a95a3-44e4-43c8-90f3-2486aeea643e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/bf/a3bf96ac-9802-449d-ad3c-6ee69628f620.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/31/5d31a61d-dde2-4e28-ae7e-d4f028f15b37.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/19/7f/197f6e98-5e31-4a49-8247-882bd0c41a92.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-chess-crown",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T11:13:22.529078+00:00"
   }
 ]
