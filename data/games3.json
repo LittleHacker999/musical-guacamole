@@ -7456,5 +7456,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T23:08:37.333066+00:00"
+  },
+  {
+    "id": "1dd6ad8f-6ffd-53d1-37fc-5e1658317917",
+    "title": "Mafia 3: Digital Deluxe Edition – v1.09 GOG + 6 DLCs",
+    "slug": "mafia-3-digital-deluxe-edition",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Driving",
+      "Open world",
+      "3D"
+    ],
+    "size_original": "50.9 GB",
+    "size_repack": "from 18.7 GB",
+    "description": "It’s 1968 and after years of combat in Vietnam, Lincoln Clay knows this truth: family isn’t who you’re born with, it’s who you die for. Now back home in New Bordeaux, Lincoln is set on escaping a criminal past. But when his surrogate family, the black mob, is betrayed and wiped out by the Italian Mafia, Lincoln builds a new family on the ashes of the old and blazes a path of military-grade revenge through those responsible. Intense gun fights, visceral hand-to-hand combat, white knuckle driving and street smarts will all be needed. But with the right crew, tough decisions and some dirty hands, it’s possible to make it to the top of the city’s underworld.\n\nYou can skip downloading of other voiceovers packs you don’t need. Here is the list of selective files:\n\nIn example, if you want to launch the game with German UI/Subtitles/Voiceovers  – skip all “selective” files, but download fg-selective-german.bin & all main files (01-13).\n\n**Repack Features**\n\n- Based on Mafia III Deluxe Edition GOG release: 54,631,173,549 bytes\n- Game version: v1.090.0.1, 6 DLCs included (if Outfits can be counted as DLC 🙂\n- Additional bonus gallery (nude photos, Playboy covers and pinup arts – 171 images total) added to “Bonus Content” folder, available after installation\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective download feature: you can skip downloading and installing of voiceover packs you don’t need\n- Significantly smaller archive size (compressed from 50.9 to 18.7~19.1 GB for any single language)\n- Installation takes: ~25 minutes on 8-threads CPU; ~45 minutes on 4-threads CPU; ~1 hour 20 minutes on 2-threads CPU\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 53 GB\n- Language can be changed in game settings\n- Repack uses ZTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- NEW BORDEAUX, A REIMAGINED 1968 NEW ORLEANS: A vast, diverse and seedy open world ruled by the mob and corrupt officials and richly detailed with the sights, sounds and emotionally-charged social atmosphere of the era.\n- AN UNINTENDED AND LETHAL ANTI-HERO: Be Lincoln Clay, an orphan and Vietnam veteran hell bent on revenge against the Italian Mafia for the brutal slaughter of the black mob, the closest thing to family he’s ever had.\n- REVENGE YOUR WAY: Choose your own personal play-style, from brute force and blazing guns to stalk-and-kill tactics as you use Lincoln’s military training and gathered intel to tear down the Italian Mafia.\n- A NEW FAMILY ON THE ASHES OF THE OLD: Build a new criminal empire in your own unique way by deciding which of your lieutenants you reward, and which you betray…\n- fg-selective-english.bin\n- fg-selective-french.bin\n- fg-selective-german.bin\n- fg-selective-italian.bin\n- fg-selective-spanish.bin",
+    "cover_url": "http://i84.fastpic.ru/big/2016/1007/17/dacd9c22e82ab9ede991fd8ec0911217.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/dc/d8/dcd827c4-e4a8-4f76-9b31-0ee869e97219.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/31/7d318e77-aaeb-44ea-9bdd-2943be57d500.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/ed/58ed2007-ac26-4aa9-8986-d1ede8c6e2b6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/28/2c286c59-431c-4af2-b80c-3f17c2ed63a5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7c/3f/7c3fb6a9-2eb6-4f52-8630-959f28f7b4d4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e7/7e/e77e327c-b518-4d04-b639-366befd55ce3.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-mafia-3-digital-deluxe-edition",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T23:13:20.443761+00:00"
   }
 ]
