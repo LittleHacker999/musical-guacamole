@@ -6231,5 +6231,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-10T23:58:21.322815+00:00"
+  },
+  {
+    "id": "b91a17eb-d114-591f-64bd-9bed73ef02cf",
+    "title": "Submachine: Legacy – v1.0.17",
+    "slug": "submachine-legacy",
+    "categories": [
+      "Adventure",
+      "Point-and-click",
+      "Side",
+      "2D"
+    ],
+    "size_original": "692 MB",
+    "size_repack": "385 MB",
+    "description": "The World of Submachine:\nThe underground world of submerged machines offers you vast variety of locations and structures to discover and repair. While everything is shattered, you will try to put things back together to understand and escape.\n\nStory:\nYou are alone here. You will follow the footsteps of a banished lighthouse keeper discovering his descent into ruins of Submachine. The story is divided into chapters that will unlock for you as you progress through the game. The story is conveyed by series of notes that you’ll collect and read.\n\nPuzzles:\nThere are tons of puzzles, some of which you’ll solve by bringing the machinery back online, tinkering with it, turning off and on again. For others you’ll need to find missing parts, levers that were broken off or stolen, depleted power sources, gears, cogs, lamps, coils and so on. As you move through the structure, you will be putting back together things that were shattered.\n\nGraphics:\nEntire game is hand-drawn. There’s nothing auto-generated nor procedural. Each location was thoughtfully designed. Stylized drawings give the game it’s eerie atmosphere.\n\nMusic:\nAmbient music for this game was created by ThumpMonks, with chapter 1 ambient by Marcus Gutierrez. The music perfectly emphasizes the atmosphere of lonely exploration.\n\n**Repack Features**\n\n- Based on Submachine.Legacy-TENOKE ISO release: tenoke-submachine.legacy.iso (706,568,192 bytes)\n- Submachine.Legacy.Update.v20231015-TENOKE (18 MB) applied over\n- Game version: v1.0.17\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 692 to 385 MB)\n- Installation takes two minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 670 MB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2023/10/17/399710b05dc83b86eeef9eb13190ee00.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ca/e9/cae90cfa-c797-468f-9638-1cb1bd6e2cca.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/06/aa/06aa4a95-ce21-423e-9808-57f50e899e96.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/85/ef/85efd6c1-73a4-44bf-86f6-fcf89dcbcda1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b8/c9/b8c92daf-7976-466b-b164-bedec6fa1674.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0e/8c/0e8c96bc-fdff-418d-8444-225e6935931b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6d/bb/6dbb56ab-138f-4295-a30a-7e0bd59e7e49.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-submachine-legacy",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T00:03:23.433603+00:00"
   }
 ]
