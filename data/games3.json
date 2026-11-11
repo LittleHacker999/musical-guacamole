@@ -5566,5 +5566,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T17:58:23.524005+00:00"
+  },
+  {
+    "id": "a8a72f4c-2e7e-516c-77bc-936582a829b6",
+    "title": "Fast & Furious: Crossroads – v1.0.0.0.0790 + Launch Pack DLC [Monkey Repack]",
+    "slug": "fast-and-furious-crossroads",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Driving",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "82.1 GB",
+    "size_repack": "from 30 GB",
+    "description": "Most resources of FFC are encrypted and while proper files (re)compression is possible, it’s very slow (around 3-4 hours on a generic 4-threaded PC), but gives only 5 GB lesser size. So only basic compression was applied, and that any monkey can do.\n\n**Repack Features**\n\n- Based on Fast.and.Furious.Crossroads-CODEX ISO release: codex-fast.and.furious.crossroads.iso (88,114,003,968 bytes)\n- Launch Pack DLC is included and activated. Season Pass DLCs are not released yet, so it’s not counted here\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading of international game logo videos and movies in 4K resolution\n- Significantly smaller archive size (compressed from 82.1 to 30~31.5 GB, depending on selected components)\n- Installation heavily depends on free RAM, HDD/SSD speed and takes from 8 minutes on 16-threads CPU, SSD and 32 GB of RAM up to 40 minutes on 4-threads CPU and 8 GB of RAM\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 85 GB\n- Use “Language Selector.exe” in game root to change the game language\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Rev-up for an official new chapter in the Fast & Furious saga as Dom, Letty and Roman return to put YOU at the center of the story.\n- Speed through thrilling blockbuster action across the globe in cars taken from the movies, all curated by Dennis McCarthy, the official Fast & Furious car coordinator.\n- Experience intense cinematic heists and deploy new and familiar gadgets from the movies.\n- Level up to unlock cars, paint, wraps, sprays, plates, gadgets, and more.",
+    "cover_url": "https://i112.fastpic.ru/big/2020/0809/94/42c47db0634fc119e82aa57d00858894.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f7/8e/f78e1629-33b3-4f9a-80bd-0c3ecd44b8b3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bf/68/bf687213-289d-49bd-b519-71ee8713d9ea.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/1f/9f1f38ff-ccf2-48c8-8f38-0c9b7529555d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ca/16/ca165199-4e2c-4292-bf3d-8978cfddba11.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b3/d5/b3d542cd-83fd-4b79-8f75-052959969fcc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a6/c2/a6c2c134-086f-422b-ac90-fc4b02c12796.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-fast-and-furious-crossroads",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T18:03:21.530797+00:00"
   }
 ]
