@@ -850,5 +850,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T05:38:22.231866+00:00"
+  },
+  {
+    "id": "a3f38f15-4e25-53fe-d63e-e97faf052797",
+    "title": "Ghost Song – v1.1.8c",
+    "slug": "ghost-song",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Exploration",
+      "Horror",
+      "Side",
+      "2D"
+    ],
+    "size_original": "1 GB",
+    "size_repack": "649 MB",
+    "description": "Strike out beneath the surface in search of answers in Ghost Song, an atmospheric 2D adventure of self-discovery, ancient mysteries, and cosmic terror. Explore winding caverns lit only by bioluminescent flora, battle strange and powerful creatures, and acquire new abilities to help you unearth this alien world’s long-buried secrets.\n\nDescend deep into the darkness—only then will you learn (or is it remember?) the truth.\n\n**Repack Features**\n\n- Based on Ghost.Song-CHRONOS release: 1 GB\n- Patch to Build 9864627 by CHRONOS applied over\n- Game version: v1.1.8c\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1 GB to 649 MB)\n- Installation takes 2-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.7 GB (2.9 GB during installation)\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Discover what lies below: Explore the twisting alien tunnels and long-abandoned labs of an expansive, beautifully illustrated Metroidvania-inspired 2D world filled with secret chambers and a haunting history.\n- Power up and progress: Acquire potent weapons and game-changing new abilities in the depths, unlocking access to new strata of the moon and optional hidden areas.\n- Face challenging foes: Combat the fungal aliens and metal husks of Lorian with responsiveness and precision. Level up your power, and customize your suit and blaster with an arsenal of modules.\n- Blast and smash: Master the distinctive rhythm of Deadsuit’s core combat. Pummel enemies with your rapid-fire blaster, building up barrel heat that empowers your melee attacks.\n- You are not alone: You’re not the only entity trapped in this unfamiliar place. Encounter a cast of voiced characters and discover their own tales of survival, courage, abandonment, and redemption.",
+    "cover_url": "https://i3.imageban.ru/out/2022/11/05/b536afa229f38e58904876ef8500e504.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/69/68/6968a329-9b57-46a9-9078-78449ba316da.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2d/56/2d566542-5bb9-43b9-81ce-f662ee823aef.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/da/76/da76c4de-fdb2-45b8-9660-62927f2e7571.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6d/10/6d10a084-0356-4105-b27b-60e237c27b5e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4d/4c/4d4c39f2-a66f-4b2b-9c9f-8f14116de626.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/93/97/93977a92-13fb-454c-b181-5616356e91ed.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ghost-song",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T05:43:22.226832+00:00"
   }
 ]
