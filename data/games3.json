@@ -3046,5 +3046,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T11:33:23.627014+00:00"
+  },
+  {
+    "id": "c966c2b7-8f87-54a8-f507-1f3b15b2f7d2",
+    "title": "Pokémon Brilliant Diamond & Shining Pearl – v1.1.1 + Ryujinx/Yuzu Emus for PC",
+    "slug": "pokemon-brilliant-diamond-shining-pearl",
+    "categories": [
+      "RPG",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "13.9 GB",
+    "size_repack": "2.7 GB",
+    "description": "**Repack Features**\n\n- Based on two Nintendo eShop digital releases: 8.6 GB, thanks to Hermietkreeft!\n- Two updates to v1.1.1 (4.8 GB) applied over\n- Ryujinx (v1.0.7106, November 16, 2021, 47 MB) and Yuzu Early Access (v2222, November 19, 2021, 90 MB) Switch emulators are included\n- Switch Firmware v13.1.0 (320 MB) added as a requirement for Ryujinx\n- Booting up any of the games will take time on both emus since OpenGL takes time to render the assets and, the shader cache also takes time to build up, so be patient. (Vulkan doesn’t sit well and may cause crashes with both the games)\n- Try Yuzu preconfig from “_Ready Config for Yuzu” folder in case you have troubles with default config or don’t know how to set up the config.\n- To boost performance on Yuzu emu, as soon as you get into the game press ‘ctrl + u’ to remove fps lock and subsequently unlock more FPS. (You can see the unlocked status next to your FPS counter)\n- To boost performance on Ryu emu, disable the V-sync option either before boot up or while playing to see the FPS difference. (Screen tearing may happen, so beware)\n- Test both emus and use the one which performs better on your system\n- 100% Lossless, but NOT MD5 Perfect: encryption was removed for better repack size\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from cumulative 13.9 to 2.7 GB)\n- Installation takes 3-8 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 10.2 GB\n- Language can be changed in games settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2021/11/19/b34fe2a27d1012c397732e4a9872011f.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/08/8c/088c6f02-bd74-483f-9b6f-2163c0122448.png.240p.jpg",
+      "http://s01.riotpixels.net/data/f9/3f/f93fdef5-a8bd-4583-8f92-7e74ee93fb20.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/95/a3/95a3d76a-90b8-49f1-b6fe-deeb9c70b762.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/26/50/2650e571-6d9d-4f1c-a2d2-c92dad26524f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/48/1e4846b9-2f2c-463b-8243-fcdec026a11c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b8/f7/b8f71cbb-dcdf-4ee9-8670-ddc85ef4fb39.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-pokemon-brilliant-diamond-shining-pearl",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T11:38:22.328822+00:00"
   }
 ]
