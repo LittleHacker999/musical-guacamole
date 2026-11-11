@@ -88,5 +88,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T03:33:23.828810+00:00"
+  },
+  {
+    "id": "9da58bcc-6111-53cb-1830-a7ad2b7b9398",
+    "title": "GENIE",
+    "slug": "genie",
+    "categories": [
+      "Exploration",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "24.2 GB",
+    "size_repack": "18.5 GB",
+    "description": "GENIE is a couple of hours of a relaxing experience. A rich story that’s presented in a poetic form combined with immersive graphics, fantasy style, gorgeous natural environments that take place in varied eras, made with Unreal Engine 5, and a charming soundtrack to make it a journey you may not soon forget. Enjoy the environments!\n\nIn the first half of the levels, the player collects crystal shards scattered around the map. When they collect all the shards, the poem-spots start to appear one by one. When the player stands on them, they have to find a light source around them and focus on it. When that happens, the camera view changes and the narration begins. After that is done, the next poem-spot reveals, and so on until the next level begins.\n\nGENIE is the re-creation of Drizzlepath: Genie which was released in 2016. The environments are made from scratch, the story is altered and transformed into poem form. A highly talented voice actor has recorded the full narration of the game. The music is revisited (with a single exception) with a selection of more atmospheric tracks.\n\nThe game is divided into 15 parts which take about 5-10 minutes each; the progress is saved at their beginnings.\n\nPS: The core aspect of this game is the atmosphere. It offers almost zero interaction and is recommended for those who mostly seek to experience the mood.\n\n**Repack Features**\n\n- Based on GENIE-TENOKE ISO release: tenoke-genie.iso (25,991,794,688 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 24.2 to 18.5 GB)\n- Installation takes from 15 minutes (on 24-threads CPU) up to 1 hour 20 minutes (on 4-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 24.3 GB\n- Repack uses compression library by Razor12911\n- Use “GENIE (Windows 7)” desktop icon to play on Windows 7\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i2.imageban.ru/out/2023/04/09/65357ca70d9dfbfb8d937999776c9db0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/04/1b/041b28ba-cec0-41ec-8e47-abee21c4e9ab.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/70/9b/709b6f07-410d-4a96-9c39-231dcf4336d9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/18/57/18578898-24aa-4b80-8699-00a22225c42a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6d/fe/6dfe3ede-cafd-4486-92f7-cf5f68a77279.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5a/d1/5ad19773-1884-47ec-9d7d-10073449d079.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c5/89/c5897b5b-eb36-4615-be1d-a3fc4f4a7d46.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-genie",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T03:38:20.725160+00:00"
   }
 ]
