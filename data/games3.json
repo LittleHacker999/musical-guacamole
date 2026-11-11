@@ -295,5 +295,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T04:08:21.725555+00:00"
+  },
+  {
+    "id": "bba37ab3-cc92-55f2-703d-8fcfe1f64187",
+    "title": "Demon Turf – Build 10675724 + Tower Expansion",
+    "slug": "demon-turf",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "3.7 GB",
+    "size_repack": "1.7 GB",
+    "description": "HISTORY\nFrom the makers of Slime-san comes their newest creation! The team used everything they learned from their 2D platformer to elevate this 3D platformer to the next level!\n\n**Repack Features**\n\n- Based on Demon.Turf.Tower-DOGE ISO release: wow-demon.turf.tower.iso (3,976,050,688 bytes)\n- Game version: Steam BuildID 10675724; Tower Expansion is included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.7 to 1.7 GB)\n- Installation takes 3-9 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.6 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A unique aesthetic combining the expressiveness of 2D illustrations with the depth and sense of exploration 3D environments can offer!\n- A world chock-full of humor and style, from the music accompanied by the protagonist’s rapping to the colorful characters inhabiting the world!\n- A unique take on progression! Take a victory lap and explore previously beaten levels to discover their liberated state, with plenty of mechanical and environmental changes to uncover. Or take some time off in the hub town taking on sidequests and other distinct challenges instead.\n- Pull off some clever platforming combinations or get physical with a special physics-driven combat system that ramps up the chaos and fun. Push, pull and spin your enemies out of your way.\n- A different take on checkpoints, freeing the player to place them wherever they want. Show off without them for a perfect run, or place one in preparation for a challenging section.\n- Unique challenges like the “Photo Hunt” mode where you’re tasked to take pictures of hidden locations & surprising moments! Or simply take picures and selfies for fun and share them across all social media!\n- An awesome collection of purchasable mods that can be combined in clever ways to completely change your play style! Or you could buy some dyes & pets instead, the world’s your oyster!\n- Tons of carefully crafted levels that constantly introduce new challenges as well as en- gaging bosses full of character and life! Until Beebz gets to them…",
+    "cover_url": "https://i2.imageban.ru/out/2021/11/08/10127cfd2c71469244e1e13b608e7f7e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/68/bb/68bb4249-92c6-4dca-a20d-86d7dd6c983a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b8/45/b845b377-64ca-4e41-8dba-51c63090e73f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/83/a28352c6-10de-45ce-9aad-dd2058abc594.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b6/24/b624df36-0c52-47b9-889c-20abc162259e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/3a/a33aa5de-cee6-4334-a8ca-66aeed5d00e8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/d6/e3d6a278-603d-4d66-ae32-015f3828ab94.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-demon-turf",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T04:13:23.128206+00:00"
   }
 ]
