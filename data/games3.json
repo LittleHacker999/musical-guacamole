@@ -7517,5 +7517,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T23:18:38.324388+00:00"
+  },
+  {
+    "id": "a30ac450-77cf-5baf-ebc6-6d157563c7c5",
+    "title": "RUINER v1.06",
+    "slug": "ruiner",
+    "categories": [
+      "Arcade",
+      "Top-down",
+      "3D",
+      "Cyberpunk"
+    ],
+    "size_original": "9.9 GB",
+    "size_repack": "from 5.6 GB",
+    "description": "RUINER is a brutal action shooter set in the year 2091 in the cyber metropolis Rengkok. A wired psychopath lashes out against a corrupt system to uncover the truth and retrieve his kidnapped brother under the guidance of a secretive hacker friend. Combine preternatural reflexes, augmented tools, and the arsenal of fallen foes to tear down and dismantle the corporate titans of virtuality dealers at HEAVEN.\n\nSophisticated & Brutal Combat: RUINER features lightning fast combat that requires a delicate balance of overwhelming, brute force, and elegant strikes to overcome all manner of savage opponents. Blast through crowds or slow down time and hand select your points of attack before unleashing a storm of violence on the battlefield.\n\nCyberpunk Inspired Arsenal: Equip all manner of high-tech firearms and melee weapons to ruin all that oppose you. Employ state of the art gadgets like energy shield, dash augmentations, and the switch gun stun or hack the opposition onto your side of the fight.\n\nStory-Driven Action: Violent confrontation is a means to an end and trust is a devalued currency in Rengkok as you navigate a senseless world with the help of a mysterious hacker friend.\n\nExceptional Soundtrack: Explore and battle to the intense beats of Sidewalks & Skeletons, Zamilska, Antigone & Francois X, DJ Alina and famed anime composer Susumu Hirasawa (Paprika, Millennium Actress).\n\n**Repack Features**\n\n- Based on Ruiner.Annihilation-SKIDROW ISO release: sr-ruinerannihilation.iso (10,677,649,408 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- You can skip downloading and installing of credits/attract videos\n- Significantly smaller archive size (compressed from 9.9 to 5.6~6.2 GB)\n- Installation takes 8-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 10 GB\n- Edit “EngineBinariesThirdPartySteamworksSteamv139Win64steam_api.ini” file to change the game language\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Repack uses ZTool library by Razor12911",
+    "cover_url": "http://i95.fastpic.ru/big/2017/0927/c0/ce7cd0ab0e7b89ba08761ea17c2ce9c0.png",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a4/57/a457afce-c52f-4690-950b-5b83848857e8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2a/87/2a87ff2c-f5b4-45b5-ba30-db5774ec8685.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/91/d0/91d0f38b-eb1d-47a4-b3e7-854e3393b595.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/75/7f/757f32ba-9f36-420a-a923-e8c4165eb3b3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/90/b7/90b782b9-a86a-4a1e-bbbe-201fabc5d59d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1a/18/1a18be63-b479-47af-af39-d6a98ef666f1.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-ruiner",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T23:23:21.733245+00:00"
   }
 ]
