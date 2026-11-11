@@ -5686,5 +5686,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T18:18:23.829927+00:00"
+  },
+  {
+    "id": "92304abb-a374-5da4-2a6d-889a82fdcd47",
+    "title": "Arx Fatalis – v1.22 + Arx Libertatis (2 versions) + Arx Neuralis v0.9",
+    "slug": "arx-fatalis",
+    "categories": [
+      "Action",
+      "RPG",
+      "Dungeon crawl",
+      "Stealth",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "9.9 GB",
+    "size_repack": "from 499 MB",
+    "description": "This critically acclaimed first-person RPG from Arkane Studios takes the player on an amazing journey into the fantasy world of Arx. Arx is wrought with turmoil, brought to the brink of destruction by a violent war. The sun has disappeared from overhead to shroud the world in eternal darkness, forcing communities to begin inhabiting underground mines. But as food and drink becomes scarce, the wars become even more violent as each race – from trolls, goblins, and rat-men, to humans – struggle for survival. Now, evil has arisen in this sunless world in the form of the God of Destruction, Akbaa. It’s up to you to defeat Akbaa and save Arx from his reign of terror. You must use bravery and cunning to uncover the long hidden secret of Arx. As your epic quest unfolds you will explore ancient temples, bustling cities and abandoned mines; unearth legendary artifacts and face terrifying foes.\n\nArx Fatalis features crafting, melee and ranged combat, as well as a unique casting system where the player draws runes in real time to effect the desired spell.\n\nArx Libertatis 1.1.2 updates and improves Arx Fatalis by supporting modern systems, porting the game to new systems as well as eliminating bugs and limitations. In the future we plan to improve and modernize the engine as well as enable customizations and mods by the community.\n\nArx Neuralis — HD texture pack for Arx Fatalis. All textures are original, so the atmosphere is preserved, upscaled to 16x resolution with neural networks, and then downscaled to 50%. All textures are upscaled, except for FX (magic, fire, etc, problems with transparency) and some interface elements (problems with scaling).\n\n**Repack Features**\n\n- Based on v1.22 MULTi6 Steam release: 5.4 GB\n- Two versions of Arx Libertatis added, v1.1.2 Stable & v1.2-dev-2020-06-14\n- Arx Neuralis v0.9 Mod (4.5 GB) added as an optional download. Please note, that AN works only with AL mod\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of Spanish, Russian and Italian localizations and Arx Neuralis mod. English, French and German support is included in main files\n- Significantly smaller archive size (compressed from cumulative 9.9 GB to 499 MB~4.2 GB, depending on selected components)\n- Installation takes 1-12 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 7 GB\n- Language can be changed in game settings\n- Use coorespondend BAT-files in game root to run the game in original state or with one of the Arx Neuralis versions\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Arx Fatalis, v1.22 (now it’s compatible with Windows 10)\n- Arx Libertatis Mod, v1.1.2 Stable\n- Arx Libertatis Mod, v1.2-dev-2020-06-14, may contain bugs\n- Arx Neuralis Mod, v0.9 (works only with Arx Libertatis)",
+    "cover_url": "https://i112.fastpic.ru/big/2020/0626/8e/e95ddcc192ec762343b91666bd379c8e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/c7/c4/c7c40621-8308-4499-91e0-3c6161e1e89b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/82/fc/82fc27d8-14fb-4437-8096-1942d3199152.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3d/c4/3dc48ed5-c154-463d-8b0c-7003f2fcfab1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/34/55/345541d8-c802-4e02-871d-6fd7093046f8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bd/8f/bd8f778d-6800-4a7b-a4b2-cc0a85a4bcea.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/b1/99b136ff-53fb-4bdc-b3f1-968ba69e96cd.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-arx-fatalis",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T18:23:22.032115+00:00"
   }
 ]
