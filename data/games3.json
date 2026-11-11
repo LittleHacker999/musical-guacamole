@@ -2466,5 +2466,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T09:58:21.424468+00:00"
+  },
+  {
+    "id": "1e4fc826-c053-590c-8445-984c0e54b320",
+    "title": "The Watchmaker + Ultimate Update",
+    "slug": "the-watchmaker",
+    "categories": [
+      "Adventure",
+      "Third-person",
+      "Steampunk",
+      "3D"
+    ],
+    "size_original": "3.2 GB",
+    "size_repack": "2.1 GB",
+    "description": "In The Watchmaker, a puzzle-adventure game, players take on the role of Alexander. In his steampunk world of giant clock mechanisms, Alexander’s routine involves repairing his precious clock tower every day, adjusting its mechanisms, oiling the gears and polishing everything down to the smallest piece. For years, this is the only life he has known.\n\nBut one day Alexander is awakened by a mysterious voice. This disembodied voice alerts him that something has gone wrong: someone, some unknown being, has sabotaged his beautiful tower. With the clock not working properly, time has gone mad. Consequently, Alexander starts ageing abnormally quickly, leaving him only a handful of time to repair the damage.\n\nGuided by the mysterious voice and armed with a magnetic glove and the ability to control time, he must search the halls and arcades of the tower in search of the saboteur. Various obstacles, enemies and riddles buried in the clock’s intricate mechanisms stand in his way. But Alexander must push on to save the clock and restore time to its natural rhythm, all while gradually uncovering the mysteries of the tower and its even stranger past.\n\n**Repack Features**\n\n- Based on The.Watchmaker.Ultimate-PLAZA ISO release: plaza-the.watchmaker.ultimate.iso (3,482,222,592 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.2 to 2.1 GB)\n- Installation takes 3-6 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 7.3 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Steampunk puzzle-adventure set in 5 extensive locations\n- Unique ageing process that replaces the usual health bar\n- Numerous Collectable items\n- Diverse gameplay, with a mix of exploration, puzzles, platforming action and boss fights\n- Environmental puzzles to be solved using magnetic gloves and the ability to control time",
+    "cover_url": "https://i6.imageban.ru/out/2022/02/04/9567637b983c9110af528967df106fbf.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/33/83/3383a374-a0d0-43c7-9f0a-bbc66f6b090e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b5/09/b509b7d3-ec84-460f-b07b-82ae32952ccd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7e/a6/7ea664e7-1aa4-48de-a90e-807285a54a58.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2b/e8/2be8be93-c012-471c-bab3-a3f83af25a6b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/c3/a3c30d7f-5c6a-41b8-8e4e-881a2edcc846.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cb/31/cb310f55-4cc5-4ea6-942a-6ab58b71951c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-watchmaker",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T10:03:22.922255+00:00"
   }
 ]
