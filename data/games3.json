@@ -6003,5 +6003,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T19:08:23.245328+00:00"
+  },
+  {
+    "id": "5a6b2b0f-8bd7-5e09-d580-d9bd8ffbd8e6",
+    "title": "Racing Glider",
+    "slug": "racing-glider",
+    "categories": [
+      "Arcade",
+      "Racing",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "4.3 GB",
+    "size_repack": "2.3 GB",
+    "description": "Racing Glider reinvents futuristic racing game classics by offering rally-like tracks in natural and fantastic environments.\n\nTake place in a “Time Trial” campaign with a large number of tracks that will be unlocked over the course of your victories. You will need to master the inertia, speed and physics of each vehicle you play to beat the times and win all the medals.\n\nRacing Glider offers a gameplay between speed and mastery that will make you discover a new kind of antigravity racing game.\n\n**Repack Features**\n\n- Based on Racing.Glider-CODEX ISO release: codex-racing.glider.iso (4,645,912,576 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4.3 to 2.3 GB)\n- Installation takes 2-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Unique gameplay based on physics. Anticipate and master the forces applied to the vehicle to beat the best times.\n- “Time Attack” campaign where you will win medals to unlock other tracks.\n- 2 Vehicles available:\n- Wind Ranger (Futuristic F1)\n- Mantis Glider (Futuristic Bike)\n- Each vehicle has unique features as well as a dedicated tracks type.\n- Beat the clock by discovering a new world at each tracks.\n- An original soundtrack fully composed for the game.\n- More than 50 Levels.\n- Final challenge with diamond medals.",
+    "cover_url": "https://i111.fastpic.ru/big/2020/0229/4a/59c65c65f7ee1d2985dbb452f0008a4a.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/89/e3/89e39785-5fed-45dc-9347-70ddcdda4920.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4a/23/4a2383bf-4538-4358-a08f-d058fc0ed0e8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/23/b3/23b376a3-ff39-44f9-af02-94bf2428ae64.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f7/ec/f7ec2a17-838f-4731-a733-bc59e1a63e73.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7c/21/7c21d30c-dadf-4d21-ae8e-ef9dc439d5cc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/89/14/8914f3cd-f8bb-4b38-b686-d41b346b73e0.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-racing-glider",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T19:13:21.924428+00:00"
   }
 ]
