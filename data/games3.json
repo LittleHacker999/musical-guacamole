@@ -2833,5 +2833,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T10:58:24.130819+00:00"
+  },
+  {
+    "id": "979f7d56-f7af-56e3-0a48-4119643cfd02",
+    "title": "Scrapland Remastered – v1.1 + Multiplayer",
+    "slug": "scrapland-remastered",
+    "categories": [
+      "Action",
+      "Arcade",
+      "Racing",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "4.8 GB",
+    "size_repack": "from 2 GB",
+    "description": "Dive into this fun journey and discover the origins of MercurySteam, the studio behind Metroid Dread and Metroid: Samus Returns, Castlevania: Lords of Shadow and Spacelords.\n\n**Repack Features**\n\n- Based on Scrapland.Remastered-CODEX ISO release: codex-scrapland.remastered.iso (5,199,888,384 bytes)\n- Game version: v1.1; Multiplayer support and dedicated server are included by default\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading language packs you don’t need. English and Italian (with English VO) support is included by default\n- Significantly smaller archive size (compressed from 4.8 to 2~2.6 GB, depending on selected components)\n- Installation takes 2-4 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 8.6 GB\n- Use “Language Selector.exe” in game’s “Bin” folder to change the game language\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Hack the system! Control 15 different characters, each with quirky personalities and abilities that will put your skill and sense of humor to the test.\n- Find the human murderer who has infiltrated the world of the robots and end his criminal career, if you can complete the game’s 140+ missions.\n- Patrol the city with your favorite combat ship: Speed, fire power, countermeasures, maneuverability, resistance… You can have it all, if you put in the effort.\n- S A V A G E Multiplayer mode: An intense combination of races and battles still unmatched in the genre. Create your games or join others, on a local network or online.\n- Remastered content: This version has been improved with high-resolution modes, dedicated servers and revised network code, full gamepad support, in-game improvements, achievements and Steam Cloud support.",
+    "cover_url": "https://i5.imageban.ru/out/2021/12/14/aebd07bc47cbfc254adad37cee0401a4.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/fa/15/fa15ce56-51d2-4098-99e5-a776ab1f6dfe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e8/54/e8540440-c203-4862-b44f-659185921f8e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a8/c3/a8c34eb4-9c16-463c-b317-459b6976c503.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/79/6f7954a0-6af9-4ccb-9421-659e94fc7f77.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6a/91/6a9190e2-5eed-4779-8cb7-670a850eaa5d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/2f/972f0497-abd8-4039-8680-098d82cd6e40.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-scrapland-remastered",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T11:03:22.628292+00:00"
   }
 ]
