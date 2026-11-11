@@ -1847,5 +1847,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T08:18:25.428496+00:00"
+  },
+  {
+    "id": "ca76d146-5bcb-51df-0747-30755e7b8b46",
+    "title": "Chorus – v1.0.0.11.210770 + The Elder Armor Skin Set DLC",
+    "slug": "chorus",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "30.9 GB",
+    "size_repack": "20.7 GB",
+    "description": "Take control of Nara, once the Circle’s deadliest warrior, now their most wanted fugitive, on a quest to destroy the dark cult that created her. Unlock devastating weapons and mind-bending abilities in a true evolution of the space-combat shooter. Along with Forsaken, her sentient starfighter, explore ancient temples, engage in exhilarating zero-g combat, and venture beyond our waking reality.\n\nA JOURNEY OF REDEMPTION\nLead Nara, an ace pilot facing her haunted past, and Forsaken, her sentient ship. Their quest for redemption will take them across the galaxy and beyond the boundaries of reality, as they fight to unite resistance forces against the Circle and their leader, the Great Prophet, at all costs.\n\nVENTURE BEYOND THE VOID\nEnter a dark new universe, teeming with mystery and rife with conflict. Explore epic locations such as sprawling space stations and strange planes of existence beyond our own. Engage in exhilarating zero-g dogfights from epic cosmic vistas to tight crystalline corridors. Chorus balances the scale and spectacle of space exploration with frenetic, fast-paced action.\n\nONE PILOT, ONE SHIP, ONE LIVING WEAPON\nAttain powerful and distinct weapons and combat upgrades. Master your ship’s unique drift mechanic and deadly mind-bending abilities, including extra-sensory perception, teleportation and telekinesis, to overcome massive hordes of enemies and take down titanic battleships. Chain your powers together to become the ultimate living weapon.\n\nThis repack IS pretty backwards compatible with my previous Chorus repack. You can rehash the following files to save 11.6 Gb of traffic.\n\n**Repack Features**\n\n- Based on Chorus_v1.0.0.11.210770-Razor1911 ISO release: rzr-chorus10011.iso (33,128,611,840 bytes)\n- Game version: v1.0.0.11.210770; The Elder Armor Skin Set DLC is included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 30.9 to 20.7 GB)\n- Installation takes from 7 minutes on 16-threads CPU up to 25 minutes on 4-threads CPU\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 31.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A compelling single-player experience\n- Play as dual protagonists Nara and her sentient AI companion and starfighter, Forsaken, on a personal journey of redemption\n- Experience fast-paced, frenetic action that evolves the spirit of classic space shooters\n- Fight to unite resistance forces against the Circle and their ominous leader, the Great Prophet\n- Face down hordes of enemy starfighters, titanic battleships and unknown Void entities\n- Reclaim, upgrade and wield devastating weapons and abilities in zero-g dogfights\n- Explore a dark new sci-fi universe, teeming with mystery and conflict\n- Enjoy gorgeous next gen sci-fi visuals in 4K, from cosmic vistas to sprawling space stations\n- fg-01.bin\n- fg-03.bin\n- fg-04.bin\n- fg-06.bin",
+    "cover_url": "https://i2.imageban.ru/out/2021/12/04/0b1cf46b8620de50e0e33095d2abdd04.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/9c/75/9c753623-8126-43ff-b2ea-dda306fb7a51.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/ec/62ec9450-d49b-43ce-9ba2-54b5ccf223be.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/f2/8bf247bf-74b9-4e7f-a939-b2e88b0e165d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/56/095682df-a259-4e14-bd6a-5a5e175defa0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/81/24/81243787-609d-4d50-87f1-b36bbf68c92c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0c/d6/0cd6b48a-b934-42db-9bc4-d7d49e847cda.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-chorus",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T08:23:21.924651+00:00"
   }
 ]
