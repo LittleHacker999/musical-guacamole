@@ -5657,5 +5657,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T18:13:22.736406+00:00"
+  },
+  {
+    "id": "30f72507-bbb8-5c9b-ed07-e5676f1566f5",
+    "title": "Little Town Hero",
+    "slug": "little-town-hero",
+    "categories": [
+      "RPG",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "3 GB",
+    "size_repack": "692 MB",
+    "description": "PS4 controllers are supported either by Xinput mode + Inputmapper/DS4Windows or by native Dinput mode.\n\nIn case your dualshock controller isn’t working , probably it is detected multiple times(Xinput and Dinput), you must settle on just 1 one of these modes:\n\nDownload this rar and unpack .ini & .dll in the game folder, overwriting existing files. Change UserName=SKIDROW to UserName=Player in .ini if you need old saves support.\n\nhttps://multiup.org/download/f892acf1386f026032276694c2a6d929/tn-littletownherocrackfix.rar\nhttp://sendfile.su/1568678\nhttps://www48.zippyshare.com/v/rIlPEYjy/file.html\n\nThe only gate leading outside is heavily guarded by a castle, and the villagers are not allowed to leave.\n\nMost of the villagers don’t give it a thought, and happily go on with their everyday lives.\n\nHowever, the protagonist is a little different from the others – he wants to see the world outside.\n\nOne day, a “Monster” appears in the village, shocking everyone because until then, no one knew such creatures existed.\n\nThe protagonist is able to fight it using a mysterious Red stone he found in the coalmines.\n\nIn the course of his defense of the village, he gradually unravels secrets of how the stones and the monsters came to be…\n\nUnlike most RPGs, there is no need to fight weak monsters repeatedly to level grind in “Little Town Hero”.\n\nInstead, you will need to have a good strategy to fight each boss monster one on one.\n\n**Repack Features**\n\n- Based on Little.Town.Hero-TiNYiSO ISO release: tn-littletownhero.iso (3,202,961,408 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3 GB to 692 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i112.fastpic.ru/big/2020/0710/fb/cd71329659ce88a2feaa54d4f2f94efb.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/db/ac/dbac54d8-1285-4c07-95ee-90db101b7800.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/aa/8baa7a92-ff7d-4ba6-ae83-6c94f27d347b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/78/6978f3d0-8c53-4117-9567-f13aeee2fdab.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5a/43/5a432aa8-6182-444b-bfc5-d20201d8baf5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dc/1a/dc1a35cf-977b-4de3-8e78-931826db6251.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3f/47/3f473a9e-23fa-4b6a-befe-1aa862f0be96.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-little-town-hero",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T18:18:23.829927+00:00"
   }
 ]
