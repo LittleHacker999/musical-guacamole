@@ -266,5 +266,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T04:03:22.442889+00:00"
+  },
+  {
+    "id": "006c6117-40f6-5931-f314-6ba16c5c904a",
+    "title": "Kinda Knirpsi",
+    "slug": "kinda-knirpsi",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Side",
+      "2D"
+    ],
+    "size_original": "13.7 GB",
+    "size_repack": "848 MB",
+    "description": "A new boss fight every few months:\nEach dimension features a unique boss with its own attack patterns and ways to make your life miserable.\n\nAt the game’s release, you’ll be able to fight four different enemies and set your high score. A new boss is added every few months. What kind of boss it is, can be decided by the community.\n\nWho is Knirpsi actually:\n“Kinda Knirpsi” is based on the protagonist of the YouTube animation series “Knirpsi”. In this series, the little turtle travels to different dimmensions and fights his way through the universe. Thus, “Kinda Knirpsi” is also my first ever created video game, which is to expand the world of Knirpsi.\n\n**Repack Features**\n\n- Based on Kinda.Knirpsi-TENOKE ISO release: tenoke-kinda.knirpsi.iso (14,678,759,424 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 13.7 GB to 848 MB)\n- Installation takes two minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 13.7 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2023/03/14/0443c7f9a2df86225792d0962323ef22.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/77/25/772552b7-ed28-4311-b06d-2bc857827c1f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/47/37/4737b6d8-232d-4cd7-8185-84a678338ae9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/09/fc0938fb-81c1-4d7f-aeeb-16ac71e2aba3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cf/02/cf020188-baf2-4bb8-8adc-73464b110348.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1d/75/1d75e585-5682-480c-a5e3-77fffaf9a970.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-kinda-knirpsi",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T04:08:21.725555+00:00"
   }
 ]
