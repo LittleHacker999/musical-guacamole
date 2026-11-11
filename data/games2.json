@@ -6321,5 +6321,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T00:13:22.425685+00:00"
+  },
+  {
+    "id": "943cb721-977e-579d-c02f-24ce2a7d75bf",
+    "title": "Danghost",
+    "slug": "danghost",
+    "categories": [
+      "Logic",
+      "Puzzle",
+      "2D"
+    ],
+    "size_original": "4 GB",
+    "size_repack": "613 MB",
+    "description": "Looking for challenges? Fight special bosses with unique gameplay mechanics in story mode!\n\nA game that relies on strategy: the more combos you make, the higher your score. To become the best exorcist, find your style, test different difficulty levels and unlock characters, backgrounds, and more.\n\nChose among a cast of 12 colorful characters, each with their unique special abilities, and play up to 4 players locally or through Steam Remote Play!\n\nThe boundary between the spiritual and physical worlds is compromised! Danghosts are popping up all over the island and threatening the fragile balance of serenity. Join the exorcism school, solve the mystery and become the best danghost hunter!\n\n**Repack Features**\n\n- Based on Danghost-TENOKE ISO release: tenoke-danghost.iso (4,325,832,704 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4 GB to 613 MB)\n- Installation takes ~20 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4 GB (7.8 GB during installation)\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2023/10/08/65179aadf4b1a207b2879f7fb5343b7f.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ca/1e/ca1eeed9-2904-410f-acbe-ae01f1cde18c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/98/64/9864bd78-30fc-46b0-9955-08e7ac4a5b0a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0b/fc/0bfcc7cd-f078-48ef-aa75-54f2c85934eb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1c/3a/1c3a5e5f-334a-4266-9898-6d1d7f0434b1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/31/8a/318a2f99-4eea-44ce-b877-e486fdfb2020.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f1/6d/f16d0d49-5249-4278-b993-3b95db32b9ff.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-danghost",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T00:18:21.526168+00:00"
   }
 ]
