@@ -1501,5 +1501,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T07:23:24.123954+00:00"
+  },
+  {
+    "id": "10088e2a-0411-5284-d37b-f0a3383c383d",
+    "title": "The Tarnishing of Juxtia – Hotfix / Build 9201926",
+    "slug": "the-tarnishing-of-juxtia",
+    "categories": [
+      "Action",
+      "RPG",
+      "Roguelike",
+      "Side",
+      "2D"
+    ],
+    "size_original": "1 GB",
+    "size_repack": "487 MB",
+    "description": "**Repack Features**\n\n- Based on Steam BuildID 9201926 release: 1 GB, thanks to loladass!\n- DARKSiDERS crack/emu applied over\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1 GB to 487 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Risk Versus Reward Combat: A unique Energy Rush system encourages calculated risks: After landing consecutive attacks, bold players receive a super-charged boost of stamina and mana regeneration.\n- Utterly Vicious Battles: Push the limits of your will and skill in explosive, multi-phase boss battles against corrupt saints, ancient war machines, Tarnished creatures, and vengeful gods.\n- Haunted, Layered World: 15 unique environments, beautifully detailed visuals, deep and twisting lore, and a myriad of side quests await in this 20+ hour action RPG.\n- Turn the Tide: Store and charge Relics from fallen bosses. In your most desperate hour, release the Ultimate power they contain.\n- Develop Unique Character Builds: Weapons, armor sets, magic abilities, Relics, and other hidden items offer nearly unlimited possibilities for unique character builds. Players’ individual visual and combat style can sing.",
+    "cover_url": "https://i1.imageban.ru/out/2022/08/03/9ae4a998eb5613b2595567d78d26d806.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e1/e3/e1e33844-23f9-4a7c-975f-9fe35ed39e67.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/55/5d5574e0-57d2-4a1a-a920-c6fb8068f88b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/51/eb51adbc-b2f1-44d1-bc15-83f0faec97f0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/45/33/45334fd2-d8c6-4ed2-b350-f144908138b9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ab/6b/ab6b2c85-b0a4-4e45-ba4a-ee2385b82490.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/6c/f56cbf54-e299-4209-9b41-1110191cef9c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-tarnishing-of-juxtia",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T07:28:22.429489+00:00"
   }
 ]
