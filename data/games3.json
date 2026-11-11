@@ -4791,5 +4791,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T16:18:22.935972+00:00"
+  },
+  {
+    "id": "afc90a33-4fbc-5478-6c42-bf2615ec9fe1",
+    "title": "Shattered: Tale of the Forgotten King",
+    "slug": "shattered-tale-of-the-forgotten-king",
+    "categories": [
+      "RPG",
+      "Action RPG",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "10.3 GB",
+    "size_repack": "4.8 GB",
+    "description": "A ruined continent of untold stories and mighty foes is yours to roam. For those who brave its paths, the world of Hypnos contains many secrets, some to aid you on your way and others to illuminate the road that led to your existence. Experience precision based combat and 2.5D platforming set to a complex branching narrative in the reality spanning action-adventure of Shattered – Tale of the Forgotten King.\n\n**Repack Features**\n\n- Based on Shattered.Tale.of.the.Forgotten.King-CODEX ISO release: codex-shattered.tale.of.the.forgotten.king.iso (11,063,132,160 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 10.3 to 4.8 GB)\n- Installation takes 4-9 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 10.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i114.fastpic.ru/big/2021/0218/43/e08a6d1764745e055b4f01ec473d2143.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6f/dd/6fddd979-01e6-45be-b5f4-53d792313ea1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4c/15/4c15632c-ba6e-4cd2-8e76-70bf12b7e34d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ab/b6/abb6442b-97df-4557-8fad-c2d756763627.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6e/af/6eaff8d2-6c2d-41cf-9e3e-3bfe1c86d024.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/79/bc798f5b-437a-438b-91a0-bfed396b5fdd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ab/63/ab6323bc-a6f7-401c-ae94-f42c05a4373c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-shattered-tale-of-the-forgotten-king",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T16:23:23.232343+00:00"
   }
 ]
