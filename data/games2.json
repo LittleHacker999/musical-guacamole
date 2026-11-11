@@ -7107,5 +7107,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T02:23:22.429946+00:00"
+  },
+  {
+    "id": "03cc1f55-be9c-5a24-545b-2af041295168",
+    "title": "Daydream: Forgotten Sorrow – v1.2.4",
+    "slug": "daydream-forgotten-sorrow",
+    "categories": [
+      "Arcade",
+      "Platform adventure",
+      "Side",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "2.9 GB",
+    "size_repack": "1.8 GB",
+    "description": "Travel through a mysterious world of floating castles and craggy caves, fairytale forests and rolling plains. Prepare to be captivated by the enthralling world of Daydream, discovering the transformative power of resilience, and the bittersweet beauty of letting go.\n\n**Repack Features**\n\n- Based on Daydream.Forgotten.Sorrow-RUNE ISO release: rune-daydream.forgotten.sorrow.iso (3,167,027,200 bytes)\n- Game version: v1.2.4\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.9 to 1.8 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.7 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Use “Daydream – Forgotten Sorrow DX11” desktop icon to play on Windows 7\n- Dive deep into a sprawling story, revealing secrets and unraveling the mysteries of an enchanting narrative;\n- Meet memorable characters, such as the endearing young Griffin and his devoted teddy bear companion Birly;\n- Command an adorable teddy bear friend that helps you get to hard-to-reach places;\n- Enter an unforgettable world through dreamy melodies and mesmerizing music;\n- Engage in a delicate blend of mind-bending puzzles that challenge you, and heart-pounding action that keeps you on the edge of your seat.",
+    "cover_url": "https://i4.imageban.ru/out/2023/06/16/6b54e315c366d3e13aa56b97ac8a4660.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/46/87/46877add-ed3e-45be-a720-da468ffa262c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/53/29/53292eb2-5080-4801-aa58-4d54a6135c6f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/09/5d094869-9b44-49a8-8d9e-c64eeda5fd64.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c6/72/c672696e-6fc6-42ea-87ed-5c466e2862f8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9e/0d/9e0d954f-8db7-41dd-b81a-399a1de38a23.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/06/6206bd56-7d21-4b60-a1ba-062a07c0cd97.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-daydream-forgotten-sorrow",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T02:28:20.334392+00:00"
   }
 ]
