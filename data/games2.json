@@ -7319,5 +7319,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T02:58:21.226806+00:00"
+  },
+  {
+    "id": "03bcf3f5-f790-5dc8-8828-8a9e0c2f1f61",
+    "title": "Night Gate + Windows 7 Fix",
+    "slug": "night-gate",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "14.9 GB",
+    "size_repack": "10.7 GB",
+    "description": "OPEN WORLD VAMPIRE HUNTING\nAt its core, Night Gate is an open-world shooter/adventure RPG game built in Unreal Engine 5. You will be given full freedom to go anywhere you can see. The game is set in a massive bayou, and the player is given an Airboat that allows them to go anywhere!\n\nRPG Upgrading\nThe players receive the Mystic Boomerang as their main weapon. Upgrades are available for the Mystic Boomerang, including Acid, Flame, and Silver damage. This powerful and entertaining weapon can slice enemies in half.\n\nDynamic Hit Reactions\nShoot weapons out of enemy hands, or shoot them in the legs to trip them. Enemies will react realistically to your gunshots. Use this to tactically target enemies.\n\nThe settlements will lock down during the night, and the ghouls come out to hunt at night. Players should time their outings, going out at night risks danger, but can open hidden paths.\n\nExplore and Hunt\nHunting is a way for you to get health and other items needed to stay strong. Fishing record leaderboards will be available in the Steam community.\n\nThe gameplay features extreme 3rd person shooter action where the player is given a wide range of weapons. The primary weapon is Robins trusty Crossbow can be outfitted with many types of Arrowheads, including explosive and fire arrows.\n\n**Repack Features**\n\n- Based on Night.Gate-SKIDROW ISO release: sr-nightgate.iso (15,978,393,600 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 14.9 to 10.7 GB)\n- Installation takes from 10 minutes (on 24-threads CPU) up to 1 hour (on 4-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 14.9 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Copy contents of “_Windows 7 Fix” folder to the game root to be able to play on Windows 7",
+    "cover_url": "https://i3.imageban.ru/out/2023/05/21/2e26688740bdfa9fc818d9eb04590fc5.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/80/ef/80ef9a90-ad45-4760-b7b8-139adcdb9744.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f5/14/f514528a-ee82-4af9-b8de-418917a7edb4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/11/ed118ae0-1a0a-4807-bb22-47d0c846ba47.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/78/b7/78b7ea04-9b73-43f7-85ab-3b0bfa2f3f6b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/78/03/78036078-f0cf-43a2-883e-815fe8dd6767.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/34/aa349fdd-9372-401a-a9e5-0f17d0175880.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-night-gate",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T03:03:22.228687+00:00"
   }
 ]
