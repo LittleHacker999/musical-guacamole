@@ -1128,5 +1128,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T06:23:22.530461+00:00"
+  },
+  {
+    "id": "16a42c14-7cde-5729-f588-35d4c9d2f0b7",
+    "title": "One More Dungeon 2 – v1.0.3",
+    "slug": "one-more-dungeon-2",
+    "categories": [
+      "RPG",
+      "Dungeon crawl",
+      "Fantasy",
+      "Roguelike",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "1.5 GB",
+    "size_repack": "948 MB",
+    "description": "You wake up in the ruins of an ancient fortress, held captive by giant sentient snails. In exchange for your life, their leader demands that you descend into the ancient dungeon’s depths and destroy the creature that has settled there. It looks like you have no choice but to obey. At least for now…\n\nOne More Dungeon 2 is a Dungeon Crawler Roguelite in a fantasy setting. As a nameless adventure seeker, you venture into an ancient dungeon full of secrets, traps, and hostile creatures. Use a wide arsenal of magic staves, melee weapons, and forbidden artifacts to fight your way through the crowds of enemies and make it out alive!\n\n**Repack Features**\n\n- Based on One.More.Dungeon.2-DOGE ISO release: wow-one.more.dungeon.2.iso (1,589,209,088 bytes)\n- Game version: v1.0.3\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.5 GB to 948 MB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.8 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Procedurally-generated levels combined with handcrafted locations;\n- Boss fights and exploration of parallel worlds;\n- Five different regions, each with a unique set of enemies;\n- An old fortress, available for exploration and hiding an ancient secret;\n- A wide arsenal of magic staves, melee weapons, and ancient relics.",
+    "cover_url": "https://i2.imageban.ru/out/2022/09/20/5078bb25d1636de426ea6c10ce734334.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6b/03/6b03095a-6d65-4ec1-bd46-2aec2d7226c4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9d/f3/9df32ab5-33d1-4d86-b637-48ccbcf841f0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/84/ac/84ac5103-3ca2-4cdf-8bfe-debd4aa29a18.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a9/15/a91512c0-4a83-4d57-a32d-4c2bf45c7036.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5e/cc/5eccbc79-32cf-4c2b-bd68-6459662785e6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/92/a5/92a51a58-d157-4301-8400-926e26f38262.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-one-more-dungeon-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T06:28:22.524546+00:00"
   }
 ]
