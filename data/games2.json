@@ -7378,5 +7378,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T03:08:20.529969+00:00"
+  },
+  {
+    "id": "6e744cc8-ca8d-50bf-7f77-4000fab6e7c1",
+    "title": "SGS NATO’s Nightmare",
+    "slug": "sgs-natos-nightmare",
+    "categories": [
+      "Strategy",
+      "Cold War",
+      "2D",
+      "Turn-based"
+    ],
+    "size_original": "3.3 GB",
+    "size_repack": "884 MB",
+    "description": "The starting assumption is that Gorbachov loses power to a group of hardliners who decide it is time for the Soviet Union (and its Pact allies) to strike first, while they still enjoy superiority in numbers and surprise. The fear that the current advantage will vanish over time and they know they can’t win the new technological arms race launched by the West. On NATO’s side, such an attack would for sure be the nightmare everyone fears, but the situation is slightly better than in the 1970’s, when the advantage in morale, equipment and preparation was much bigger in favour of the other side.\n\nThe goal of the game is to explore different cases, from small engagements in limited sectors of the front to complete campaigns covering half or the whole map. The game will offer:\n\nThe game scale is at the brigade or division level for land units of both sides, with smaller units (e.g. armor, AA, EW, special forces or engineering assets) beign also present. Air units are in the form of squadrons. Naval units are also present, limited to the Baltic sea sector. Other items such as fortifications, minefields, HQ’s, logistical depots or vehicles, or even refugees and stragglers are also present in good numbers.\n\nThe map covers all of West Germany, the Benelux, Eastern France, Austria, Czechoslovakia, East German and Western Poland. Parts of Denmark, the Baltic Sea, Italy, Hungary and the Soviet Union are also presented (through offmap boxes). All natural types of terrain are present, with a difference showing the different levels of development in that part of Europe and its impact on military operations.\n\n**Repack Features**\n\n- Based on two ISO releases: SGS.NATOs.Nightmare-TENOKE (tenoke-sgs.natos.nightmare.iso, 1,790,765,056 bytes) and SGS.NATOs.Nightmare.x86-TENOKE (tenoke-sgs.natos.nightmare.x86.iso, 1,780,547,584 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from cumulative 3.3 GB to 884 MB)\n- Installation takes 2-10 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.2 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2023/05/07/b212dacb561bedf9e62d54322d1b8692.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/c4/8d/c48d7641-a696-46ca-a318-7921355c2635.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3c/3c/3c3c1b29-4e2f-4337-94df-aaf3f86ce1cf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b5/d4/b5d43b1a-b2d1-4691-b513-ce79aa8a7623.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cb/72/cb7208ce-f1be-4c7d-b916-97bdfe1d33de.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/35/dd/35dded78-398e-4f4d-983b-5ba294d097ed.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/00/a9/00a9b30d-bb7d-43fb-81f4-54dd21512f8c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sgs-natos-nightmare",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T03:13:22.027572+00:00"
   }
 ]
