@@ -1909,5 +1909,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T08:28:22.936343+00:00"
+  },
+  {
+    "id": "bb3a2712-944f-5586-ff1f-54ad720c7530",
+    "title": "Sonority",
+    "slug": "sonority",
+    "categories": [
+      "Logic",
+      "Puzzle",
+      "Isometric",
+      "3D"
+    ],
+    "size_original": "1.9 GB",
+    "size_repack": "733 MB",
+    "description": "A unique puzzle mechanic using melodies:\nIn Sonority the players explore a lost world in which music is magic and with whose help you can progress through the game.\n\nThe puzzles are solved by the correct arrangement of notes. The solution is deduced acoustically or using symbols. No previous musical knowledge necessary.\n\nThe player takes on the role of young Esther, who sets out on a journey to help a friend. Equipped with her pan flute, she reaches the mysterious rockery. But soon her path is blocked and she must use the power of music to overcome the obstacles. Not always an easy task.\n\nStory:\nIn a world lapsed into silence, Esther rediscovers lost songs and mossy works of art. Naturally aided by singing stones and a talking raccoon. Yet there seems to be no trace of the legendary preceptors of music.\n\nIntricate Puzzles:\nThe further you get, the trickier the game becomes. Collect new notes and instruments to overcome even the most difficult puzzles of the preceptors.\n\n**Repack Features**\n\n- Based on Sonority-DARKSiDERS ISO release: ds-sonority.iso (2,007,613,440 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.9 GB to 733 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.6 GB (3.2 GB during installation)\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Interesting new puzzle mechanic based on melodies. (Simple note sequences develop into small melodies and then into complex pieces of music.)\n- A touching story about Esther and an old, oddball raccoon and his singing stone friends.\n- A lovingly designed, cohesive 3D game world with varied locations.\n- Atmospheric, extensive soundtrack with English and German versions of original songs.\n- Play with keyboard or controller.",
+    "cover_url": "https://i7.imageban.ru/out/2022/05/26/0be68f5bcf64a27f9ff7abb9de270ae7.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ce/e5/cee510aa-3278-4b9c-b7e7-0f6f54cbbb0c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/e0/62e0de59-ea5f-4349-83d9-1bc91c5a9712.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fe/90/fe900e41-a6ff-43b9-8f66-1c464c426756.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6b/20/6b2054db-2771-4671-81b1-fddaffe556ec.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/72/20/7220dd5f-9f97-45d7-9a43-8412c162ff51.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/ea/2cea6ac8-496b-4f47-919d-8eb1d1bb71ae.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sonority",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T08:33:22.233336+00:00"
   }
 ]
