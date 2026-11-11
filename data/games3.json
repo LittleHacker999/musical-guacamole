@@ -3816,5 +3816,38 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T13:38:22.930247+00:00"
+  },
+  {
+    "id": "55d14a1d-be17-5674-3091-72ed4bb34f8e",
+    "title": "Comanche – v1.0.0.49195",
+    "slug": "comanche",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Simulation",
+      "First-person",
+      "Third-person",
+      "Combat helicopters",
+      "3D"
+    ],
+    "size_original": "26.6 GB",
+    "size_repack": "15.9 GB",
+    "description": "Evolving singleplayer campaign\nFight in the evolving singleplayer campaign and make a difference in a conflict of global proportions. After the Iran-US RQ170 incident, in which a UAV was hacked and captured through cyber warfare, the US army secretly revived the development of the RAH-66 helicopter program for special operations. The goal was to develop a highly maneuverable and advanced stealth war machine capable of deploy low-range drones operating in high-risk environments.\n\nThe program was a total success, and the Comanche special units seemed unstoppable in their missions. But then, when the blueprints leaked through a whistleblower website, every group, and power, who could afford it, built and modified the Comanche for their purposes. With that, a new era of helicopter warfare had begun.\n\nSkill-based Conflicts missions\nMaster challenging missions in singleplayer game mode called Conflicts. Complete different objectives, earn medals for special tasks, and learn about Tellus Task Force’s world, the part of IJTF. Each medal provides its challenge, so prepare to test your skills!\n\n**Repack Features**\n\n- Based on Comanche-CODEX ISO release: codex-comanche.iso (28,575,268,864 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 26.6 to 15.9 GB)\n- Installation takes 3-10 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 54 GB\n- Use “Language Changer.bat” in game root to change the game language\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i2.imageban.ru/out/2021/08/28/bb7a725abb6585fc6b2bf27dca945fd7.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/30/94/3094807d-2a38-45be-a839-4007170fa39a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cc/7c/cc7ce8b3-06d7-40dd-91d7-dad11e1599b9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/4b/aa4b98af-21df-4a2f-8fd8-332f1bd763e9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/91/1e91cf02-a42f-4760-8064-25c673fa877a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a0/53/a053a2ea-7e3d-4a4c-bd07-26dcf5444629.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/41/97/4197f3f5-0033-4f60-9ca1-6c9796ecdf67.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-comanche",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T13:43:22.328262+00:00"
   }
 ]
