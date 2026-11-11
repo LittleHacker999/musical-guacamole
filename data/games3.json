@@ -4913,5 +4913,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T16:38:21.836323+00:00"
+  },
+  {
+    "id": "5aec502c-244c-53b7-932f-ec1ffb789174",
+    "title": "Gears Tactics – Update 4 + DLC",
+    "slug": "gears-tactics",
+    "categories": [
+      "Strategy",
+      "Tactics",
+      "Isometric",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "28.6 GB",
+    "size_repack": "from 19.2 GB",
+    "description": "You can skip downloading of voicepacks you don’t need. Here is the list of selective files. Remember, at least one voice pack MUST be downloaded and installed:\n\nIn example, if you want to launch the game with German UI/Subtitles/Voiceovers  – skip all “selective” files, but download fg-selective-german.bin & all main files (01-03).\n\n**Repack Features**\n\n- Unlike initial release, the game no longer works under Windows 7\n- Based on Gears.Tactics.Jacked-CODEX ISO release: codex-gears.tactics.jacked.iso (30,700,634,112 bytes)\n- Game version is Update 4 (Jacked); Thrashball Cole Character Pack DLC is included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selecitive Download feature: you may skip downloading and installing of voiceover packs you don’t need\n- Significantly smaller archive size (compressed from 28.6 to 19.2~20.1 GB, depending on selected components)\n- Installation takes: ~25 minutes on 8-threads CPU; ~50 minutes on 4-threads CPU\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 30 GB\n- Language can be changed in game settings\n- Repack uses compression library by Razor12911\n- At least 3 GB of free RAM (inc. virtual) required for installing this repack\n- Immersive and character-driven story: Play as the defiant soldier Gabe Diaz, rescuing and building your troops in a journey of leadership, survival and sacrifice.\n- Customizable squad and equipment: Prepare your troops to face tough enemies, upgrading their skills and outfitting them with loot collected in challenging missions.\n- Aggressive gameplay: Command your squad in fast paced, turn-based battles, advancing and surviving intense and visceral encounters with the unstoppable, swarming enemy.\n- Massive boss battles: Defeat towering deadly bosses that defy your strategies and completely change the scale of the battle.\n- fg-selective-english.bin (REQIRED for all languages without own voicepacks)\n- fg-selective-brazilian.bin\n- fg-selective-french.bin\n- fg-selective-german.bin\n- fg-selective-italian.bin\n- fg-selective-spanish.bin (both Spanish varians are included)",
+    "cover_url": "https://i111.fastpic.ru/big/2020/0503/2e/696f0b8b483ff73a7506f4574fc4e42e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/4e/85/4e85270d-8b61-434c-8e84-c8234c2a8b68.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2e/2d/2e2d0a4e-c284-463a-a937-116b64db003a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d4/f9/d4f959f1-d111-4fa8-ba83-51a5fb0a05e5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9d/8a/9d8a660d-adfc-46bb-9999-e37d37ba2a14.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ff/cb/ffcb9985-4e4a-4180-a778-e4e2a7a08feb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9e/da/9eda9a4b-ce4b-4dc0-9cbe-08170c0626b8.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-gears-tactics",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T16:43:22.935010+00:00"
   }
 ]
