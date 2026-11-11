@@ -6522,5 +6522,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T20:33:22.527914+00:00"
+  },
+  {
+    "id": "2350ac90-6d8d-54d3-b209-e14c74d25977",
+    "title": "Final Fantasy VIII Remastered",
+    "slug": "final-fantasy-viii-remastered",
+    "categories": [
+      "RPG",
+      "3D",
+      "Japanese",
+      "Active time battle"
+    ],
+    "size_original": "2.4 GB",
+    "size_repack": "1.8 GB",
+    "description": "The Republic of Galbadia, under the influence of the sorceress Edea, mobilises its great armies against the other nations of the world.\n\nSquall and other members of SeeD, an elite mercenary force, join hands with Rinoa, a resistance fighter, to fight against Galbadia’s tyrannical rule and to prevent Edea from fulfilling her ultimate goal.\n\nThis product is a remaster of FINAL FANTASY VIII, featuring multiple enhancements including additional options to customise your gameplay experience and difficulty, such as:\n\n**Repack Features**\n\n- Based on FINAL_FANTASY_VIII_REMASTERED-HOODLUM ISO release: hlm-fina.iso (2,570,749,952 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 2.4 to 1.8 GB)\n- Installation takes 3-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3 GB (4 GB during installation)\n- Language can be changed in the game launcher settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Battle assist options (HP, ATB gauge, and Limit Break boosts)\n- Game speed boost (x3)\n- No random encounters\n- Obtain all items and abilities\n- Max G.F. levels, currency (gil), and spells\n- Obtain all Limit Breaks and cards",
+    "cover_url": "https://i86.fastpic.ru/big/2019/0904/c9/cec944bc42dcd795da88a82e816ab8c9.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/3a/e5/3ae5d4d0-2730-4649-a994-6f60588ee498.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/e8/62e8458f-cf8a-4de4-83db-5320b12eeddb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/14/2a/142a9610-42ec-4bf5-b347-c36d521d2873.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/47/bb/47bb9f0c-44e5-4fc2-917e-0bc63fca3864.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/39/f8/39f8587c-3535-4561-8779-56edb6086528.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/96/9996b277-fb91-4cdf-a157-3430d0ff8913.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-final-fantasy-viii-remastered",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T20:38:21.832862+00:00"
   }
 ]
