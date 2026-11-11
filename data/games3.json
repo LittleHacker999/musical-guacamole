@@ -5273,5 +5273,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T17:38:24.629387+00:00"
+  },
+  {
+    "id": "efe30945-4971-5a97-2858-dfe15560b08f",
+    "title": "Evergate – v1.02/Build 5487187",
+    "slug": "evergate",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Puzzle solving",
+      "Side",
+      "2D"
+    ],
+    "size_original": "2.9 GB",
+    "size_repack": "1.5 GB",
+    "description": "Soulflame mechanic:\nSlow down time, take aim, and unleash the mysterious power hidden within every crystal you encounter with the unique Soulflame mechanic. Hit multiple crystals at once and experiment with how their energies combine.\n\nReveal the memories of a life left behind:\nMove across time and space to uncover Ki’s mysterious connection to another soul.\n\nCollect essence, unlock artifacts:\nRise to the challenge and collect the essences by completing challenges on every level. Use them to unlock ancient artifacts and boost Ki’s abilities.\n\nDream-like art style\nGorgeous environmental backdrops paired with beautifully hand-drawn illustrations bring Ki and Evergate’s environments to life.\n\nEnchanting soundtrack:\nEnjoy an elegantly orchestrated original soundtrack, recorded by a live orchestra and tailor-made for each environment.\n\n**Repack Features**\n\n- Based on Steam v1.02/Build 5487187 release: 2.9 GB, thanks to valtrix1982!\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.9 to 1.5 GB)\n- Installation takes 30 seconds\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i112.fastpic.ru/big/2020/0901/e1/93dd0a0484b586c8df76480fe36ccce1.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/53/b0/53b02e2e-2c97-4eff-8fa2-d43c0be7fad2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bf/c6/bfc6a342-ce61-4946-8f45-e5e1910b055f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5a/c8/5ac80b2c-a63f-4907-91f2-746e5dd3c49a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d4/2d/d42d05d1-65a2-4df2-9a5a-8e31effa5b52.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/53/5e/535ea79d-e014-4c7c-bdb2-e1febdc3e06d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/44/9944ca25-6f25-4955-bf59-543dd36c6d6e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-evergate",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T17:43:20.830643+00:00"
   }
 ]
