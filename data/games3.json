@@ -723,5 +723,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T05:18:24.230442+00:00"
+  },
+  {
+    "id": "fd126264-9804-5b02-a87d-f95a5ea0ff0b",
+    "title": "Choo-Choo Charles",
+    "slug": "choo-choo-charles",
+    "categories": [
+      "Action",
+      "Survival",
+      "Horror",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "2.3 GB",
+    "size_repack": "1.2 GB",
+    "description": "Navigate an open-world island in an old train, upgrade it over time, and use it to fight an evil spider train named Charles.\n\n**Repack Features**\n\n- Based on Steam release BuildID 9980759: 2.3 GB, thanks to Wayne for files!\n- Goldberg + SSE crack/emu applied over, thanks to ChooChooSnatcher!\n- Game version: v1.0.0\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.3 to 1.2 GB)\n- Installation takes 20-80 seconds (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.1 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Navigate a massive play area in your trusty old engine: These winding tracks are treacherous, so you’ll need to plan each mission carefully. Be wary when traveling on foot, or switching the track’s direction; Charles might be waiting for you.\n- Upgrade your train to fit your needs: Go looting or complete missions to find “Scraps”, which can be used to turn your train into a death machine on wheels.\n- Get help from the townspeople: Help out the settlers in return for high powered weapons, and other items vital to Charles’ destruction.\n- Fight Charles to the death: Complete the main questline, and summon Charles to a mortal duel. If you’ve gained enough strength, firepower, and skill, Charles may finally meet his match.",
+    "cover_url": "https://i2.imageban.ru/out/2022/12/10/f85e7539bb42ab074165cf24e47a5cd4.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ca/8e/ca8e5392-010d-4a3c-a7c9-5b4c8ba77dcf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/71/04/7104376a-1905-4959-9800-6c10c4c4bed0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/50/b0/50b0241a-2325-48ea-b5e4-d0db93a20618.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/38/fd/38fd73b8-db2d-4302-aaf2-bfa0196befc1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ed/67/ed67e9b4-1e4a-4206-abad-2492abd99530.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1d/68/1d682142-573b-45b6-a3b5-80bd83a30f8d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-choo-choo-charles",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T05:23:21.035556+00:00"
   }
 ]
