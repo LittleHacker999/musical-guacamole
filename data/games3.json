@@ -3612,7 +3612,7 @@
       "http://s01.riotpixels.net/data/a0/24/a0248c60-d806-43ab-9085-0ead3b748f25.jpg.240p.jpg",
       "http://s01.riotpixels.net/data/23/dc/23dcb85c-3f2e-4242-91c6-2be4c14d8cdb.jpg.240p.jpg"
     ],
-    "system_requirements": "Not Found",
+    "system_requirements": "MINIMUM:\nOS: 64-bit Windows 7, 8.1, 10\nCPU: Dual Core 2Ghz Processor\nRAM: 4 GB RAM\nGPU: DirectX 11 compatible for 1920x1080\nDirectX: Version 11\nStorage: 2.5 GB\nOther: Requires a 64-bit processor and operating system\n\nRECOMMENDED:\nOS: 64-bit Windows 10\nCPU: Intel Core i5 / AMD Ryzen 5 Processor\nRAM: 4 GB RAM\nGPU: GeForce GTX 950 / Radeon R7 370 for 4K\nDirectX: Version 11\nStorage: 2.5 GB\nOther: Requires a 64-bit processor and operating system",
     "repacker": "Fitgirl",
     "download_url": "https://repack-x-database.vercel.app/fg-blade-of-darkness",
     "is_published": true,
@@ -5505,7 +5505,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-11T17:48:23.526072+00:00"
+    "created_at": "2026-11-11T17:48:23.526072+00:00",
+    "trending": false
   },
   {
     "id": "b006e837-c065-50d6-0ef9-b0803cb051c0",
@@ -5536,7 +5537,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-11T17:53:22.031553+00:00"
+    "created_at": "2026-11-11T17:53:22.031553+00:00",
+    "trending": false
   },
   {
     "id": "df784539-d1e8-5d53-c164-ffcb1b6fd6bb",
@@ -5565,7 +5567,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-11T17:58:23.524005+00:00"
+    "created_at": "2026-11-11T17:58:23.524005+00:00",
+    "trending": false
   },
   {
     "id": "a8a72f4c-2e7e-516c-77bc-936582a829b6",
@@ -5596,7 +5599,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-11T18:03:21.530797+00:00"
+    "created_at": "2026-11-11T18:03:21.530797+00:00",
+    "trending": false
   },
   {
     "id": "73f1f751-a117-5aaa-a4cb-928d8414a714",
@@ -5626,7 +5630,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-11T18:08:24.237572+00:00"
+    "created_at": "2026-11-11T18:08:24.237572+00:00",
+    "trending": false
   },
   {
     "id": "2047d67f-6212-5041-2c15-c44241072ac0",
@@ -5656,7 +5661,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-11T18:13:22.736406+00:00"
+    "created_at": "2026-11-11T18:13:22.736406+00:00",
+    "trending": false
   },
   {
     "id": "30f72507-bbb8-5c9b-ed07-e5676f1566f5",
@@ -5685,7 +5691,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-11T18:18:23.829927+00:00"
+    "created_at": "2026-11-11T18:18:23.829927+00:00",
+    "trending": false
   },
   {
     "id": "92304abb-a374-5da4-2a6d-889a82fdcd47",
@@ -5717,7 +5724,8 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-11T18:23:22.032115+00:00"
+    "created_at": "2026-11-11T18:23:22.032115+00:00",
+    "trending": false
   },
   {
     "id": "d31472ee-a926-5b1a-54c3-210598acd5fd",
@@ -5746,6 +5754,7 @@
     "is_published": true,
     "featured": false,
     "downloads_count": 0,
-    "created_at": "2026-11-11T18:28:24.534270+00:00"
+    "created_at": "2026-11-11T18:28:24.534270+00:00",
+    "trending": false
   }
 ]
