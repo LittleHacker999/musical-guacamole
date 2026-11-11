@@ -2679,5 +2679,38 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T10:33:21.729674+00:00"
+  },
+  {
+    "id": "d48b193d-ae95-5e34-19e3-1bd2383c71f5",
+    "title": "Soul Nomad & the World Eaters",
+    "slug": "soul-nomad-and-the-world-eaters",
+    "categories": [
+      "RPG",
+      "Strategy",
+      "Side",
+      "Top-down",
+      "Turn-based",
+      "Japanese",
+      "2D"
+    ],
+    "size_original": "1.4 GB",
+    "size_repack": "990 MB",
+    "description": "Carve a path to glory with the first release of Soul Nomad since its debut in 2007, and experience the in-depth gameplay and captivating story of the original on a modern platform.\n\n**Repack Features**\n\n- Based on Soul.Nomad.and.the.World.Eaters-PLAZA ISO release: plaza-soul.nomad.and.the.world.eaters.iso (1,525,972,992 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.4 to 990 MB)\n- Installation takes 4 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.4 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2022/01/08/881296c2a2cad0fe4c0102aa3487d34b.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b9/0d/b90d3d4c-581b-4164-82ca-39fa5c90f14b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/81/ef/81ef9c3a-0e68-4388-b635-e1d11a27ac68.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/74/7c/747c1e50-3c0f-4dee-ace3-f15b44e44cd8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/76/d4/76d410e4-017b-487f-835f-4f6150796b5d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/20/7f/207f8601-e0c9-43f8-8c2b-0d5335432e00.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d4/1a/d41ab6a3-68bc-473f-9af4-3b72d2593df9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-soul-nomad-and-the-world-eaters",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T10:38:22.124385+00:00"
   }
 ]
