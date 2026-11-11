@@ -1563,5 +1563,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T07:33:23.928832+00:00"
+  },
+  {
+    "id": "22b12acd-e746-5354-41ff-dae65a460f3b",
+    "title": "LIVE A LIVE + Switch Emulators for PC",
+    "slug": "live-a-live-switch",
+    "categories": [
+      "RPG",
+      "Japanese",
+      "Side",
+      "3D"
+    ],
+    "size_original": "8.1 GB",
+    "size_repack": "3 GB",
+    "description": "Wield distinct abilities during battle and exploration:\nCraft weapons and armor for survival as Pogo, hide from foes with shinobi techniques as Oboromaru, and use your psychokinetic powers to read minds and defeat enemies as Akira.\n\nEach character has a distinct set of abilities and mechanics that change their gameplay. Utilize these character-specific abilities to excel in combat and progress through each chapter.\n\nPlay as different heroes throughout the ages!\nDiscover a series of interwoven tales stretching throughout time—and the truth behind their shared history.\n\nYou can explore any of these seven stories right from the start. Which will you choose first?\n\nIf you have downloaded and still have some of my Ryujinx-powered repacks, you can use fg-ryujinx-firmware-14.1.1.bin from any of those and save 320 MB of traffic.\n\n**Repack Features**\n\n- Based on LIVE_A_LIVE_NSW-HR scene release: hr-a7cba.xci (7,985,954,816 bytes)\n- Ryujinx (v1.1.193.0, July 26, 2022, 43 MB), Yuzu EA (v2862, July 26, 2022, 92 MB), Yuzu Mainline (v1108, July 25, 2022, 107 MB) and older Yuzu Mainline (v988, April 17, 2022, 113 MB)\n- Switch Firmware v14.1.1 (321 MB) added as a requirement for Ryujinx\n- Test all four emus and use the one which performs better on your system\n- To boost performance on Yuzu emu, as soon as you get into the game press ‘ctrl + u’ to remove fps lock and subsequently unlock more FPS. (You can see the unlocked status next to your FPS counter)\n- To boost performance on Ryu emu, disable the V-sync option either before boot up or while playing to see the FPS difference. (Screen tearing may happen, so beware)\n- 100% Lossless, but NOT MD5 Perfect: encryption was removed for better repack size\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from cumulative 8.1 to 3 GB)\n- Installation takes 2-4 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.4 GB\n- Language can be changed in game settings\n- Use older build of Ryujinx from “_Ryujinx Windows 7” folder to play on Windows 7\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- The Sundown Kid (The Wild West): Take a stand against outlaws and defend a frontier town.\n- Oboromaru (Twilight of Edo Japan): Engage or elude your enemies to carry out a secret mission.\n- Masaru Takahara (Present Day): Master new skills to become the world’s greatest warrior.\n- Akira (The Near Future): Unravel a dark conspiracy with your psychokinetic powers.\n- Cube (The Distant Future): Discover the truth of a tragedy aboard a ship in deep space.\n- The Earthen Heart Shifu (Imperial China): Entrust your kung fu legacy to young disciples.\n- Pogo (Prehistory): Survive in an age without words and save an innocent woman.",
+    "cover_url": "https://i7.imageban.ru/out/2022/07/26/de6790fe3f380d2f373b8d50cf65993b.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/dd/1d/dd1d1ca8-f854-4ca7-bec5-492717398686.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b1/74/b1740035-f7fb-4241-91fa-d5987db4bf8f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/11/a2113662-25ba-4591-a084-ff0e1985d146.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9b/f6/9bf6f3d8-d91a-4d40-a7f8-f4e96b1d172b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b8/37/b83768e4-9b56-4d10-9348-3a9b0c4822b8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f2/11/f211ac36-def4-43de-8798-17b9fcc338ec.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-live-a-live-switch",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T07:38:21.829931+00:00"
   }
 ]
