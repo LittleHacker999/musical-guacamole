@@ -6429,5 +6429,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T20:18:23.233509+00:00"
+  },
+  {
+    "id": "d7b35050-f069-5793-f66f-2222eb109547",
+    "title": "Q.U.B.E. 2, v1.8 + 3 DLCs + Soundtrack",
+    "slug": "q-u-b-e-2",
+    "categories": [
+      "Adventure",
+      "Physics-based",
+      "Puzzle solving",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "5.4 GB",
+    "size_repack": "3 GB",
+    "description": "Waking up wearing a strange suit with attached gloves, you have no prior knowledge on how you came to be in this environment. Awaiting you is a maze-like monolith, a structure that you must navigate, solving mind-bending puzzles. Use your manipulation gloves to change and adapt the architectural structure in your search to rendezvous with another survivor, finding a way off the planet.\n\nAs you explore and solve puzzles to progress, thought-provoking questions about your true purpose and the origins of the structure you are navigating will need to be considered, forcing you to come to terms with a devastating truth that will shake your world.\n\nThere’s 10 new puzzle rooms, collectibles in hidden areas and the challenges are substantially more difficult than the main game so we hope you enjoy this new variety of brain-teasing puzzles.\n\n**Repack Features**\n\n- Based on Q.U.B.E.2.Aftermath-CODEX ISO release: codex-q.u.b.e.2.aftermath.iso (5,789,614,080 bytes)\n- Classic Glove Skin, Lost Orbit and Aftermath DLCs and bonus soundtrack are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.4 to 3 GB)\n- Installation takes 4-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "http://i103.fastpic.ru/big/2018/0818/dd/1b71868b4ed1d9c4038744b20997a8dd.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/72/42/72428a7b-3ce4-4bef-8f37-a3f7c4824fe8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/37/e637eb08-ffe7-422a-be71-6796ac86ecea.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/81/e1/81e18d19-b01e-4985-9368-d872d77ace04.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/54/a0/54a06856-1ad7-43e9-846a-f7785e7c419d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/07/a2/07a20f4e-2f23-4e73-8cf3-aa0148600714.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/17/6917dfcf-c108-4c18-83b5-faebc5c19d9a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-q-u-b-e-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T20:23:22.238289+00:00"
   }
 ]
