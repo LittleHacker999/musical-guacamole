@@ -2341,5 +2341,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T09:38:21.536048+00:00"
+  },
+  {
+    "id": "a08c108d-e47d-529b-52c6-1454c271fde3",
+    "title": "Way Down",
+    "slug": "way-down",
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Stealth",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "3 GB",
+    "size_repack": "1.8 GB",
+    "description": "Immerse yourself in Way Down, an action-packed spy adventure in which you will have to break into the vault of the safest bank in the world.\n\nLead the Heist of the Century:\nLegend has it that hidden in the heart of this building is a deadly mechanism that traps anyone who tries to enter it. But now that it holds the fabulous treasure of the pirate Drake, the loot is just too tempting. Walter’s team of treasure hunters, who found the sunken ship at the bottom of the sea, are not willing to pass up the opportunity of their lives. With the help of a brilliant young engineer called Thom, they orchestrate a plan that, if necessary, will take them to the deepest part of the Earth.\n\nChallenges at the Bank of Spain:\nIn this fast-paced video game of exploration you will face missions in which you will have to use all your wits to make sure no one sees you, face the Bank staff and talk to them without raising suspicion, and be the best as you race against the clock.\n\nIf you like challenges, Way Down is the place for you. To claim the loot for yourself, you will have to win challenging minigames such as hacking the computer system and opening security doors. Demonstrate your reflexes and speed and reach the incredible treasure hidden in the depths of the Earth.\n\n**Repack Features**\n\n- Based on Way.Down-TiNYiSO ISO release: tn-waydown.iso (3,268,311,040 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3 to 1.8 GB)\n- Installation takes 2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.3 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2022/03/01/7f94d7b466fc865067f9f1b93a40abe0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/0d/88/0d88eacf-ebcb-4325-8b40-a5fda27f3a33.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/79/ea/79ea73d8-e344-4233-b683-0dd7407ce38c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ca/14/ca14cce4-67fa-41c4-a034-413521935c51.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9d/db/9ddbafed-9b37-4e16-81ac-2be0db8073ee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/42/f0/42f0e53b-1ef8-46c8-a90d-859ad1076102.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/50/77/5077566d-67d4-4f69-b53e-0ca56301abf9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-way-down",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T09:43:22.632461+00:00"
   }
 ]
