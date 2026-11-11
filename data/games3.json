@@ -4242,5 +4242,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T14:48:22.127970+00:00"
+  },
+  {
+    "id": "d9849eb6-884d-5e41-54d4-0d43cca178a6",
+    "title": "THIEF: Definitive Edition – v1.7 GOG + All DLCs + Bonus Content",
+    "slug": "thief-definitive-edition",
+    "categories": [
+      "Action",
+      "Stealth",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "23.6 GB",
+    "size_repack": "from 9.8 GB",
+    "description": "As an uprising emerges, Garrett finds himself entangled in growing layers of conflict. Lead by Orion, the voice of the people, the tyrannized citizens will do everything they can to claim back the City from the Baron’s grasp. The revolution is inevitable. If Garrett doesn’t get involved, the streets will run red with blood and the City will tear itself apart.\n\nTHIEF: Definitive Edition includes the complete base game as well as the following bonus content:\n\nYou can skip downloading of voice files/bonus filesu don’t need. Here is the list of selective/optional files:\n\nIn example,  if you want to launch the game with Spanish voiceovers – skip all “optional/selective” files, but download fg-selective-spanish.bin & all main files (01-04).\n\nI didn’t delete the old “Complete Edition” repack, because it’s the only one which supports 32-bit OS.\n\n**Repack Features**\n\n- Based on THIEF.Definitive.Edition-GOG release with Goodies: 25,356,603,064 bytes\n- Game version is v1.7 GOG; Bonus content and all DLCs and are included\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you can skip downloading and installing of bonus content (OST + Comic) and voicepacks you don’t need\n- Significantly smaller archive size (compressed from 23.6 to 9.8~11.9 GB, depending on selected components)\n- Installation takes 6-10 minutes (depending on your PC selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 27 GB\n- Text/GUI language can be changed in game settings\n- Audio language is set in “goggame-1446830366.info” file, “language” string; Possible options: English, Russian, Spanish, German, French, Italian\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- The Bank Heist bonus mission\n- The Forsaken challenge map\n- Booster Pack DLC – Opportunist\n- Booster Pack DLC – Predator\n- Booster Pack DLC – Ghost\n- Thief: Tales From The City digital comic (EN/FR) & OST\n- YOU ARE GARRETT, THE MASTER THIEF: Step into the silent shoes of Garrett, a dark and lonely thief with an unrivalled set of skills. The most challenging heists, the most inaccessible loots, the best kept secrets: nothing is out of your reach.\n- THE CITY: YOURS FOR THE TAKING: Explore the sick and troubled City, from its shady back alleys to the heights of its rooftops. Sneak into rich houses, Infiltrate the best-guarded mansions and lurk in every dark corner… unnoticed and unsanctioned.\n- CHOOSE YOUR APPROACH: Leverage Garrett’s arsenal to take down guards with your blackjack, shoot one of your many arrow types or use your newly acquired focus abilities to manipulate the environment and outsmart your enemies. What kind of master thief will you be?\n- UNPRECEDENTED IMMERSION: Become one with the world thanks to ground-breaking visual elements and a truly tactile and visceral first-person experience. Through jaw-dropping Next-Gen technical possibilities, Thief delivers unprecedented immersion through sights, sounds and artificial intelligence.\n- fg-optional-bonus-content.bin (contains bonus OST and Comib Book)\n- fg-selective-english.bin (Recommended for English, Czech and Polish users)\n- fg-selective-french.bin\n- fg-selective-german.bin\n- fg-selective-italian.bin\n- fg-selective-russian.bin\n- fg-selective-spanish.bin",
+    "cover_url": "https://i114.fastpic.ru/big/2021/0614/81/9e9c23b7490f918f862aa13bce2b7981.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d9/80/d98083fa-86ee-4dfb-a973-8991db227e58.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/49/06/4906e8dd-62eb-4107-86d5-6af689372029.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c0/fa/c0fa2605-2179-4c4d-ba2a-c3e77a4c0637.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e9/78/e978fd5a-4c3d-4b12-a33b-422e2a70dffe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/78/0278d69d-ef4d-48c8-b611-81f986f6dd97.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/57/ba/57baf1ef-72e2-488f-9e1f-85c6c52e217c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-thief-definitive-edition",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T14:53:22.932484+00:00"
   }
 ]
