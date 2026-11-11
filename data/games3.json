@@ -1472,5 +1472,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T07:18:20.727207+00:00"
+  },
+  {
+    "id": "16b20d7f-0c2c-5e60-39e9-05152bc0d877",
+    "title": "Afterthought",
+    "slug": "afterthought",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Side",
+      "3D"
+    ],
+    "size_original": "5.2 GB",
+    "size_repack": "3.1 GB",
+    "description": "**Repack Features**\n\n- Based on AfterThought-TiNYiSO ISO release: tn-afterthought.iso (5,585,784,832 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.2 to 3.1 GB)\n- Installation takes 2-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 9.6 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Refined and complex movement system that offers near infinite solutions\n- 56 playable levels, with low skill floors but extremely high skill ceilings\n- 8 crazy boss fights\n- Online leaderboards for all kinds of playstyles\n- A speedrun mode with a master timer, that lets you play all levels in a row\n- A serene and at times wild and uncompromising original soundtrack\n- Unlockable achievements, skins and special effects\n- The ability to design your own levels with our intuitive level importer",
+    "cover_url": "https://i7.imageban.ru/out/2022/08/08/63551adddf19a547ca03c5b6ed582e48.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b0/46/b04650c6-396e-4439-99f0-05d7d1a91ef1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/69/9969816b-ee58-48a0-87d4-8ed7fabd715c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/20/8c2087a1-4309-4396-bdd0-3794211d54d6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/9f/979f2aa6-8057-42e3-b232-84004817eee1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/45/8c459b1e-b0b9-4842-9daa-c5530906582d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-afterthought",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T07:23:24.123954+00:00"
   }
 ]
