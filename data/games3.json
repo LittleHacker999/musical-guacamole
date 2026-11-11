@@ -7399,5 +7399,33 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T22:58:21.531554+00:00"
+  },
+  {
+    "id": "a55d865a-69dc-564e-3c1a-4e8013c581cb",
+    "title": "LEGO Marvel Super Heroes 2, v1.0.0.20065 +10 DLCs",
+    "slug": "lego-marvel-super-heroes-2",
+    "categories": [
+      "Arcade",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "22.8 GB",
+    "size_repack": "from 7.3 GB",
+    "description": "It’s about TIME! Join your favorite Super Heroes and Super Villains from different eras and realities as they go head-to-head with the time-traveling Kang the Conqueror in the all-new, original adventure, LEGO® Marvel Super Heroes 2! Play as the Guardians of the Galaxy, Spider-Man, Thor, Hulk, Black Panther, Captain Marvel, Doctor Strange, Green Goblin and dozens of other Marvel Super Heroes and Villains in this cosmic battle across the time-tossed city of Chronopolis! Travel across lands — from Ancient Egypt to The Old West, Sakaar and New York City in 2099 — and transport objects or characters through the centuries! And, with new battle modes, friends and family can play against each other in a series of themed challenges and battle arenas!\n\nYou can skip downloading of speech packs you don’t need. Here is the list of selective files:\n\nIn example, if you want to launch the game with German language only – skip all “selective” files, but download fg-selective-german.bin & all main files (01-07).\n\n**Repack Features**\n\n- Based on LEGO.Marvel.Super.Heroes.2.Infinity.War-CODEX ISO release: codex-lego.marvel.super.heroes.2.infinity.war.iso (24,483,233,792 bytes)\n- Unlike most of my repacks this one is 100% Lossless but NOT MD5 Perfect: game resources were unpacked\n- NOTHING ripped, NOTHING re-encoded\n- Selective download feature – you can skip downloading and installing of voice packs you don’t need\n- Significantly smaller archive size (compressed from 22.8 to 7.3~14.5 GB, depending on selected languages)\n- Installation takes 15-50 minutes (depending on your system and selected languages)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 35 GB\n- Use “Language Selector.exe” in game root to change the game language (in-game change doesn’t work)\n- ATTENTION! The game uses very long filenames, so to avoid problems, install it to a short path, like C:GamesLMSH2\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Agents of Atlas\n- Ant-man and the Wasp\n- Black Panther\n- Champions Character Pack\n- Classic Guardians of the Galaxy\n- Cloak and Dagger\n- Guardians of the Galaxy Vol. 2\n- Infinity War\n- Out of Time Character Pack\n- Runaways\n- fg-selective-english.bin (a MUST for English, Russian and other languages without their own voicepack)\n- fg-selective-brazilian.bin\n- fg-selective-french.bin\n- fg-selective-german.bin\n- fg-selective-italian.bin\n- fg-selective-japanese.bin\n- fg-selective-mexican.bin\n- fg-selective-polish.bin\n- fg-selective-spanish.bin",
+    "cover_url": "http://i98.fastpic.ru/big/2017/1117/c6/8e3ba0b2ff7915bc5da3679ca013f4c6.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/64/32/6432290e-b3ec-4bd0-a864-01152c9bb6c4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/40/ae/40ae97a5-44a9-4624-b61c-2e8ab5b47326.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a7/62/a762dc31-dc76-4023-8f85-bf6ec9cefceb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cf/b5/cfb57981-391c-4a61-b3af-4aea2aab32d6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/08/41/0841ce5f-2a27-4bf4-b739-b737d6795e9a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-lego-marvel-super-heroes-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T23:03:22.628286+00:00"
   }
 ]
