@@ -633,5 +633,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T05:03:24.635141+00:00"
+  },
+  {
+    "id": "c442f782-92ce-5005-44bb-44c294ac5ffd",
+    "title": "The Companion – v1.22 + Bonus Soundtrack",
+    "slug": "the-companion",
+    "categories": [
+      "Exploration",
+      "Third-person",
+      "3D",
+      "Adventure"
+    ],
+    "size_original": "6.4 GB",
+    "size_repack": "2.4 GB",
+    "description": "This is a single player narrative. It is a story of mystery, intrigue, and adventure. Journey across seven majestic landscapes and witness the emotional story of a family as they tackle the challenges ahead of them. One step at a time, together.\n\n**Repack Features**\n\n- Based on The_Companion_v1.22-DINOByTES ISO release: din-thecompanion122.iso (6,852,050,944 bytes)\n- Game version: v1.22; Bonus OST in MP3 format is included by default\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Bonus OST in non-MP3 formats ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 6.4 to 2.4 GB)\n- Installation takes 2-4 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.5 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A journey filled with mystery, intrigue and discovery\n- A touching and emotional story about Love and Family\n- Featuring a beautiful soundtrack\n- Capture Essence\n- Find Artifacts\n- Experience Visions\n- Runic Stones summon other spiritual creatures to your side\n- Glimpse fleeting moments",
+    "cover_url": "https://i3.imageban.ru/out/2022/12/28/d3fbccf211b9277ff0fb4e9c8254cb17.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d5/b9/d5b926f5-992f-4ad2-bd8e-15d24f6ac925.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/10/4f/104f7edb-ddca-4900-a424-e74867084688.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/44/db/44db2922-d812-4979-8475-7fe6e17f7d10.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dc/d6/dcd6f36e-2768-423c-8046-c1441071c93c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/71/7e/717eb74c-5af6-480f-a63b-0310adccdb7d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/e2/01e25629-b0b5-4427-b59f-41a342848817.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-companion",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T05:08:22.225443+00:00"
   }
 ]
