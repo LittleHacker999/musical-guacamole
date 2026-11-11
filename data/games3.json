@@ -6974,5 +6974,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T21:48:22.232571+00:00"
+  },
+  {
+    "id": "818c5e4a-b807-53ff-d7c7-c90e6fd75c96",
+    "title": "Republique Remastered",
+    "slug": "republique-remastered",
+    "categories": [
+      "Adventure",
+      "Stealth",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "5.3 GB",
+    "size_repack": "4 GB",
+    "description": "You receive a call from Hope, a woman trapped inside a mysterious totalitarian state. Hacking into an elaborate surveillance network, you guide Hope through a web of danger and deception across five thrilling episodes.\n\nDeveloped over five years by industry veterans (Metal Gear Solid 4, Halo 4, F.E.A.R., Black & White 2, SOCOM) and fully realized in Unity 5, Republique Remastered is a thrilling and topical stealth-action game that explores the perils of government surveillance in the Internet Age.\n\n**Repack Features**\n\n- Based on Republique.Remastered.Fall.Edition-SKIDROW ISO release: republiqueremasteredfalledition.iso (5,736,660,992 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 5.3 to 4 GB)\n- Installation takes 4-10 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 7 GB (up to 13 GB during installation)\n- Language can be changed in “Republique_Data/Plugins/steam_api.ini” file\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- ATTENTION! If you’re installing this repack under Windows 10, run setup with compatibility set to Windows 7",
+    "cover_url": "http://i66.fastpic.ru/big/2015/0227/8f/009f96185397ddc798fe3bc13073648f.jpeg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ec/4a/ec4a5b0d-4d6d-402c-85ec-6b903229e4e0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/af/f0/aff0dcc4-8880-4024-aa00-4f99feb0a41b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4d/27/4d2798b4-7588-43fa-a69e-72c99f05e684.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ea/5d/ea5dc709-3680-4b3e-b6cb-cab98fcbe79a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f9/29/f92966a5-d9cb-4663-b044-28b075fbceb3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/54/ed/54ed9e6f-92bd-4223-946a-6b6ca4f9e68d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-republique-remastered",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T21:53:23.428339+00:00"
   }
 ]
