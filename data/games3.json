@@ -6913,5 +6913,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T21:38:21.528355+00:00"
+  },
+  {
+    "id": "293ec2c7-055d-5418-bba2-59e36a4f5f35",
+    "title": "ELEX – v1.0.2981.0 Build 427388",
+    "slug": "elex",
+    "categories": [
+      "RPG",
+      "Open world",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "28.8 GB",
+    "size_repack": "from 12.5 GB",
+    "description": "ELEX is a handcrafted action role-playing experience from the award-winning creators of the Gothic series, set in a brand new post-apocalyptic Science Fantasy universe that puts players into a huge seamless game world full of original characters, mutated creatures, deep moral choices and powerful action.\n\nIn ELEX, you join the war over a powerful resource that gives people great magic-like powers, but turns them into indifferent cold creatures. You decide if emotions and humaneness or cold synthetic logic will rule the world of Magalan.\n\n**Repack Features**\n\n- Based on ELEX.MULTi10-PLAZA ISO release: plaza-elex.multi10.iso (30,943,543,296 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you can skip downloading and installing of Polish and German language packs\n- Significantly smaller archive size (compressed from 28.8 to 12.5~17.4 GB, depending on selected components)\n- Installation takes: ~8 minutes on 8-threads CPU; ~15 minutes on 4-threads CPU; ~25 minutes on 2-threads CPU\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 33 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- To change the game language, run the corresponding .EXE file in game root\n- Completely seamless Open World experience without borders and loading zones for the ultimate exploration experience\n- Vertical Exploration: Use the jetpack to reach any place in the game world\n- Simulated game world where everything reacts to the players actions and provides for an authentic atmosphere\n- Highly interconnected quest system that support true player choices\n- Tactical and challenging combat system for close and ranged combat\n- Universe set in a post apocalyptic science fantasy universe that combines the most interesting aspects of all genres",
+    "cover_url": "http://i95.fastpic.ru/big/2017/1019/94/897aa77e41a2459aa9d0ef4947ead794.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/45/4f/454f1799-f721-4081-bf64-047fc4e896c9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3a/8f/3a8f333c-c7ef-4cef-ac04-12ac32a8c623.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0d/25/0d2507eb-d2e0-450b-80a3-0b848bc70a0e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/57/bc570e60-0e76-4feb-a1c2-7138978072f4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/28/d4/28d48b6e-e609-4402-a441-fdb8c9300d6c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1c/7f/1c7f8a26-a561-4915-ad7d-037ad2a2b45e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-elex",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T21:43:22.627315+00:00"
   }
 ]
