@@ -7337,5 +7337,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T22:48:21.426934+00:00"
+  },
+  {
+    "id": "bebed266-b454-5cd5-c481-c2e772ad0a6a",
+    "title": "Project CARS 2 – v6.0.0.0.1056 + 5 DLCs + Multiplayer",
+    "slug": "project-cars-2",
+    "categories": [
+      "Racing",
+      "Simulation",
+      "First-person",
+      "Third-person",
+      "3D",
+      "Cars"
+    ],
+    "size_original": "43.1 GB",
+    "size_repack": "18.7 GB",
+    "description": "This repack is HEAVILY backwards compatible with my previous repack of Project CARS 2. setup.exe, fg-09.bin and fg-14.bin has been changed, and three new bins were added. You can save 18.3 GB of traffic by rehashing the new torrent with an old one.\n\n**Repack Features**\n\n- Based on Project.CARS.2.Spirit.of.Le.Mans-CODEX ISO release: codex-project.cars.2.spirit.of.le.mans.iso (46,293,680,128 bytes)\n- Additional cracks available in NoDVD folder after installation: 3DM and REVOLT (allows multiplayer support via Steam)\n- 5 DLCs (Japanese Cars Pack, Motorsport Pack, Fun Pack, Porsche Legends Pack and Spirit of Le Mans Pack) included and activated; Season Pass is not an actual DLC\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 43.1 to 18.7 GB)\n- Installation time is pretty long due to game data, which is heavily compressed and encrypted. It takes ~2 hours on 8-threads CPUs + HDD, ~3-4 hours on 2/4-threads CPUs + HDD. Installation on SSD is 30-50% faster. With active antivirus installation will be 2-3 times slower. Mind this before downloading and installing.\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 50 GB (~82 GB during installation)\n- Use “Language Selector.exe” in game root to change the game language\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- 180+ licensed cars from iconic manufacturers\n- Full 12K & VR Support\n- Tested and tuned by pro racing drivers\n- All-new motorsports (IndyCar, Oval Racing, Rallycross) join old favorites incl. GT3\n- LiveTrack 3.0: Dynamic surface & weather physics affect vehicle performance and handling in real-time\n- New loose surface racing (ice, dirt, mud)\n- Full 24-hour cycle featuring real-time atmospheric conditions and seasonal ambience\n- State-of-the art physics model\n- Revamped gamepad handling\n- Class-leading Esport capabilities",
+    "cover_url": "http://i96.fastpic.ru/big/2017/0925/24/cecb03bfd6078e838ce57fbfb7438e24.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/53/b1/53b15fff-e2c9-471d-aacf-86b627a2d538.png.240p.jpg",
+      "http://s01.riotpixels.net/data/1b/76/1b76a0a1-332f-470a-9340-3a284e469f0a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4b/74/4b740b3d-1c0d-4b09-9eef-e1a497b9542a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c6/e6/c6e662c9-0be5-49ce-8bd3-b92e81958d0e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/34/8b34f285-d18a-4097-9cbc-01ab28896b70.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/24/5f/245fb059-83c3-47cc-beb2-a930f6af9ad7.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-project-cars-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T22:53:26.128498+00:00"
   }
 ]
