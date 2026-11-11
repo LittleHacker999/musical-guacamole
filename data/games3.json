@@ -1004,5 +1004,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T06:03:24.228121+00:00"
+  },
+  {
+    "id": "24881d0a-5a42-56f9-5c3d-632f0ee41e82",
+    "title": "CHAOS;HEAD NOAH + COSTUME DLC",
+    "slug": "chaos-head-noah",
+    "categories": [
+      "Interactive fiction",
+      "Visual novel",
+      "Japanese",
+      "Horror",
+      "2D"
+    ],
+    "size_original": "8.2 GB",
+    "size_repack": "from 4.8 GB",
+    "description": "**Repack Features**\n\n- Based on Steam release BuildID 9206428: 8.1 GB, thanks to Haoose for files!\n- COSTUME DLC (72 MB) added, thanks to oplexz & Mataki952!\n- Goldberg + SSE crack/emu applied over, thanks to Cornercop!\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of Japanese and credits videos\n- Smaller archive size (compressed from cumulative 8.2 to 4.8~6.7 GB, depending on selected components)\n- Installation takes 3-12 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 8.2 GB (up to 10.9 GB during installation)\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i2.imageban.ru/out/2022/10/09/9bd2cb5f457a85b07e09b737647072d9.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/2b/f8/2bf8316a-b1fc-4fee-b445-d878466825ec.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/96/ec/96ec9683-f8d6-4c01-9cb9-63fcf4e821c5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/64/e2/64e20bb3-60d7-41ee-be9e-87473a08864b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/98/4c/984c24eb-9d02-420f-8335-032cca19658c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f0/72/f0725ad7-69e6-4c8d-a124-d7f1cef3a13a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/70/1d/701d60f2-7b91-4432-a9a5-8b7a868e6daa.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-chaos-head-noah",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T06:08:22.134210+00:00"
   }
 ]
