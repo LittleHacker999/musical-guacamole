@@ -3595,5 +3595,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T13:03:22.727262+00:00"
+  },
+  {
+    "id": "719e7ba7-1918-59f7-99f0-ea644b7f1798",
+    "title": "Sable",
+    "slug": "sable",
+    "categories": [
+      "Arcade",
+      "Platform adventure",
+      "Exploration",
+      "Open world",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "1.7 GB",
+    "size_repack": "1 GB",
+    "description": "Explore the dunes on your hoverbike, scale monumental ruins and encounter other nomads as you unearth mysteries long forgotten and discover who she really is behind her mask.\n\nWith its unique art style and original soundtrack by Japanese Breakfast, envelop yourself in Sable’s world and explore everything at your own pace. There is a lot in this world just waiting to be discovered. Do not be afraid. Take the leap.\n\n**Repack Features**\n\n- Based on Sable-CODEX ISO release: codex-sable.iso (1,854,734,336 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.7 to 1 GB)\n- Installation takes 4-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.1 GB (5.9 GB during installation)\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Explore a rich world, full of remnants of past civilisations.\n- Climb, leap, hover, glide – use everything at your disposal to discover every inch of the world in front of you\n- Customise your hover bike as you find, or earn, new parts\n- Help other clans and nomads that you meet along the way\n- Lose yourself in an adventure and find yourself through masks, outfits and other collectables, to represent who you are to those around you…\n- Complete puzzles to earn rewards and forge your path in an unforgiving terrain",
+    "cover_url": "https://i1.imageban.ru/out/2021/09/27/c767ee2005b62a7906a6aabf541af3cc.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f1/44/f144437a-98e4-4df6-a3f3-289b0adfe250.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/64/2c643f3e-547f-47ec-b620-ce46ec535d13.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/70/6a/706a1084-5cb8-49c0-8131-e437a3f218fd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ab/09/ab093218-45c3-4176-bd75-35d90e78e6d6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/50/5a/505ab64f-e188-48ed-affd-59b2b164c475.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5c/ad/5cadf9c8-abfd-4964-9d59-d5913cf25d79.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sable",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T13:08:21.529744+00:00"
   }
 ]
