@@ -2125,5 +2125,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T09:03:22.537571+00:00"
+  },
+  {
+    "id": "ec5413b1-a058-5e12-f74d-e83c34fdfad4",
+    "title": "Fractured",
+    "slug": "fractured",
+    "categories": [
+      "Action",
+      "Adventure",
+      "Hack n’Slash",
+      "Side",
+      "2D"
+    ],
+    "size_original": "5.7 GB",
+    "size_repack": "3.1 GB",
+    "description": "GAMEPLAY: This is a side scrolling/ Hack and Slash game. You will need to overcome challenging bosses requiring your sword and shield to Block, attack, reflect and dodge incoming attacks. The game is focused on creating a difficult experience for the players while keeping the gameplay and mechanics fun and exciting.\n\nVARIETY OF BOSSES: Each boss battle in the game has different attack patterns you will need to learn to overcome. Bosses fights will be broken up into stages increasing in difficulty each time.\n\n**Repack Features**\n\n- Based on Fractured-SKIDROW ISO release: sr-fractured.iso (6,133,172,224 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.7 to 3.1 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 8.8 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2022/04/17/b2697dcb49dc80444d39a5f3ccf84156.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/32/02/32029cfb-3c6a-4a83-a1af-3e4e4412f949.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/0b/ba0b6e36-1608-447b-b738-5ea8051ceae8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/39/31/3931a9e9-2cab-4353-90c1-1145b07a230a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/f4/97f43fc6-ea04-4d6b-bdc8-213356383a92.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/71/0271f042-9eb5-4a04-93b6-3d3a2aec1dda.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5e/73/5e735cd2-665b-49be-a6ae-f50a01561c80.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-fractured",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T09:08:21.625728+00:00"
   }
 ]
