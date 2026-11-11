@@ -5506,5 +5506,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T17:48:23.526072+00:00"
+  },
+  {
+    "id": "b006e837-c065-50d6-0ef9-b0803cb051c0",
+    "title": "Frostpunk, v1.6.0 + 3 DLCs + Bonus",
+    "slug": "frostpunk",
+    "categories": [
+      "Managerial",
+      "Isometric",
+      "3D",
+      "Steampunk",
+      "Real-time"
+    ],
+    "size_original": "10 GB",
+    "size_repack": "from 5.5 GB",
+    "description": "Frostpunk is a brand-new title from the creators of This War of Mine. It’s a society survival game that asks what people are capable of when pushed to the brink of extinction. In an entirely frozen world, people develop steam-powered technology to oppose the overwhelming cold. The city’s ruler has to manage both the citizens and the infrastructure they live in. The leader’s tactical skills face challenges that will frequently question morality and the basic foundations of what we consider organized society. Optimization and resource management often clash with empathy and thoughtful decision-making. While city and society management will consume most of the ruler’s time, at some point exploration of the outside world is necessary to understand its history and present state.\n\nWhat decisions will you make to ensure the survival of your society? What will you do when pushed to the limit? And…\n\nThis repack is partially backwards compatible with my previous repack of the game. You can rehash fg-optional-bonus-content.bin and save 1.2 GB of traffic.\n\n**Repack Features**\n\n- Based on Frostpunk_On_The_Edge-HOODLUM ISO release: hlm-frostpunk_on_the_edge.iso (10,740,639,744 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation,\n- The Rifts, Last Autumn and On The Edge DLCs are included and activated; game version is v1.6.0\n- Missing bonus files from earlier CODEX ISOs have been added\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you can skip downloading and installing of bonus content (OST, Artbook, etc.)\n- Significantly smaller archive size (compressed from 10 to 5.5/6.7 GB)\n- Installation takes 5-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 11 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Windows 7 users must have this update installed: https://www.catalog.update.microsoft.com/search.aspx?q=kb4019990",
+    "cover_url": "https://i112.fastpic.ru/big/2020/0821/2a/c075cb4d5b383ce5a02ab2883ab6f02a.jpg",
+    "screenshots": [
+      "https://s01.riotpixels.net/data/3b/06/3b06f3c6-0be6-48b7-8961-94da60796aba.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/7d/96/7d9651b2-e8f4-4dec-8b62-a4a2397e7b0f.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/6b/cd/6bcdae1a-6ac1-41a0-a2e0-2d08db0729ec.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/d9/74/d9747b6f-ab7f-447d-b2d7-b0e59a427d62.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/a3/82/a38289f7-1be5-4b25-8b4e-b9a27ec7d683.jpg.240p.jpg",
+      "https://s01.riotpixels.net/data/b6/89/b689301c-0e9d-47af-9de9-fc1412d10d82.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-frostpunk",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T17:53:22.031553+00:00"
   }
 ]
