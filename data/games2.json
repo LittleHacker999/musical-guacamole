@@ -7046,5 +7046,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T02:13:22.536724+00:00"
+  },
+  {
+    "id": "fbe51fe2-0254-5e52-ea12-f73f51474303",
+    "title": "Kingsblood – v1.0.4",
+    "slug": "kingsblood",
+    "categories": [
+      "RPG",
+      "2D",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "4 GB",
+    "size_repack": "1 GB",
+    "description": "Join the fight against a tyrannical monarchy in a grimdark world of political intrigue and injustice. Assemble a powerful guild of unique followers, send them on dangerous missions, while building your guild hall. Master the art of party composition and unlock the true potential of your warriors as you fight battles and dungeons in your quest for justice.\n\nExplore a Medieval Fantasy World\nUnlock a network of allied cities to enable trade, access new quests or just listen to the rumors in the local tavern.\n\nAssemble your Fellowship\nEncounter and acquire various characters with unique special abilities and synergies. Strategically employ them in battles and manage their motivation.\n\nVenture into Dungeons\nExplore the depths of creepy caves filled with traps, enemies, and treasures. Will you dare to challenge even the toughest enemies that lurk in the deep?\n\nPrepare for Combat\nExploit the enemy’s elemental weaknesses by skillfully positioning your troops before the autosimulated battle begins.\n\n**Repack Features**\n\n- Based on Kingsblood-TENOKE ISO release: tenoke-kingsblood.iso (4,336,244,736 bytes)\n- Game version: v1.0.4\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4 to 1 GB)\n- Installation takes 3-6 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4 GB (6 GB during installation)\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Story-heavy campaign in a dark fantasy world\n- 50 unlockable characters\n- Character progression\n- Endless dungeons, quests & items\n- Autosimulated combat\n- Synergy effects based on party composition\n- Base building\n- Crafting weapons and brewing potions",
+    "cover_url": "https://i3.imageban.ru/out/2023/06/27/753d4f2301a919ca3aa7faf00da44950.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a6/43/a6437f0a-fad8-48cb-82c5-0caa04fbab8e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3e/43/3e436c35-6461-4aa6-8636-d03b1ec68f34.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ff/ce/ffceb60f-a99c-4707-902d-9c40ea74cd83.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e5/dd/e5ddb2cc-6838-46b8-a450-c2175a862ab6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/53/fd/53fd59bd-72b6-45fe-bb29-f068d1bc91cb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/d4/ced43489-e156-445c-93eb-e570c6258260.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-kingsblood",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T02:18:22.332875+00:00"
   }
 ]
