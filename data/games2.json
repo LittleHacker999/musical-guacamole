@@ -6442,5 +6442,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T00:33:24.336409+00:00"
+  },
+  {
+    "id": "a72ed8f6-a112-573c-9ad6-c636907e4f73",
+    "title": "Avatar: The Last Airbender – Quest for Balance",
+    "slug": "avatar-the-last-airbender-quest-for-balance",
+    "categories": [
+      "Action",
+      "Puzzle solving",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "8.4 GB",
+    "size_repack": "6.3 GB",
+    "description": "Explore the World of Avatar and travel across the four nations through a 1-2 player co-op 18 chapter adventure.\n\nUnlock the Mysteries and navigate challenging puzzles using bending and the unique abilities of water, earth, fire and air; upgrade your abilities throughout the story to unleash the full potential of Avatar!\n\n**Repack Features**\n\n- Based on Avatar.The.Last.Airbender.Quest.for.Balance-RUNE ISO release: rune-avatar.the.last.airbender.quest.for.balance.iso (9,012,281,344 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 8.4 to 6.3 GB)\n- Installation takes 6-35 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 8.4 GB\n- Language can be changed in “EngineBinariesThirdPartySteamworksSteamv151Win64steam_emu.ini” file\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i2.imageban.ru/out/2023/09/24/d824b983c97468fb1cc3248e94ead1d9.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/1f/5d/1f5d0c4b-2bc8-46b0-86c0-1a8e06897d2d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bf/5e/bf5eb1bb-007f-4b2e-b83a-1a501ba71da8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/30/76/30763a6f-8f38-4890-b865-6ff9428704fb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ab/13/ab13c455-b219-46df-a66b-0b6b06d3b76d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/4e/974ee5b4-e374-4073-813c-b8a45b6c67bd.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-avatar-the-last-airbender-quest-for-balance",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T00:38:22.026846+00:00"
   }
 ]
