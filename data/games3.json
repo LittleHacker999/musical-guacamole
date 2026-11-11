@@ -2712,5 +2712,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T10:38:22.124385+00:00"
+  },
+  {
+    "id": "a6e76573-b573-5600-93b9-23797e55d411",
+    "title": "TramSim Duology: Vienna v1.8.0.0 + Munich v1.1.1.0",
+    "slug": "tramsim-duology",
+    "categories": [
+      "Driving",
+      "Lifestyle",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "27.8 GB",
+    "size_repack": "11.4/12.3 GB",
+    "description": "Discover Vienna like never before; No matter where you are!\nDiscover the heart of Vienna – one of the most beautiful and greenest cities in the world! The historic city center with the magnificent Ringstrasse, countless sights, classical buildings and a wonderful ambience. At any time, from anywhere in the world.\n\nHighly realistic & with lots of fun!\nDriving a tram is not complicated! You can start with the beginner mode and activate controls for advanced & professional users. Steer with great precision through the traffic and get your passengers to their destination. All of this with incredible graphics and great fun!\n\nExperience simulation at the highest level like never before!\nPure photorealism, highly realistic graphics and highly detailed buildings let you dive into the virtual city as if you were right there! In addition, highly realistic controls and many functions and details just as they exist in reality round off the simulation experience perfectly.\n\nDiscover Munich like never before; No matter where you are!\nDiscover with TramSim Munich a new city with numerous landmarks as well as the low-floor tram model R2.2.b!\n\nTramSim Munich offers realistic operating procedures and equipment as well as a detailed track model. The Munich route network with countless hours of fun awaits you!\n\nHighly realistic & with lots of fun!\nThe type R2.2b tram is a highly detailed reconstruction of the model and convinces with its special driving dynamic and high quality. The vehicle is completely repaintable and can thus appear in other cities’ designs as well. Original announcements and true to the original line alternating operation round up the tram experience.\n\nExperience simulation at the highest level like never before!\nTransport your passengers on three detailed tram lines in full length through the centre of the Bavarian capital. Historic buildings, squares and museums have been displayed close to reality and authentic AI traffic as well as dynamic passenger and pedestrian behaviour bring the city to life. Each of the three lines has it’s highlights: the line 23, for example, starts at the Münchner Freiheit and the line 27 is not only in use during the day, but also at night.\n\n**Repack Features**\n\n- Based on two ISO releases: TramSim.Vienna-SKIDROW (sr-tramsimvienna.iso, 16,117,268,480 bytes) + TramSim.Munich.HAPPY.XMAS-SKIDROW (sr-tramsimmunichhappyxmas.iso, 13,707,483,136 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of German videos\n- Significantly smaller archive size (compressed from cumulative 27.8 to 11.4/12.3 GB)\n- Installation takes 7-20 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 28.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Type ULF (T:Vienna only)\n- Tram-Depot Vienna (T:Vienna only)",
+    "cover_url": "https://i3.imageban.ru/out/2021/12/27/72b437bb72dcdaef33490a121b481587.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6b/ff/6bff4688-1c20-45f0-a3ed-e1e48fdbd109.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9c/89/9c89a0b7-45ab-408c-af6f-7d9266b1fa72.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/06/6a/066a2b71-1add-4d91-98d3-f66c3ef3c797.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/5f/995f660d-534c-422e-9b60-499d0a9f651a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2e/71/2e7148b8-d3f1-41df-9383-7bbd932c23b5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0a/ec/0aec3de6-586d-4299-980c-8e275c50bda6.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-tramsim-duology",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T10:43:23.033555+00:00"
   }
 ]
