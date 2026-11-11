@@ -3998,5 +3998,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T14:08:22.126217+00:00"
+  },
+  {
+    "id": "f8f269bd-9982-5b84-4842-0b20e534e29a",
+    "title": "Horror Tales: The Wine",
+    "slug": "horror-tales-the-wine",
+    "categories": [
+      "Adventure",
+      "Action",
+      "Horror",
+      "First-Person",
+      "3D"
+    ],
+    "size_original": "2.3 GB",
+    "size_repack": "1.5 GB",
+    "description": "You are Martí Vermelló. In a desperate attempt to cure the infection of your loved ones, you steal a boat and head to the winery where the red wine is made, somewhere in the capital.\nIf you find just one unopened bottle of red wine it will be enough.\n\nOn reaching the island you decide to go to the winery owners’ estate to try your luck there. The Banydebosc family estate is close and has a dock.\n\nA cold smell of death, calm and silence comes over your body when you arrive at the dock. They sealed off the infected families in their own homes without food or water but even then the quarantine didn’t work.\n\n**Repack Features**\n\n- Based on HORROR_TALES_The_Wine-FLT ISO release: flt-horror_tales_the_wine.iso (2,513,530,880 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.3 to 1.5 GB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.4 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Mediterranean Horror: Explore the forsaken capital of an awe-inspiring archipelago. Do not let yourself be fooled by the gentle sea breeze, the Mediterranean vistas or the comforting summer sun. Since the Devil’s Fevers pandemic ravaged the city, it was abandoned, and now only horrific nightmares await there.\n- Survive your Nemesis: Someone is relentlessly hunting you. Suffer and agonize while you try to run away from the encounters with this strange stalker obsessed with you.\n- Intense Challenges: Solve environmental riddles, physics puzzles and other similar challenges in an interconnected vertical world. Even while being chased and hunted.\n- Accessibility and Photomode: Tweak more than 20 Accessibility settings to create a tailored experience for you. Use the Photomode to make perfect shots and unlock many secrets using it.",
+    "cover_url": "https://i4.imageban.ru/out/2021/07/31/97a1605cf8454e355d81a3baa3902425.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/7a/06/7a065c71-347e-4e2c-9f7b-61f8330f3f78.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b9/26/b926d32e-1eee-47cc-9086-0f22a01c83d9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/c6/bac609ea-0945-4232-8f07-56be87cb7527.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/49/a3/49a3185d-ed20-444a-b307-7744e49d98f0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b6/fb/b6fb980e-f1c7-4b03-812d-925512d45fdd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/de/d5/ded5ad15-6b60-4b99-b708-6ff6e1f3cd0a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-horror-tales-the-wine",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T14:13:23.122529+00:00"
   }
 ]
