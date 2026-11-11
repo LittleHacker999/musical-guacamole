@@ -5718,5 +5718,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T18:23:22.032115+00:00"
+  },
+  {
+    "id": "d31472ee-a926-5b1a-54c3-210598acd5fd",
+    "title": "Thronebreaker: The Witcher Tales, v1.0.2.12",
+    "slug": "thronebreaker-the-witcher-tales",
+    "categories": [
+      "Card game",
+      "RPG",
+      "3D"
+    ],
+    "size_original": "11.8 GB",
+    "size_repack": "from 4.8 GB",
+    "description": "Thronebreaker is a single player role-playing game set in the world of The Witcher that combines narrative-driven exploration with unique puzzles and card battle mechanics.\n\nCrafted by the developers responsible for some of the most iconic moments in The Witcher 3: Wild Hunt, the game spins a truly regal tale of Meve, a war-veteran queen of two Northern Realms — Lyria and Rivia. Facing an imminent Nilfgaardian invasion, Meve is forced to once again enter the warpath, and set out on a dark journey of destruction and revenge.\n\nYou can skip downloading of voicepacks you don’t need. Here is the list of selective files. You MUST download at least one of speech packs, for your language.\n\nIn example, if you want to launch the game with Spanish voiceovers – skip all “selective” files, but download fg-selective-spanish.bin & all main (01-04) files.\n\n**Repack Features**\n\n- Based on Thronebreaker.The.Witcher.Tales.MULTi13-PLAZA ISO release: plaza-thronebreaker.the.witcher.tales.multi13.iso (12,683,902,976 bytes)\n- Game version: v1.0.2.12\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of voiceovers you don’t need\n- Smaller archive size (compressed from 11.8 to 4.8~10.1 GB, depending on selected components)\n- Installation takes 3-8 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 12 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Experience an all new 30-hour Witcher Tale with 20 possible world end-states.\n- Embark on over 75 thought-provoking side quests — one of the hallmarks of The Witcher series.\n- Explore never-before-seen parts of The Witcher world — Lyria, Rivia, Aedirn, Mahakam and Angren.\n- Manage resources, recruit and develop units in your very own customizable war camp.\n- Build an army and engage in story battles, which twist the game’s rules in wildly unexpected ways.\n- Thronebreaker features over 250 single player tailored cards, as well as 20 brand new cards for GWENT: The Witcher Card Game.\n- Each card represents an entity in the game — characters players interact with during open world exploration can become on-hand assets, deployable during battle.\n- During each playthrough, players make choices and face their consequences — acting against an ally’s convictions might cause their card to disappear from the deck.\n- Mastering the campaign allows unlocking premium animated versions of cards, additional multiplayer avatars, borders, and titles.\n- Fully voice-overed dialogues, localized into 11 languages.\n- fg-selective-brazilian.bin\n- fg-selective-english.bin\n- fg-selective-french.bin\n- fg-selective-german.bin\n- fg-selective-italian.bin\n- fg-selective-japanese.bin\n- fg-selective-korean.bin\n- fg-selective-mexican.bin\n- fg-selective-polish.bin\n- fg-selective-russian.bin\n- fg-selective-spanish.bin\n- fg-selective-chinese-simplified.bin\n- fg-selective-chinese-traditional.bin",
+    "cover_url": "http://i92.fastpic.ru/big/2018/1025/3f/84d0dbe301ae3a4d73f161468696233f.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/54/e1/54e1bf54-28e9-452e-b888-bcdbb91740fc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/42/e5/42e5fb42-cd5b-4a36-9060-39c053087e03.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f9/c5/f9c57009-9130-440c-af0e-8dbc21ef67ad.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/49/d7/49d75eff-8fc2-4bae-9147-5949492aa95e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dd/28/dd280e17-3478-4e22-9619-89c91e0ef6d9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c3/60/c360d98f-6e11-4974-b1dd-d699da9b3486.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-thronebreaker-the-witcher-tales",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T18:28:24.534270+00:00"
   }
 ]
