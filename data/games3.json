@@ -3476,5 +3476,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T12:43:23.930745+00:00"
+  },
+  {
+    "id": "deb65f1d-ff02-5ed9-576a-664577d0f6d0",
+    "title": "Blade of Darkness – v67/Update 4 + Blade HD Mod V4",
+    "slug": "blade-of-darkness",
+    "categories": [
+      "Action",
+      "Slasher",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "4.3 GB",
+    "size_repack": "from 1 GB",
+    "description": "Chaos seizes the World. Only the memory of the oldest recalls the exploits of a hero and a few warriors, who in other times fought against the forces of Chaos. Ianna, the mother of all living beings, gave the hero a powerful sword to enter the abyss and defeat evil. But that happened a long time ago. A new hero is needed, a chosen one who is worthy to wield the Sword and destroy the enemy… this time forever.\n\nFOUR PLAYABLE CHARACTERS\nPick your Champion of Ianna — Tukaram, the Barbarian; Naglfar, the Dwarf; Sargon, the Knight; or Zoe, the Amazon — each with unique strengths, weaknesses, and fighting skills, as you hack ‘n slash your way through a blood-drenched quest to save the world from the forces of Chaos.\n\nBLOODY & GORY COMBAT\nLearn devastating combo attacks and use them to slice your opponents into pieces. Hack off your foes’ limbs, then use them as weapons!\n\nA DETAILED & DARK FANTASY WORLD\nBattle orcs, trolls, golems, demons, skeletons, and scores of malevolent enemy creatures as you explore treacherous tombs, frozen fortresses, demon spires, deserts, temples, and palaces.\n\nINTERACTIVE ENVIRONMENTS\nDestroy in-game objects with fire or your fists as you solve puzzles and disarm traps that combine physics, hydraulic systems, and lethal traps!\n\nRE-RELEASE OF A TRUE GENRE-DEFINING GAME\nWe are happy to bring Blade of Darkness back to life, an enduring classic that, at the time of its release, inspired many games in the action-adventure genre through its approach to combat. With this edition we’ve re-engineered the game to work on modern PC hardware, added widescreen support up to 4K resolution, introduced new display settings, and improved its overall stability. At the same time, the gameplay, content, and the story are untouched — featuring all the game’s quirks and charm.\n\n**Repack Features**\n\n- Based on Blade.of.Darkness-DOGE ISO release: wow-blade.of.darkness.iso (1,317,971,968 bytes)\n- Blade_of_Darkness_Update_4-CS (7 MB) applied over; missing language files (562 MB) added, thanks to Christsnatcher!\n- Game version: v67/Update 4/BuildID 7517703 from October 12, 2021\n- Optional Blade HD V4 mod (2.5 GB) is available as an optional download\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: yoy can skip downloading and installing of Blade HD V4 mod\n- Significantly smaller archive size (compressed from cumulative 4.3 to 1/2.2 GB)\n- Installation takes 5-10 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 6.5 GB\n- All languages are installed by default with English enabled as the main language\n- Use corresponding “Switch to…” BAT-files in the game root to change the language. “Switch to Russian – Hack.bat” will copy Russian voiceovers from classic build to the modern build\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i3.imageban.ru/out/2021/10/12/b7807dca45d9887ca29288bb367db579.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/18/1c/181ce303-0c3c-4faa-81f9-f2b157717b74.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3e/58/3e584686-4e3a-4108-b370-b2e03ca608e2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/84/87/84876759-41e7-4ec7-97ca-f0e526404f42.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8e/75/8e75c0dc-96c8-493c-90e9-765e5a4f499f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a0/24/a0248c60-d806-43ab-9085-0ead3b748f25.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/23/dc/23dcb85c-3f2e-4242-91c6-2be4c14d8cdb.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-blade-of-darkness",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T12:48:21.432472+00:00"
   }
 ]
