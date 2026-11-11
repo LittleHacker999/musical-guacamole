@@ -6745,5 +6745,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T01:23:22.934895+00:00"
+  },
+  {
+    "id": "2c4edec1-d75f-5827-2647-5937c57b1f64",
+    "title": "Happy",
+    "slug": "happy",
+    "categories": [
+      "Adventure",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "2.3 GB",
+    "size_repack": "1.2 GB",
+    "description": "Plunging into the depths of the forest, you will encounter numerous dangers, mysterious footprints and abandoned places.\n\n**Repack Features**\n\n- Based on Happy-DARKSiDERS ISO release: ds-happy.iso (2,482,790,400 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.3 to 1.2 GB)\n- Installation takes two minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A Thrilling Horror Adventure: The game offers a gripping storyline full of mysteries and mysteries that the player must unravel in order to unravel the missing family.\n- Unique Atmosphere: Gloomy winter forests covered with snow create a unique atmosphere of horror and mystery. Fascinating graphics and soundtrack help to immerse yourself in the game world and feel its atmosphere.\n- Investigation and puzzles: You will have to investigate the disappearance of a family by exploring the area, collecting clues, solving puzzles and deciphering mysterious footprints. Success in unraveling the mystery depends on your resourcefulness and logical thinking.",
+    "cover_url": "https://i6.imageban.ru/out/2023/08/13/203dda700b1e0972b2bc149cfddfdd2e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/fb/c5/fbc5e473-9e11-4515-a95b-3d68e3d5a8e9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e9/34/e934256c-26ca-406b-b62d-3df129a6cdb2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/85/fb85bfaa-2595-4f19-8ce8-863f6043b4b7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9b/c8/9bc8a659-d8ac-48bb-b134-6b2aea3e008f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/11/2a/112af9ec-9721-4ee1-8e20-97f8f2924989.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/3b/013b89b9-bd7f-4189-ab62-400accfca3c1.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-happy",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T01:28:23.831246+00:00"
   }
 ]
