@@ -2619,5 +2619,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T10:23:24.722573+00:00"
+  },
+  {
+    "id": "e9f08ed9-577c-5b6e-ea89-889350ecd1e8",
+    "title": "Tested on Humans: Escape Room – v1.0.6",
+    "slug": "tested-on-humans-escape-room",
+    "categories": [
+      "Logic",
+      "Puzzle",
+      "Puzzle solving",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "1.4 GB",
+    "size_repack": "676 MB",
+    "description": "You are the test subject. Will you be able to discover what the experiments are about and escape?\n\nTested on Humans is an escape room in a dark setting that will test your skills. Solve puzzles, decode secret codes, find hidden objects, and investigate the different rooms of the research center while you discover the events that led you there.\n\nSolve this mystery by exploring each of the rooms in which this adventure takes place. Will you be able to escape?\n\n**Repack Features**\n\n- Based on Tested.On.Humans.Escape.Room-TiNYiSO ISO release: tn-testedonhumansescaperoom.iso (1,479,452,672 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.4 GB to 676 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.3 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Solve puzzles based on logic.\n- Explore different rooms, find clues and hidden objects.\n- Discover more about the experiments and your past.\n- Enjoy the dark and atmospheric setting.",
+    "cover_url": "https://i3.imageban.ru/out/2022/01/13/cb65793c48d408bf2726b9ff23668733.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/76/3b/763bd971-60c9-4880-a298-7705c3ae48a6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/94/68/94689ba2-e135-49b0-9c2b-14dd92101565.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d5/6e/d56e970d-c745-4a0f-ad3d-b947b2eef582.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4e/b3/4eb39fae-a1db-41e3-8b69-dabd45807a53.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/d0/e6d0f29f-433c-4930-89f1-959eeac7ca8a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5f/95/5f95cefe-451f-4740-936f-c6fec75397f9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-tested-on-humans-escape-room",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T10:28:21.231542+00:00"
   }
 ]
