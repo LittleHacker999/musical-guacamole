@@ -4545,5 +4545,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T15:38:21.632352+00:00"
+  },
+  {
+    "id": "893a24cf-1f7c-5c96-8139-db8056400986",
+    "title": "TASOMACHI: Behind the Twilight",
+    "slug": "tasomachi-behind-the-twilight",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "1.2 GB",
+    "size_repack": "789 MB",
+    "description": "Tasomachi is an adventure game in which you can freely explore an Far Eastern Fantasy town. You will control Yukumo as you explore the mysterious town, clear dungeons and collect items in order to fix your broken down airship.\n\n**Repack Features**\n\n- Based on TASOMACHI.Behind.The.Twilight-DARKSiDERS ISO release: ds-tasomachibehindthetwilight.iso (1,308,706,816 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.2 GB to 789 MB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.3 GB\n- Language can be changed in game settings (3rd point in the main menu)\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i114.fastpic.ru/big/2021/0415/32/832b24072d529c44f5d5dc06b5d1cd32.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/c3/eb/c3ebb3b9-cbd8-4d01-a808-d495d892c773.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/11/c8/11c8884a-27f0-4388-b831-32371092e581.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2e/c5/2ec5dcf7-2db9-42d5-9b87-79c098255c56.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/df/99dfa21e-973c-44f1-9b5c-13119a95eca7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f7/2a/f72a6064-3af6-4428-9854-0bf66732ca77.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f3/07/f307f4bc-45f3-4f8c-a24d-85ed3428560d.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-tasomachi-behind-the-twilight",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T15:43:22.332117+00:00"
   }
 ]
