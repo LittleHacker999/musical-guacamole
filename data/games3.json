@@ -1532,5 +1532,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T07:28:22.429489+00:00"
+  },
+  {
+    "id": "8bfc0df5-74bd-57d9-9dab-dfe5cb0cd9bb",
+    "title": "PlayForm: Human Dynamics",
+    "slug": "playform-human-dynamics",
+    "categories": [
+      "Arcade",
+      "Physics-based",
+      "Sandbox",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "8.9 GB",
+    "size_repack": "4.7 GB",
+    "description": "PlayForm: Human Dynamics is an experimental physics playground. Physically simulated humans run, jump, climb, push, pull and smash their way through diverse worlds. Have fun with various tools and obstacles to create thrilling situations and experience next-gen physics.\n\n**Repack Features**\n\n- Based on PlayForm.Human.Dynamics-TiNYiSO ISO release: tn-playformhumandynamics.iso (9,525,813,248 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 8.9 to 4.7 GB)\n- Installation takes 3-4 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 17.1 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Active Ragdoll Technology: PlayForm tech powers Stan, our advanced physically simulated character, also known as an Active Ragdoll. Experience gravity, collision, friction, impacts, and all other physical challenges the world imposes like never before.\n- Play with the Least Limits: Unlike other games which only play a canned animation, or use highly simplified rules, our character moves as though he’s aware of his surroundings and subject to their forces. The character is constantly figuring out what muscular forces to apply to keep himself standing upright and balanced. This makes interactions much more diverse and interesting.\n- Brace for Impact: If Stan is standing on an object that suddenly begins to move, you’ll see him shift his weight to stay balanced, using his hands to get back on his feet if needed. If he is thrown into a wall – or a wall is thrown into him – he’ll brace for impact by reaching in the direction it’s coming from.\n- Experience True Freedom: The balancing algorithm has been hand-tuned to allow for surprising responsiveness and agility. Each movement Stan calculates is unique to the situation he is faced with, and while sometimes he messes up in a comical way, at other times he does things that even surprise us. Often, he does things we don’t anticipate, seeming to improvise his motions in real time.\n- No Longer be Confined: Choose from a variety of large open playgrounds to test Stan’s limits. Slide down hills, climb mountains, leap across gaps, or go for a swim in the ocean!\n- You are in Control: Engage your creativity in sandbox mode by designing contraptions, levels, and challenges – your imagination is the limit. Enjoy a wide arsenal of tools, hazards and building blocks developed for your convenience by RunTime Industries; place them to your heart’s content, weld them together, bind them with flexible joints, attach high powered motors, etc.\n- Maximum Immersion: Become immersed in a world that is fully physically simulated right down to the items held by your character. Objects react to the world with friction, buoyancy, and gravity to ensure proper physical interaction.\n- Physical Sound Simulation: Realistic playback of audio samples using calculations based on an objects material, mass, speed, and angle at the time of collision. We use Steam Audio for Realtime Sound Propagation to ensure the audio is as detailed as it gets. Put on a pair of Headphones to experience binaural audio that places you in the soundscape.",
+    "cover_url": "https://i7.imageban.ru/out/2022/07/30/983b47fef80df95140c42951c9011c8d.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6c/95/6c957b35-81ce-4666-b810-f423f0c81d0b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/76/5a/765a1184-ec8d-45c2-baf1-3ba4e34e8065.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bf/ee/bfee04b1-330e-4fe1-b2e3-4bbaa773e726.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/54/9c/549ca43e-15d0-4fe4-be56-015b9f799fa7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/25/12/2512f2cc-6d66-4db0-81fd-e45b4ec865f5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1f/ec/1fec8821-694b-4cd8-8711-86be6f736d68.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-playform-human-dynamics",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T07:33:23.928832+00:00"
   }
 ]
