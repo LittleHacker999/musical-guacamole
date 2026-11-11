@@ -6865,5 +6865,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T01:43:23.730630+00:00"
+  },
+  {
+    "id": "a2bc2601-9b23-5e5b-f99c-a29641751a97",
+    "title": "Granny Remake – v3.0.1 + Windows 7 Fix",
+    "slug": "granny-remake",
+    "categories": [
+      "Adventure",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "GB",
+    "size_repack": "GB",
+    "description": "You wake up in a barricaded room with limited time to find an exit. You’ll have to explore the dark corners of the house, solve puzzles, and gather clues to unravel the mysteries of this cursed place.\n\nShe hears every sound you make and will chase you relentlessly to prevent your escape. You’ll need to be incredibly cautious, using agility and stealth to avoid her attention and survive.\n\nAs you delve deeper into the house, more horrific secrets will be revealed. Gradually, you’ll uncover the history of this cursed place and learn about its dark past events.\n\nYou’ll have to confront your fears, collect tools and items necessary to unlock new areas, and overcome obstacles set up by Granny.\n\nOnly those who show persistence and skill in evading traps will find a path to freedom and escape from this haunting nightmare.\n\nPrepare yourself for a true challenge, where every step you take could be your last. Can you survive the horrors of the house and outsmart the deadly granny, or will you become her next victim? The answers to these questions await you in the game “Granny Remake”.\n\n**Repack Features**\n\n- Based on Granny.Remake-TENOKE ISO release: tenoke-granny.remake.iso (1,933,015,040 bytes)\n- Game version: v3.0.1\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.8 to 1 GB)\n- Installation takes 1-3 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.9 GB\n- Language can be changed in game settings\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Copy contents of “_Windows 7 Fix” folder to the game root to play on Windows 7",
+    "cover_url": "https://i1.imageban.ru/out/2023/07/23/5f007418f54242870998541a5798301e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/bb/6d/bb6d39eb-abaf-41de-9595-e90a6f6630ff.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ff/a3/ffa322dd-0a7a-4a83-a8da-879d6ea08d0b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4e/12/4e1298d0-5194-4f13-a873-157444aa0813.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3e/c3/3ec34306-5db7-4f9e-8e4f-26144cca10c8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/78/d7/78d7eb3f-9469-44ce-a1b2-123136f10482.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/94/9a/949a5897-75d3-4bb9-9f3d-b68bfef257fb.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-granny-remake",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T01:48:20.730017+00:00"
   }
 ]
