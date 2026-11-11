@@ -3722,5 +3722,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T13:23:22.128601+00:00"
+  },
+  {
+    "id": "97d0a8e6-81dc-5e11-073b-ec114bced410",
+    "title": "Dice Legacy",
+    "slug": "dice-legacy",
+    "categories": [
+      "Managerial",
+      "Strategy",
+      "Isometric",
+      "Real-time",
+      "Roguelike",
+      "3D"
+    ],
+    "size_original": "1.8 GB",
+    "size_repack": "1 GB",
+    "description": "Put your faith in the dice as you gather resources, construct buildings and expand the borders of your realm. Create a strategy that fits your playstyle as you explore the wilderness. Test your luck as you make contact with the enigmatic factions populating the ringworld. But beware: something wicked is lurking in the mists beyond your realm, waiting for its chance to strike.\n\nTHE WORLD\nThe enigmatic ring-shaped world of Dice Legacy seamlessly blends medieval and steampunk aesthetics, paying tribute to the steadily growing fascination of tabletop and miniature games. You land on the shores of a new, uncharted continent and raise and evolve your settlement, exploring the wilderness in the meantime.\n\nOn the other side of the ring, The Others await – unknown and ancient and yet eerily familiar at the same time. The Others pledged themselves to worshipping an ancient being, so powerful it is said to be able to change the very fabric of destiny itself. Will you fall prey to these tempting promises or be able to resist and face the truth?\n\n**Repack Features**\n\n- Based on Dice.Legacy-CODEX ISO release: codex-dice.legacy.iso (1,884,356,608 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.8 to 1 GB)\n- Installation takes 2-3 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.6 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Your dice represent the subjects of your realm. Keep them happy and healthy by providing food, ale and medicinal herbs – otherwise they might starve, get sick, be injured in combat or even freeze to death in the unforgiving cold of the winter blizzard.\n- Adapt your playstyle to the procedurally generated ringworld that is waiting for you to explore it. Chart the wilderness, gather ressources and construct new buildings to establish your rule. Recruit new subjects and research new technologies as you build your strategy to survive the winter.\n- Your population starts out as humble peasants, but as you roll your way to a clever strategy, they advance and become citizens, soldiers, priests or merchants. Work with the Council and pass new Policies to keep the various dice classes happy and potentially change the course of the game.\n- Create mighty Constructs by forging dice together and empower faces to unlock unique dice abilities. Create the ultimate dice to ensure your triumph through various playthroughs.\n- Roll. Die. Repeat. Unlock all 6 rulers and find out which fits your playstyle best. Face different starting conditions and get the hang of varied wager abilities. Every playthrough of Dice Legacy is unique and presents you with the chance to discover the secret that is hidden in the mists of the ringworld.\n- Discover mysterious civilizations and reveal the secrets of the ring. Defend your settlement against The Others. Find out who they are, how they got to this uncharted land and what lurks in the mists beyond their city.",
+    "cover_url": "https://i1.imageban.ru/out/2021/09/10/fdf9a3a038fa3ec0f6ec93b7f1fb2c22.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/55/33/55334b55-47f0-424a-80e9-1a016324229d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/82/89/8289f09a-ab2d-4b9e-8563-25ad81c27ef9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/7a/aa7a3ebb-4daf-4c2b-8f86-4fbc51fa9229.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ec/63/ec632b8a-75af-4aa4-9f28-b809232fe62a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bf/fc/bffc2b9e-0177-41c7-9efd-c989874c61fe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/15/7d/157d7c70-2880-4fc0-8227-12acf163bd4a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dice-legacy",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T13:28:22.636318+00:00"
   }
 ]
