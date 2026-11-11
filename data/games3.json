@@ -4120,5 +4120,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T14:28:22.523283+00:00"
+  },
+  {
+    "id": "5afb1ddf-687c-5fcb-3916-b1595bbd3ded",
+    "title": "The Legend of Zelda: Skyward Sword HD+ Yuzu/Ryujinx Emus for PC",
+    "slug": "the-legend-of-zelda-skyward-sword-hd",
+    "categories": [
+      "RPG",
+      "Action",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "7.5 GB",
+    "size_repack": "2.7 GB",
+    "description": "Depicting the earliest tale in The Legend of Zelda timeline, a young knight must journey between the endless sky and the mythical surface below in search of his childhood friend, Zelda. As their destiny unfolds, a wicked plan to resurrect an ancient evil force is set in motion, orchestrated by a mysterious demon lord…\n\nTake to the skies on your trusty Loftwing and visit islands dotted on the horizon, then dive down to the fabled surface and trek through forests, deserts, volcanoes and more. Befriend new allies, uncover hidden secrets and cut down myriad monsters on your journey to stop Ghirahim’s nefarious plan.\n\nHidden deep within each surface region lies a sprawling dungeon packed with fearsome fiends, treasures and puzzles design to test the bravest of heroes. Defeat the guardian waiting for you at the end of each dungeon and you’ll be one step closer to saving the world.\n\n**Repack Features**\n\n- Based on Switch The_Legend_of_Zelda_Skyward_Sword_HD_NSW-VENOM scene release: v-the_legend_of_zelda_skyward_sword_hd.nsp (7,595,033,872 bytes)\n- Two Switch emulators are included: Yuzu (Early Access v1883, July 15, 2021, 82 MB) and Ryujinx (v1.0.6969, July 14, 2021, 47 MB) are included\n- Switch Firmware v12.0.3 (317 MB) added as a requirement for Ryujinx\n- 100% Lossless, but NOT MD5 Perfect: encryption was removed for better repack size\n- NOTHING ripped, NOTHING re-encoded\n- Test both emus and use the one which performs better on your system\n- Smaller archive size (compressed from cumulative 7.5 to 2.7 GB)\n- Installation takes 2-6 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 7.7 GB (9.1 GB during installation)\n- Language can be changed in emulators’ settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2021/07/16/426460c26b1776d5020a1c8dd09057e8.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/dd/07/dd0713c2-eedf-4c71-bab2-6f6ed9ad9cbf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9e/b7/9eb74236-91c1-4c49-986a-2bcfa9c130a1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b0/ae/b0ae806e-2342-4ccd-b8aa-9fcae1fdcee9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/60/5c/605c54ae-3133-4840-b203-de68061b2730.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f3/76/f376883e-88de-4bc1-b08a-849e9443b80a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cf/cf/cfcfa83e-6a80-4713-b79f-b5fbf2db78dd.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-legend-of-zelda-skyward-sword-hd",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T14:33:23.028497+00:00"
   }
 ]
