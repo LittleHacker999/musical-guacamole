@@ -7228,5 +7228,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T02:43:22.831967+00:00"
+  },
+  {
+    "id": "312599eb-176f-5ba8-c10b-2aa51ebfd265",
+    "title": "Candle Knight",
+    "slug": "candle-knight",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Side",
+      "2D",
+      "3D"
+    ],
+    "size_original": "9.1 GB",
+    "size_repack": "5.5 GB",
+    "description": "FIGHT BACK AGAINST THE DARKNESS WITH FIRE\nFace mysterious foes in battle with a powerful flame that shines bright in even the darkest corners of the castle. Ignite the warrior inside and burn your light even brighter to learn new abilities that not only harden you in battle, but which also unlock new unseen areas to explore.\n\nA DYNAMIC IN-GAME DIFFICULTY SYSTEM\nUse the ignis adaptable difficulty system to your advantage to move quicker and deal increased damage to your foes. However, beware, as your adversaries will also scale alongside you, becoming tougher to take down. Will you take the risk and power up your knight?\n\nSOLVE MYSTERIES INSIDE SURREAL PAINTINGS\nEnter mysterious paintings that lead to a surreal, unexplored world of wonders. Discover the secrets that lie inside their canvases, and adapt as the world inside the painting shifts around you.\n\n2.5D PLATFORMING ACTION\nChallenging platforming sections filled with traps and enemies will put your skills to the test. Traverse through the enchanted libraries, the breathtaking balconies and the perilous armory of the castle in order to reach your journey’s end.\n\nSTUNNING VISUALS AND CHARACTERS\nExplore breathtaking vistas across a diverse set of environments brimming with characters to meet, and stories to discover. Each character will further your understanding of this surreal world, and help you discover your place within it.\n\nBRING BACK THE LIGHT\nPlay as an enchanted candle holder trying to restore the light to its home, Do you have what it takes to journey deep into the heart of an abandoned castle?\n\n**Repack Features**\n\n- Based on Candle.Knight-DARKSiDERS ISO release: ds-candleknight.iso (9,790,820,352 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 9.1 to 5.5 GB)\n- Installation takes 2-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 9.2 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2023/06/01/5bc539a8e2c504ea1b6b45c2a06b1673.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f4/dc/f4dc587c-1513-4f76-a226-90ebc8df4ef3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/c8/cec88e1b-2cb6-46a4-92c9-6f6d8bed8466.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/db/5ddb8ce2-8ebc-4b4c-b5b4-3283d9e0cf6a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8a/77/8a776268-8066-44a4-afc6-a0d05e4f8a57.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b7/8c/b78cf6e8-eac4-4e1a-b58e-fc360ca8990e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/96/6b/966b811f-e8ee-48ca-b63a-e20885b3b7a2.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-candle-knight",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T02:48:21.132859+00:00"
   }
 ]
