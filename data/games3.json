@@ -1408,5 +1408,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T07:08:22.523772+00:00"
+  },
+  {
+    "id": "79e95123-433c-52f1-0661-7cd57c11af99",
+    "title": "Traumada – v1.3",
+    "slug": "traumada",
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Puzzle-solving",
+      "Horror",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "4.5 GB",
+    "size_repack": "2.9 GB",
+    "description": "Is there really a mystery to be solved? Or is this all in my head? I have no plan. I have no place left to hide. Am I the missing? Or am I the taker? I’ll let time find out for me. It will unfold with or without me.\n\nExplore the nightmare version of my childhood home. Uncover clues to the disappearance of a local girl in the 1950s or descend into madness trying.\n\nPlays in the style of a PS1/PS2 game with modern controls. First-person 3D perspective. Exploration and puzzle solving. Atmospheric horror and the occasional jumpscares to satisfy your indie horror desires.\n\n**Repack Features**\n\n- Based on Traumada-DARKSiDERS ISO release: ds-traumada.iso (4,830,142,464 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4.5 to 2.9 GB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.1 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i3.imageban.ru/out/2022/08/15/984c15b103ac0d727f1b5b224980c781.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/87/a3/87a30a2a-3467-46a5-b731-4db2b0521c25.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e4/3d/e43d2895-ec9d-48c7-9812-6995497f7600.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9f/e7/9fe711cb-4b42-489d-b525-87c2600b0079.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/97/5c/975cf692-e325-490b-a3b2-76a3d748b2da.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b6/73/b673e635-7cf6-4ac7-a837-34026efa17b4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/08/4b/084b3502-9136-4a45-ba38-17632764c3ba.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-traumada",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T07:13:23.029597+00:00"
   }
 ]
