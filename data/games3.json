@@ -6094,5 +6094,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T19:23:21.631779+00:00"
+  },
+  {
+    "id": "308621e2-8862-5768-9d5b-b69983dfb49e",
+    "title": "The Dark Crystal: Age of Resistance Tactics",
+    "slug": "the-dark-crystal-age-of-resistance-tactics",
+    "categories": [
+      "Strategy",
+      "Tactics",
+      "Isometric",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "2.7 GB",
+    "size_repack": "971 MB",
+    "description": "**Repack Features**\n\n- Based on The.Dark.Crystal.Age.of.Resistance.Tactics-CODEX ISO release: codex-the.dark.crystal.age.of.resistance.tactics.iso (2,857,861,120 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.7 GB to 971 MB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5 GB\n- Add the following paremeter to game desktop icon settings to force the language of your choice: –ForceLanguage=”zz”, where zz should be replaced with: en, cn, da, de, es, fr, it, ja, ko, pl, sv, tr\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i111.fastpic.ru/big/2020/0206/f0/2513244441dc7a25c1cd47d0b31d72f0.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ae/0b/ae0bb259-51cc-4d1e-bbbd-5214be8a2c65.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/89/9e/899e1cd3-255c-4b7d-90be-0b6e17f21b2e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/18/fc188610-fa26-4100-8c11-27115c0ecc8b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f2/43/f2435e2c-921b-48b9-92b3-2d8cde46510a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a2/c4/a2c46882-ea30-4f1d-b3d3-ebf4643a127e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bb/5f/bb5f4dda-3043-406f-96b9-d880717ec55a.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-dark-crystal-age-of-resistance-tactics",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T19:28:24.932383+00:00"
   }
 ]
