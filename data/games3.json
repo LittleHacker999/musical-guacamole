@@ -3661,5 +3661,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T13:13:22.628131+00:00"
+  },
+  {
+    "id": "2521f902-cd87-5d49-909b-2e053fea8606",
+    "title": "Catlateral Damage: Remeowstered – v1.0.2",
+    "slug": "catlateral-damage-remeowstered",
+    "categories": [
+      "Arcade",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "1.5 GB",
+    "size_repack": "646 MB",
+    "description": "See the world through the eyes of a cat! Run around the house, topple neatly organized books, shatter vases, meow at nothing, tear up curtains, nap in obscure places, and more!\n\nComplete objectives, explore procedurally generated levels, or just relax in sandbox mode to unlock a clowder of cat friends and special abilities!\n\nRemeowstered was rebuilt from the ground up to give a shiny new coat to the destructive feline gameplay of the original!\n\n**Repack Features**\n\n- Based on Catlateral.Damage.Remeowstered-DARKSiDERS ISO release: ds-catlateraldamageremeowstered.iso (1,563,461,632 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.5 GB to 646 MB)\n- Installation takes 2-4 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.7 GB (7.7 GB during installation)\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A complete progression redesign\n- More objects to topple and interact with\n- 20+ new pet photos, bringing the total to almost 300\n- Brand new tasks to complete\n- Persistent stat boosts and abilities\n- Revamped cat models and animations\n- Overall improvements to UI, animations, and effects",
+    "cover_url": "https://i7.imageban.ru/out/2021/09/19/30f16f6ef4fcef868d57e712f139007e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/2f/b8/2fb8ea91-9c61-4674-9f3b-216b234f94ba.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f0/47/f0470b76-faba-4b3f-a8e5-8dfbf8cbb05c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3b/d1/3bd1191f-4f10-49c4-b1d2-83345025dc53.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e2/33/e23326a1-a9b2-42b1-9757-a91e1374831f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/87/62873946-8387-4ec6-95d4-407e6bee25ed.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6e/9f/6e9f2a2e-a554-46d3-b75f-30c389adc553.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-catlateral-damage-remeowstered",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T13:18:22.936220+00:00"
   }
 ]
