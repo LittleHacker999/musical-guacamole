@@ -7639,5 +7639,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T23:38:22.025590+00:00"
+  },
+  {
+    "id": "6ff96931-6a1c-55dd-ed37-89706e1dcd12",
+    "title": "Dark Souls 3- v1.15 + 2 DLCs",
+    "slug": "dark-souls-3",
+    "categories": [
+      "RPG",
+      "Open world",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "25.2 GB",
+    "size_repack": "from 14.8 GB",
+    "description": "As fires fade and the world falls into ruin, journey into a universe filled with more colossal enemies and environments. Players will be immersed into a world of epic atmosphere and darkness through faster gameplay and amplified combat intensity. Fans and newcomers alike will get lost in the game hallmark rewarding gameplay and immersive graphics.\nNow only embers remain… Prepare yourself once more and Embrace The Darkness!\n\n**Repack Features**\n\n- Based on Dark.Souls.III.The.Ringed.City-CODEX ISO release: codex-dark.souls.iii.the.ringed.city.iso (26,524,712,960 bytes)\n- Dark.Souls.III.The.Ringed.City.Update.v1.13-CODEX (254 MB), Dark.Souls.III.The.Ringed.City.Update.v1.14-CODEX (135 MB) & Dark.Souls.III.The.Ringed.City.Update.v1.15-CODEX (137 MB) installed over\n- Game version: v1.15, Regulations v1.35; Ashes of Ariandel & The Ringed City DLCs are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective download feature: you can skip downloading and installing of end credits video (wall of white text on pure black background) and bonus game soundtrack (MP3)\n- Significantly smaller archive size (compressed from cumulative 25.2 to 14.8~15.4 GB)\n- Installation takes: ~35 minutes on 8-cores; ~50 minutes on 4-cores; ~1 hour 30 minutes 2-cores CPU\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 25 GB\n- Use “Language Selector.exe” in the “Game” folder to select the game language\n- Repack uses ZTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "http://i89.fastpic.ru/big/2017/0330/75/48207df3dc7c4dfa1cf46dd0af4b5475.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d9/57/d957e2d2-9c86-4707-8391-5594a9a5fd65.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/20/35/2035132f-9f46-4adf-ab7b-2678025a9ffa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6e/c7/6ec775e6-c612-41d7-9999-d9423c456599.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3d/9f/3d9ff26b-7b8c-4ff6-a0db-613104338501.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cb/2c/cb2cd460-8f48-4614-966f-55525e75ff3b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c7/47/c7472d7c-544f-40cf-922a-ad34524e3f72.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dark-souls-3",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T23:43:22.434874+00:00"
   }
 ]
