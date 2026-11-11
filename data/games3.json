@@ -693,5 +693,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T05:13:22.424440+00:00"
+  },
+  {
+    "id": "31232cfb-de8c-5e66-a25d-45273a7bc6a0",
+    "title": "BLACKTAIL – v1.3",
+    "slug": "blacktail",
+    "categories": [
+      "Action",
+      "Shooter",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "11.6 GB",
+    "size_repack": "7.5/8.5 GB",
+    "description": "You play as Yaga, a 16-year-old girl accused of witchcraft and expelled from a medieval Slavic settlement. When living memories of your past return as foul, walking spirits, you are left with no other option than to hunt them down in hopes of unravelling your own mystery.\n\n**Repack Features**\n\n- Based on BLACKTAIL-Razor1911 ISO release: rzr-blacktail.iso (12,450,529,280 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation (ONLY when installed with optional videos)\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of unused game videos\n- Significantly smaller archive size (compressed from 11.6 to 7.5/8.5 GB)\n- Installation takes 4-8 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 16 GB\n- Language can be changed in game settings\n- Use “BLACKTAIL (DX11)” desktop icon to play the game on Windows 7\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Decide the fate of the land and its inhabitants, witness the impact of your decisions on your skills through BLACKTAIL’s Morality system.\n- Track down elusive spirits with your trusty bow and gauntlet, engage in thrilling boss fights.\n- Craft arrows and potions, hunt wild game, and gather resources to survive in the ominous woods.\n- Find hidden treasures to learn more about your surroundings and history.\n- Collect lost recipes and brew elixirs to improve your abilities and shape your playstyle.",
+    "cover_url": "https://i5.imageban.ru/out/2022/12/17/7b71f819a41a1677e737a5b119c2b432.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e5/56/e5564ff5-0604-4032-8503-4963a70aaf29.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b9/7d/b97d649f-68c0-4360-ae1d-4d4ed3800006.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/de/90/de906388-b2b0-49b5-b7c2-776322602ef7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ee/19/ee19c0bf-1398-4536-a8cb-4537eb19dfa1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1a/4b/1a4baab2-3e70-4117-9593-882f18f1523b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f3/e9/f3e93629-2eae-48d7-bbb0-940132b80c78.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-blacktail",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T05:18:24.230442+00:00"
   }
 ]
