@@ -3014,5 +3014,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T11:28:21.528403+00:00"
+  },
+  {
+    "id": "e11668b5-eff4-53de-6464-950344c251c1",
+    "title": "Griftlands – v484799",
+    "slug": "griftlands",
+    "categories": [
+      "RPG",
+      "Rogue-like",
+      "Deck-building",
+      "Side",
+      "Turn-based",
+      "2D"
+    ],
+    "size_original": "5 GB",
+    "size_repack": "3 GB",
+    "description": "At this stage of development you can play as Sal or Rook, with a third character and campaign in development. Sal is an adventurer out for profit and revenge. Rook is an aging spy working his own agenda.\n\nThis repack is HEAVILY backwards compatible with my previous Griftlands repack. Two largest files, fg-01.bin & fg-02.bin didn’t change, so you can rehash them and save 2.7 GB of traffic.\n\n**Repack Features**\n\n- Based on Griftlands.v484799-PLAZA ISO release: plaza-griftlands.v484799.iso (5,416,026,112 bytes)\n- Game version: v484799\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5 to 3 GB)\n- Installation takes 3-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 5.2 GB (7.3 GB during installation)\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 3 GB of free RAM (inc. virtual) required for installing this repack\n- Battle Challenging Bosses: Test your combat decks against powerful foes with unique mechanics and attacks.\n- Build a Team – or Buy One: Hire mercenaries, find pets, or impose upon your friends to accomplish your goals.\n- Master Hundreds of Cards: Each character has unique negotiation and combat decks to draft from. Get powerful item cards from fallen foes, or as rewards.\n- Decisions Matter: Killing foes may incur the wrath of their friends, but sparing them leaves a dangerous piece on the board. Choose wisely, everyone remembers everything you do!\n- Welcome to Havaria: Each playable character’s story takes place in a unique environment, with different factions and locations to explore and exploit.\n- Explore A Broken-Down Sci-Fi World: The world of Havaria is a harsh place, full of harsher denizens. Explore lush, hand-illustrated environments full of people who want to kill you.\n- Playing Politics For Keeps: Each character has a factional allegiance and an opinion of you. Play politics between rivals, and try to capture the most powerful social boons. But watch out — doublecross the wrong person, and you’ll be subject to their bane!\n- Outwit or Overpower: Overcome obstacles with the power of your fists – or your words. You’ll need to pick your cards and play them right if you’re going to survive. Build two decks simultaneously, balancing the tradeoffs of each.\n- Learn from each attempted run through the various stories of the Griftlands. Encounter different combinations of enemies, quests, and events every time you play. Your fate is determined by your choices, and by fate.",
+    "cover_url": "https://i7.imageban.ru/out/2021/11/22/7f50a5fe3aa6801aecd38defaa48f3f7.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/0f/d8/0fd85016-99eb-4ae0-8d9f-45fd95fede6b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4e/db/4edbf711-964a-404d-b51d-d3cbd6b900c6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/77/c2/77c25732-360d-4f82-8946-55c5f8027599.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c9/db/c9dbeb53-212e-441f-9245-81521375b952.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ac/0d/ac0d2826-1f74-4893-a101-22172fb599ed.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9a/a8/9aa8afff-5184-4aff-84bb-b5c5ef9d12d0.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-griftlands",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T11:33:23.627014+00:00"
   }
 ]
