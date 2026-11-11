@@ -3536,5 +3536,33 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T12:53:21.329027+00:00"
+  },
+  {
+    "id": "1ab93276-a48d-525e-8815-5e3ce8f0c509",
+    "title": "Necrobarista – v1.0.8 (Final Pour Update)",
+    "slug": "necrobarista",
+    "categories": [
+      "Adventure",
+      "3D"
+    ],
+    "size_original": "3.5 GB",
+    "size_repack": "2.1 GB",
+    "description": "Inspired equally by film and anime, Necrobarista is a unique take on the visual novel medium. Follow a dynamic and diverse cast of characters as they navigate Melbourne’s hipstery coffee culture, the questionable ethics of necromancy, and the process of letting go.\n\n**Repack Features**\n\n- Based on Necrobarista.Final.Pour-CODEX ISO release: codex-necrobarista.final.pour.iso (3,729,948,672 bytes)\n- Game version is v1.0.8 (Final Pour Update)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 3.5 to 2.1 GB)\n- Installation takes 5-15 minutes, depending on your system\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.1 GB (11.8 GB during installation)\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2021/10/04/c2ead1df3da364a3ac29b1d08063b0a6.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/81/8f/818ff6ad-a43c-4491-ab9a-bc1abfec8cfd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0a/4c/0a4cc755-a45f-4c10-b1aa-520448dab842.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d4/01/d4017335-3844-4aa7-b976-efae68e70327.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/34/7d342a19-4c96-43d2-82ce-9e8ab59b8283.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e9/a9/e9a98332-e81d-4278-9afc-08843d7631a3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/0a/580a7c4a-e2df-4a28-81ca-992f09769e13.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-necrobarista",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T12:58:23.228410+00:00"
   }
 ]
