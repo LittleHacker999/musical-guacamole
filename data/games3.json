@@ -2589,5 +2589,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T10:18:21.833414+00:00"
+  },
+  {
+    "id": "a6d57782-5079-55b5-b95e-a78c36107e3c",
+    "title": "Candy Disaster: Tower Defense – v2.0.9",
+    "slug": "candy-disaster",
+    "categories": [
+      "Strategy",
+      "Real-Time",
+      "Tower Defense",
+      "3D"
+    ],
+    "size_original": "1.4 GB",
+    "size_repack": "511 MB",
+    "description": "Take Advantage of the Map!\nThe EA version contains Night Club and Storm Desert. The Night Club operates in forest scenery while Storm Desert takes place in the desert with ancient pyramids. These two scenes contain different mechanics, so take advantage of that! Ice and Snow Cemetery and Candy Factory will be coming soon! Stay tuned!\n\nUnderstand the Skills of the Characters!\nIn your journey of Candy Disaster, you will encounter different enemies. Some with powerful skills! Choose the right trap to fight against them! For example, the Gravity Net can take down flying enemies by making them land. Know your enemies!\n\nCombine Traps to Create Attacks!\nWith a variety of traps, combine different traps to create your way of attacking. For example, wooden arrows can turn into fire arrows with the help of flame; fans can change the direction of any “bullet” traps. These clever combinations are waiting to be discovered!\n\n**Repack Features**\n\n- Based on Candy.Disaster.Tower.Defense-PLAZA ISO release: plaza-candy.disaster.tower.defense.iso (1,504,575,488 bytes)\n- Game version: v2.0.9\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.4 GB to 511 MB)\n- Installation takes 1-3 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.9 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i1.imageban.ru/out/2022/01/18/19865246b528dcb00be3fb22fb435263.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/20/6a/206a48e7-207a-4ae5-81db-fb25a0852b32.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/de/15/de15fcba-06f0-4bac-91d6-5b0f7cd9a753.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c9/a9/c9a91e54-0e11-4bc4-8552-06fcb3ea6ad5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/20/8e/208e00d6-d5c7-415f-973d-f61dbe7f1b19.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/48/28/4828b10f-03d4-4035-b457-d6b81888cfd4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/61/53/61538ff3-a977-40de-9642-4484008db2c4.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-candy-disaster",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T10:23:24.722573+00:00"
   }
 ]
