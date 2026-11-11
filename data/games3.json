@@ -6672,5 +6672,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T20:58:23.931739+00:00"
+  },
+  {
+    "id": "a3a2c921-390c-590a-03f8-b3a16331edbc",
+    "title": "New Gundam Breaker + DLC",
+    "slug": "new-gundam-breaker-dlc",
+    "categories": [
+      "Action",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "7.9 GB",
+    "size_repack": "3.7 GB",
+    "description": "Defeat your enemies with your Gunpla model, collect their parts, and use them to make and battle with your own custom Gundam in this all-new Gunpla action game!\n\nPower is everything at this school, and the evil Laplace Nest team rules from on high. Do you have what it takes to bring order to the school and peace to the girls’ hearts?!\n\n**Repack Features**\n\n- Based on New.Gundam.Breaker-CODEX ISO release: codex-new.gundam.breaker.iso (8,438,054,912 bytes)\n- Special Mission: Her Name is Super Fumina DLC is included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 7.9 to 3.7 GB)\n- Installation takes 6-12 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 9 GB\n- Language can be changed by editing “EngineBinariesThirdPartySteamworksSteamv141Win64steam_emu.ini”\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Compete in 3 on 3 online Gunpla battles with Build Fighters across the country!\n- Even once the single-player mode story ends, the battle rages on! New and classic Gunpla alike will continue to be released for free after the game goes on sale!\n- Collect all sorts of Gunpla parts, and use them to make your own ultimate Gundam!\n- Pursue your ultimate Gundam even in the heat of battle!\n- Use Gunpla parts won from enemies to instantly customize your Gundam model in real-time customization battles, a first for the series!",
+    "cover_url": "https://i110.fastpic.ru/big/2019/0627/0e/1a9c7c24fe880113fcea4b968f10a10e.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a9/75/a9757a09-2f0f-424a-bbaf-296216daedf3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/76/54/76544e5a-9cb9-43b2-85bd-46e12ca15862.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dd/f1/ddf14fd5-b0f3-49ee-b635-112430d3b516.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ef/fa/effa286b-a0c2-4f76-a765-ed51c636cfd0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/a8/d2a8223c-1bec-4b93-a9b1-773601ce1068.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/45/e0/45e0be55-936a-428d-895c-fd03eb6fbe07.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-new-gundam-breaker-dlc",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T21:03:22.228729+00:00"
   }
 ]
