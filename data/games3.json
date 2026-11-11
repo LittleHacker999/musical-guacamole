@@ -3627,5 +3627,39 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T13:08:21.529744+00:00"
+  },
+  {
+    "id": "15a89e35-8b9e-55d1-595f-443a7cce5666",
+    "title": "Sheltered 2",
+    "slug": "sheltered-2",
+    "categories": [
+      "Managerial",
+      "Strategy",
+      "Roguelike",
+      "Survival",
+      "Post-apocalypstic",
+      "Side",
+      "Pausable real-time",
+      "3D"
+    ],
+    "size_original": "2.4 GB",
+    "size_repack": "1.5 GB",
+    "description": "Building upon the original 2015 fan-favourite, Sheltered 2 brings new challenges and deeper strategic gameplay. You are tasked with creating a leader and building up your faction whilst managing resources and tackling threats both natural and human. Everything from starvation and dehydration to radiation poisoning and enemy raids can prove fatal.\n\nSheltered 2’s new Factions system is pivotal to a base’s success. Send out expeditions to explore the vast wasteland and forge relationships, or bitter rivalries with other camps. Trade resources to grow and thrive together; or go head-to-head with rivals in an expanded combat system and grow your foothold in the wasteland. Will you ally with or dominate the other factions?\n\n**Repack Features**\n\n- Based on Sheltered.2-CODEX ISO release: codex-sheltered.2.iso (2,586,443,776 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.4 to 1.5 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.8 GB (5.3 GB during installation)\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Factions: New to Sheltered 2, the Factions system allows you to create relationships with other groups that will provide your base with resources and support. Or grab your weapons and take things the old-fashioned way.\n- Resource Management: Balance the needs and wants of your survivors, manage scarce resources, craft what you need and maintain the shelter’s equipment to keep the group alive.\n- Faction Leaders: New in Sheltered 2, the faction leader is the most important member of a shelter, boasting their own unique and powerful traits, the faction leader will be pivotal to success, with their death meaning game over.\n- An Unforgiving Wasteland: Starvation, asphyxiation, extreme temperatures and combat are just some of the challenges you’ll face in the harsh wasteland of Sheltered 2, and without the ability to respawn, every decision could be fatal.\n- Combat & Weapons: When negotiations fail, wield a huge variety of makeshift weaponry against hostile outsiders. Fight to the death in turn-based combat to win the critical resources you need to survive.\n- Characters: Your survivors have their own personalities, traits, desires and a huge list of skills to acquire. Customise them to your liking and make your faction members unique and individual.\n- Vehicles: Find and fix more vehicles to explore the wasteland with, from Bicycles to Pick-up trucks.",
+    "cover_url": "https://i2.imageban.ru/out/2021/09/23/97a493042f9179e18b8afdda66049b1a.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/7e/ac/7eac3296-b6de-4a4f-9f14-ed5b0b2b0693.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4f/ed/4fedb849-d5de-422b-a506-3e9d15750464.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1f/ff/1fff44cd-bf81-4aaa-b374-8c373fdc0019.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bb/40/bb401478-0101-4b36-a0e3-d04920a62486.png.240p.jpg",
+      "http://s01.riotpixels.net/data/73/a8/73a84793-934c-4b2c-a5ac-c98c4e7f2ada.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2a/59/2a597123-6fc1-4a50-8aeb-a4202fc77863.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sheltered-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T13:13:22.628131+00:00"
   }
 ]
