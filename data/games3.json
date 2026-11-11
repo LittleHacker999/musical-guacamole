@@ -1813,5 +1813,39 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T08:13:23.232453+00:00"
+  },
+  {
+    "id": "066fab93-fead-5507-0369-4c4962b204a7",
+    "title": "The Hand of Merlin – v678860",
+    "slug": "the-hand-of-merlin",
+    "categories": [
+      "Strategy",
+      "Tactics",
+      "Roguelike",
+      "Fantasy",
+      "Medieval",
+      "Turn-based",
+      "Isometric",
+      "3D"
+    ],
+    "size_original": "4.5 GB",
+    "size_repack": "2.6 GB",
+    "description": "**Repack Features**\n\n- Based on The_Hand_of_Merlin-FLT ISO release: flt-the_hand_of_merlin.iso (4,865,572,864 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4.5 to 2.6 GB)\n- Installation takes 2-5 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.7 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Non-Linear Narrative: Enjoy a compelling story inspired by Arthurian legend, the Matter of France, and the history of Al-Andalus – with an unusual twist. Make choices in interactive encounters that change every time you play. Written by Jonas Kyratzes (The Talos Principle, Serious Sam 4) and Verena Kyratzes (The Lands of Dream, Serious Sam 4).\n- Tactical Turn Based Combat: Master the tactics of squad-based and turn-based combat to conquer both human and demonic foes. Your enemies will be tough and ruthless; make use of cover, set up ambushes and coordinated attacks, harness synergies between different Hero classes and skills.\n- A Roguelike Experience: Carve a path across the lands of Albion, Marca Hispanica and Al-Andalus. Will you take a dangerous route, risking life and limb in pursuit of a legendary relic? Or will you choose a safer path? Plan and prepare. Negotiate, barter, fight. Tackle challenges. Suffer losses. Recruit new Heroes. Earn Gold, Supplies and Renown. Be careful: your choices are permanent, as is death. But don’t tarry – evil never rests.\n- Dynamic Leveling: Use Renown to level up your Heroes, and choose between a randomized set of new skills or improved attributes. But choose wisely! Select skills with great synergy and balance your party for the road ahead.\n- Alternate Dimensions: As you jump from one parallel dimension to the next, history is reshaped. Different kings rule the land, changing the encounters, characters, and events. No two worlds are ever quite the same, and each journey will be unique. And should your heroes fall, remember: defeat is not the end, only a new beginning.\n- Equipment Upgrades: Seek out towns to improve your arms and armor, or stumble upon hermit artisans in the wild. With every day that passes, the world plunges deeper into darkness, and you will need all the equipment gold can buy.\n- Relics and Spells: From a peasant’s humble luck charm to the legendary sword wielded by Arthur himself, items imbued with magical power are scattered about the world. Some you will be able to purchase from merchants and collectors, but others will have to be earned through acts of heroism – or displays of wit.",
+    "cover_url": "https://i2.imageban.ru/out/2022/06/17/3ce19d022c57987e4733777db7ff601c.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/16/89/16894ea2-657e-4892-803b-d1c25b5d3ac4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/82/aa82e3f7-435b-4fcf-8750-05d3f2377587.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2b/5d/2b5df00e-7ee5-47e9-b11d-dd7dd7fc6900.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9a/1e/9a1e1c10-fafb-4c73-ae4f-2afe0a779155.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/16/10/16105e8d-1b02-49d6-b337-2c71ae1472a1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/ab/d2ab928f-4224-47c7-8127-3e26b860fcba.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-hand-of-merlin",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T08:18:25.428496+00:00"
   }
 ]
