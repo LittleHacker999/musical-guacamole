@@ -3292,5 +3292,34 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T12:13:22.139719+00:00"
+  },
+  {
+    "id": "058307b4-b443-558a-7352-57c64bda4a10",
+    "title": "Howloween Hero",
+    "slug": "howloween-hero",
+    "categories": [
+      "Adventure",
+      "Third-Person",
+      "3D"
+    ],
+    "size_original": "1.8 GB",
+    "size_repack": "from 694 MB",
+    "description": "Customize Your Hero:\nPurchase new costumes from the neighborhood dealer and mix & match parts to create your own unique style.\n\nCollect Candy:\nSniff out candy around the block, trick-or-treat nearby houses, and earn sweets by lending a paw to a cast of quirky kids.\n\nSolve The Mystery:\nThere’s some strange stories going around about a REAL-LIFE monster stealing candy from unsuspecting kids. Is there any truth to these ghost stories or is everyone just getting into the spooky spirit?\n\n**Repack Features**\n\n- Based on Howloween.Hero-DARKSiDERS ISO release: ds-howloweenhero.iso (1,891,010,560 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you can skip downloading and installing of animated menu background video\n- Significantly smaller archive size (compressed from 1.8 GB to 694 MB/1.1 GB)\n- Installation takes 1-2 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 2 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i2.imageban.ru/out/2021/10/27/3d74b60b0220d6b8f03f7977f252a3a7.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/3e/da/3edacafa-f39d-4f48-befc-9343f39e8927.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/df/f0/dff0da3b-7e5e-4e66-a67c-d0d4f523039e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/3f/eb3f6cdc-d871-425b-89fb-0d9d151785c7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/98/fc989577-fc89-4433-b23a-385e0a575337.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ad/d5/add5a945-73cd-48ed-ac89-fb8bfd51f3a2.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bb/04/bb044461-a91e-41d9-a845-1f01d3a726c9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-howloween-hero",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T12:18:24.336595+00:00"
   }
 ]
