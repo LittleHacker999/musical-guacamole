@@ -5213,5 +5213,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T17:28:22.836989+00:00"
+  },
+  {
+    "id": "e4b40d5d-c2b3-569a-3bff-50f0345765bd",
+    "title": "WWE 2K Battlegrounds – v1.0.3.0 Build 608-66",
+    "slug": "wwe-2k-battlegrounds",
+    "categories": [
+      "Arcade",
+      "Fighting",
+      "Side",
+      "3D"
+    ],
+    "size_original": "6.8 GB",
+    "size_repack": "from 3.4 GB",
+    "description": "**Repack Features**\n\n- Based on Steam Build 5558992 release: 6.8 GB, thanks to chronos!\n- Goldberg emu/crack applied over\n- Game version is v1.0.3.0 Build 608-66\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of unused video files\n- Significantly smaller archive size (compressed from 6.8 to 3.4/4.1 GB)\n- Installation takes 3-5 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 7 GB\n- Language can be changed in “EngineBinariesThirdPartySteamworksSteamv146Win64steam_settingssettingslanguage.txt” file\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i112.fastpic.ru/big/2020/0918/07/878c928129f4be0c1f43784239211507.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/65/3b/653ba9e8-cf13-4b33-85f5-a136bde6467b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2f/68/2f68b9a2-6ea5-4a16-a361-cf78c14dd6c7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fa/c8/fac8fab0-559c-4784-8bd2-00752cc8cfdb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/cf/99/cf994618-18d4-4748-acb8-87b6bbc92b4e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/da/b5/dab5a1e5-374c-4529-a8d1-68c32ed4ca23.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9d/3f/9d3fbc95-3d7d-4a0d-86f6-6163b2991532.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-wwe-2k-battlegrounds",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T17:33:21.328209+00:00"
   }
 ]
