@@ -1656,5 +1656,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T07:48:22.029609+00:00"
+  },
+  {
+    "id": "0fc68aba-10ce-5568-c3cf-36e48659f823",
+    "title": "Platypus Adventures",
+    "slug": "platypus-adventures",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "1.7 GB",
+    "size_repack": "1.1 GB",
+    "description": "Platy’s story:\nSwim, climb, swing and slide throughout the adventure, as Platy confronts dangerous situations and thrilling encounters. Unwind in welcoming villages, and encounter a wide variety of wildlife.\n\nFrom the rainforest to the outback:\nDiscover a vast Australian landscape, as you overcome natural obstacles and face dangerous enemies. Journey through dark caves, mountain peaks and flowing river systems along the way.\n\nExplore, collect and discover:\nUncover hidden treasures, obtain powerful equipment or collect bush tucker to assist and sustain the epic adventure. The environment is packed full of sights and secrets waiting to be discovered.\n\n**Repack Features**\n\n- Based on Platypus.Adventures-DARKSiDERS ISO release: ds-platypusadventures.iso (1,816,698,880 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.7 to 1.1 GB)\n- Installation takes 2-3 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.6 GB\n- Repack uses compression library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Huge traversable world, from lush rainforests to sandy beaches to the great outback\n- Cute and varied characters and creatures. From friendly folks to epic wild encounters\n- A dynamic environment, featuring a day-night cycle and weather systems\n- A wide range of colourful enemies and multiple bosses\n- An action packed story full of environmental challenges and mystery\n- Play as either Male, or Female Platy",
+    "cover_url": "https://i3.imageban.ru/out/2022/07/10/37e4562e2b56b9ca4c4e819be59622c2.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/83/a2/83a2d44b-becd-4e8c-8020-c94d30bcb6cf.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/09/12/091241a8-52b6-4ec1-b5c8-594cb574f094.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7d/51/7d51c682-df06-4bc7-be6c-3ee846a5eb59.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c6/89/c6897f1f-9abd-47ea-ae98-bf8a865f185f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d9/47/d94709de-90ca-4aa6-8f1d-f50dc0d79b95.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/65/fc65d490-4f5e-4568-8af4-d01630aeadfc.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-platypus-adventures",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T07:53:22.233480+00:00"
   }
 ]
