@@ -3849,5 +3849,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T13:43:22.328262+00:00"
+  },
+  {
+    "id": "39f5747c-7a10-5666-1a5f-3b6d0d42dd8c",
+    "title": "Hoa – v1.03",
+    "slug": "hoa",
+    "categories": [
+      "Arcade",
+      "Platform adventure",
+      "Side",
+      "3D"
+    ],
+    "size_original": "1.4 GB",
+    "size_repack": "1 GB",
+    "description": "PS by FitGirl: Hoa is Whoa! Fantastically looking game, something between Ori and Studio Ghibli animations. And music is astonishing too. If you’re into good platformers – highly recommended.\n\nHoa is a beautiful puzzle-platforming game that features breathtaking hand-painted art, lovely music, and a peaceful, relaxing atmosphere. Experience the magic of nature and imagination as you play the main character, Hoa, on her journey through breathtaking environments back to where it all began.\n\nBreathtaking hand-painted art\nStep into a painting that lives – explore a vast world of meticulously crafted sceneries of stunning hand-painted art.\n\nOutstanding original soundtrack\nCaptivatingly story-telling and emotionally-charged, Hoa’s exceptional score, originally composed and live-recorded, brings its world to life with a touch of nostalgia.\n\nLovely creatures\nKeep an eye out for delightful magical creatures along the way. Most of them want to be friends, some might even tell you a little story or two. Cuteness guaranteed.\n\nGentle, yet compelling flow\nNavigate with a keen eye and solve exploration-based puzzles. Relax to the organic rhythm of subtle storytelling while being intrigued by endless little wonders. Be a child – it’s easier and harder than it may seem.\n\n**Repack Features**\n\n- Based on Hoa-Razor1911 ISO release: rzr-hoav103.iso (1,494,908,928 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.4 to 1 GB)\n- Installation takes 2-4 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1.6 GB (up to 5.5 GB during installation)\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2021/08/24/f63500adcc5318af547c631f2b2e6b66.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/85/07/85070466-f3d7-4866-89b9-4fa3f787c78f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/68/5d/685d96d2-4811-4216-814a-9d4c62b4f6ee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5a/ac/5aacf6c5-afc2-4c88-ab14-ad0ce0aea9b1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/04/57/04576125-271e-4f76-a731-65c6ee5b5e77.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/79/60/7960248f-6c78-4b18-9ab2-2569d05222dc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c2/a2/c2a2073d-71ab-4801-abd2-5dded2651560.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-hoa",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T13:48:22.932467+00:00"
   }
 ]
