@@ -4944,5 +4944,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T16:43:22.935010+00:00"
+  },
+  {
+    "id": "2ccda749-910a-5f5f-2204-0be1564b356b",
+    "title": "Devil May Cry 5: Deluxe Edition – v12152020/5962864 + 31 DLCs",
+    "slug": "devil-may-cry-5",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Slasher",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "39.7 GB",
+    "size_repack": "from 22.5 GB",
+    "description": "The Devil you know returns in this brand new entry in the over-the-top action series available on the PC. Prepare to get downright demonic with this signature blend of high-octane stylized action and otherworldly & original characters the series is known for. Director Hideaki Itsuno and the core team have returned to create the most insane, technically advanced and utterly unmissable action experience of this generation!\n\nThe threat of demonic power has returned to menace the world once again in Devil May Cry 5. The invasion begins when the seeds of a “demon tree” take root in Red Grave City. As this hellish incursion starts to take over the city, a young demon hunter Nero, arrives with his partner Nico in their “Devil May Cry” motorhome. Finding himself without the use of his right arm, Nero enlists Nico, a self-professed weapons artist, to design a variety of unique mechanical Devil Breaker arms to give him extra powers to take on evil demons such as the blood sucking flying Empusa and giant colossus enemy Goliath.\n\nThis repack is HEAVILY backwards compatible with my previous DmC5 repack. The only changed files are fg-04.bin and setup.exe, everything else can be rehashed.\n\n**Repack Features**\n\n- Based on Devil.May.Cry.5.Vergil-CODEX ISO release: codex-devil.may.cry.5.vergil.iso (42,644,832,256 bytes)\n- Game version: v12152020/5962864\n- 31 DLCs are included; By default cheat DLCs are disabled, you may enable them by copying “steam_emu.ini” from “_Enable Cheats” to the game root\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation (ONLY when installed with all voiceovers, history video and Live Action Cutscenes DLC)\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of Japanese/English voiceovers, “History of DmC” in-game video and Live Action Cutscenes DLC, which is not recommended for activating during first playthrough\n- Significantly smaller archive size (compressed from 39.7 to 22.5~29.9 GB, depending on selected components)\n- Installation takes: ~15 minutes on 8-threads CPU; ~30 minutes on 4-threads CPU\n- After-install integrity check so you could make sure that everything installed properly (ONLY when installed with all voiceovers, history video and Live Action Cutscenes DLC)\n- HDD space after installation: up to 40 GB\n- Use “Language Selector.exe” in game root to change the game language; subtitles and VOs can be changed separately in game settings\n- Repack uses tools by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Alt Hero Colors\n- Alt Heroine Colors\n- Alt Style Rank Announcers\n- Alt Title Calls\n- Live Action Cutscenes\n- DMC1 Battle Track 3-Pack\n- DMC2 Battle Track 3-Pack\n- DMC3 Battle Track 3-Pack\n- DMC4 Battle Track 3-Pack\n- Gerbera GP01\n- Pasta Breaker\n- Sweet Surrender\n- Mega Buster\n- Cavaliere R\n- Super Character 3-Pack\n- Taunt Trio\n- V & Vergil Alt Colors\n- Monkey Business\n- 1 Blue Orb\n- 3 Blue Orbs\n- 5 Blue Orbs\n- 100000 Red Orbs\n- 200000 Red Orbs\n- 300000 Red Orbs\n- 500000 Red Orbs\n- 1000000 Red Orbs\n- Wallpaper\n- Playable Character: Vergil\n- Vergil Battle Track 4-Pack\n- Super Vergil Unlock\n- Vergil EX Provocation\n- fg-selective-english.bin (make sure you’ve installed it before switching to English audio in game settings)\n- fg-selective-japanese.bin (make sure you’ve installed it before switching to Japanese audio in game settings)\n- fg-optional-history-video.bin (a short video, introducting newbies to the series history, available in game’s main menu)\n- fg-optional-live-action-dlc.bin (A special DLC, which replaces most of the game cutscenes with live-action movies recorded during development. When installed, can be activated in “Options” > “Cutscene Customize”. This DLC is not recommended for activating during the first playthrough.)",
+    "cover_url": "https://i110.fastpic.ru/big/2019/0310/1a/51515c571e2053f8bf2f37d09974b01a.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/56/d3/56d3706d-5a0a-43e1-8c94-542759e1d4c4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/be/dd/beddbc25-c6bc-44e2-8558-427c0e0c6e74.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/13/16/1316e9f5-bd40-464e-b313-df8d85c9461a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5e/44/5e44f91b-7e83-4fd2-814c-92936bd29f3a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/98/e9/98e9f790-bc3b-472d-9bec-7bbc9fcb9f88.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e2/ca/e2ca770e-ef46-40eb-88d6-c8d4685d2dc2.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-devil-may-cry-5",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T16:48:24.335147+00:00"
   }
 ]
