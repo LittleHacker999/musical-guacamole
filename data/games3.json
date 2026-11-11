@@ -325,5 +325,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T04:13:23.128206+00:00"
+  },
+  {
+    "id": "f7755b73-2d5a-5793-87b0-94fb454a51a2",
+    "title": "Scars Above – v1.0.0.128546-Gold-Shipping",
+    "slug": "scars-above",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "15.3 GB",
+    "size_repack": "from 8.2 GB",
+    "description": "SOME THINGS WERE NOT MEANT TO BE DISCOVERED\nA colossal and enigmatic alien structure appears in Earth’s orbit and stuns the entire world; humanity names it ‘The Metahedron’. The Sentient Contact Assessment and Response team (SCAR) – consisting of scientists and engineers – is sent to investigate.\n\nThings don’t go as planned and the Metahedron hauls the team across space onto a mysterious extrasolar planet. Playing the role of Dr Kate Ward – a SCAR member – who wakes up dazed, alone in a strange, hostile environment. Determined to survive, you set out to find your crew and unravel the mystery behind what’s happened.\n\nSURVIVE AGAINST ALL ODDS\nKate is an astronaut and a scientist – not a soldier – but she’s resourceful and determined to do anything to survive.Use a combination of ranged weapons, devices, consumables and melee attacks, you need to manage stamina as you run, dodge, exploit weak points and discover effective tactics to defeat your foes\n\nCombine different elemental attacks to beat the odds and break through otherwise impassable obstacles.\n\nCraft different items and gadgets to aid you against the countless threats in this exoplanet.\n\nEXPLORE A MYSTERIOUS EXOPLANET\nImmerse yourself in a carefully crafted adventure, inspired by the sci-fi classics.Explore an alien world filled with countless threats, gorgeous landscapes and ruins hinting of an ancient – yet advanced – civilisation that somehow disappeared.\n\nJourney through different biomes, such as marshlands, freezing wastelands, underground caverns and alien facilities – all with their own set of challenges, enemies, secrets and environmental hazards.\n\nEMBARK ON A RESEARCH JOURNEY\nKate is a scientist to her core and you’ll use that scientific expertise to extract information from your surroundings by scanning artifacts, materials and creatures in order to learn about their features, properties and weaknesses.As you explore your surroundings, you will conduct analysis and gain knowledge which will allow you to craft new gadgets, weapons and unlock abilities in Xenobiology and Engineering trees.\n\nTHRILLING BOSS FIGHTS\nGhastly enemy designs – with diverse strategies and tactics – will keep encounters fresh, forcing you to find creative ways to defeat them.\n\n**Repack Features**\n\n- Based on Scars_Above-FLT ISO release: flt-scars_above.iso (16,218,734,592 bytes)\n- Update 1 (Steam BuildID 10657800, in-game version: v1.0.0.128546-Gold-Shipping, 170 MB) applied over, thanks to x.X.RIDDICK.X.x!\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you can skip downloading and installing of 4K in-game cutscenes (when absent, 1080p originals will be used) and useless PDB debugging files\n- Significantly smaller archive size (compressed from cumulative 15.3 to 8.2~10.2 GB, depending on selected components)\n- Installation takes 2-11 minutes (depending on your system and selected components)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 16.1 GB (25.3 GB during installation)\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Immerse yourself in an exciting sci-fi adventure inspired by the classics of the genre\n- Explore an enigmatic and intricate alien world – with plenty of mysteries to uncover\n- Fight tactically, using a combination of elemental attacks, gadgets and items, exploit the environment and enemy weaknesses\n- Engage exciting and challenging enemies and bosses, from hulking rock-covered monstrosities to nightmarish creatures lurking in the dark\n- Gain knowledge and acquire new skills\n- Scan enemies to learn about their weaknesses and behaviours\n- Use your scientific skills to conduct research and extrapolate information",
+    "cover_url": "https://i7.imageban.ru/out/2023/03/01/d663215aa10ee09b6d6c84c3af066d66.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6a/e6/6ae6aa96-4017-4fae-9813-66aad6fd352b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f4/33/f4334d50-6c31-4ea4-9187-bb6482fd779c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/d6/ced65cef-9360-4300-bae8-6a2a886ba8e4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/36/df/36df2ecb-1ca0-44d8-a42e-b1be3d95ac7d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/05/bc05b1df-45a0-4a24-bb93-17cd126b797e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/60/54/60546e8f-5847-4d42-8529-140d7df09207.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-scars-above",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T04:18:21.632584+00:00"
   }
 ]
