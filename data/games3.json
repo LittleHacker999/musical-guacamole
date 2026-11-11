@@ -1252,5 +1252,39 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T06:43:23.127767+00:00"
+  },
+  {
+    "id": "c35981dd-60d8-5785-f7a8-52d8975c1d43",
+    "title": "La Pucelle: Ragnarok",
+    "slug": "la-pucelle-ragnarok",
+    "categories": [
+      "RPG",
+      "Strategy",
+      "Tactics",
+      "Fantasy",
+      "Japanese",
+      "Side",
+      "Turn-based",
+      "Isometric",
+      "2D"
+    ],
+    "size_original": "827 MB",
+    "size_repack": "648 MB",
+    "description": "In addition to quality of life changes to the flow of the game, such as skipping cutscenes and rotating the camera during battle, there are also more voiced lines, more music, and a new quick travel feature!\n\n**Repack Features**\n\n- Based on Steam release BuildID 9411327: 827 MB, thanks to Ian Moone for files!\n- Goldberg crack/emu applied over, thanks to Cactuscutter!\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 827 to 648 MB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 827 MB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Fast leveling system – Character skills increase quickly. No more waiting around for those awesome combos & powers\n- Plan out your strategy – use your tactical knowledge to lead units into battle, achieving victory\n- Carry up to 149 items at once – and use your powers to strengthen items in real-time\n- Use your powers to purify defiled ground and enemies – defeating them in an all-new way\n- Over 100 hours of gameplay with multiple endings",
+    "cover_url": "https://i3.imageban.ru/out/2022/09/04/1c88aba3d5e863115d8294a8bca224bb.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a4/25/a425fdf9-b92f-4172-b5ff-893a3a6109f5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3b/78/3b78b689-5589-4e54-8e1b-006815ffab25.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/34/623417b3-71c2-4427-96a7-b018b0949636.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/32/bb/32bb5c51-3365-4d5a-a63a-a99b53cdcd6b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/04/c0/04c08c1f-15c0-4a03-abca-bc08d50eea2e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-la-pucelle-ragnarok",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T06:48:22.321827+00:00"
   }
 ]
