@@ -6491,5 +6491,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T20:28:22.824160+00:00"
+  },
+  {
+    "id": "a28698cc-bb81-5580-d8eb-5ef8e8b2eb45",
+    "title": "The Walking Dead: The Telltale Definitive Series",
+    "slug": "the-walking-dead-the-telltale-definitive-series",
+    "categories": [
+      "Adventure",
+      "QTE",
+      "Third-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "46.4 GB",
+    "size_repack": "from 16.5 GB",
+    "description": "The Walking Dead: The Telltale Definitive Series contains all 4 Seasons, 400 Days, and The Walking Dead: Michonne, which includes over 50 hours of gameplay across 23 unique episodes. With graphical enhancements, behind the scenes bonus features and faithful recreations of classic menus, this is the definitive way to experience Clementine’s journey and find out how her story ends.\n\n**Repack Features**\n\n- Based on The.Walking.Dead.The.Telltale.Definitive.Series-CODEX ISO release: codex-the.walking.dead.the.telltale.definitive.series.iso (49,796,710,400 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation (when installed with all components)\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of useless files (logs + debug files) and 5 language packs (French, German, Spanish, Portuguese (Brazil) and Chinese) if you don’t need them. English, Russiam and Italian are included by default\n- Significantly smaller archive size (compressed from 46.4 to 16.5~17.1 GB, depending on selected components)\n- Installation takes: ~40 minutes on 8-threads CPU; ~1 hour 20 minutes on 4-threads CPU\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 47 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Graphical Enhancements: “Graphic Black” art style brings Season 4’s enhanced visual style to all previous seasons of the acclaimed series.  Will also include full dynamic lighting to episodes that previously did not receive this upgrade.\n- Behind the Scenes Bonuses: Exclusive looks at the making of the game from the developers, VO artists, and other team members that brought Clementine’s story to life.  This includes over 10+ hours of developer commentary and “Return of the Walking Dead” documentary short.\n- Gameplay Improvements: Character performances, lip syncing, and other gameplay and UI enhancements make this the definitive Telltale’s The Walking Dead experience.\n- Even more digital bonuses: Music player that includes 40+ tracks across all seasons, art gallery, 3D model viewer with playable voice lines, and new 3D front end that still includes the original menus and music from all past seasons.",
+    "cover_url": "https://i87.fastpic.ru/big/2019/0913/70/6ed2426c23a15076cae183dc1e4c4e70.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/92/4a/924aa9cc-ae4e-4328-bee1-68204f37f496.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9a/09/9a094073-230d-4b0a-aba6-b4809453414b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/d0/c4d00007-7ff9-4bab-a4cf-b3e737d4fa86.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3e/08/3e0864f3-dce0-4eda-bcb7-858f1ad4a2db.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bd/6f/bd6ff5ff-0382-486f-928f-66b1893b8734.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/73/17/7317a3e9-7442-4cd6-aeff-7a0502618e89.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-the-walking-dead-the-telltale-definitive-series",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T20:33:22.527914+00:00"
   }
 ]
