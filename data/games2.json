@@ -6590,5 +6590,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T00:58:21.530368+00:00"
+  },
+  {
+    "id": "4f519308-8828-5b30-9e54-6c55b82faaba",
+    "title": "Trine 5: A Clockwork Conspiracy – v1.0.2 (Build 893) + Online Co-op",
+    "slug": "trine-5-a-clockwork-conspiracy",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Physics-based",
+      "Puzzle solving",
+      "Side",
+      "3D"
+    ],
+    "size_original": "15.2 GB",
+    "size_repack": "from 10.7 GB",
+    "description": "Trine 5: A Clockwork Conspiracy will take Amadeus the Wizard, Zoya the Thief, and Pontius the Knight on their most action-packed journey yet!\n\nWith their reputations tarnished, loved ones in danger, and their own magical powers at stake, the Heroes of Trine must reunite to push back a fearsome Clockwork army and bring peace and justice to the land!\n\nTraverse breathtaking 2.5D landscapes in Trine’s deepest and visually richest chapter to date, with an all new cast of characters – some friends, some foes, but all unforgettable.\n\nWhether by yourself or playing with up to three friends in online and local co-op, the upgraded puzzle difficulty system keeps things fresh, adapting the challenge to the number of players.\n\nLevel up the heroes’ abilities with the all-new skill quest system, growing their legend as they are once again united by… the Trine!\n\n**Repack Features**\n\n- Based on Trine_5_A_Clockwork_Conspiracy-FLT ISO release: flt-trine_5_a_clockwork_conspiracy.iso (16,289,767,424 bytes)\n- Game version: v1.0.2 (Build 893)\n- Online fix for co-op is available in NoDVD folder after installation, thanks to 0xdeadc0de! Check “instructions.txt” in that folder\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation (ONLY when installed with all voiceovers)\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of voiceover packs you don’t need\n- Significantly smaller archive size (compressed from 15.2 to 10.7~11.1 GB, depending on selected components)\n- Installation takes from 13 minutes (on 24-threads CPU) up to 75 minutes (on 4-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 17 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- 2.5D adventure with world-renowned puzzle platformer action\n- Combine forces in 1-4 players (single player, local and online co-op)\n- Accessibility and replayability through an adaptive difficulty system for both combat and puzzles\n- Beautiful fantasy world with stunning visuals\n- New combat system and tense boss encounters\n- Fairytale soundtrack, as well as a voice cast of returning favourites and charming new additions\n- Character-specific skill quest system adds greater depth and playstyle variety than ever before\n- Trine’s most epic tale yet, with more levels, puzzles, and battles than previous entries\n- Express yourself – deck the heroes of Trine out in customisable outfits\n- Bring the kingdom back from the verge of clockwork oblivion in Trine’s most magical story, with fiendish villains and memorable allies",
+    "cover_url": "https://i3.imageban.ru/out/2023/09/02/37ffc38e8b19533878073908704ddaca.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a6/04/a60470ad-f2d2-42f0-a097-022ade6105a1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/45/eb45698f-d4b3-4df3-a07e-89b34e7bb8b0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/d8/6fd8993b-c517-4911-934f-efe8fd9e9a71.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1c/63/1c63f1f2-c306-450a-b6ed-5ef80bbea0ee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/29/12/2912ee93-809a-48bb-bbe0-d7cc39110888.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a6/01/a601b7f7-2e6e-42a8-9042-c280924bca60.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-trine-5-a-clockwork-conspiracy",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T01:03:23.827548+00:00"
   }
 ]
