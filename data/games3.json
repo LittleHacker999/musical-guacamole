@@ -4883,5 +4883,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T16:33:23.828363+00:00"
+  },
+  {
+    "id": "3c5e798e-57cc-558a-d772-750573162787",
+    "title": "Warcraft I & II Bundle",
+    "slug": "warcraft-i-and-ii-bundle",
+    "categories": [
+      "Strategy",
+      "RTS",
+      "Top-down",
+      "2D"
+    ],
+    "size_original": "4.1 GB",
+    "size_repack": "1.5 GB",
+    "description": "Warcraft II Battle.net Edition – Return to the Age of Chaos and wage war against live Orc and Human opponents with the same skill and fearless intensity you lived and breathed in your Warcraft: Orcs and Humans career. Put your skills to the ultimate test in the most epic Warcraft II battles ever.\n\n**Repack Features**\n\n- Based on four GOG releases: 750 MB/667 MB/655 MB (Warcraft II) + 1.4 GB (Warcraft I)\n- Original lossless 44 KHz CD-Audio quality music option (485 MB) added for Warcraft II, which may replace BNE’s low-quality 22 KHz option if you wish\n- Optional Russian text and audio unofficial localizations (175 MB) added\n- Alpha-version of Warcraft II added as a bonus\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation (when installed with original BNE music)\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from cumulative 4.1 to 1.5 GB)\n- Installation takes two minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 1.8 GB\n- Run games from desktop icons, created by the repack installer\n- Use “Switch” BAT-files in Warcraft I folder to change the game language to Russian or back to English\n- To change Warcraft I graphics settings, run “Warcraft Orcs & Humans/DOSBOX/config.bat”; for Warcraft II those can be changed in the launcher\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Warcraft: Orcs & Humans\n- Warcraft II Alpha-version\n- Warcraft II: Battle.net Edition v2.00.v4, MULTi3\n- Bonus Content (Community maps, OST, Wallpapers, Manual)\n- Optional Russian localization for both games\n- Lossless CD-quality music  for Warcraft II: Battle.net Edition",
+    "cover_url": "https://i114.fastpic.ru/big/2021/0120/ec/f7829d828181560ccd18d3a3959b3dec.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d8/0c/d80c9637-cd3b-4e1f-a686-101381b84792.png.240p.jpg",
+      "http://s01.riotpixels.net/data/ca/c3/cac3558a-4e6d-4558-9659-2f3a2085617a.png.240p.jpg",
+      "http://s01.riotpixels.net/data/8d/ea/8deaf0d5-f23b-4e6c-acc5-78c943eff27d.png.240p.jpg",
+      "http://s01.riotpixels.net/data/24/ae/24ae02e5-920f-4fb3-a448-eeaee4395b75.png.240p.jpg",
+      "http://s01.riotpixels.net/data/f6/8a/f68a0b23-096e-497e-9863-ee0d6b82f21c.png.240p.jpg",
+      "http://s01.riotpixels.net/data/c4/67/c467590a-fd1a-4b55-977f-3900a80ceb40.png.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-warcraft-i-and-ii-bundle",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T16:38:21.836323+00:00"
   }
 ]
