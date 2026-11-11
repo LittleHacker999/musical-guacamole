@@ -236,5 +236,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T03:58:22.232470+00:00"
+  },
+  {
+    "id": "b40740b6-2bff-5497-8fb0-893df733fba1",
+    "title": "Anthology of Fear",
+    "slug": "anthology-of-fear",
+    "categories": [
+      "Adventure",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "10.5 GB",
+    "size_repack": "3.7 GB",
+    "description": "SOLVE THE MYSTERY OF YOUR BROTHER’S DISAPPEARANCE WHILE MAKING YOUR WAY THROUGH UNSETTLING LIMINAL LOCATIONS.\n\nTake part in a one-man investigation and solve the mystery of the disappearance of your brother. Find out the truth by exploring unsettling liminal locations. Be careful though, as your way through the nightmare will be paved with danger.\n\nDiscover the story chapter by chapter, with each one unveiling their common tragedy. Explore embodied horrors of human consciousness and fight your way through them to find your brother.\n\nYour personal investigation leads you into an abandoned medical facility. Gradually, you discover its disturbing past, as well as what happened to people associated with it.\n\nDelve into the memories of people associated with your brother’s disappearance. Experience the unexplainable, survive the unimaginable, and put the pieces together.\n\nAvoid the dangers waiting for you on your way to the truth. Interact with your surroundings and take part in surreal experiences which may help you understand what happened.\n\n**Repack Features**\n\n- Based on Steam BuildID 10795954 release: 10.5 GB, thanks to Haoose & machine4578!\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 10.5 to 3.7 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 10.5 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i7.imageban.ru/out/2023/03/18/93f38e26360085f0fa2b867c23ab8bca.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/63/ed/63ed635a-77c3-4c1e-9f57-d83e6f78a700.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/20/12/2012d801-0c7b-4dd1-883d-2d67b3ae567a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7a/b9/7ab9e985-a187-4efe-a28e-d45ea1648c5f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dd/2c/dd2c05d4-0496-4ca5-91b5-5cc73c93d6a8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/df/73/df73aa76-804a-4586-b3fa-0c89527ac6ee.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/61/c5/61c5c9bd-80bc-4aa7-842c-f728463d87f9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-anthology-of-fear",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T04:03:22.442889+00:00"
   }
 ]
