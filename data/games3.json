@@ -117,5 +117,33 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T03:38:20.725160+00:00"
+  },
+  {
+    "id": "2978af96-7485-5cb2-131c-e676dbe45fe8",
+    "title": "KITS",
+    "slug": "kits",
+    "categories": [
+      "Logic",
+      "3D"
+    ],
+    "size_original": "2.6 GB",
+    "size_repack": "952 MB",
+    "description": "Picture a collection of model kits and never mind the glue. It makes things far too messy anyway.\n\nOnce complete, sit back and admire the result, maybe find a welcome surprise or two.\n\nThen bust it up and try with more pieces this time. Perhaps a higher challenge level. Follow your mood.\n\nKITS is not a sandbox builder or creator game. It is however a little showcase of some of the amazing 3D artwork and music that talented people around us are creating. KITS turns their works into fun, engaging, and beautiful little puzzles for all to enjoy.\n\nKITS comes from the love of 3D models, puzzles, and how darn cute small things can be. It is the result of a single little developer standing on the shoulders of talented giants.\n\n**Repack Features**\n\n- Based on KITS-TENOKE ISO release: tenoke-kits.iso (2,745,528,320 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.6 GB to 952 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.5 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- number of pieces – affects the amount and the complexity\n- challenge level – casual zen to laser-focused\n- start distribution – order or chaos\n- use the guide… or the hints… or maybe just roll up your sleeves and conquer\n- track your best time (if you’re one of those)",
+    "cover_url": "https://i5.imageban.ru/out/2023/04/07/7c55934aa595c0597f9d9f85fd256d03.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6f/a7/6fa70eb2-cacd-4585-a087-e922f112e950.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/db/ca/dbca8146-3fec-4dd9-b748-7d9e7c65ec04.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4d/28/4d281bc2-f999-45e1-8e6b-264b6823170b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/e8/58e8886d-5057-4853-a807-e1963d3fc641.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/51/27/5127e156-f513-4637-b335-5c14ac230fc4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0c/fe/0cfe78e5-78c6-4485-8176-26ee9e0a836b.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-kits",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T03:43:23.530220+00:00"
   }
 ]
