@@ -5910,5 +5910,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T18:53:22.222971+00:00"
+  },
+  {
+    "id": "0c728439-4d35-5c12-6ac2-4e2ec386cff9",
+    "title": "Gaia",
+    "slug": "gaia",
+    "categories": [
+      "Action",
+      "Open world",
+      "Survival",
+      "3D"
+    ],
+    "size_original": "3.4 GB",
+    "size_repack": "1.7 GB",
+    "description": "**Repack Features**\n\n- Based on Gaia-CODEX ISO release: codex-gaia.iso (3,700,785,152 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.4 to 1.7 GB)\n- Installation takes 2-3 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i112.fastpic.ru/big/2020/0406/ca/3b804975a5e7a65186366ccc32c5fdca.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b1/ed/b1edd62a-6297-4f0d-98d6-46ae09edb2db.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/52/ae/52ae11a2-84f3-4bb0-933b-28e59926b5fa.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/74/7f/747f2f3e-df12-4e9f-a8b6-cb12262177e3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/71/65/71653d4e-244c-455d-bd0f-999a544c2d0d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/05/73/05733620-ec2b-4e39-b84d-1892b20e1bf5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/42/44/42441d10-f6a5-444e-83c0-0b0bb44fcfc4.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-gaia",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T18:58:22.841632+00:00"
   }
 ]
