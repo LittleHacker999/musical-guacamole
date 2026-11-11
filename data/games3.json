@@ -2772,5 +2772,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T10:48:22.228684+00:00"
+  },
+  {
+    "id": "5610ce68-ea87-5723-290e-ba2dca3bd897",
+    "title": "Deiland: Pocket Planet",
+    "slug": "deiland-pocket-planet",
+    "categories": [
+      "Exploration",
+      "RPG",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "613 MB",
+    "size_repack": "440 MB",
+    "description": "Discover the story of Arco in this single-player experience, a tale about growing up, helping others and revealing the secrets that lie on the heart of your planet. We’ve crafted a relaxing game, with a strong narrative and a cast of diverse characters for you to meet.\n\n**Repack Features**\n\n- Based on Deiland.Pocket.Planet-PLAZA ISO release: plaza-deiland.pocket.planet.iso (642,940,928 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 613 to 440 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Make your planet unique: fill it with trees, plants, flowers, and buildings, plant crops, and care for animals.\n- See how the planet changes in spring, summer, fall, and winter. Each crop will only be available at the right time of year.\n- Over 12 characters to befriend.\n- A day and night cycle that affects the world with natural phenomena such as meteor showers, storms, shooting stars, the aurora, or hurricanes.\n- Over 100 quests to unlock the secrets of your planet.\n- Relax playing. Beautiful graphics and calm music will help you relax and take a break from your everyday life.",
+    "cover_url": "https://i3.imageban.ru/out/2021/12/18/7cb5f4be3fa468f6cd917671e726a903.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/b5/5d/b55d1a78-f901-4fe9-bbde-7982bfead39d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/03/3b/033b3d3a-52ca-4fc7-8a31-ef017474becb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/dd/ae/ddae88dd-00cc-435c-8e50-70c0318c8b04.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/75/71/757174a4-2581-4db6-aaa7-bf5f8a2f821a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/0b/690bca70-f433-45dc-a545-22c2eca7b610.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f4/d7/f4d74502-e2af-4f0e-af24-4dd64196b960.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-deiland-pocket-planet",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T10:53:28.828373+00:00"
   }
 ]
