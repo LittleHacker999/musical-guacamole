@@ -3968,5 +3968,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T14:03:24.630162+00:00"
+  },
+  {
+    "id": "3563954e-234f-5cf9-62ce-9784add9803c",
+    "title": "Alien Flex",
+    "slug": "alien-flex",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Top-down",
+      "3D"
+    ],
+    "size_original": "9.9 GB",
+    "size_repack": "4.5 GB",
+    "description": "“Alien Flex” is a top-down Sci-Fi shooter filled with synthwave electronic music and vibrant effects. Kill enemies, pick up their weapons, which differ in shooting mechanics and ultimate attacks, complete levels and reach bosses.\n\nYou can dodge projectiles with a forward flip, or use a dash and slash at enemies with your cyberblade. At the end of each level the alien will dance for you. Music and dances at each level are different.\n\n**Repack Features**\n\n- Based on Alien.Flex-PLAZA ISO release: plaza-alien.flex.iso (10,622,304,256 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 9.9 to 4.5 GB)\n- Installation takes 3-5 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 27.7 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i3.imageban.ru/out/2021/08/05/2ce3cdb40877bb3a030a0e8e04af453d.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/bb/f7/bbf7f1bb-69ef-4a0c-9f1b-0cb02aa33215.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e6/8a/e68a8664-99d6-4bca-acce-93ee5e2cb6b0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0a/72/0a723eba-09e0-4a7b-a296-4101c3208353.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ca/54/ca54ff15-7116-43af-8ad0-86343f689b06.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/aa/21/aa21a3e7-1d2a-4f94-938d-21ff890cb2d4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4e/c2/4ec2a85f-4a2a-46f9-b68e-027e31660a56.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-alien-flex",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T14:08:22.126217+00:00"
   }
 ]
