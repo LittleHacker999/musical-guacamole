@@ -3172,5 +3172,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T11:53:23.128410+00:00"
+  },
+  {
+    "id": "520a8a27-ced4-50fe-f173-b711e3c78ecb",
+    "title": "Stardrytch",
+    "slug": "stardrytch",
+    "categories": [
+      "Arcade",
+      "Jump and run",
+      "Side",
+      "2D"
+    ],
+    "size_original": "1.3 GB",
+    "size_repack": "842 MB",
+    "description": "Accompany Lunaris, a stranded space traveller, on her adventurous quest for rare energy crystals that will allow her to fix and recharge her crashed spaceship. On her way through a desolate ancient land, she will meet many enemies and only a few friends.\n\nStardrytch is inspired by classic 2D platformers and will challenge you with exciting combat, precision platforming and mind-bending puzzles.\n\nYou will unlock impressive new platforming powers and ultimate combat techniques to overcome the deadly obstacles and terrifying monsters.\n\n**Repack Features**\n\n- Based on Stardrytch-PLAZA ISO release: plaza-stardrytch.iso (1,430,585,344 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.3 GB to 842 MB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3.4 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Collect energy crystals and unlock new and breathtaking platforming and combat skills\n- Battle lots of alien adversaries and imposing bosses\n- Marvel at fascinating hand-drawn characters\n- Discover fantastic lands\n- Demonstrate your precision and skill by overcoming challenging platforming obstacles",
+    "cover_url": "https://i4.imageban.ru/out/2021/11/05/4f872156f8f3423acee4c39e6c88f485.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6c/18/6c18ee65-f6ce-421c-96de-85506dfbce88.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a3/4d/a34d5f9b-2588-40ec-806c-0b331e8817ac.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6e/73/6e7379e9-a264-44b4-a4d2-6f8aaf3c20b3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/94/31/94317712-4edc-4f9f-aa77-11bbfaee0672.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7f/be/7fbe6510-544d-47d2-9bf3-de1084dc7b74.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/50/62/5062348e-dda6-44d7-bc43-c608fddeb871.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-stardrytch",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T11:58:20.827541+00:00"
   }
 ]
