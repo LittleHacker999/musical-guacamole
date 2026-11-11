@@ -3938,5 +3938,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T13:58:21.926932+00:00"
+  },
+  {
+    "id": "2b9e8a42-8a38-50b9-2546-89d1d6fed483",
+    "title": "Bravely Default II + Yuzu/Ryujinx Emus for PC",
+    "slug": "bravely-default-2",
+    "categories": [
+      "RPG",
+      "3D",
+      "Japanese",
+      "Turn-based"
+    ],
+    "size_original": "12.8 GB",
+    "size_repack": "8.1 GB",
+    "description": "Native PC repack located here: https://fitgirl-repacks.site/bravely-default-2-pc/\n\nJoin the Heroes of Light on their grand quest to restore balance to the world in BRAVELY DEFAULT II for Nintendo Switch!\n\nLead your party on a journey through five kingdoms as you seek to return the Crystals to their rightful home. Use Asterisks to unlock jobs and abilities that will allow you to take on all manner of monsters, and be sure to use the Brave and Default commands to manage the delicate balance of risk and reward!\n\nThe world is in crisis. Floods, rising temperatures, nature gone out of control – the theft of the Crystals threatens all living things. There is hope, however, in the form of the Heroes of Light: four fabled warriors who can bring the elements back into balance.\n\nFollow our protagonist Seth, as well as his companions Gloria, Elvis and Adelle, as they travel across the vibrant land of Excillant. Harness their combined powers to defeat the fiends who stole the Crystals, and quell the chaos that threatens to tear the realm asunder!\n\n**Repack Features**\n\n- Based on Nintendp Switch digital release: 12.4 GB\n- Two Switch emulators are included: Yuzu (Early Access v1991, August 12, 2021, 83 MB) and Ryujinx (v1.0.6996, August 12, 2021, 47 MB) are included\n- Switch Firmware v12.0.3 (317 MB) added as a requirement for Ryujinx\n- 100% Lossless, but NOT MD5 Perfect: encryption was removed for better repack size\n- NOTHING ripped, NOTHING re-encoded\n- Test both emus and use the one which performs better on your system\n- Smaller archive size (compressed from cumulative 12.8 to 8.1 GB)\n- Installation takes 3-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 13 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i4.imageban.ru/out/2021/08/13/4afad474cc12680e9ad3ff23f321d6f1.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/ee/a7/eea7fbc8-e357-49a8-9ba2-a934c1056e17.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/ce/1eceaf1a-1642-4182-b0be-eaee59f05c29.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/f9/49/f9493873-8eb8-4c42-ba14-2b7aa8bf3c1d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ea/b4/eab4f8fa-fe4a-4b0d-bbed-512b6b53df7e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/24/1e/241e56c9-76bc-4b67-a15b-26230384f3e6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/10/6c/106c88b6-d1db-46c4-908f-5b109d7e2bd6.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-bravely-default-2",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T14:03:24.630162+00:00"
   }
 ]
