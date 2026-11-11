@@ -7213,5 +7213,37 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T22:28:22.729186+00:00"
+  },
+  {
+    "id": "8202a374-6455-58ee-9475-a4e7b8fd8cc1",
+    "title": "Shenmue I & II",
+    "slug": "shenmue-i-ii",
+    "categories": [
+      "Adventure",
+      "Arcade",
+      "Open world",
+      "QTE",
+      "Beat 'em up (Brawler)",
+      "3D"
+    ],
+    "size_original": "11.9 GB",
+    "size_repack": "2.6/3.3 GB",
+    "description": "**Repack Features**\n\n- Based on Shenmue.I.and.II-CODEX ISO release: codex-shenmue.i.and.ii.iso (12,818,579,456 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of Japanese voiceovers\n- Significantly smaller archive size (compressed from 11.9 to 2.6/3.3 GB)\n- Installation takes 4-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 24 GB\n- Use “Language Selector.exe” in “sm1” and “sm2” subfolders to change the games language\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Pioneering Dreamcast classics available for the first time on PC\n- Updated user interface\n- Choice of modern or classic controls\n- Japanese audio available for the first time for a global audience\n- Fully scalable screen resolutions\n- A tale of revenge on a grand scale\n- Solve the mystery of your father’s murder\n- An experience never to be forgotten\n- Talk to anyone, scour the world for clues\n- NPCs live independent lives on their own schedule\n- Faithful recreations of 1980s Japan and Hong Kong, China\n- Distract yourself with arcade games, collectibles, duck racing, and more",
+    "cover_url": "http://i101.fastpic.ru/big/2018/0822/08/a5ce0ebbd0a64f85d7657651c2d7eb08.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/9a/b8/9ab82a2c-4c4c-4838-97fc-ba4ff29ac4e3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a8/2e/a82e5155-0ffe-436d-aded-46ad8fc8e2b9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ab/b8/abb8a65e-93f7-467d-b812-7ffded06cc6a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/41/85/41856c09-45e5-4096-a35c-d5b264916637.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/66/da/66da81bc-5464-49ee-8d37-a1ec89686711.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/69/db/69db3a0b-93de-472a-bf37-94f6f19959c9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-shenmue-i-ii",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T22:33:22.424419+00:00"
   }
 ]
