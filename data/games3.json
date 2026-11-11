@@ -944,5 +944,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T05:53:21.241015+00:00"
+  },
+  {
+    "id": "3188f188-8454-5155-f6f4-51b096eb3f3e",
+    "title": "Gravity Chase",
+    "slug": "gravity-chase",
+    "categories": [
+      "Arcade",
+      "Racing",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "1.2 GB",
+    "size_repack": "626 MB",
+    "description": "Gravity Chase racing competition takes place on tunnel tracks for super-fast 360 degree Zero G racing.\n\nSkill and precision piloting are required to follow the optimum line along with strategic use of pickups, powerups and weapons in order to progress through the race series.\n\n**Repack Features**\n\n- Based on Gravity.Chase-DARKSiDERS ISO release: ds-gravitychase.iso (1,247,846,400 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 1.2 GB to 626 MB)\n- Installation takes one minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 2.6 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Anti gravity racing with a twist – Race along the floor, walls and ceiling to achieve the optimum racing line.\n- 10 unique ships with customizable colors and powerups.\n- 16 unique tracks across multiple themed environments.\n- 1 – 4 player split screen action.\n- Boost, repair and arm your ship with in-race pickups.\n- 3 exciting race types – Arcade, Combat and Eliminator.\n- In game currency – Win races to earn money that can be used to customize and upgrade your ships.",
+    "cover_url": "https://i5.imageban.ru/out/2022/10/17/a0d777fc7a537c7b06a74304b8c8fadc.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/36/bd/36bdf438-3cbb-4f31-836f-c2308eaf7f99.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/47/f3/47f3e47f-bb75-4fc1-a2aa-4e05b1b07c75.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/01/ed/01ed8e10-00b8-4789-8360-5e2b2207e6d1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6b/38/6b3859e9-a311-4353-8ebf-a641808323d6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/6f/a0/6fa04608-66d0-4a64-b9bd-d7aa1f7feade.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/81/a6/81a66d8a-e8a7-48c7-84de-4ae6d39717d8.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-gravity-chase",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T05:58:21.825232+00:00"
   }
 ]
