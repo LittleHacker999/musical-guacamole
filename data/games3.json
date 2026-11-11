@@ -205,5 +205,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T03:53:22.929249+00:00"
+  },
+  {
+    "id": "6ca20314-3177-5581-6cee-6b762560a9dd",
+    "title": "Tokyo Necro – v1.01s",
+    "slug": "tokyo-necro",
+    "categories": [
+      "Interactive fiction",
+      "Visual novel",
+      "2D",
+      "3D",
+      "Cyberpunk"
+    ],
+    "size_original": "6.6 GB",
+    "size_repack": "3.6 GB",
+    "description": "Developed by Nitro Origin, creators of Song of Saya and Full Metal Daemon Muramasa, Tokyo NECRO dives into the cyberpunk genre and sets a new standard for action visual novels – with fully animated fight scenes and an interactive display where you can see every action your character takes through their own eyes!\n\nIn the future, the world has been engulfed in the bitter cold of an ice age. And yet, Tokyo is surviving with its use of geothermal heat pipes to keep the city habitable. Within this frozen city, So’un and Ethica make their living working for the Karasuzumi Living Dead Stalker Office; contract killers who spend their working days executing necromancers and their undead minions. On one such mission, they discover a mysterious girl who had been kidnapped by a necromancer for reasons unknown.\n\n**Repack Features**\n\n- Based on Tokyo.Necro-TENOKE ISO release: tenoke-tokyo.necro.iso (6.6 GB)\n- Game version: v1.01s\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 6.6 to 3.6 GB)\n- Installation takes from 12 minutes (on 32-threads CPU) up to one hour (on 4-threads CPU)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6.6 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i5.imageban.ru/out/2023/03/26/ed7ef9fb14edf6288148393663cbb5d8.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/70/62/7062c89d-6594-40ff-8bdf-f35ca2168998.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/49/4d/494de15d-5599-4ec4-b6da-da960fd35fe1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a9/70/a970a066-f9ae-4ecc-9aad-613f7684a614.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/bc/5f/bc5f5652-58ef-40cd-bb6e-350bb766c967.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/37/83/3783ae34-98da-4df1-b0a3-5a351d526cff.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e3/1c/e31cc8de-8490-4a67-b501-6b70663d5e19.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-tokyo-necro",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T03:58:22.232470+00:00"
   }
 ]
