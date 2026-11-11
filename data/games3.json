@@ -5065,5 +5065,32 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T17:03:21.727792+00:00"
+  },
+  {
+    "id": "c884b06e-322a-5129-3ffc-4d9244d2e8ab",
+    "title": "Chicken Police",
+    "slug": "chicken-police",
+    "categories": [
+      "Adventure"
+    ],
+    "size_original": "3.3 GB",
+    "size_repack": "2.4 GB",
+    "description": "**Repack Features**\n\n- Based on Chicken.Police-CODEX ISO release: codex-chicken.police.iso (3,548,676,096 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 3.3 to 2.4 GB)\n- Installation takes 2-3 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 4.7 GB\n- Language can be changed in game settings\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- A thrilling, rich storyline with a classic film-noir twist\n- Professional voiceover with more than 8 hours of spoken dialogue!\n- A carefully crafted, unique and “colorful” world\n- A complex interrogation system\n- 30 fully voiced characters\n- A cinematic film-noir experience with more than 20 cutscenes!\n- Lots of clues, information, and collectibles to find\n- And a beautiful original soundtrack",
+    "cover_url": "https://i114.fastpic.ru/big/2020/1106/ad/582c100f89f511df25529be4c14e96ad.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e4/e8/e4e815c7-4a06-45ac-b617-57e5fc58bf72.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/62/d9/62d9ede3-a57b-476f-982b-fa446818f301.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5b/74/5b7449b0-be9c-46f9-95b4-8adf4c603f5e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8d/83/8d831089-f3f5-49d2-9d88-6ac907566be0.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7b/7b/7b7b9957-9135-4e70-ae1b-50060795cee1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/18/6d/186d386b-6362-4187-be02-bc9fed3b3ab9.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-chicken-police",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T17:08:24.261370+00:00"
   }
 ]
