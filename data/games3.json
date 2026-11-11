@@ -2983,5 +2983,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T11:23:22.530542+00:00"
+  },
+  {
+    "id": "a612be1a-a27a-52d5-3372-178e243f7371",
+    "title": "Necromunda: Underhive Wars – v1.4.4.2 Build 884 + 2 DLCs + Windows 7 Fix",
+    "slug": "necromunda-underhive-wars",
+    "categories": [
+      "RPG",
+      "Strategy",
+      "Tactics",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "20.5 GB",
+    "size_repack": "13.9 GB",
+    "description": "Lead, customize, and grow your gangs of Escher, Goliath, and Orlock. Specialize each member and send them to battle in hazardous dystopian environments. Exploit the terrain in tactical gunfights: climb raised walkways to take advantage, set traps, and ambush foes to force them into bloody melee engagements.\n\nThis repack IS partially backwards compatible with my previous NUW repack. You can rehash fg-02.bin to save 2.7 GB of traffic.\n\n**Repack Features**\n\n- Based on Necromunda.Underhive.Wars.v1.4.4.2-CODEX ISO release: codex-necromunda.underhive.wars.v1.4.4.2.iso (22,036,807,680 bytes)\n- Game version: v1.4.4.2 Build 884; Van Saar Gang & Cawdor Gang DLCs are included and activated\n- Copy all files and folders from “_Windows 7 Fix” folder to the game root to make the game running on Windows 7 via DXVK wrapper\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 20.5 to 13.9 GB)\n- Installation takes 6-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 39.4 GB\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Learn new skills, loot equipment and bring your evolved gang to 4-player online gang fights.\n- Lead and evolve your gangs in this compelling tactical-RPG\n- Follow a rich narrative campaign in the Underhive\n- Engage in immersive and persistent game modes\n- First video game adaptation from mythical tabletop game Necromunda, the most famous Hive World of Warhammer 40,000\n- Play solo or join thrilling 4-way online gang fights",
+    "cover_url": "https://i4.imageban.ru/out/2021/11/24/439b7775194296c351806144e66f3943.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/6c/76/6c76d005-d5ba-413e-aec9-3f20162b1c21.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ce/5b/ce5b32d3-c4ec-4560-be23-cae7916facc1.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d0/1e/d01edcc4-1161-4e3d-949e-50888c165556.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fc/aa/fcaa0039-381c-45f8-8573-d16d5b553d9d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/30/08/3008a073-ae99-4346-8629-56009eaf0a59.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/55/23/55237d0b-531b-45be-bb69-cfeecf6ee3b7.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-necromunda-underhive-wars",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T11:28:21.528403+00:00"
   }
 ]
