@@ -7094,5 +7094,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-11T22:08:21.436684+00:00"
+  },
+  {
+    "id": "7de1a747-8a47-56fd-1d48-1fa8666cc15f",
+    "title": "Coffence",
+    "slug": "coffence",
+    "categories": [
+      "Arcade",
+      "Fighting",
+      "Side",
+      "3D"
+    ],
+    "size_original": "2.5 GB",
+    "size_repack": "1.6 GB",
+    "description": "Coffence is a fast-paced blend of fighting games and twin stick shooters with a dash of caffeine. Coffee is literally your health bar and every hit ejects the precious liquid up in the air for anyone to take. Experience dramatic reversals and tense stand-offs as you fight to the last drop with up to four players.\n\n**Repack Features**\n\n- Based on Coffence-PLAZA ISO release: plaza-coffence.iso (2,710,142,976 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 2.5 to 1.6 GB)\n- Installation takes 1-3 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 3 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Experience a new way to play: Twin-stick fighting! Aim your strikes with unparalleled precision with the right joystick.\n- Coffee is your life. Every strike you receive ejects the precious liquid upward allowing any fighter to grab it with his cup. Save yourself from the brink of defeat in one swift scoop or sacrifice a drop of your coffee to trigger a powerful COFFEE BREAK.\n- Challenge your friends to online duels and prove you’re the cream of the crop.\n- Delve deep in Coffence’s strange lore with story mode to add new cups to your collection and unlock a secret character.\n- Choose from a wide arsenal of cups from the lightning fast espresso cup to the massive coffee pot, each offering their own strengths and weaknesses.\n- Fight to the last drop with up to 4 players in a variety of exotic locations ranging from office buildings to pirate ships",
+    "cover_url": "http://i95.fastpic.ru/big/2018/1026/bf/ff6e13f52e73e3fe56cd258ec6c0e3bf.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/99/bc/99bca4b9-77cd-4872-9ab6-4da653349a48.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/80/ea/80ea069d-ef39-401a-adf6-a3b614e129cd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ca/46/ca46d6d5-07d0-4e2a-96cf-65dc8339ddd8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9a/a4/9aa4f890-7c82-428a-b0ad-dc9fee27125a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/52/eb522d1d-ba51-4ee1-ae48-c10188fb5d7e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/14/82/14827e10-9270-41c6-8b27-a3e0e0cf1ebe.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-coffence",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-11T22:13:24.526334+00:00"
   }
 ]
