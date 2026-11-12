@@ -60,5 +60,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T00:43:22.132211+00:00"
+  },
+  {
+    "id": "fb9af485-e3bf-50b6-55e0-f7d7a9e569e5",
+    "title": "RiME – v1.01",
+    "slug": "rime-v1-01",
+    "categories": [
+      "Arcade",
+      "Platform adventure",
+      "Open world",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "7.4 GB",
+    "size_repack": "4.5 GB",
+    "description": "A land of discovery stretches out before you. Explore the beautiful yet rugged world of RiME, a single-player puzzle adventure. In RiME, you play as a young boy who has awakened on a mysterious island after a torrential storm. You see wild animals, long-forgotten ruins and a massive tower that beckons you to come closer. Armed with your wits and a will to overcome—and the guidance of a helpful fox—you must explore the enigmatic island, reach the tower’s peak, and unlock its closely guarded secrets.\n\n**Repack Features**\n\n- Based on RiME-CODEX ISO release: codex-rime.iso (7,906,131,968 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 7.4 to 4.5 GB)\n- Installation takes 5-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 8 GB\n- Repack uses pZlib library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Explore – Discover the mysterious island at your own pace. Interact with wildlife, search for hidden items or simply take in the sights and sounds.\n- Solve Puzzles – Make your way through the ancient ruins and its hidden marvels by solving puzzles with sound, light and shadow projection, perspective, platforming, and even time manipulation.\n- Find Secrets – Dive deeper into the boy’s backstory by uncovering dozens of secrets and collectibles.\n- Be Enchanted – Take in a beautiful world inspired by the wonders of the Mediterranean through a fusion of captivating music and color.",
+    "cover_url": "http://i94.fastpic.ru/big/2017/0602/5f/22d583340678c94fd926bcc2b283f25f.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/3a/35/3a35eb76-9cc5-44b6-9aa9-b8c31eb3c98c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/df/a6/dfa67c92-dd42-4932-82c2-8dda927853e6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d1/5e/d15e98c4-0811-49e0-8c62-63fd41f6d7f6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/3a/993a3b4f-de36-436e-8026-33fa822f2b7f.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/9b/e1/9be109cb-bf84-4aef-8432-740c671a0bdc.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/95/15/9515a09a-b028-43f9-b54f-2e697b4aeb5b.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-rime-v1-01",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T00:48:21.424471+00:00"
   }
 ]
