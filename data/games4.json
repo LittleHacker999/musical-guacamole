@@ -1388,5 +1388,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T09:53:23.335616+00:00"
+  },
+  {
+    "id": "cb603c37-e536-5f99-de22-78b0e5a659ed",
+    "title": "Sunken Realms",
+    "slug": "sunken-realms",
+    "categories": [
+      "RPG",
+      "Action RPG",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "10 GB",
+    "size_repack": "6.5 GB",
+    "description": "Sunken Realms is a dungeon crawling adventure about a son who goes looking for answers. Descend into an abandoned underground city, battle monsters, collect materials, craft your gear, and master forgotten spells. Grow stronger. Go deeper. Find out what happened down there — and whether the truth is worth what it costs.\n\nNo open world. No battle pass. Just a sword, a dungeon, and a question that won’t let you go.\n\n**Repack Features**\n\n- Based on Sunken.Realms-RUNE ISO release: rune-sunken.realms.iso (10,775,429,120 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 10 to 6.5 GB)\n- Installation takes 2-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 23.9 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Hand-crafted rooms are procedurally re-arranged every time you enter the dungeon so you’ll never play the same layout twice\n- Fluid Melee and Ranged combat\n- Learn spells to wield powerful, long-forgotten magic\n- Collect gold and crafting materials from vanquished foes and treasure chests\n- Return to camp to craft weapons, cook food, brew potions, trade, and upgrade your character\n- A heartfelt, personal story that unfolds between two friends around the campfire between runs\n- Immersive, original score by Matt Warren",
+    "cover_url": "https://i6.imageban.ru/out/2026/09/22/edeccaa352014d205f8ada876007187b.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d1/e4/d1e4400b-8817-4368-aecb-872902710d31.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/14/2a/142a4089-9efb-40ca-bb21-508da32ab70b.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5f/30/5f307a89-17f4-402f-928b-a0101f3b02ff.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/45/d0/45d0800c-c950-4637-b6e7-cc0465985732.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e7/43/e743284e-3181-4a25-b056-99b37738de94.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/34/2e/342eb28f-fb0d-4209-a9ae-9cde28b2b69b.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sunken-realms",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T09:58:21.624718+00:00"
   }
 ]
