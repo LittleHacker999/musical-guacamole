@@ -7881,5 +7881,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T00:18:22.325843+00:00"
+  },
+  {
+    "id": "31dec52c-dcc7-5d7f-d60c-89b5e5bf85ea",
+    "title": "Sine Mora EX",
+    "slug": "sine-mora-ex",
+    "categories": [
+      "Arcade",
+      "Shoot 'em up",
+      "Side",
+      "3D"
+    ],
+    "size_original": "825 MB",
+    "size_repack": "565 MB",
+    "description": "Sine Mora EX is a side-scrolling shoot’em up that provides a unique challenge, where time is the ultimate factor. Mixing classic shooter sensibilities with contemporary presentation, Sine Mora EX is a gorgeous shoot’em up offering both a Story Mode that weaves an over-the-top tale and an Arcade Mode that provides deep, satisfying gameplay to challenge fans of the genre. With many ways to manipulate time, Sine Mora EX features over 50 weapon combinations to complete each beautiful stage that fits to the player’s skills with scaling difficulty. Soundtrack composed by Akira Yamaoka and featuring boss designs by Mahiro Maeda.\n\n**Repack Features**\n\n- Based on Sine.Mora.EX-SKIDROW ISO release: sr-sinemoraex.iso (865,204,224 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Smaller archive size (compressed from 825 to 565 MB)\n- Installation takes 2-4 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 800 MB (~3 GB during installation)\n- Edit steam_api.ini in game root to change the language\n- 16:9 Aspect ratio (instead of 16:10 which is still an option)\n- Full English Voice Overs (Original Hungarian ones are still available as an option)\n- Local co-op for up to 2 players in Story mode\n- 3 New versus modes: Race, Tanks, Dodgeball\n- New challenge levels\n- Improved Rendering\n- Native 4k at 60 FPS",
+    "cover_url": "http://i89.fastpic.ru/big/2017/0810/4b/25aaaee9d4f8a6d7186b798958408a4b.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/79/be/79beaf1c-891f-40fb-a856-b62126085354.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/99/70/997048c2-7a99-4974-9259-c4a43c282df4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/84/3e/843e2cda-4109-4ca8-883d-4a4fc4563dde.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/db/fa/dbfa0859-4bf0-40fa-a9f3-af910799f3e7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/85/df/85df6b36-5613-47a3-9c92-77d3ee3c2cfe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7e/9d/7e9d6230-3d54-4755-b187-b7935fbcac3e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sine-mora-ex",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T00:23:23.429003+00:00"
   }
 ]
