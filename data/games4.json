@@ -1264,5 +1264,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T07:33:21.629631+00:00"
+  },
+  {
+    "id": "3aab1bd8-d20e-5f22-2e3e-9bd8ec4d706b",
+    "title": "HYPNOS",
+    "slug": "hypnos",
+    "categories": [
+      "Exploration",
+      "First-person",
+      "3D",
+      "Horror"
+    ],
+    "size_original": "24 GB",
+    "size_repack": "17.5 GB",
+    "description": "Enter the Nameless City at the edge of Dreams. Follow the trail into the shadow of the Holy Mountain. Wander through realms where the laws of the universe break down as they yield to other forces. Walk the Path and embrace your destiny.\n\n“In the Dreamlands, all paths lead to the holy mountain of Kadath, where the gods dwell.\n\nShadowed by the mountain is the Nameless City, built on the ruins of those who came before.\n\nThere, Choron, a vagabond burdened by his past, searches for a faceless boy who haunts his dreams.\n\nTo find the boy and unravel the threads of his own destiny, Choron must solve the city’s mysteries, face the Monarchs who rule the far reaches of the world and cross the veils that separate ignorance from truth.”\n\n**Repack Features**\n\n- Based on HYPNOS-RUNE ISO release: rune-hypnos.iso (25,820,299,264 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 24 to 17.5 GB)\n- Installation takes 5-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 24.2 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- EXPLORATION: wander a unique semi-open world. Find your own way through the Nameless City.\n- BRANCHED DIALOGUES, CHOICES & ALTERNATIVE ENDINGS: Meet the strange inhabitants of the Far Reaches. Dreamers, spirits, creatures and bizarre figures — they are all caught in the same web of causality. Your actions influence their destinies.\n- LAYERED WORLD: Interact with your environment. Transform the materia of dreams and the City with it. Lift the veils that conceal reality.",
+    "cover_url": "https://i5.imageban.ru/out/2026/11/11/53f20e45b448f4f68ecbb7a08e3fd2cd.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/4a/e0/4ae07177-83a5-4bd5-a8dc-226af1e47dd9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4f/37/4f373b53-f47a-4c7b-8f8c-9a71e4a02837.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1e/e1/1ee10752-a2b7-47d5-be2b-8cb7367dd4c5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/36/3a/363a3918-1e69-4a36-9e71-818e983634ad.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5a/47/5a470002-9200-4a97-bfa4-9bd408643f42.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/10/29/10299632-a10a-4658-88d6-3333f51a4934.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-hypnos",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T07:43:21.123366+00:00"
   }
 ]
