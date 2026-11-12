@@ -302,5 +302,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T01:23:21.732162+00:00"
+  },
+  {
+    "id": "90fb5e14-ea64-572b-0fa5-4b16474393f8",
+    "title": "Lara Croft GO + The Mirror of Spirits",
+    "slug": "lara-croft-go",
+    "categories": [
+      "Logic",
+      "Puzzle",
+      "Isometric",
+      "3D",
+      "Turn-based"
+    ],
+    "size_original": "1.4 GB",
+    "size_repack": "355 MB",
+    "description": "Lara Croft GO is a turn based puzzle-adventure set in a long-forgotten world. Explore the ruins of an ancient civilization, discover well-kept secrets and face deadly challenges as you uncover the myth of the Queen of Venom.\n\nFollowing the award-winning Hitman GO, Square Enix Montreal brings yet another beloved franchise to consoles with this unique take on the iconic heroine’s adventures.\n\n**Repack Features**\n\n- Based on Lara.Croft.GO.The.Mirror.of.Spirits-CODEX ISO release: codex-lara.croft.go.the.mirror.of.spirits.iso (1454309376 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- You can install either x86 or x64 version of the game\n- Significantly smaller archive size (compressed from 1.4 GB to 355 MB)\n- Installation takes less than a minute\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 1 GB\n- Use “Language Selector.exe” in game root to change the game language\n- Experience lush visuals and a captivating soundtrack\n- Fight menacing enemies, overcome dangerous obstacles and escape deadly traps\n- Collect ancient relics and unlock new outfits for Lara",
+    "cover_url": "http://i83.fastpic.ru/big/2016/1205/a2/e0dbf9c83091ac26e573bc6931b112a2.png",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/9f/e7/9fe708f5-2cb9-42f5-84f7-c6a978c20981.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7a/19/7a19ab79-34ae-4d55-ba34-5cc31ed69cb8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/34/db/34dbda72-a973-4f43-88fd-7937b0144ec8.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/7e/7d/7e7d265d-2ab1-4503-a48e-f7f419f4b397.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/88/19/88191889-6482-4494-a38d-dafbc13f8e0a.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/ba/56/ba568646-3ca3-49bc-9a85-3e70ba967a3e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-lara-croft-go",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T01:28:21.423592+00:00"
   }
 ]
