@@ -1064,5 +1064,25 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T05:53:22.732098+00:00"
+  },
+  {
+    "id": "32da953c-bc3f-573b-86a4-b5cd97ee5635",
+    "title": "Battlefield: Hardline",
+    "slug": "battlefield-hardline",
+    "categories": [],
+    "size_original": "48.4 GBRepack Size: 23.3 GB [Selective Download]",
+    "size_repack": "23.3 GB",
+    "description": "Not Found",
+    "cover_url": "http://i69.fastpic.ru/big/2015/0822/f1/3019d2a79c2e3081f80bbee8ecafcbf1.jpg",
+    "screenshots": [
+      "http://i72.fastpic.ru/big/2015/0822/ad/3931195bb0e231425d9e93442474b1ad.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-battlefield-hardline",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T05:58:25.330645+00:00"
   }
 ]
