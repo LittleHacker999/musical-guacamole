@@ -758,5 +758,30 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T04:18:33.041987+00:00"
+  },
+  {
+    "id": "d1ae0584-4dec-5117-341e-e97566869479",
+    "title": "XBlaze Lost: Memories",
+    "slug": "xblaze-lost-memories",
+    "categories": [],
+    "size_original": "5.7 GB",
+    "size_repack": "2.5 GB",
+    "description": "**Repack Features**\n\n- Based on XBlaze.Lost.Memories-CODEX ISO release: codex-xblaze.lost.memories.iso (6,076,432,384 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.7 to 2.5 GB)\n- Installation takes 5-20 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 11 GB (~14 GB during installation)",
+    "cover_url": "http://i78.fastpic.ru/big/2016/0812/e6/6d0c72aa0d1fa3c63511f1ac1ebe32e6.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a5/30/a530748e-8bc3-450c-af2f-293c800f8dd6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4a/d9/4ad91ed3-3c46-4472-81de-441f36fd67c7.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/61/2d/612de4cb-38d4-4c1c-86a3-7dea0e110468.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/68/d8/68d838ae-f1c7-4702-b02f-448b4ee43ebd.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/eb/37/eb37920a-813a-4d21-a117-82b4f16ac6d9.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d9/a0/d9a05694-e12a-465f-b3da-dbf5c47a7d10.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-xblaze-lost-memories",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T04:23:26.056595+00:00"
   }
 ]
