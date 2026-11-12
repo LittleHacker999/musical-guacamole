@@ -605,5 +605,36 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T03:53:23.332670+00:00"
+  },
+  {
+    "id": "5b72f71a-0562-537e-fa63-5af1454e8e8f",
+    "title": "The Saboteur – GOG DRM-Free",
+    "slug": "saboteur-gog-drm-free",
+    "categories": [
+      "Action",
+      "Shooter",
+      "Stealth",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "5.5 GB",
+    "size_repack": "from 2.3 GB",
+    "description": "Pandemic Studios invites you to experience the ultimate open-world action/adventure – as The Saboteur.\n\nAvenge the loss of your loved ones by hunting down your sworn enemies in Nazi-occupied Paris. Fight, climb, and race your way through this unique world to destroy the lives of those that have taken everything from you. For the first time ever in a video game, enter the seedy world of a saboteur living in a stylized 1940s Paris, where the women are sexy, the missions are epic, and the revenge is satisfying.\n\nWelcome to Nazi-occupied Paris, a unique open world where you are The Saboteur. Play as Sean Devlin, a street-tough Irish racing mechanic seeking personal redemption on a Nazi officer that has taken everything away from him.\n\nNow, it’s time for payback – with the help of the French Resistance, British intelligence, an arsenal of weaponry, and your own street smarts and brawn, you must exact revenge on those who aimed to destroy your life. Motivated by retribution and armed with tactics of sabotage, blow up zeppelins, derail trains, implode bridges, destroy armored tanks, and level enemy facilities in the name of vengeance, in the first open-world action game set in Nazi-occupied Europe.\n\nGOG version has a bug when applying GFX settings via “VideoSetup.exe” for non-English languages.\nIt always writes changes to  “C:UsersYour UsernameDocumentsmy gamesThe Saboteur™” folder,\neven if the language is set to one, which have localized name for “My Games” folder, like “Мои игры” for Russian OS.\n\nTo workaround it, set the game language to English in “language_setup.exe”, save settings in “VideoSetup.exe” and then copy\n“C:UsersYour UsernameDocumentsmy gamesThe Saboteur™config.ini”to\n“C:UsersYour UsernameDocumentsYOUR LOCALIZIDED GAMES FOLDERThe Saboteur™config.ini”, overwriting it.\n\nSetting refresh rate from 60 Hz to anything above will reset the game to default 800×600 resolution.\n\nYou can skip downloading of files you don’t need. Here is the list of optional files:\n\nIn example,  if you want to launch the game with German UI/Subtitles/Voiceovers – skip all “selective/optional” files,\nbut download setup-fitgirl-selective-german.bin & all main files (1-4).\n\n**Repack Features**\n\n- Based on GOG v2.1.0.4 release: 5,868,622,158 bytes\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Game version: v1.0.0.1\n- Selective download feature: you can skip downloading and installing of unnecessary language packs and unused video (pre-rendered beta game scene).\n- Significantly smaller archive size (compressed from 5.5 to 2.3/2.5 GB for any single language)\n- Installation takes 7-15 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 8 GB\n- Use “language_setup.exe” in game root to change the game language\n- Use “VideoSetup.exe” (or icon on desktop) in game root to change graphics settings\n- 1st Ever Open-World Paris – Climb the Eiffel Tour, snipe from Notre Dame Cathedral, and brawl on the Champs d’Elysee as you sabotage your enemies. Fight, climb, and prowl through the dark alleys, rooftops, burlesque houses, and seedy streets of the City of Lights – the ultimate playground for The Saboteur.\n- The Art of Sabotage – Being The Saboteur is all about attacking while staying unnoticed. Get your mission intel at underground clubs and cabarets, eliminate your adversaries with stealth attacks, disguise, distractions, and explosives, and master a variety of weapons, automobiles, and skills to sabotage enemy operations.\n- The Will to Fight – An action-packed experience and thrilling storyline are made even more engaging by an innovative visual style, characters, and the new “Will to Fight” technology. Experience how the city and action change around you and react to you as you free it from Nazi oppression and restore hope and grandeur to Paris.\n- setup-fitgirl-selective-english.bin (also MUST be downloaded by Russian and Polish users)\n- setup-fitgirl-selective-french.bin\n- setup-fitgirl-selective-german.bin\n- setup-fitgirl-selective-italian.bin\n- setup-fitgirl-optional-unused.bin (pre-rendered beta game scene with absent lipsync).",
+    "cover_url": "http://i82.fastpic.ru/big/2016/0926/86/b356b124da4f3abc202777978f6f4086.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/49/5d/495d310d-555a-423b-9697-8828e1f03b28.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/0b/af/0baf52da-9329-45ae-a239-8650b25c1849.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/d0/5dd09278-2a69-402e-a302-09e66a11bee3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/16/ed/16edb7bd-f2ed-4703-a84a-956df5a28afe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e1/36/e136bc93-ce2b-432d-ae4a-41461f0460ae.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/d3/8cd3d6cc-adf3-4003-b42d-c974cda8312e.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-saboteur-gog-drm-free",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T03:58:23.335607+00:00"
   }
 ]
