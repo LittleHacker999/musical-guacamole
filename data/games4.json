@@ -934,5 +934,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T04:48:31.827628+00:00"
+  },
+  {
+    "id": "c62861f1-a131-544d-5aac-c2de49cc003b",
+    "title": "Conan Exiles Enhanced: Complete Edition, v3.0.1/v379176 + 17 DLCs/Bonuses",
+    "slug": "conan-exiles-enhanced",
+    "categories": [
+      "Action",
+      "Open world",
+      "Survival",
+      "3D"
+    ],
+    "size_original": "50.4 GB",
+    "size_repack": "38.4/38.8 GB",
+    "description": "Conan Exiles Enhanced includes a free Unreal Engine 5 upgrade that offers enhanced visuals, improved performance, and a more integrated world.\n\nAfter Conan himself saves your life by cutting you down from the corpse tree, you must quickly learn to survive. Weather scouring sandstorms, shield yourself from intense temperatures and hunt animals for food and resources. Explore a vast and seamless world, from the burning desert in the south to the snow-capped mountains of the north.\n\nForge the legacy of your clan as you fight to reclaim and dominate the Exiled Lands. Use the powerful building system to create anything from a small home to entire cities piece by piece. Wage war using swords, sorcery, bows, and siege weapons, even taking control of giant avatars of the gods to crush the homes of your enemies in epic battles.\n\nConan Exiles Enhanced brings the entire game into Unreal Engine 5 with significantly improved visuals across environments, characters, lighting, and effects. It unifies eight years of content into a single upgraded experience, connects The Exiled Lands with the Isle of Siptah, boosts performance to target 60+ FPS on most PCs, improves Steam Deck play, adds numerous quality‑of‑life upgrades, and introduces a redesigned UI.\n\nThis repack IS slightly backwards compatible with my previous CEH repack. You can rehash fg-optional-bonus-content.bin to save 399 MB of traffic.\n\n**Repack Features**\n\n- Based on Conan.Exiles.Enhanced.v3.0.1-RUNE ISO release: rune-conan.exiles.enhanced.v3.0.1.iso (54,114,648,064 bytes)\n- Game version is: v3.0.1/v379176; 17 DLCs and bonuses are included and activated\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Selective Download feature: you may skip downloading and installing of bonus content (OST, Wallpapers, ArtBook)\n- Smaller archive size (compressed from 50.4 to 38.4/38.8 GB)\n- Installation takes 18-55 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: up to 58.3 GB\n- Language can be changed in game settings\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- Barbarian Edition\n- The Imperial East Pack\n- Conan’s Royal Armor\n- Conan’s Atlantean Sword\n- Jewel of the West Pack\n- The Savage Frontier Pack\n- Seekers of the Dawn Pack\n- Treasures of Turan Pack\n- Complete Edition\n- The Riddle of Steel\n- Blood and Sand Pack\n- Debaucheries of Derketo Pack\n- Riders of Hyboria Pack\n- Isle of Siptah\n- Architects of Argos Pack\n- Exclusive Early Access War-torn Rhino\n- People of the Dragon Pack",
+    "cover_url": "https://i3.imageban.ru/out/2026/05/07/864782f44a4412f14c8d342512790908.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d4/d4/d4d42a58-4ddb-4b3d-b7a0-c9ab22804258.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/3c/80/3c803031-37dd-4d92-96df-45f8a648a06d.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/29/f2/29f2ce3d-a846-4c80-b224-9a5aae4f6dfe.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/1b/4a/1b4a7077-7ba7-4218-b27c-d9ad90a65958.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/98/50/98508178-6c6c-4fdc-9dbc-8e568495de32.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/e8/fe/e8fe3494-bccb-413a-b199-3739cff9b5ee.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-conan-exiles-enhanced",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T04:53:29.728020+00:00"
   }
 ]
