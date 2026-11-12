@@ -333,5 +333,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T01:28:21.423592+00:00"
+  },
+  {
+    "id": "2a8a0e4e-347a-5caa-d8fe-a6079612b8d4",
+    "title": "Nights of Azure + Update 1",
+    "slug": "nights-azure-update-1",
+    "categories": [
+      "RPG",
+      "Third-person",
+      "3D",
+      "Japanese"
+    ],
+    "size_original": "4.9 GB",
+    "size_repack": "2.4 GB",
+    "description": "The world was once ruled by the Nightlord. In that world lived a Saint, destined to become a sacrifice to the Nightlord, and a Holy Knight, with the power to use Servans.\nThe meeting of the girls changed the fate of the world.\n\nTake your Servans and fight accross “The Land Without Night” for the one you love!\n\n**Repack Features**\n\n- Based on Nights.of.Azure-CODEX ISO release: codex-nights.of.azure.iso (5,247,860,736 bytes)\n- Update 1 applied, alternative ALI213 crack is available in NoDVD folder after installation\n- Fix for old 1/2-core CPUs available in the same NoDVD folder after installation\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 4.9 to 2.4 GB)\n- Installation takes 3-10 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 6 GB\n- Repack uses pZlib library by Razor12911\n- GUST-chan, the Servan\n- An additional map, “Tokoyami no Kairou”\n- An additional episode, “Tsuioku no Kioku”",
+    "cover_url": "http://i89.fastpic.ru/big/2017/0216/3b/f6d911c6c4fe0814de92d44869f23b3b.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/e4/47/e447b226-cb2e-48ad-841c-941b65cf2070.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/32/97/32971ea9-034b-4bca-99e9-7c779e683ae6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/77/86/77863ee4-7412-4cae-a85a-27947d0c0f32.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/83/df/83df93db-fe72-4277-b742-a0fa647c883e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/52/cc/52cc1574-c133-45df-a10d-95e7c4509fb5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8f/77/8f77e73f-0031-4692-bf0d-da9671f54e97.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-nights-azure-update-1",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T01:33:23.833265+00:00"
   }
 ]
