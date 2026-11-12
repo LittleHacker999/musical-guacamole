@@ -213,5 +213,33 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T01:08:21.631404+00:00"
+  },
+  {
+    "id": "bf90b9d0-1c37-59ee-4277-4ba4210697fb",
+    "title": "Late Shift",
+    "slug": "late-shift",
+    "categories": [
+      "Interactive movie",
+      "2D"
+    ],
+    "size_original": "14.4 GB",
+    "size_repack": "7 GB",
+    "description": "Late Shift is a high stakes FMV crime thriller. After being forced into the robbery of a lucrative auction house, mathematics student Matt is left proving his innocence in the brutal London heist. Your choices will have consequences from the very start, right through to the very end. One small decision could change the entire outcome in a choose-your-own-adventure style gameplay that can lead to one of seven conclusions.\n\nWritten by the author of Sherlock Holmes (2009 film), experience a gripping live-action crime thriller with a total of over 180 decision points. Do you steal the car or do you run away? Do you follow orders or sabotage the plan? You’ll have just seconds to decide as the film continues to roll with no pauses and no looping footage.\n\nShot in full HD, Late Shift’s cinematic experience blends the line between movies, games and interactive storytelling.\n\n**Repack Features**\n\n- Based on Late.Shift-SKIDROW ISO release: sr-lateshift.iso (15,503,982,592 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- You can install either x86 or x64 version of the game\n- Significantly smaller archive size (compressed from 14.4 to 7 GB)\n- Installation takes 5-10 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 8 GB\n- Multi-optional Storytelling: One story, countless storylines, seven endings.\n- A completely live action, cinematic interactive thriller, filmed in full HD in London, England.\n- Over 180 decision points in total with no pauses and no looping footage.\n- Directed by Tobias Weber, and written by Michael R. Johnson, author of Sherlock Holmes (2009 film)\n- Acting performances by Joe Sowerbutts (Matt), Haruka Abe (May-Ling) and Oliver Twist’s Richard Durden (Samuel Parr).",
+    "cover_url": "http://i89.fastpic.ru/big/2017/0420/bf/b3e12f3d69277a3cae7e618b886e6bbf.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/5a/c1/5ac10d5e-4429-4c63-9a83-9d597aedea30.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2c/17/2c17ffa0-f94c-4598-a96f-b4d7313b1bd4.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4d/23/4d23f0cd-5be1-4ed3-b885-f3ba6be6f1a3.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/50/da/50dadcff-8f41-44c1-a77a-43ffcc1397b5.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/ac/8bac15f2-1530-4660-b510-54b7d0cefccb.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d6/69/d6699ed4-061b-47ff-859f-78aa6d64a493.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-late-shift",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T01:13:21.630993+00:00"
   }
 ]
