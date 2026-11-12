@@ -667,5 +667,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T04:03:24.428505+00:00"
+  },
+  {
+    "id": "21b0f03a-e5fe-5f56-bef5-57011675744e",
+    "title": "DreamWorks Shrek 2 Remastered",
+    "slug": "dreamworks-shrek-2-remastered",
+    "categories": [
+      "Arcade",
+      "Beat 'em up (Brawler)",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "5.6 GB",
+    "size_repack": "3.5 GB",
+    "description": "DreamWorks Shrek 2 Remastered: The cult-classic, button-mashing co-op adventure is back with all your favorite characters and improved graphics.\n\nJourney through the fairytale kingdom of Far Far Away from Shrek’s swamp to Fiona’s castle and everywhere in between, in a classic action-adventure experience inspired by the DreamWorks Animation movie. Play solo or with up to three friends in co-op, take control of your favorite Shrek heroes as you smash, throw and kick your way against iconic characters from the franchise.\n\nImproved graphics: Everything has been rebuilt with better textures, enhanced UI, 4K resolution and cutscenes.\n\nNew features: Create timeless snapshots using the new Photo Mode and unlock cheats in Cheat Mode to make your playthrough a seamless experience.\n\nUp to 4-player Couch Co-op, Online or Mixed: A cozy, team-based co-op action-adventure game, playable solo or up to 4-Player Couch Co-Op, Online Multiplayer, and Mixed Online Multiplayer & Couch Co-Op.\n\nImmersive levels straight out of a fairytale: From Shrek’s swamp to the castle of Far Far Away, relive iconic moments from the movie featuring beloved characters and hidden Easter Eggs.\n\nSwap heroes at any time: Swap your hero to battle enemies, conquer bosses, and solve environmental puzzles using their unique abilities to advance in the story.\n\n**Repack Features**\n\n- Based on DreamWorks.Shrek.2.Remastered-RUNE ISO release: rune-dreamworks.shrek.2.remastered.iso (5,971,312,640 bytes)\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5.6 to 3.5 GB)\n- Installation takes 1-2 minutes\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 12.5 GB\n- Language can be changed in game settings\n- If the game crashes on launch, install “GameInputRedist.msi” from “redist” folder\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack",
+    "cover_url": "https://i6.imageban.ru/out/2026/11/12/27d7ab45c5aa4b39638a185a6e90f7b2.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/f7/38/f73817d3-0840-4657-80ac-b314f4080e84.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/58/45/584503c0-dddd-4121-8783-c1d472d7e076.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/d2/7f/d27f32d0-1c8f-42e9-a978-1f0cf633c32e.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/fb/6d/fb6d0ec0-e143-4d61-bc6a-99b9b329a5ba.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/71/89/718910dc-7187-44e0-95b9-12c1c035bea6.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/4b/88/4b8895a6-0dd3-4ccf-bae4-8554d5a22b4c.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-dreamworks-shrek-2-remastered",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T04:08:34.732524+00:00"
   }
 ]
