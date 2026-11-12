@@ -455,5 +455,35 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T01:48:23.336183+00:00"
+  },
+  {
+    "id": "4234cfa7-7b47-5324-9df4-b5eca6f394e1",
+    "title": "Alice VR – v.1.2.4.1",
+    "slug": "alice-vr-v-1-2-4-1",
+    "categories": [
+      "Exploration",
+      "Puzzle solving",
+      "First-person",
+      "3D"
+    ],
+    "size_original": "9.3 GB",
+    "size_repack": "6.2 GB",
+    "description": "Alice VR is a story-driven exploration game rich with puzzles and designed to be a singular VR adventure. Game is inspired by the famous Lewis Carroll’s novel “Alice’s Adventures in Wonderland”, taking its characters and themes to a new science-fiction setting. Enjoy beautiful graphics, atmospheric, electronic soundtrack and lose yourself in the world of Alice VR.\n\nAn unexpected malfunction forces your ship’s AI to wake you from the cryo sleep. You have to make an emergency landing on the nearby planet. Your goal there is simple: find enough fuel to escape. This straightforward task gets complicated when you realize that all of the planet’s citizens had disappeared in mysterious circumstances.\n\nAlice VR is a fresh take on the classic adventures of Alice in Wonderland. During your playthrough you’ll meet familiar characters such as Cheshire Cat or Mad Hatter, but the unique sci-fi setting will make every encounter a big surprise.\n\nWill you discover the planet’s secret? Are you ready to face the challenges ahead? Follow the white rabbit into the unknown – the future is in your hands.\n\n**Repack Features**\n\n- Based on GOG release v2.1.0.3: 10,030,360,742 bytes\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- Game version is: v.1.2.4.1\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 9.3 to 6.2 GB)\n- Installation takes 25-40 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 10 GB (~13 GB during installation)\n- Language can be changed in game settings\n- Tailor-made for VR from the ground up – no compromises!\n- Gripping story with multiple endings that lets you choose your own path\n- Futuristic graphics and electronic ambient soundtrack composed by the masters of the genre, EON Sounds\n- Over 60 inspired puzzles just waiting to be solved\n- Use the changing gravity to walk on walls and ceilings, play with shrinking and growing devices, and have fun with the physics of the world of Alice VR\n- Alice VR works on Oculus Rift, HTC Vive and is also compatible with Razer OSVR. Traditional controllers are supported on Oculus, while both them and motion controllers work on Vive.",
+    "cover_url": "http://i84.fastpic.ru/big/2016/1119/e3/d320304e871a4727a9ccad8c3e4782e3.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/a7/1a/a71afaf9-0e7b-43c9-b3ad-109182369292.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/2e/16/2e168970-be6b-4148-ba8c-09c78e54dd64.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/5d/79/5d79614c-e57f-4724-9a52-b25251462d08.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/c0/f5/c0f5dcf5-afb6-4e9b-a612-9d393d2ab408.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b6/8c/b68c1417-3087-4905-a2e9-c62d50433e7c.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/b9/ba/b9ba3215-428a-4e1b-93fa-21905f5375b4.jpg.240p.jpg"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-alice-vr-v-1-2-4-1",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T01:53:23.132423+00:00"
   }
 ]
