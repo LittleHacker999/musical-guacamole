@@ -868,5 +868,41 @@
     "featured": false,
     "downloads_count": 0,
     "created_at": "2026-11-12T04:38:33.132602+00:00"
+  },
+  {
+    "id": "23f62223-6207-56b5-6878-7541a1c5b36c",
+    "title": "Sledders – v1.1.7",
+    "slug": "sledders",
+    "categories": [
+      "Driving",
+      "Racing",
+      "Sports",
+      "Extreme sports",
+      "Winter sports",
+      "Physics-based",
+      "First-person",
+      "Third-person",
+      "3D"
+    ],
+    "size_original": "5 GB",
+    "size_repack": "2 GB",
+    "description": "Shred your sled in open-world backcountries. Sledders is a realistic, physics-based snowmobile simulator. Manoeuvre the big open terrain, plow through tons of fresh snow, conquer the mountains, and reach the peak faster than your friends!\n\nSit back, relax, and enjoy as you rip around on one of the sleds speeding between trees and throwing it around at the ridges. The limits are only set by you so let loose and show us what you can accomplish!\n\n**Repack Features**\n\n- Based on Sledders.New.Horizons-RUNE ISO release: rune-sledders.new.horizons.iso (5,320,310,784 bytes)\n- Game version: v1.1.7\n- 100% Lossless & MD5 Perfect: all files are identical to originals after installation\n- NOTHING ripped, NOTHING re-encoded\n- Significantly smaller archive size (compressed from 5 to 2 GB)\n- Installation takes 2-7 minutes (depending on your system)\n- After-install integrity check so you could make sure that everything installed properly\n- HDD space after installation: 7.2 GB\n- Repack uses XTool library by Razor12911\n- At least 2 GB of free RAM (inc. virtual) required for installing this repack\n- If the game crashes for you with “Protection Error”, open “Sledders_Data\\Plugins\\x86_64\\steam_emu.ini ” and add SelfProtect=0 parameter after the “[Settings]” line\n- EXPLORE EPIC TERRAIN – The game offers a big map for you to explore and play around in. It contains steep hills, mountains, lots of trees, and open areas ready to be ridden by you (yeah, there’s a plenty of jumps, and also water…)! It will take ages for you to ride from one corner to another, that’s how big the map already is. And who knows what the future holds, our plans include bigger, better, and many more maps to come (we hear you ditch bangers, snow crossers, tricksters, trail riders, and all!).\n- MASTER THE BLIZZARDS – The snow in Sledders feel as real as possible, so you better sharpen up your powder skills or you’ll just keep on digging deeper and deeper into the snow! Freeriding in backcountries means a lot of snow to plow and riding in it is way different than on other terrains. You must master the steering by shifting your weight around, making turns with your throttle, counter steering with your skis, and many other new skills. Once you master the skills needed in the backcountries, you’re unstoppable and no pow will make you stuck.\n- READY TO BRAAAAAAAP? – Freeride snowmobile simulator with real-world physics in deep-snow backcountry; Ride with and against your friends in epic freeriding experience; Online multiplayer takes you ride around the world with a likeminded community of sledheads.",
+    "cover_url": "https://i3.imageban.ru/out/2025/03/20/88cb4bb011a85e57cf87fe4bf33ed852.jpg",
+    "screenshots": [
+      "http://s01.riotpixels.net/data/d9/98/d998a45c-dfa9-4d0b-b3c4-5f2966503d34.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8c/77/8c77bc83-7cbb-4b38-97d0-e37ca5904e33.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/a1/f4/a1f4d3b6-a0fd-4a5d-8229-53b19213a1ab.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/02/32/0232c4fe-9b11-424f-8be0-12fb11b9af24.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/8b/ec/8becfc16-3ab6-4b84-b8e9-22fbbe2d3d96.jpg.240p.jpg",
+      "http://s01.riotpixels.net/data/19/84/1984f733-b4f1-4e22-ba34-6462fae90bc7.jpg.240p.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2486740/extras/1st_1.gif"
+    ],
+    "system_requirements": "Not Found",
+    "repacker": "Fitgirl",
+    "download_url": "https://repack-x-database.vercel.app/fg-sledders",
+    "is_published": true,
+    "featured": false,
+    "downloads_count": 0,
+    "created_at": "2026-11-12T04:43:32.036597+00:00"
   }
 ]
